@@ -1,0 +1,26 @@
+{
+    "profiles": {
+        "Minecraft THE Server": {
+            "gameDir": "C:\\Users\\Filip\\AppData\\Roaming\\.minecraft-the-server",
+            "icon": "Cake",
+            "javaArgs": "-Xmx8G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
+            "lastVersionId": "1.18.2-40.2.9",
+            "name": "Minecraft THE Server",
+            "type": "custom"
+        }
+    },
+    "settings": {
+        "crashAssistance": true,
+        "enableAdvanced": true,
+        "enableAnalytics": true,
+        "enableHistorical": false,
+        "enableReleases": true,
+        "enableSnapshots": false,
+        "keepLauncherOpen": false,
+        "profileSorting": "ByLastPlayed",
+        "showGameLog": false,
+        "showMenu": false,
+        "soundOn": false
+    },
+    "version": 3
+}
