@@ -3630,17 +3630,53 @@
     },
     "Angel": [
       {
-        "text": "Grants the ability to craft "
+        "text": "Grants the ability to craft and use "
       },
       {
         "text": "Angel Block",
         "color": "#FF2EFF"
       },
       {
-        "text": " and have them grant you Creative Flight. Angel blocks can not be placed inside vaults, and have a radius of 64 blocks per block."
+        "text": " and "
+      },
+      {
+        "text": "Elytra",
+        "color": "#FF2EFF"
+      },
+      {
+        "text": ". Angel blocks can not be placed inside vaults, and have a radius of 64 blocks per block."
       },
       {
         "text": "\n\nAlso allows you the ability to craft and wear Angel Rings (note: ALL forms of creative flight are disabled in vaults)."
+      },
+      {
+        "text": "\n\nThere are alternatives for this which are:"
+      },
+      {
+        "text": "\n - The Vault",
+        "color": "yellow"
+      },
+      {
+        "text": "\n   - Wings Trinket",
+        "color": "#FF2EFF"
+      },
+      {
+        "text": "\n - Ars Nouveau",
+        "color": "yellow"
+      },
+      {
+        "text": "\n   - Flight",
+        "color": "#FF2EFF"
+      },
+      {
+        "text": " ritual"
+      },
+      {
+        "text": "\n   - Glide",
+        "color": "#FF2EFF"
+      },
+      {
+        "text": " spell"
       }
     ],
     "Reach": [
@@ -17389,7 +17425,7 @@
         "color": "#B2F44B"
       }
     ],
-     "Augmentation_Luck": [
+    "Augmentation_Luck": [
       {
         "text": "Improves your luck with rolling special gear modifiers like Corrupted, Frozen, Greater, and Unusual on looted gear.\n\nAdds "
       },
@@ -17397,7 +17433,7 @@
         "text": "+1%",
         "color": "#B2F44B"
       },
-       {
+      {
         "text": " to the chance to the base chance to roll those modifiers. "
       }
     ],
