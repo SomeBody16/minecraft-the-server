@@ -1,0 +1,12 @@
+onEvent("recipes", event => {
+    event.shapeless('the_vault:wooden_chest_scroll', ['the_vault:wooden_chest', 'the_vault:magic_silk']).id('woldsvaults:wooden_chest_to_scroll')
+    event.shapeless('the_vault:altar_chest_scroll', ['the_vault:altar_chest','the_vault:magic_silk']).id('woldsvaults:altar_chest_to_scroll')
+    event.shapeless('the_vault:hardened_chest_scroll', ['the_vault:hardened_chest','the_vault:magic_silk']).id('woldsvaults:hardened_chest_to_scroll')
+    event.shapeless('the_vault:enigma_chest_scroll', ['the_vault:enigma_chest','the_vault:magic_silk']).id('woldsvaults:enigma_chest_to_scroll')
+    event.shapeless('the_vault:enigma_chest_scroll', ['the_vault:enigma_chest','the_vault:magic_silk']).id('woldsvaults:enigma_chest_to_scroll')
+    event.shapeless('the_vault:flesh_chest_scroll', ['the_vault:flesh_chest','the_vault:magic_silk']).id('woldsvaults:flesh_chest_to_scroll')
+    event.shapeless('the_vault:gilded_chest_scroll', ['the_vault:gilded_chest','the_vault:magic_silk']).id('woldsvaults:gilded_chest_to_scroll')
+    event.shapeless('the_vault:ornate_chest_scroll', ['the_vault:ornate_chest','the_vault:magic_silk']).id('woldsvaults:ornate_chest_to_scroll')
+    event.shapeless('the_vault:treasure_chest_scroll', ['the_vault:treasure_chest','the_vault:magic_silk']).id('woldsvaults:treasure_chest_to_scroll')
+    event.shapeless('the_vault:living_chest_scroll', ['the_vault:living_chest','the_vault:magic_silk']).id('woldsvaults:living_chest_to_scroll')
+})

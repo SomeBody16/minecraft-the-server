@@ -1,0 +1,9 @@
+
+["Vault Command Blacklist Config"]
+	#Commands that can't be used in a vault. This will block the root command (i.e. if warp is blocked then /warp shops would be as well)
+	vaultCommandBlackList = ["spawn", "home", "sethome"]
+	#Messages sent to a player when a command has been canceled.
+	commandBlockMessageList = ["The Power of The Vault compels you... not to do that.", "You cannot use that in The Vault", "The energies of The Vault cancel your command."]
+	#A list of time ranges where a special warning will be given to player's about a restart. Define each time span as <before>;<after> with the time format of e.g 10:00:00 for 10AM.
+	restartWarningTimeSpans = ["23:30:00;23:59:59", "07:30:00;08:00:00", "15:30:00;16:00:00"]
+

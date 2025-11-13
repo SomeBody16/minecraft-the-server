@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "mysticalagriculture:echoing_seed_base"
+    },
+    "title": {
+      "text": "Seed Seed Seed"
+    },
+    "description": {
+      "text": "Craft a Echoing Seed Base to create valuable Mystical seeds."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mysticalagriculture:echoing_seed_base"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "diamond"
+    ]
+  ]
+}

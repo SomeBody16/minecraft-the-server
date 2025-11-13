@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "the_vault:wold_star"
+    },
+    "title": {
+      "text": "Star of Limitless Potential"
+    },
+    "description": {
+      "text": "Craft or Obtain a Wold Star"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "the_vault:wold_star"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "diamond"
+    ]
+  ]
+}

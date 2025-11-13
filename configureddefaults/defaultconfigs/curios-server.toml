@@ -1,0 +1,132 @@
+
+#List of curio slot type settings
+[[curiosSettings]]
+	identifier = "trinket_pouch"
+	priority = 1
+	size = 1
+	visible = true
+	cosmetic = false
+	icon = "curios:item/empty_cosmetic_slot"
+
+[[curiosSettings]]
+	identifier = "blue_trinket"
+	priority = 2
+	size = 0
+	visible = true
+	cosmetic = false
+	icon = "curios:item/empty_cosmetic_slot"
+
+[[curiosSettings]]
+	identifier = "red_trinket"
+	priority = 2
+	size = 0
+	visible = true
+	cosmetic = false
+	icon = "curios:item/empty_cosmetic_slot"
+
+[[curiosSettings]]
+	identifier = "green_trinket"
+	priority = 2
+	size = 0
+	visible = true
+	cosmetic = false
+	icon = "curios:item/empty_cosmetic_slot"
+
+[[curiosSettings]]
+	identifier = "charm"
+	priority = 3
+	size = 1
+	visible = true
+	cosmetic = false
+	icon = "curios:item/empty_charm_slot"
+	override = true
+
+[[curiosSettings]]
+	identifier = "belt"
+	visible = true
+	override = true
+	size = 1
+	cosmetic = false
+	priority = 4
+
+
+[[curiosSettings]]
+	identifier = "back"
+	visible = true
+	override = true
+	size = 1
+	cosmetic = false
+	priority = 5
+
+[[curiosSettings]]
+	identifier = "shard_pouch"
+	size = 1
+	visible = true
+	icon = "curios:slot/shard_pouch"
+	override = true
+	cosmetic = false
+	priority = 6
+
+[[curiosSettings]]
+	identifier = "deck"
+	priority = 7
+	size = 1
+	visible = true
+	cosmetic = false
+	icon = "the_vault:gui/slot/curios/deck_slot"
+
+[[curiosSettings]]
+	identifier = "wallet"
+	visible = true
+	override = true
+	priority = 8
+	size = 1
+
+[[curiosSettings]]
+	identifier = "head"
+	visible = true
+	override = true
+	size = 1
+	priority = 9
+	cosmetic = false
+
+[[curiosSettings]]
+	identifier = "wireless_terminal"
+	size = 1
+	priority = 10
+	visible = true
+	cosmetic = false
+	icon = "curios:slot/wireless_terminal"
+
+[[curiosSettings]]
+	identifier = "ring"
+	visible = true
+	size = 1
+	cosmetic = false
+	override = true
+	priority = 11
+
+[[curiosSettings]]
+	identifier = "trinket"
+	size = 1
+	visible = false
+	cosmetic = false
+	icon = "curios:item/empty_cosmetic_slot"
+
+[[curiosSettings]]
+	identifier = "body"
+	visible = false
+	override = true
+
+
+[[curiosSettings]]
+	identifier = "glasses"
+	visible = false
+	override = true
+
+
+[[curiosSettings]]
+	identifier = "necklace"
+	visible = true
+	override = true
+

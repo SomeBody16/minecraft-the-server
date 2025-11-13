@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "mysticalagriculture:pogging_seed_base"
+    },
+    "title": {
+      "text": "Seed Pog"
+    },
+    "description": {
+      "text": "Craft a Pogging Seed Base to create valuable Mystical seeds."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mysticalagriculture:pogging_seed_base"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "diamond"
+    ]
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "woldsvaults:chromatic_iron_angel_ring"
+    },
+    "title": {
+      "text": "Taking Flight"
+    },
+    "description": {
+      "text": "Obtain a Chromatic Iron Angel Ring to get easy creative flight in the overworld."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "woldsvaults:chromatic_iron_angel_ring"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "diamond"
+    ]
+  ]
+}

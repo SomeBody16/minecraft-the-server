@@ -1,0 +1,24 @@
+{
+    "tile_processors": [
+        {
+            "type": "weighted_target",
+            "target": "woldsvaults:gateway_channeling_block",
+            "output": {
+                "woldsvaults:gateway_channeling_block[used=false]": 1
+            }
+        },
+        {
+            "type": "reference",
+            "id": "the_vault:generic/room_base"
+        },
+        {
+            "type": "weighted_target",
+            "target": "minecraft:glass",
+            "output": {
+              "minecraft:light[level=12]": 1
+            }
+        }
+    ],
+    "entity_processors": [],
+    "decorators": []
+}

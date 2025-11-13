@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "woldsvaults:enigma_egg"
+    },
+    "title": {
+      "text": "A Strange Egg"
+    },
+    "description": {
+      "text": "Obtain an Enigma Egg."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "woldsvaults:enigma_egg"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "diamond"
+    ]
+  ]
+}

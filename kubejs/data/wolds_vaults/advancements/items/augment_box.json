@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "the_vault:augment_box"
+    },
+    "title": {
+      "text": "New Vista"
+    },
+    "description": {
+      "text": "Craft or obtain an Augment Box to get a new random augment."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "the_vault:augment_box"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "diamond"
+    ]
+  ]
+}

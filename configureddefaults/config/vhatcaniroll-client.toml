@@ -1,0 +1,20 @@
+#combine +lvl to abilities into one row
+combineAddedLvlToAbilities = false
+
+[DEBUG]
+	#allow duplicate modifiers
+	allowDupe = false
+	#override max level
+	#Range: > -1
+	maxLevelOverride = -1
+
+[BUTTON]
+	#open VHat can I roll? from vault screen
+	vaultScreenButton = true
+	#x position of the button
+	#Range: > -2147483648
+	buttonPositionX = 5
+	#y position of the button
+	#Range: > -2147483648
+	buttonPositionY = 130
+

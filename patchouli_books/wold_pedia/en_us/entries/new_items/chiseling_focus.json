@@ -1,0 +1,21 @@
+{
+    "sortnum": 3,
+    "name": "Chiseling Focus",
+    "icon": "woldsvaults:chiseling_focus",
+    "category": "patchouli:new_items",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Chiseling Focus is a new craftable item you can use to remove unwanted modifiers from your Vault Tool. "
+        },
+        {
+            "type": "patchouli:text",
+            "text": "You can even remove a Tool's mining modifier completely, like removing Reaping from a Sickle, to turn it into a Stick!"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "woldsvaults:chiseling_focus_gilded",
+            "text": "The above is just an example of the recipe for a Chiseling Focus, there are different recipes for each modifier you can get on a Vault Tool."
+        }
+    ]
+}

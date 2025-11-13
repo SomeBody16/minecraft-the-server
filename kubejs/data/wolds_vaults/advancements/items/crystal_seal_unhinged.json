@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "the_vault:crystal_seal_unhinged"
+    },
+    "title": {
+      "text": "Off The Deep End"
+    },
+    "description": {
+      "text": "Craft or Obtain a Seal of the Psychopath to set a Vault Crystals objective to Unhinged Scavenger Hunt."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "the_vault:crystal_seal_unhinged"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "diamond"
+    ]
+  ]
+}

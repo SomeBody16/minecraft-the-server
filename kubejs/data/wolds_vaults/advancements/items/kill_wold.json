@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "the_vault:crystal_seal_enchanter"
+    },
+    "title": {
+      "text": "King Slayer"
+    },
+    "description": {
+      "text": "Slay Wold inside a Brutal Bosses vault."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "the_vault:wold"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "diamond"
+    ]
+  ]
+}

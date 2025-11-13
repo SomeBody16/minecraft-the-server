@@ -1,0 +1,23 @@
+{
+	"type": "quark:wraith",
+	"name": "entity.quark.wraith",
+	"name_color": "0xFFD528",
+	"gui_scale": 1,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 256,
+	"input": {
+		"item": "hostilenetworks:empty_prediction"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:nether_prediction"
+	},
+	"trivia": "hostilenetworks.trivia.wraith",
+	"fabricator_drops": [
+		{
+			"item": "quark:soul_bead",
+			"count": 8
+		}
+	]
+}

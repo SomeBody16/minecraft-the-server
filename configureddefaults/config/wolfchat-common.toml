@@ -1,0 +1,11 @@
+
+["Message Format"]
+	#Chat Formatting
+	format = "%dark_gray%%timestamp% %gray%| %groupcolor%%prefix% %usercolor%%username%%reset%: %message%"
+	#You can change the time zone used if your server is in a different time zone than you using an ID such as America/Chicago. Otherwise, leave this as default to use your machine's TZ.
+	timezoneID = "system"
+	#Adjust how the timestamp is displayed.
+	timestampFormat = "h:mm a"
+	#Adjust how the tab list is displayed.
+	tabListFormat = "%gray%[%groupcolor%%prefix%%gray%] %usercolor%%username%"
+

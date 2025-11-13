@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/thin_block",
+	"textures": {
+		"particle": "the_vault:block/vault_essence_block",
+		"vault_essence_block": "the_vault:block/vault_essence_block"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 14, 16],
+			"faces": {
+				"north": {"uv": [0, 2, 16, 16], "texture": "#vault_essence_block", "cullface": "north"},
+				"east": {"uv": [0, 2, 16, 16], "texture": "#vault_essence_block", "cullface": "east"},
+				"south": {"uv": [0, 2, 16, 16], "texture": "#vault_essence_block", "cullface": "south"},
+				"west": {"uv": [0, 2, 16, 16], "texture": "#vault_essence_block", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#vault_essence_block"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#vault_essence_block", "cullface": "down"}
+			}
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "the_vault:crystal_seal_doomsayer"
+    },
+    "title": {
+      "text": "Omen Seeker"
+    },
+    "description": {
+      "text": "Craft or Obtain a Seal of the Doomsayer to set a Vault Crystals objective to Ballistic Bingo."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "the_vault:crystal_seal_doomsayer"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "diamond"
+    ]
+  ]
+}

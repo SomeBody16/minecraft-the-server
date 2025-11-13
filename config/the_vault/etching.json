@@ -1,0 +1,148 @@
+{
+  "ETCHINGS": {
+    "the_vault:assassin": {
+      "weight": 100,
+      "name": "Assassin",
+      "effectText": "1.5X Lucky Hit Chance",
+      "color": 6084886,
+      "vendorMinValue": 10,
+      "vendorMaxValue": 50,
+      "config": {
+        "increasedFatalStrikeChance": 0.5
+      }
+    },
+    "the_vault:blood": {
+      "weight": 100,
+      "name": "Blood",
+      "effectText": "1.5X Damage Multiplier",
+      "color": 6084886,
+      "vendorMinValue": 10,
+      "vendorMaxValue": 50,
+      "config": {
+        "increasedDamage": 1.5
+      }
+    },
+    "the_vault:dragon": {
+      "weight": 100,
+      "name": "Dragon",
+      "effectText": "+50% Increased Area of Effect, +50% Ability Power",
+      "color": 6084886,
+      "vendorMinValue": 10,
+      "vendorMaxValue": 50,
+      "config": {
+        "increasedDamage": 0.5
+      }
+    },
+    "the_vault:dream": {
+      "weight": 100,
+      "name": "Dream",
+      "effectText": "+10% Increased Damage, Resistance, Item Rarity, Block Chance, +2 Haste",
+      "color": 6084886,
+      "vendorMinValue": 10,
+      "vendorMaxValue": 50,
+      "config": {
+        "increasedDamage": 0.1,
+        "increasedResistance": 0.1,
+        "increasedItemRarity": 0.25,
+        "increasedBlockChance": 0.1,
+        "effect": "minecraft:haste",
+        "addedAmplifier": 2
+      }
+    },
+    "the_vault:dryad": {
+      "weight": 100,
+      "name": "Dryad",
+      "effectText": "+15 Hearts",
+      "color": 6084886,
+      "vendorMinValue": 10,
+      "vendorMaxValue": 50,
+      "config": {
+        "extraHealth": 30.0
+      }
+    },
+    "the_vault:golem": {
+      "weight": 100,
+      "name": "Golem",
+      "effectText": "+20% Resistance Cap",
+      "color": 6084886,
+      "vendorMinValue": 10,
+      "vendorMaxValue": 50,
+      "config": {
+        "additionalResistanceCap": 0.2
+      }
+    },
+    "the_vault:rift": {
+      "weight": 100,
+      "name": "Rift",
+      "effectText": "+10% Cooldown Reduction Cap",
+      "color": 6084886,
+      "vendorMinValue": 10,
+      "vendorMaxValue": 50,
+      "config": {
+        "cooldownMultiplier": 0.1
+      }
+    },
+    "the_vault:treasure": {
+      "weight": 100,
+      "name": "Treasure",
+      "effectText": "100% Increased Item Rarity",
+      "color": 6084886,
+      "vendorMinValue": 10,
+      "vendorMaxValue": 50,
+      "config": {
+        "increasedItemRarity": 1.0
+      }
+    },
+    "the_vault:vampire": {
+      "weight": 100,
+      "name": "Vampire",
+      "effectText": "5% Increased Leech",
+      "color": 6084886,
+      "vendorMinValue": 10,
+      "vendorMaxValue": 50,
+      "config": {
+        "increasedLeech": 0.05
+      }
+    },
+    "the_vault:divinity": {
+      "weight": 100,
+      "name": "Divinity",
+      "effectText": "Negative Effect Immunity",
+      "color": 6084886,
+      "vendorMinValue": 10,
+      "vendorMaxValue": 50,
+      "config": {}
+    },
+    "the_vault:phoenix": {
+      "weight": 100,
+      "name": "Phoenix",
+      "effectText": "When Second Chance triggers, gain Resistance, Regeneration, Absorption, Strength, and Speed for a brief period",
+      "color": 6084886,
+      "vendorMinValue": 10,
+      "vendorMaxValue": 50,
+      "config": {}
+    },
+    "the_vault:zod": {
+      "weight": 100,
+      "name": "Zod",
+      "effectText": "+2 to All Ability Levels",
+      "color": 6084886,
+      "vendorMinValue": 10,
+      "vendorMaxValue": 50,
+      "config": {
+        "increasedAbilityLevels": 2
+      }
+    },
+    "woldsvaults:ingenium": {
+      "weight": 100,
+      "name": "Ingenium",
+      "effectText": "+1 to All Talent Levels",
+      "color": 3115875,
+      "vendorMinValue": 10,
+      "vendorMaxValue": 50,
+      "config": {
+        "increasedTalentLevels": 1
+      }
+    }
+  }
+}

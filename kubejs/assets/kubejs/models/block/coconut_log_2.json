@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "contenttweaker:block/coconut_log_top2",
+    "side": "contenttweaker:block/coconut_log2"
+  }
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "weight": 3,
+    "reference": "the_vault:vault/rooms/omega/cube"
+  },
+  {
+    "weight": 1,
+    "reference": "the_vault:vault/rooms/omega/digsite2"
+  },
+  {
+    "weight": 7,
+    "reference": "the_vault:vault/rooms/omega/playzone"
+  },
+  {
+    "weight": 2,
+    "reference": "the_vault:vault/rooms/omega/iskallian_garden"
+  },
+  {
+    "weight": 4,
+    "reference": "the_vault:vault/rooms/omega/comet_observatory"
+  },
+  {
+    "weight": 7,
+    "reference": "the_vault:vault/rooms/omega/painting"
+  },
+  {
+    "weight": 3,
+    "reference": "the_vault:vault/rooms/omega/mine"
+  },
+  {
+    "weight": 2,
+    "reference": "the_vault:vault/rooms/omega/vendor"
+  },
+  {
+    "weight": 7,
+    "reference": "the_vault:vault/rooms/omega/blacksmith"
+  },
+  {
+    "weight": 3,
+    "reference": "the_vault:vault/rooms/omega/cove"
+  },
+  {
+    "weight": 7,
+    "reference": "the_vault:vault/rooms/omega/mush_room"
+  },
+  {
+    "weight": 7,
+    "reference": "the_vault:vault/rooms/omega/library"
+  },
+  {
+    "weight": 4,
+    "reference": "the_vault:vault/rooms/omega/arcade"
+  },
+  {
+    "weight": 7,
+    "reference": "the_vault:vault/rooms/omega/pixel"
+  },
+  {
+    "weight": 5,
+    "reference": "the_vault:vault/rooms/omega/wolds_dinner"
+  },
+  {
+    "weight": 3,
+    "reference": "the_vault:vault/rooms/omega/wardens_garden"
+  }
+]

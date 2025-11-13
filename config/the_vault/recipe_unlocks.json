@@ -1,0 +1,60 @@
+{
+  "RECIPE_UNLOCKS": {
+    "woldsvaults:default": {
+      "NAME": "Test Recipe",
+      "DESCRIPTION": "This should never be seen in normal gameplay."
+    },
+    "woldsvaults:standard_trinket_pouch": {
+        "NAME": "Standard Trinket Pouch",
+        "DESCRIPTION": "An improved trinket pouch that can store one of each trinket type. Unlocked by quest book at Level 75."
+    },
+    "woldsvaults:light_trinket_pouch": {
+      "NAME": "Arcane Trinket Pouch",
+      "DESCRIPTION": "A special trinket pouch that can store two blue trinkets and one green trinket. Obtained by slaying Wold in a level 100 Vault."
+    },
+    "woldsvaults:heavy_trinket_pouch": {
+      "NAME": "Mercenary's Trinket Pouch",
+      "DESCRIPTION": "A special trinket pouch that can store two red trinkets and one green trinket. Obtained by finding it on a Dungeon Pedestal."
+    },
+    "woldsvaults:explorer_trinket_pouch": {
+      "NAME": "Explorer's Trinket Pouch",
+      "DESCRIPTION": "A special trinket pouch that can store two green trinkets and one blue trinket. Obtained by finding it on a Vendor Pedestal."
+    },
+    "woldsvaults:wizard_trinket_pouch": {
+      "NAME": "Wizard's Trinket Pouch",
+      "DESCRIPTION": "A special trinket pouch that can store two blue trinkets and one red trinket. Unlocked by casting 250 abilities in a single level 80+ vault."
+    },
+    "woldsvaults:slayer_trinket_pouch": {
+      "NAME": "Slayer's Trinket Pouch",
+      "DESCRIPTION": "A special trinket pouch that can store two red trinkets and one blue trinket. Unlocked by slaying a Boss in a level 100 Rune Boss vault."
+    },
+    "woldsvaults:looters_trinket_pouch": {
+      "NAME": "Looter's Dream Trinket Pouch",
+      "DESCRIPTION": "A special trinket pouch that can store THREE green trinkets. Unlocked by opening 15 treasure rooms in a single level 100+ vault."
+    },
+    "woldsvaults:warrior_trinket_pouch": {
+      "NAME": "Warrior Trinket Pouch",
+      "DESCRIPTION": "A special trinket pouch that can store THREE red trinkets. Can be obtained from Rare Gateway rewards."
+    },
+    "woldsvaults:hyper_trinket_pouch": {
+      "NAME": "Hyper Trinket Pouch",
+      "DESCRIPTION": "A special trinket pouch that can store THREE blue trinkets. Obtainable by getting a Platinum Trophy when defeating The Herald."
+    },
+     "woldsvaults:prismatic_trinket_pouch": {
+      "NAME": "Prismatic Trinket Pouch",
+      "DESCRIPTION": "The premier and ultimate trinket pouch, capable of holding 2 of each type of trinket. Obtained by unlocking the Prestige Power for it."
+    },
+    "woldsvaults:zephyr_charm": {
+      "NAME": "Zephyr Charm",
+      "DESCRIPTION": "An incredibly powerful unbreakable blue trinket that greatly improves your movement in vaults."
+    },
+    "woldsvaults:treasure_jewel": {
+      "NAME": "Treasured Jewel",
+      "DESCRIPTION": "A splendid jewel that will let you mine treasure chests instead of opening them! Obtained after opening 10 treasure rooms."
+    },
+    "woldsvaults:shattering_jewel": {
+      "NAME": "Shattering Jewel",
+      "DESCRIPTION": "An earth shattering revelation that lets you mine all chests as if they were wooden chests. Obtained the first time you complete a Corrupted vault."
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "groups": {
+    "Workstations": {
+      "title": "Workstations",
+      "research": [
+        "Soul Harvester",
+        "Junk Management",
+        "Augment Crafting",
+        "Mod Box Tinkering"
+      ],
+      "globalCostIncrease": 0.0,
+      "groupCostIncrease": {
+        "Workstations": 4
+      }
+    },
+    "Omega": {
+      "title": "Omega",
+      "research": [
+        "Mystical Agriculture",
+        "QuarryPlus",
+        "Automatic Genius",
+        "Oops, All Iron Mods",
+        "Bag Inception"
+      ],
+      "globalCostIncrease": 0.0,
+      "groupCostIncrease": {
+        "Omega": 10
+      }
+    },
+    "Addons": {
+      "title": "Addons",
+      "research": [
+        "Mekanism QIO",
+        "Applied Compatability",
+        "Mega Cells",
+        "Extra Storage",
+        "Create Crafts and Additions",
+        "Create Diesel Generators",
+        "Botanical Machinery",
+        "Cable Tiers",
+        "Incorporeal",
+        "Advanced Peripherals",
+        "Compressed Creativity",
+        "Misc Bag Upgrades"
+      ],
+      "globalCostIncrease": 0.0,
+      "groupCostIncrease": {
+        "Addons": 1
+      }
+    },
+    "Logistics": {
+      "title": "Logistics",
+      "research": [
+        "Toms Simple Storage",
+        "Refined Storage",
+        "Applied Energistics",
+        "Integrated Dynamics"
+      ],
+      "globalCostIncrease": 0.0,
+      "groupCostIncrease": {
+        "Logistics": 2
+      }
+    },
+    "Storage": {
+      "title": "Storage",
+      "research": [
+        "Colossal Chests",
+        "Sophisticated Storage",
+        "Drawers",
+        "Cloud Storage",
+        "RFTools Storage",
+        "Functional Storage"
+      ],
+      "globalCostIncrease": 0.0,
+      "groupCostIncrease": {
+        "Storage": 1
+      }
+    },
+    "BigToys": {
+      "title": "Big Toys",
+      "research": [
+        "Mining Gadgets",
+        "Digital Miner",
+        "Building Gadgets",
+        "Create Ore Excavation",
+        "Hexcasting",
+        "Psi"
+      ],
+      "globalCostIncrease": 0.0,
+      "groupCostIncrease": {
+        "BigToys": 5.0
+      }
+    },
+    "Production": {
+      "title": "Production",
+      "research": [
+        "Easy Villagers",
+        "Create Mechanical Extruder",
+        "Cagerium",
+        "Mob Spawners",
+        "Phytogenic Insulator",
+        "Botany Pots",
+        "Bonsai Pots",
+        "Hostile Neural Networks"
+      ],
+      "globalCostIncrease": 0.0,
+      "groupCostIncrease": {
+        "Production": 12.0
+      }
+    },
+    "BigMods": {
+      "title": "Big Mods",
+      "research": [
+        "Create",
+        "Mekanism",
+        "Thermal Expansion",
+        "Botania",
+        "PneumaticCraft",
+        "Industrial Foregoing",
+        "Immersive Engineering",
+        "Occultism",
+        "Ars Nouveau"
+      ],
+      "globalCostIncrease": 0.0,
+      "groupCostIncrease": {
+        "BigMods": 10.0
+      }
+    },
+    "Power": {
+      "title": "Power",
+      "research": [
+        "Flux Networks",
+        "Powah",
+        "Mekanism Generators",
+        "Thermal Dynamos",
+        "Iron Generators",
+        "Botania Flux Field",
+        "RFTools Power"
+      ],
+      "globalCostIncrease": 0.0,
+      "groupCostIncrease": {
+        "Power": 6.0
+      }
+    },
+    "QoL": {
+      "title": "QoL",
+      "research": [
+        "Torch Master",
+        "Trashcans",
+        "Elevators",
+        "Waystones",
+        "Altar Automation",
+        "RFTools Utility",
+        "Time in a Bottle",
+        "Better Wallets",
+        "Angel"
+      ],
+      "globalCostIncrease": 0.0,
+      "groupCostIncrease": {}
+    },
+    "Looting": {
+      "title": "Looting",
+      "research": [
+        "Belts",
+        "Double Pouches",
+        "Backpacks",
+        "Big Backpacks",
+        "Stack Upgrading",
+        "Auto Feeding",
+        "Scanner",
+        "Vault Compass"
+      ],
+      "globalCostIncrease": 0.0,
+      "groupCostIncrease": {
+        "Looting": 2.0
+      }
+    },
+    "Handling": {
+      "title": "Handling",
+      "research": [
+        "Xnet",
+        "Modular Routers",
+        "Pipez",
+        "Dark Utilities",
+        "LaserIO",
+        "Super Factory Manager",
+        "Entangled",
+        "Little Logistics",
+        "ComputerCraft"
+      ],
+      "globalCostIncrease": 0.0,
+      "groupCostIncrease": {
+        "Handling": 4.0
+      }
+    },
+    "Alchemy": {
+      "title": "Alchemy",
+      "research": [
+        "Potions",
+        "Mixtures",
+        "Brews",
+        "Dave's Potioneering"
+      ],
+      "globalCostIncrease": 0.0,
+      "groupCostIncrease": {
+        "Alchemy": 5.0
+      }
+    }
+  }
+}

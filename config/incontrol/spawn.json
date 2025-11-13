@@ -1,0 +1,50 @@
+[
+    {
+        "dimension": "mining_dimension:mining",
+        "result": "deny"
+    },
+     {
+        "mod": "enchantwithmob",
+        "result": "deny"
+    },
+    {
+        "mod": "dungeons_mobs",
+        "result": "deny"
+    },
+    {
+        "mod": "ars_nouveau",
+        "result": "deny"
+    },
+    {
+        "mod": "grimoireofgaia",
+        "result": "deny"
+    },
+    {
+        "mod": "naturalist",
+        "result": "deny"
+    },
+        {
+        "mob": "quark:frog",
+        "mincount": {
+            "amount": 15
+        },
+        "result": "deny"
+    },
+    {
+        "mob": "wildbackport:frog",
+        "dimension": "minecraft:overworld",
+        "result": "deny"
+    },
+    {
+        "mob": "quark:frog",
+        "dimension": "minecraft:overworld",
+        "category": "swamp",
+        "result": "default"
+    },
+    {
+        "mob": "quark:frog",
+        "dimension": "minecraft:overworld",
+        "incontrol": true,
+        "result": "deny"
+    }
+]

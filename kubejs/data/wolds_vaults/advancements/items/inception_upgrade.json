@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "sophisticatedbackpacks:inception_upgrade"
+    },
+    "title": {
+      "text": "INCEPTION"
+    },
+    "description": {
+      "text": "Bags within bags... Craft an Inception Upgrade."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "sophisticatedbackpacks:inception_upgrade"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "diamond"
+    ]
+  ]
+}

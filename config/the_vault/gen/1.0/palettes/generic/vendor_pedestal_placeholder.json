@@ -1,0 +1,45 @@
+{
+  "tile_processors": [
+    {
+      "type": "placeholder",
+      "target": "VENDOR_PEDESTAL",
+      "levels": [
+        {
+          "level": 0,
+          "probability": 1.0,
+          "success": {
+            "the_vault:shop_pedestal": 1
+          },
+          "failure": {
+            "minecraft:air": 1
+          }
+        },
+        {
+          "level": 50,
+          "probability": 1.0,
+          "success": {
+            "the_vault:shop_pedestal": 17,
+            "woldsvaults:blacksmith_shop_pedestal": 2,
+            "woldsvaults:god_shop_pedestal": 1
+          },
+          "failure": {
+            "minecraft:air": 1
+          }
+        },
+        {
+          "level": 75,
+          "probability": 1.0,
+          "success": {
+            "the_vault:shop_pedestal": 14,
+            "woldsvaults:blacksmith_shop_pedestal": 3,
+            "woldsvaults:god_shop_pedestal": 1,
+            "woldsvaults:rare_shop_pedestal": 2
+          },
+          "failure": {
+            "minecraft:air": 1
+          }
+        }
+      ]
+    }
+  ]
+}
