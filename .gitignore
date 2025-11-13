@@ -51,6 +51,7 @@ o_prof
 /options.txt
 /reauth.toml
 /user*
+/launcher_profiles.json
 
 # Project
 .idea
