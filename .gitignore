@@ -52,6 +52,8 @@ o_prof
 /reauth.toml
 /user*
 /launcher_profiles.json
+/game
+/tools
 
 # Project
 .idea
