@@ -1278,12 +1278,19 @@
             "USABILITY": true,
             "CRAFTABILITY": true
           }
+        },
+        "mekanism:hdpe_elytra": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
         }
       },
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Angel",
-      "cost": 4,
+      "cost": 10,
       "usesKnowledge": true
     },
     {

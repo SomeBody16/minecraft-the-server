@@ -1,12 +1,12 @@
 {
   "styles": {
-     "Grave_Insurance": {
+    "Grave_Insurance": {
       "x": 0,
       "y": 70,
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/grave_insurance"
     },
-     "Augmentation_Luck": {
+    "Augmentation_Luck": {
       "x": 420,
       "y": 70,
       "frameType": "STAR",
@@ -55,7 +55,7 @@
       "icon": "the_vault:gui/skills/bounty_hunter"
     },
     "Marketer": {
-      "x": 350,
+      "x": 140,
       "y": 140,
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/marketer"
@@ -89,18 +89,6 @@
       "y": 0,
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/infuser"
-    },
-    "Experienced": {
-      "x": 140,
-      "y": 140,
-      "frameType": "STAR",
-      "icon": "the_vault:gui/skills/experienced"
-    },
-    "Fortunate": {
-      "x": 70,
-      "y": 140,
-      "frameType": "STAR",
-      "icon": "the_vault:gui/skills/fortunate"
     },
     "Fortuitous_Finesse": {
       "x": 350,
