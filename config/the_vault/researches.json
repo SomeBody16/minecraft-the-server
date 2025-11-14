@@ -1279,6 +1279,13 @@
             "CRAFTABILITY": true
           }
         },
+        "minecraft:elytra": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
         "mekanism:hdpe_elytra": {
           "restricts": {
             "HITTABILITY": true,
