@@ -13,45 +13,45 @@
                         {
                             "weight": 5,
                             "item": {
-                              "id": "the_vault:chestplate",
-                              "nbt": {
-                                "the_vault:gear_unique_pool": "the_vault:frozen_throne",
-                                "the_vault:gear_roll_type": "Unique"
-                              },
-                              "count": {
-                                "type": "uniform",
-                                "min": 1,
-                                "max": 1
+                                "id": "the_vault:chestplate",
+                                "nbt": {
+                                    "the_vault:gear_unique_pool": "the_vault:frozen_throne",
+                                    "the_vault:gear_roll_type": "Unique"
+                                },
+                                "count": {
+                                    "type": "uniform",
+                                    "min": 1,
+                                    "max": 1
                                 }
                             }
                         },
                         {
                             "weight": 20,
                             "item": {
-                              "id": "the_vault:sword",
-                              "nbt": {
-                                "the_vault:gear_unique_pool": "the_vault:honey_stick",
-                                "the_vault:gear_roll_type": "Unique"
-                              },
-                              "count": {
-                                "type": "uniform",
-                                "min": 1,
-                                "max": 1
+                                "id": "the_vault:sword",
+                                "nbt": {
+                                    "the_vault:gear_unique_pool": "the_vault:honey_stick",
+                                    "the_vault:gear_roll_type": "Unique"
+                                },
+                                "count": {
+                                    "type": "uniform",
+                                    "min": 1,
+                                    "max": 1
                                 }
                             }
                         },
                         {
                             "weight": 5,
                             "item": {
-                              "id": "the_vault:shield",
-                              "nbt": {
-                                "the_vault:gear_unique_pool": "the_vault:gladiator_buckler",
-                                "the_vault:gear_roll_type": "Unique"
-                              },
-                              "count": {
-                                "type": "uniform",
-                                "min": 1,
-                                "max": 1
+                                "id": "the_vault:shield",
+                                "nbt": {
+                                    "the_vault:gear_unique_pool": "the_vault:gladiator_buckler",
+                                    "the_vault:gear_roll_type": "Unique"
+                                },
+                                "count": {
+                                    "type": "uniform",
+                                    "min": 1,
+                                    "max": 1
                                 }
                             }
                         }
@@ -72,11 +72,11 @@
                         {
                             "weight": 1,
                             "item": {
-                              "id": "the_vault:unique_crate_scroll",
-                              "count": {
-                                "type": "uniform",
-                                "min": 1,
-                                "max": 1
+                                "id": "the_vault:unique_crate_scroll",
+                                "count": {
+                                    "type": "uniform",
+                                    "min": 1,
+                                    "max": 1
                                 }
                             }
                         }
@@ -88,11 +88,11 @@
                         {
                             "weight": 10,
                             "item": {
-                              "id": "minecraft:air",
-                              "count": {
-                                "type": "uniform",
-                                "min": 1,
-                                "max": 1
+                                "id": "minecraft:air",
+                                "count": {
+                                    "type": "uniform",
+                                    "min": 1,
+                                    "max": 1
                                 }
                             }
                         }

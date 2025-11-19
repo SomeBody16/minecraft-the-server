@@ -1,12 +1,9 @@
 [
-  {
-    "weight": 1,
-    "value": {
-      "template": "the_vault:vault/rooms/challenge/graveyard",
-      "palettes": [
-        "the_vault:graveyard/base",
-        "the_vault:graveyard/spawner_settings"
-      ]
+    {
+        "weight": 1,
+        "value": {
+            "template": "the_vault:vault/rooms/challenge/graveyard",
+            "palettes": ["the_vault:graveyard/base", "the_vault:graveyard/spawner_settings"]
+        }
     }
-  }
 ]

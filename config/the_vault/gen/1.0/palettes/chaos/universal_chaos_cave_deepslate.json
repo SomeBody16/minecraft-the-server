@@ -12,7 +12,7 @@
                 "create:layered_deepslate": 45
             }
         },
-	    {
+        {
             "type": "weighted_target",
             "target": "minecraft:cobblestone",
             "output": {

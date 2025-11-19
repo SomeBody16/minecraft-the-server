@@ -537,7 +537,7 @@
             "type": "weighted_target",
             "target": "quark:azalea_planks_stairs",
             "output": {
-                "twigs:polished_amethyst_brick_stairs":3,
+                "twigs:polished_amethyst_brick_stairs": 3,
                 "twigs:polished_amethyst_stairs": 1
             }
         },
@@ -620,53 +620,47 @@
             "type": "weighted_target",
             "target": "the_vault:wooden_chest",
             "output": {
-              "the_vault:wooden_chest[variant=present]": 1
+                "the_vault:wooden_chest[variant=present]": 1
             }
-          },
-          {
+        },
+        {
             "type": "weighted_target",
             "target": "the_vault:gilded_chest",
             "output": {
-              "the_vault:gilded_chest[variant=present]": 1
+                "the_vault:gilded_chest[variant=present]": 1
             }
-          },
-          {
+        },
+        {
             "type": "weighted_target",
             "target": "the_vault:ornate_chest",
             "output": {
-              "the_vault:ornate_chest[variant=present]": 1
+                "the_vault:ornate_chest[variant=present]": 1
             }
-          },
-          {
+        },
+        {
             "type": "weighted_target",
             "target": "the_vault:living_chest",
             "output": {
-              "the_vault:living_chest[variant=present]": 1
+                "the_vault:living_chest[variant=present]": 1
             }
-          },
-          {
+        },
+        {
             "type": "weighted_target",
             "target": "the_vault:treasure_chest",
             "output": {
-              "the_vault:treasure_chest[variant=present]": 1
+                "the_vault:treasure_chest[variant=present]": 1
             }
-          },
-          {
-              "type": "template_stack_tile",
-              "target": "@the_vault:vault_lootables",
-              "stack": [
-                  "THEME_WHITE",
-                  "THEME_CATEGORY_WHITE"
-              ]
-          },
-          {
-              "type": "template_stack_spawner",
-              "target": "ispawner:spawner",
-              "stack": [
-                  "THEME_WHITE",
-                  "THEME_CATEGORY_WHITE"
-              ]
-          }
+        },
+        {
+            "type": "template_stack_tile",
+            "target": "@the_vault:vault_lootables",
+            "stack": ["THEME_WHITE", "THEME_CATEGORY_WHITE"]
+        },
+        {
+            "type": "template_stack_spawner",
+            "target": "ispawner:spawner",
+            "stack": ["THEME_WHITE", "THEME_CATEGORY_WHITE"]
+        }
     ],
     "entity_processors": [],
     "decorators": []

@@ -612,10 +612,7 @@
         {
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",
-            "stack": [
-                "THEME_TROPICAL",
-                "THEME_CATEGORY_TROPICAL"
-            ]
+            "stack": ["THEME_TROPICAL", "THEME_CATEGORY_TROPICAL"]
         },
         {
             "type": "reference",
@@ -624,10 +621,7 @@
         {
             "type": "template_stack_spawner",
             "target": "ispawner:spawner",
-            "stack": [
-                "THEME_TROPICAL",
-                "THEME_CATEGORY_TROPICAL"
-            ]
+            "stack": ["THEME_TROPICAL", "THEME_CATEGORY_TROPICAL"]
         }
     ],
     "entity_processors": [],

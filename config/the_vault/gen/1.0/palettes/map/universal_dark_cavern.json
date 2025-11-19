@@ -605,18 +605,12 @@
         {
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",
-            "stack": [
-                "THEME_CAVE_DARK_CAVERN",
-                "THEME_CATEGORY_DARK_CAVERN"
-            ]
+            "stack": ["THEME_CAVE_DARK_CAVERN", "THEME_CATEGORY_DARK_CAVERN"]
         },
         {
             "type": "template_stack_spawner",
             "target": "ispawner:spawner",
-            "stack": [
-                "THEME_CAVE_DARK_CAVERN",
-                "THEME_CATEGORY_DARK_CAVERN"
-            ]
+            "stack": ["THEME_CAVE_DARK_CAVERN", "THEME_CATEGORY_DARK_CAVERN"]
         }
     ],
     "entity_processors": [],

@@ -35,9 +35,7 @@
             "ars_nouveau:*_leaves",
             "ars_nouveau:as_*"
         ],
-        "Botania": [
-            "botania:*_block*"
-        ],
+        "Botania": ["botania:*_block*"],
         "Cloud Storage": [
             "cloudstorage:balloon_bit",
             "cloudstorage:music_*",
@@ -85,9 +83,7 @@
             "immersiveengineering:sheetmetal*",
             "immersiveengineering:slab_*"
         ],
-        "Incorporeal": [
-            "botania:*_carpet"
-        ],
+        "Incorporeal": ["botania:*_carpet"],
         "Integrated Dynamics": [
             "integrateddynamics:*_log",
             "integrateddynamics:*_log_stripped",
@@ -104,14 +100,7 @@
             "integrateddynamics:*_stairs",
             "integrateddynamics:*_block"
         ],
-        "Mekanism": [
-            "mekanism:block_*",
-            "mekanism:*_ore"
-        ],
-        "Occultism": [
-            "occultism:*_ore",
-            "occultism:*_ore_deepslate",
-            "occultism:*_block"
-        ]
+        "Mekanism": ["mekanism:block_*", "mekanism:*_ore"],
+        "Occultism": ["occultism:*_ore", "occultism:*_ore_deepslate", "occultism:*_block"]
     }
 }

@@ -1,6 +1,5 @@
 {
     "tile_processors": [
-      
         {
             "type": "leveled",
             "levels": [
@@ -10,12 +9,12 @@
                     "target": "ispawner:spawner{group:assassin}",
                     "output": [
                         {
-                          "elements": {
-                            "the_vault:vault_fighter_0": 1
-                          },
-                          "weight": 1
+                            "elements": {
+                                "the_vault:vault_fighter_0": 1
+                            },
+                            "weight": 1
                         }
-                      ]
+                    ]
                 },
                 {
                     "level": 20,
@@ -23,13 +22,13 @@
                     "target": "ispawner:spawner{group:assassin}",
                     "output": [
                         {
-                          "elements": {
-                            "the_vault:vault_fighter_0": 1,
-                            "the_vault:vault_fighter_1": 19
-                          },
-                          "weight": 1
+                            "elements": {
+                                "the_vault:vault_fighter_0": 1,
+                                "the_vault:vault_fighter_1": 19
+                            },
+                            "weight": 1
                         }
-                      ]
+                    ]
                 },
                 {
                     "level": 30,
@@ -37,14 +36,14 @@
                     "target": "ispawner:spawner{group:assassin}",
                     "output": [
                         {
-                          "elements": {
-                            "the_vault:vault_fighter_0": 4,
-                            "the_vault:vault_fighter_1": 4,
-                            "the_vault:vault_fighter_3": 2
-                          },
-                          "weight": 1
+                            "elements": {
+                                "the_vault:vault_fighter_0": 4,
+                                "the_vault:vault_fighter_1": 4,
+                                "the_vault:vault_fighter_3": 2
+                            },
+                            "weight": 1
                         }
-                      ]
+                    ]
                 },
                 {
                     "level": 40,
@@ -52,14 +51,14 @@
                     "target": "ispawner:spawner{group:assassin}",
                     "output": [
                         {
-                          "elements": {
-                            "the_vault:vault_fighter_0": 2,
-                            "the_vault:vault_fighter_1": 18,
-                            "the_vault:vault_fighter_3": 4
-                          },
-                          "weight": 1
+                            "elements": {
+                                "the_vault:vault_fighter_0": 2,
+                                "the_vault:vault_fighter_1": 18,
+                                "the_vault:vault_fighter_3": 4
+                            },
+                            "weight": 1
                         }
-                      ]
+                    ]
                 },
                 {
                     "level": 50,
@@ -67,14 +66,14 @@
                     "target": "ispawner:spawner{group:assassin}",
                     "output": [
                         {
-                          "elements": {
-                            "the_vault:vault_fighter_1": 19,
-                            "the_vault:vault_fighter_2": 1,
-                            "the_vault:vault_fighter_3": 4
-                          },
-                          "weight": 1
+                            "elements": {
+                                "the_vault:vault_fighter_1": 19,
+                                "the_vault:vault_fighter_2": 1,
+                                "the_vault:vault_fighter_3": 4
+                            },
+                            "weight": 1
                         }
-                      ]
+                    ]
                 },
                 {
                     "level": 55,
@@ -82,14 +81,14 @@
                     "target": "ispawner:spawner{group:assassin}",
                     "output": [
                         {
-                          "elements": {
-                            "the_vault:vault_fighter_1": 15,
-                            "the_vault:vault_fighter_2": 5,
-                            "the_vault:vault_fighter_3": 4
-                          },
-                          "weight": 1
+                            "elements": {
+                                "the_vault:vault_fighter_1": 15,
+                                "the_vault:vault_fighter_2": 5,
+                                "the_vault:vault_fighter_3": 4
+                            },
+                            "weight": 1
                         }
-                      ]
+                    ]
                 },
                 {
                     "level": 60,
@@ -97,14 +96,14 @@
                     "target": "ispawner:spawner{group:assassin}",
                     "output": [
                         {
-                          "elements": {
-                            "the_vault:vault_fighter_1": 10,
-                            "the_vault:vault_fighter_2": 10,
-                            "the_vault:vault_fighter_3": 4
-                          },
-                          "weight": 1
+                            "elements": {
+                                "the_vault:vault_fighter_1": 10,
+                                "the_vault:vault_fighter_2": 10,
+                                "the_vault:vault_fighter_3": 4
+                            },
+                            "weight": 1
                         }
-                      ]
+                    ]
                 },
                 {
                     "level": 65,
@@ -112,15 +111,15 @@
                     "target": "ispawner:spawner{group:assassin}",
                     "output": [
                         {
-                          "elements": {
-                            "the_vault:vault_fighter_1": 5,
-                            "the_vault:vault_fighter_2": 15,
-                            "the_vault:vault_fighter_3": 4,
-                            "the_vault:vault_fighter_4": 5
-                          },
-                          "weight": 1
+                            "elements": {
+                                "the_vault:vault_fighter_1": 5,
+                                "the_vault:vault_fighter_2": 15,
+                                "the_vault:vault_fighter_3": 4,
+                                "the_vault:vault_fighter_4": 5
+                            },
+                            "weight": 1
                         }
-                      ]
+                    ]
                 },
                 {
                     "level": 70,
@@ -128,14 +127,14 @@
                     "target": "ispawner:spawner{group:assassin}",
                     "output": [
                         {
-                          "elements": {
-                            "the_vault:vault_fighter_2": 20,
-                            "the_vault:vault_fighter_4": 10,
-                            "the_vault:vault_fighter_3": 6
-                          },
-                          "weight": 1
+                            "elements": {
+                                "the_vault:vault_fighter_2": 20,
+                                "the_vault:vault_fighter_4": 10,
+                                "the_vault:vault_fighter_3": 6
+                            },
+                            "weight": 1
                         }
-                      ]
+                    ]
                 },
                 {
                     "level": 80,
@@ -143,14 +142,14 @@
                     "target": "ispawner:spawner{group:assassin}",
                     "output": [
                         {
-                          "elements": {
-                            "the_vault:vault_fighter_2": 10,
-                            "the_vault:vault_fighter_4": 10,
-                            "the_vault:vault_fighter_3": 8
-                          },
-                          "weight": 1
+                            "elements": {
+                                "the_vault:vault_fighter_2": 10,
+                                "the_vault:vault_fighter_4": 10,
+                                "the_vault:vault_fighter_3": 8
+                            },
+                            "weight": 1
                         }
-                      ]
+                    ]
                 },
                 {
                     "level": 90,
@@ -158,14 +157,14 @@
                     "target": "ispawner:spawner{group:assassin}",
                     "output": [
                         {
-                          "elements": {
-                            "the_vault:vault_fighter_2": 10,
-                            "the_vault:vault_fighter_4": 20,
-                            "the_vault:vault_fighter_3": 6
-                          },
-                          "weight": 1
+                            "elements": {
+                                "the_vault:vault_fighter_2": 10,
+                                "the_vault:vault_fighter_4": 20,
+                                "the_vault:vault_fighter_3": 6
+                            },
+                            "weight": 1
                         }
-                      ]
+                    ]
                 },
                 {
                     "level": 100,
@@ -173,13 +172,13 @@
                     "target": "ispawner:spawner{group:assassin}",
                     "output": [
                         {
-                          "elements": {
-                            "the_vault:vault_fighter_4": 10,
-                            "the_vault:vault_fighter_3": 2
-                          },
-                          "weight": 1
+                            "elements": {
+                                "the_vault:vault_fighter_4": 10,
+                                "the_vault:vault_fighter_3": 2
+                            },
+                            "weight": 1
                         }
-                      ]
+                    ]
                 }
             ]
         }

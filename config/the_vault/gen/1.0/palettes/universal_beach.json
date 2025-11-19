@@ -75,7 +75,7 @@
             "target": "minecraft:spruce_slab",
             "output": {
                 "minecraft:spruce_slab": 1,
-                "ecologics:walnut_slab":3
+                "ecologics:walnut_slab": 3
             }
         },
         {
@@ -613,18 +613,12 @@
         {
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",
-            "stack": [
-                "THEME_BEACH",
-                "THEME_CATEGORY_BEACH"
-            ]
+            "stack": ["THEME_BEACH", "THEME_CATEGORY_BEACH"]
         },
         {
             "type": "template_stack_spawner",
             "target": "ispawner:spawner",
-            "stack": [
-                "THEME_BEACH",
-                "THEME_CATEGORY_BEACH"
-            ]
+            "stack": ["THEME_BEACH", "THEME_CATEGORY_BEACH"]
         }
     ],
     "entity_processors": [],

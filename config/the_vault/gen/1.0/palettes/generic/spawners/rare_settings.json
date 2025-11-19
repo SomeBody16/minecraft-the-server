@@ -126,7 +126,6 @@
                         "ispawner:spawner{ Manager:{ UsesLeft:1, Settings: { SpawnDelay: 20, Attempts: 1 } } } }": 3,
                         "ispawner:spawner{ Manager:{ UsesLeft:1, Settings: { SpawnDelay: 20, Attempts: 2 } } } }": 6,
                         "ispawner:spawner{ Manager:{ UsesLeft:1, Settings: { SpawnDelay: 20, Attempts: 3 } } } }": 3
-                        
                     }
                 },
                 {
@@ -138,7 +137,6 @@
                         "ispawner:spawner{ Manager:{ UsesLeft:3, Settings: { SpawnDelay: 20, Attempts: 1 } } } }": 3,
                         "ispawner:spawner{ Manager:{ UsesLeft:4, Settings: { SpawnDelay: 20, Attempts: 1 } } } }": 6,
                         "ispawner:spawner{ Manager:{ UsesLeft:5, Settings: { SpawnDelay: 20, Attempts: 1 } } } }": 3
-
                     }
                 },
                 {
@@ -150,7 +148,6 @@
                         "ispawner:spawner{ Manager:{ UsesLeft:3, Settings: { SpawnDelay: 20, Attempts: 2 } } } }": 3,
                         "ispawner:spawner{ Manager:{ UsesLeft:4, Settings: { SpawnDelay: 20, Attempts: 2 } } } }": 6,
                         "ispawner:spawner{ Manager:{ UsesLeft:5, Settings: { SpawnDelay: 20, Attempts: 2 } } } }": 3
-
                     }
                 },
                 {
@@ -162,7 +159,6 @@
                         "ispawner:spawner{ Manager:{ UsesLeft:3, Settings: { SpawnDelay: 20, Attempts: 3 } } } }": 3,
                         "ispawner:spawner{ Manager:{ UsesLeft:4, Settings: { SpawnDelay: 20, Attempts: 3 } } } }": 6,
                         "ispawner:spawner{ Manager:{ UsesLeft:5, Settings: { SpawnDelay: 20, Attempts: 3 } } } }": 3
-
                     }
                 }
             ]

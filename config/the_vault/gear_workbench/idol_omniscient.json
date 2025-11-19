@@ -1,14 +1,13 @@
 {
-  "costRemoveCraftedModifiers": [
-    {
-      "AMOUNT": 5,
-      "ITEM": "the_vault:nullifying_focus",
-      "NBT": "{}"
-    }
-  ],
-  "craftableModifiers": {
-    "PREFIX": [
+    "costRemoveCraftedModifiers": [
+        {
+            "AMOUNT": 5,
+            "ITEM": "the_vault:nullifying_focus",
+            "NBT": "{}"
+        }
     ],
-    "SUFFIX": []
-  }
+    "craftableModifiers": {
+        "PREFIX": [],
+        "SUFFIX": []
+    }
 }

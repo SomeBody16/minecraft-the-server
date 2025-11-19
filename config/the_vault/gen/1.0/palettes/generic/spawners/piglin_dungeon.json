@@ -13,11 +13,11 @@
                     "target": "ispawner:spawner",
                     "output": [
                         {
-                          "elements": {
-                            "the_vault:dungeon_piglin": 2,
-                            "the_vault:dungeon_piglin_brute": 1
-                          },
-                          "weight": 1
+                            "elements": {
+                                "the_vault:dungeon_piglin": 2,
+                                "the_vault:dungeon_piglin_brute": 1
+                            },
+                            "weight": 1
                         }
                     ]
                 }
@@ -36,10 +36,10 @@
                     "target": "ispawner:spawner{ group:champion }",
                     "output": [
                         {
-                          "elements": {
-                            "the_vault:dungeon_piglin_brute{Tags:[\"vault_champion\"]}": 1
-                          },
-                          "weight": 1
+                            "elements": {
+                                "the_vault:dungeon_piglin_brute{Tags:[\"vault_champion\"]}": 1
+                            },
+                            "weight": 1
                         }
                     ]
                 }

@@ -598,18 +598,12 @@
         {
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",
-            "stack": [
-                "THEME_SWEET",
-                "THEME_CATEGORY_SWEET"
-            ]
+            "stack": ["THEME_SWEET", "THEME_CATEGORY_SWEET"]
         },
         {
             "type": "template_stack_spawner",
             "target": "ispawner:spawner",
-            "stack": [
-                "THEME_SWEET",
-                "THEME_CATEGORY_SWEET"
-            ]
+            "stack": ["THEME_SWEET", "THEME_CATEGORY_SWEET"]
         }
     ],
     "entity_processors": [],

@@ -1,18 +1,17 @@
 {
     "tile_processors": [
-		{
-		  "type": "reference",
-		  "id": "the_vault:generic/treasure_door_placeholder"
-		},
-	    {
+        {
+            "type": "reference",
+            "id": "the_vault:generic/treasure_door_placeholder"
+        },
+        {
             "type": "weighted_target",
             "target": "minecraft:cobblestone",
             "output": {
-                
                 "minecraft:light_gray_concrete": 1
             }
         },
-	    {
+        {
             "type": "weighted_target",
             "target": "minecraft:stone",
             "output": {
@@ -559,7 +558,7 @@
                 "create:small_deepslate_bricks": 1
             }
         },
-		{
+        {
             "type": "reference",
             "id": "the_vault:chaos/room_base"
         },
@@ -567,23 +566,19 @@
             "type": "reference",
             "id": "the_vault:generic/spawners/plastic_mobs"
         },
-		{
-		  "type": "reference",
-		  "id": "the_vault:generic/common_elite_spawners"
-		},
+        {
+            "type": "reference",
+            "id": "the_vault:generic/common_elite_spawners"
+        },
         {
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",
-            "stack": [
-                "THEME_PLASTIC"
-            ]
+            "stack": ["THEME_PLASTIC"]
         },
         {
             "type": "template_stack_spawner",
             "target": "ispawner:spawner",
-            "stack": [
-                "THEME_PLASTIC"
-            ]
+            "stack": ["THEME_PLASTIC"]
         }
     ],
     "entity_processors": [],

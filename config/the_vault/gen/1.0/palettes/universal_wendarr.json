@@ -85,8 +85,8 @@
             "target": "minecraft:purple_wool",
             "output": {
                 "quark:yellow_corundum": 1,
-				"the_vault:wendarr_jewel_block": 1,
-				"the_vault:wendarr_jewel_glass": 1
+                "the_vault:wendarr_jewel_block": 1,
+                "the_vault:wendarr_jewel_glass": 1
             }
         },
         {
@@ -622,7 +622,7 @@
             "type": "weighted_target",
             "target": "the_vault:god_altar",
             "output": {
-              "minecraft:air": 1
+                "minecraft:air": 1
             }
         },
         {

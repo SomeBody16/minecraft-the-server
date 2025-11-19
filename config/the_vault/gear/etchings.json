@@ -4,9 +4,7 @@
             "name": "Blocking Mana",
             "description": "Blocking restores <yellow>%dvalue <gray>mana",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_blocking_mana",
@@ -33,18 +31,14 @@
             "name": "Chaining Penalty",
             "description": "<#5c5db6>Chaining Hits <gray>have their damage penalty lowered by <yellow>%.0fpvalue%",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "itemOverlay": "the_vault:etching/assassin#inventory",
             "attributes": [
                 {
                     "attribute": "the_vault:etching_chaining_penalty",
                     "group": "ChainingEtching",
                     "identifier": "the_vault:chaining_penalty",
-                    "tags": [
-                        "chaining"
-                    ],
+                    "tags": ["chaining"],
                     "tiers": [
                         {
                             "minLevel": 0,
@@ -64,9 +58,7 @@
             "name": "Glacial Nova",
             "description": "<gray>Frost nova has <yellow>%.0fpvalue% <gray>chance to <#2FE1FA>freeze <gray>(glacially imprison) mobs hit for 2 seconds",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "itemOverlay": "the_vault:etching/blood#inventory",
             "attributes": [
                 {
@@ -93,9 +85,7 @@
             "name": "Glacial Shatter Explosion",
             "description": "<gray>Frostbitten mobs when shattered will explode into ice chunks dealing <yellow>%.0fpvalueA% <#C23627>Attack damage <gray>in a <yellow>%.1fvalueB <gray>block radius",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_glacial_shatter_explosion",
@@ -128,9 +118,7 @@
             "name": "Heal Cleanse",
             "description": "<gray>Heal also casts a level <yellow>%dvalue <gray>Cleanse",
             "color": 16777215,
-            "typeGroups": [
-                "Defensive"
-            ],
+            "typeGroups": ["Defensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_heal_cleanse",
@@ -156,9 +144,7 @@
             "name": "Glacial Damage",
             "description": "<gray>Glacial Blast deals <yellow>%.0fpvalue% <#C23627>Attack damage",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_ice_bolt_chunk_damage",
@@ -184,9 +170,7 @@
             "name": "Ice Bolt Effect",
             "description": "Ice Bolt has a <yellow>%.0fpvalueB% <gray>chance of applying Glacial Prison for <yellow>%dvalueC <gray>seconds",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_ice_bolt_effect",
@@ -225,9 +209,7 @@
             "name": "Lucky Bolt",
             "description": "Ice Bolt can now proc <#6DF5A3>Lucky Hit",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_ice_bolt_lucky",
@@ -253,9 +235,7 @@
             "name": "Frozen Barrage",
             "description": "Ice Bolt casts itself again rapidly <yellow>%dvalue <gray>times after the first cast one",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_ice_bolt_multicast",
@@ -281,9 +261,7 @@
             "name": "Piercing Bolt",
             "description": "<gray>Ice Bolt pierces <yellow>%dvalue <gray>mobs",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_ice_bolt_pierce",
@@ -309,9 +287,7 @@
             "name": "Imploding Reversal",
             "description": "<gray>Implode increases your mana regeneration by <yellow>%.0fpvalue% <gray>for each mob it kills for 10 seconds",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_implode_mana_regen",
@@ -337,9 +313,7 @@
             "name": "Lucky Reset",
             "description": "<gray>Proccing <#6DF5A3>Lucky Hit <gray>will remove any remaining cooldown of <yellow>%svalue/ability",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_lucky_cooldown_reset",
@@ -448,9 +422,7 @@
             "name": "Lucky Nova",
             "description": "<gray>Proccing <#6DF5A3>Lucky Hit <gray>will cast a level <yellow>%dvalue <gray>Frost Nova",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_lucky_frost_nova",
@@ -476,9 +448,7 @@
             "name": "Lucky Amplifier",
             "description": "Gain <yellow>%.0fpvalueA% <#6DF5A3>Lucky Hit <gray>chance while below <yellow>%.0fpvalueB% <gray>health",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_lucky_low_health",
@@ -511,9 +481,7 @@
             "name": "Lucky Vulnerable",
             "description": "<gray>Proccing <#6DF5A3>Lucky Hit <gray>will apply <yellow>%dvalueC <gray>stack(s) of <yellow>%svalueA <gray>for <yellow>%.1fvalueB <gray>second(s)",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_lucky_vulnerable",
@@ -552,9 +520,7 @@
             "name": "Stunning Smite",
             "description": "<gray>Smite has a <yellow>%.0fpvalue% <gray>chance of stunning mobs",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_smite_stun",
@@ -581,9 +547,7 @@
             "name": "Echoing Smite",
             "description": "<yellow>Smite <gray>casts an additional bolt 0.5 seconds after the first one dealing <yellow>%.0fpvalue% <gray>of the original smite damage",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_smite_echo",
@@ -610,9 +574,7 @@
             "name": "Nova Recast",
             "description": "<gray>Nova is cast again within <yellow>%tvalue <gray>seconds after cast",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_nova_recast",
@@ -638,9 +600,7 @@
             "name": "Shield Bash Damage",
             "description": "<gray>Shield Bash additionally deals <yellow>%.0fpvalue% <#C23627>Attack Damage",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_shield_bash_damage",
@@ -666,9 +626,7 @@
             "name": "Scatter Pierce",
             "description": "<gray>Piercing Javelin throws an additional 2 javelins horizontally, dealing <yellow>%.0fpvalue% <gray>of your original javelin damage",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_piercing_javelin",
@@ -694,9 +652,7 @@
             "name": "Piercing Ricochet",
             "description": "<gray>Piercing Javelin ricochets to the side when piercing, dealing <yellow>%.0fpvalue% <gray>reduced damage",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_piercing_javelin_ricochet",
@@ -722,9 +678,7 @@
             "name": "Poison Mana",
             "description": "<gray>Poison Damage ticks generates <yellow>%dvalue <gray>mana",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_poison_mana",
@@ -750,9 +704,7 @@
             "name": "Scatter Mana",
             "description": "<gray>Scatter Javelins restore <yellow>%dvalue <gray>mana when hitting a mob",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_scatter_mana",
@@ -778,9 +730,7 @@
             "name": "Blizzard Damage",
             "description": "<gray>Storm Arrow Blizzard also deals <yellow>%.0fpvalue% <gray>AP damage per hit",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_storm_arrow_blizzard_damage",
@@ -806,9 +756,7 @@
             "name": "Nova Damage Increase",
             "description": "<gray>Casting Nova with less than <yellow>%.0fpvalueA% <gray>mana remaining increases its damage by <yellow>%.0fpvalueB%",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_nova_low_mana_damage",
@@ -841,9 +789,7 @@
             "name": "Shockwave",
             "description": "<gray>Stonefall has a <yellow>%.0fpvalueA% <gray>chance of <yellow>%svalueC/effect <gray>mobs it knocks backs for <red>%tvalueB <red>seconds?",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_stone_fall_stun",
@@ -882,9 +828,7 @@
             "name": "AD Totem",
             "description": "<gray>Totem of Hatred now also scales with AD Damage",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_totem_mob_damage_ad",
@@ -908,9 +852,7 @@
             "name": "AP Totem",
             "description": "<gray>Wrath totem also increases <$ability_power>Ability Power",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_totem_player_damage_ap",
@@ -934,9 +876,7 @@
             "name": "Nova Shield",
             "description": "<gray>Mana Shield casts a level <yellow>%dvalueB %svalueA/ability <gray>when expiring",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_mana_shield_nova",
@@ -978,9 +918,7 @@
             "name": "Rampaging Lucky Hit",
             "description": "<gray>While active, Rampage will increase your <$luckyHit>Lucky Hit <gray>chance by <yellow>%.0fpvalue%",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_rampage_lucky_hit",
@@ -1006,9 +944,7 @@
             "name": "Nova Dash",
             "description": "<gray>Dash warp will cast a level <yellow>%dvalueB %svalueA/ability <gray>upon landing",
             "color": 16777215,
-            "typeGroups": [
-                "Defensive"
-            ],
+            "typeGroups": ["Defensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_dash_warp_nova",
@@ -1050,9 +986,7 @@
             "name": "Blizzard Effect",
             "description": "<gray>Storm Arrow Blizzard applies <yellow>%dvalueC <gray>stack(s) of <yellow>%svalueA/effect <gray>for <yellow>%tvalueB <gray>second(s) to mobs it hits",
             "color": 5476034,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_storm_arrow_blizzard_effect",
@@ -1091,9 +1025,7 @@
             "name": "Spirit Nova",
             "description": "<gray>Spirit Walk will cast a level <yellow>%dvalueB %svalueA/ability <gray>when it expires",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_spirit_walk_ability",
@@ -1127,9 +1059,7 @@
             "name": "Lucky Vortex",
             "description": "<gray>Proccing <#6DF5A3>Lucky Hit <gray>will cast a Vortex in a radius of <yellow>%dvalueA <gray>blocks for <yellow>%dvalueB <gray>second(s)",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_lucky_vortex",
@@ -1162,9 +1092,7 @@
             "name": "Vulnerable Totem",
             "description": "<gray>Totem of Hatred applies <yellow>%dvalueC <gray>stack(s) of <yellow>%svalueA/effect <gray>to mobs hit for <yellow>%tvalueB <gray>second(s)",
             "color": 16777215,
-            "typeGroups": [
-                "Offensive"
-            ],
+            "typeGroups": ["Offensive"],
             "attributes": [
                 {
                     "attribute": "the_vault:etching_totem_player_damage_effect",
@@ -1201,20 +1129,8 @@
         }
     },
     "groups": {
-        "Defensive": [
-            "HELMET",
-            "CHESTPLATE",
-            "LEGGINGS",
-            "BOOTS"
-        ],
-        "Offensive": [
-            "SWORD",
-            "AXE"
-        ],
-        "Utility": [
-            "FOCUS",
-            "WAND",
-            "SHIELD"
-        ]
+        "Defensive": ["HELMET", "CHESTPLATE", "LEGGINGS", "BOOTS"],
+        "Offensive": ["SWORD", "AXE"],
+        "Utility": ["FOCUS", "WAND", "SHIELD"]
     }
 }

@@ -9,7 +9,8 @@
                 "the_vault:animatrix_block{inventory:{Items:[{Count:1b,Slot:0,id:\"the_vault:elite_skeleton_egg\"}],Size:1},displayOnly:1b}": 1,
                 "the_vault:animatrix_block{inventory:{Items:[{Count:1b,Slot:0,id:\"the_vault:elite_witch_egg\"}],Size:1},displayOnly:1b}": 1,
                 "the_vault:animatrix_block{inventory:{Items:[{Count:1b,Slot:0,id:\"the_vault:elite_zombie_egg\"}],Size:1},displayOnly:1b}": 1,
-                "the_vault:animatrix_block{inventory:{Items:[{Count:1b,Slot:0,id:\"the_vault:elite_enderman_egg\"}],Size:1},displayOnly:1b}": 1,                "the_vault:animatrix_block{inventory:{Items:[{Count:1b,Slot:0,id:\"the_vault:elite_stray_egg\"}],Size:1},displayOnly:1b}": 1,
+                "the_vault:animatrix_block{inventory:{Items:[{Count:1b,Slot:0,id:\"the_vault:elite_enderman_egg\"}],Size:1},displayOnly:1b}": 1,
+                "the_vault:animatrix_block{inventory:{Items:[{Count:1b,Slot:0,id:\"the_vault:elite_stray_egg\"}],Size:1},displayOnly:1b}": 1,
                 "the_vault:animatrix_block{inventory:{Items:[{Count:1b,Slot:0,id:\"the_vault:elite_wither_skeleton_egg\"}],Size:1},displayOnly:1b}": 1,
                 "the_vault:animatrix_block": 1
             }
@@ -56,7 +57,7 @@
                             "modifierImmunity": [
                                 "#the_vault:modifier_type/mob_frenzy",
                                 "#the_vault:modifier_type/mob_attribute"
-                                ]
+                            ]
                         },
                         {
                             "id": "the_vault:elite_husk",
@@ -64,7 +65,7 @@
                             "modifierImmunity": [
                                 "#the_vault:modifier_type/mob_frenzy",
                                 "#the_vault:modifier_type/mob_attribute"
-                                ]
+                            ]
                         },
                         {
                             "id": "the_vault:elite_skeleton",
@@ -72,7 +73,7 @@
                             "modifierImmunity": [
                                 "#the_vault:modifier_type/mob_frenzy",
                                 "#the_vault:modifier_type/mob_attribute"
-                                ]
+                            ]
                         },
                         {
                             "id": "the_vault:elite_stray",
@@ -80,7 +81,7 @@
                             "modifierImmunity": [
                                 "#the_vault:modifier_type/mob_frenzy",
                                 "#the_vault:modifier_type/mob_attribute"
-                                ]
+                            ]
                         },
                         {
                             "id": "the_vault:elite_witch",
@@ -88,7 +89,7 @@
                             "modifierImmunity": [
                                 "#the_vault:modifier_type/mob_frenzy",
                                 "#the_vault:modifier_type/mob_attribute"
-                                ]
+                            ]
                         },
                         {
                             "id": "the_vault:elite_wither_skeleton",
@@ -96,7 +97,7 @@
                             "modifierImmunity": [
                                 "#the_vault:modifier_type/mob_frenzy",
                                 "#the_vault:modifier_type/mob_attribute"
-                                ]
+                            ]
                         },
                         {
                             "id": "the_vault:elite_zombie",
@@ -104,7 +105,7 @@
                             "modifierImmunity": [
                                 "#the_vault:modifier_type/mob_frenzy",
                                 "#the_vault:modifier_type/mob_attribute"
-                                ]
+                            ]
                         }
                     ],
                     "weight": 1

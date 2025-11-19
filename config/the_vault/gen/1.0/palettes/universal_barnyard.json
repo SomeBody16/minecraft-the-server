@@ -227,7 +227,7 @@
             "type": "weighted_target",
             "target": "minecraft:cyan_wool",
             "output": {
-                 "regions_unexplored:alpha_leaves": 1
+                "regions_unexplored:alpha_leaves": 1
             }
         },
         {
@@ -616,18 +616,12 @@
         {
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",
-            "stack": [
-                "THEME_BARNYARD",
-                "THEME_CATEGORY_BARNYARD"
-            ]
+            "stack": ["THEME_BARNYARD", "THEME_CATEGORY_BARNYARD"]
         },
         {
             "type": "template_stack_spawner",
             "target": "ispawner:spawner",
-            "stack": [
-                "THEME_BARNYARD",
-                "THEME_CATEGORY_BARNYARD"
-            ]
+            "stack": ["THEME_BARNYARD", "THEME_CATEGORY_BARNYARD"]
         }
     ],
     "entity_processors": [],

@@ -16,7 +16,7 @@
                 "quark:stripped_azalea_wood": 1
             }
         },
-	{
+        {
             "type": "weighted_target",
             "target": "minecraft:stone",
             "output": {
@@ -287,7 +287,7 @@
                 "the_vault:velara_planks_slab": 1
             }
         },
-	    {
+        {
             "type": "weighted_target",
             "target": "minecraft:oak_trapdoor",
             "output": {
@@ -614,7 +614,7 @@
             "type": "weighted_target",
             "target": "the_vault:god_altar",
             "output": {
-              "minecraft:air": 1
+                "minecraft:air": 1
             }
         },
         {

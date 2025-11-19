@@ -12,7 +12,7 @@
             "type": "reference",
             "id": "the_vault:raw/objective_placeholder"
         },
-	{
+        {
             "type": "weighted_target",
             "target": "minecraft:cobblestone",
             "output": {
@@ -20,7 +20,7 @@
                 "create:cut_tuff": 1
             }
         },
-	    {
+        {
             "type": "weighted_target",
             "target": "minecraft:stone",
             "output": {
@@ -602,66 +602,66 @@
         {
             "type": "leveled",
             "levels": [
-              {
-                  "level": 0,
-                  "type": "weighted_target",
-                  "target": "the_vault:god_altar",
-                  "output": {
-                      "minecraft:air": 1
-                  }
-              }
-            ]
-        },
-        {
-            "type": "leveled",
-            "levels": [
-              {
-                  "level": 0,
-                  "type": "weighted_target",
-                  "target": "the_vault:god_altar",
-                  "output": {
-                    "minecraft:air": 1
-                  }
-              }
-            ]
-        },
-        {
-            "type": "leveled",
-            "levels": [
-              {
-                  "level": 0,
-                  "type": "weighted_target",
-                  "target": "the_vault:god_altar",
-                  "output": {
-                    "minecraft:air": 1
-                  }
-              }
-            ]
-        },
-        {
-            "type": "leveled",
-            "levels": [
-              {
-                  "level": 0,
-                  "type": "weighted_target",
-                  "target": "the_vault:god_altar",
-                  "output": {
-                    "minecraft:air": 1
-                  }
-              }
+                {
+                    "level": 0,
+                    "type": "weighted_target",
+                    "target": "the_vault:god_altar",
+                    "output": {
+                        "minecraft:air": 1
+                    }
+                }
             ]
         },
         {
             "type": "leveled",
             "levels": [
                 {
-                "level": 0,
-                "type": "weighted_target",
-                "target": "ispawner:spawner",
-                "output": {
-                    "ispawner:spawner{ Manager:{ UsesLeft:1, Settings: { SpawnDelay: 40 } } } }": 1,
-                    "ispawner:spawner{ Manager:{ UsesLeft:1, Settings: { SpawnDelay: 50 } } } }": 4
+                    "level": 0,
+                    "type": "weighted_target",
+                    "target": "the_vault:god_altar",
+                    "output": {
+                        "minecraft:air": 1
+                    }
                 }
+            ]
+        },
+        {
+            "type": "leveled",
+            "levels": [
+                {
+                    "level": 0,
+                    "type": "weighted_target",
+                    "target": "the_vault:god_altar",
+                    "output": {
+                        "minecraft:air": 1
+                    }
+                }
+            ]
+        },
+        {
+            "type": "leveled",
+            "levels": [
+                {
+                    "level": 0,
+                    "type": "weighted_target",
+                    "target": "the_vault:god_altar",
+                    "output": {
+                        "minecraft:air": 1
+                    }
+                }
+            ]
+        },
+        {
+            "type": "leveled",
+            "levels": [
+                {
+                    "level": 0,
+                    "type": "weighted_target",
+                    "target": "ispawner:spawner",
+                    "output": {
+                        "ispawner:spawner{ Manager:{ UsesLeft:1, Settings: { SpawnDelay: 40 } } } }": 1,
+                        "ispawner:spawner{ Manager:{ UsesLeft:1, Settings: { SpawnDelay: 50 } } } }": 4
+                    }
                 }
             ]
         },
