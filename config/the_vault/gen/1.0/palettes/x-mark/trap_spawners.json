@@ -5,17 +5,17 @@
             "id": "the_vault:generic/spawners/generic_settings"
         },
         {
-          "type": "leveled",
-          "levels": [
-            {
-              "level": 0,
-              "type": "weighted_target",
-              "target": "ispawner:spawner",
-              "output": {
-                "ispawner:spawner{ Manager:{ UsesLeft:3 } }": 1
-              }
-            }
-          ]
+            "type": "leveled",
+            "levels": [
+                {
+                    "level": 0,
+                    "type": "weighted_target",
+                    "target": "ispawner:spawner",
+                    "output": {
+                        "ispawner:spawner{ Manager:{ UsesLeft:3 } }": 1
+                    }
+                }
+            ]
         },
         {
             "type": "leveled",

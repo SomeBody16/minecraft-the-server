@@ -4,7 +4,7 @@
             "type": "reference",
             "id": "the_vault:generic/treasure_door_placeholder"
         },
-	{
+        {
             "type": "weighted_target",
             "target": "minecraft:cobblestone",
             "output": {
@@ -13,7 +13,7 @@
                 "minecraft:calcite": 1
             }
         },
-	    {
+        {
             "type": "weighted_target",
             "target": "minecraft:stone",
             "output": {
@@ -29,7 +29,7 @@
                 "minecraft:diorite": 499999,
                 "create:cut_diorite": 250000,
                 "minecraft:calcite": 250000,
-				"auxiliaryblocks:purple_diorite": 1
+                "auxiliaryblocks:purple_diorite": 1
             }
         },
         {

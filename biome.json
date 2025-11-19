@@ -1,0 +1,28 @@
+{
+    "$schema": "https://biomejs.dev/schemas/2.0.5/schema.json",
+    "formatter": {
+        "enabled": true,
+        "formatWithErrors": true,
+        "attributePosition": "auto",
+        "indentStyle": "space",
+        "indentWidth": 4,
+        "lineWidth": 100,
+        "lineEnding": "lf"
+    },
+    "json": {
+        "formatter": {
+            "trailingCommas": "none"
+        }
+    },
+    "linter": {
+        "enabled": false
+    },
+    "assist": {
+        "enabled": false
+    },
+    "files": {
+        "includes": ["biome.json", "config/**/*"],
+        "ignoreUnknown": true,
+        "maxSize": 2097152
+    }
+}

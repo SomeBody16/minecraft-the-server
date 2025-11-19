@@ -13,7 +13,7 @@
                 "architects_palette:heavy_cracked_stone_bricks": 25
             }
         },
-	    {
+        {
             "type": "weighted_target",
             "target": "minecraft:cobblestone",
             "output": {

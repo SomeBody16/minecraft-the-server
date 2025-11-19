@@ -1,6 +1,5 @@
 {
-	"pools": {
-		"the_vault:default": [
-		]
-	}
+    "pools": {
+        "the_vault:default": []
+    }
 }

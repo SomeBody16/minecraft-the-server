@@ -15,7 +15,7 @@
                 "minecraft:black_concrete": 1
             }
         },
-	    {
+        {
             "type": "weighted_target",
             "target": "minecraft:cobblestone",
             "output": {
@@ -306,7 +306,6 @@
             "target": "minecraft:stone_brick_stairs",
             "output": {
                 "the_vault:polished_vault_stone_stairs": 1
-                
             }
         },
         {
@@ -597,18 +596,12 @@
         {
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",
-            "stack": [
-                "THEME_BLOOD_MOON",
-                "THEME_CATEGORY_BLOOD_MOON"
-            ]
+            "stack": ["THEME_BLOOD_MOON", "THEME_CATEGORY_BLOOD_MOON"]
         },
         {
             "type": "template_stack_spawner",
             "target": "ispawner:spawner",
-            "stack": [
-                "THEME_BLOOD_MOON",
-                "THEME_CATEGORY_BLOOD_MOON"
-            ]
+            "stack": ["THEME_BLOOD_MOON", "THEME_CATEGORY_BLOOD_MOON"]
         }
     ],
     "entity_processors": [],

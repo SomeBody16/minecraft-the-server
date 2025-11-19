@@ -20,9 +20,7 @@
                     },
                     {
                         "value": {
-                            "modifiers": [
-                                "the_vault:coin_cascade"
-                            ],
+                            "modifiers": ["the_vault:coin_cascade"],
                             "model": {
                                 "min": 2,
                                 "max": 2,
@@ -33,10 +31,7 @@
                     },
                     {
                         "value": {
-                            "modifiers": [
-                                "the_vault:coin_pile",
-                                "the_vault:companion_challenge"
-                            ],
+                            "modifiers": ["the_vault:coin_pile", "the_vault:companion_challenge"],
                             "model": {
                                 "min": 2,
                                 "max": 2,
@@ -68,9 +63,7 @@
                     },
                     {
                         "value": {
-                            "modifiers": [
-                                "the_vault:wooden_cascade"
-                            ],
+                            "modifiers": ["the_vault:wooden_cascade"],
                             "model": {
                                 "min": 4,
                                 "max": 4,
@@ -116,9 +109,7 @@
                     },
                     {
                         "value": {
-                            "modifiers": [
-                                "the_vault:ornate_cascade"
-                            ],
+                            "modifiers": ["the_vault:ornate_cascade"],
                             "model": {
                                 "min": 1,
                                 "max": 1,
@@ -129,10 +120,7 @@
                     },
                     {
                         "value": {
-                            "modifiers": [
-                                "the_vault:ornate",
-                                "the_vault:companion_challenge"
-                            ],
+                            "modifiers": ["the_vault:ornate", "the_vault:companion_challenge"],
                             "model": {
                                 "min": 1,
                                 "max": 1,
@@ -164,9 +152,7 @@
                     },
                     {
                         "value": {
-                            "modifiers": [
-                                "the_vault:gilded_cascade"
-                            ],
+                            "modifiers": ["the_vault:gilded_cascade"],
                             "model": {
                                 "min": 3,
                                 "max": 3,
@@ -177,10 +163,7 @@
                     },
                     {
                         "value": {
-                            "modifiers": [
-                                "the_vault:gilded",
-                                "the_vault:companion_challenge"
-                            ],
+                            "modifiers": ["the_vault:gilded", "the_vault:companion_challenge"],
                             "model": {
                                 "min": 3,
                                 "max": 3,
@@ -212,9 +195,7 @@
                     },
                     {
                         "value": {
-                            "modifiers": [
-                                "the_vault:living_cascade"
-                            ],
+                            "modifiers": ["the_vault:living_cascade"],
                             "model": {
                                 "min": 6,
                                 "max": 6,
@@ -225,10 +206,7 @@
                     },
                     {
                         "value": {
-                            "modifiers": [
-                                "the_vault:living",
-                                "the_vault:companion_challenge"
-                            ],
+                            "modifiers": ["the_vault:living", "the_vault:companion_challenge"],
                             "model": {
                                 "min": 6,
                                 "max": 6,
@@ -246,10 +224,7 @@
                 "pool": [
                     {
                         "value": {
-                            "modifiers": [
-                                "the_vault:plentiful",
-                                "the_vault:companion_challenge"
-                            ],
+                            "modifiers": ["the_vault:plentiful", "the_vault:companion_challenge"],
                             "model": {
                                 "min": 5,
                                 "max": 5,
@@ -260,9 +235,7 @@
                     },
                     {
                         "value": {
-                            "modifiers": [
-                                "the_vault:plentiful"
-                            ],
+                            "modifiers": ["the_vault:plentiful"],
                             "model": {
                                 "min": 5,
                                 "max": 5,

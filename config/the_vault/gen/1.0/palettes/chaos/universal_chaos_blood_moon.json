@@ -279,7 +279,7 @@
             "target": "minecraft:oak_planks",
             "output": {
                 "architects_palette:twisted_planks": 3,
-				"everycomp:q/architects_palette/vertical_twisted_planks": 1
+                "everycomp:q/architects_palette/vertical_twisted_planks": 1
             }
         },
         {
@@ -435,7 +435,7 @@
             "type": "weighted_target",
             "target": "minecraft:green_concrete",
             "output": {
-				"minecraft:nether_wart_block": 1,
+                "minecraft:nether_wart_block": 1,
                 "auxiliaryblocks:red_gelatin": 1
             }
         },

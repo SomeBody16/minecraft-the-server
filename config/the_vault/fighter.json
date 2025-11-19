@@ -1,4 +1,4 @@
 {
-  "knockback": 0.6,
-  "chancerPerTick": 30
+    "knockback": 0.6,
+    "chancerPerTick": 30
 }

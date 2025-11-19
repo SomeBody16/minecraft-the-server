@@ -12,7 +12,7 @@
             "type": "reference",
             "id": "the_vault:raw/objective_placeholder"
         },
-	{
+        {
             "type": "weighted_target",
             "target": "minecraft:cobblestone",
             "output": {
@@ -21,7 +21,7 @@
                 "minecraft:calcite": 1
             }
         },
-	    {
+        {
             "type": "weighted_target",
             "target": "minecraft:stone",
             "output": {
@@ -37,7 +37,7 @@
                 "minecraft:diorite": 499999,
                 "create:cut_diorite": 250000,
                 "minecraft:calcite": 250000,
-				"auxiliaryblocks:purple_diorite": 1
+                "auxiliaryblocks:purple_diorite": 1
             }
         },
         {
@@ -612,66 +612,66 @@
         {
             "type": "leveled",
             "levels": [
-              {
-                  "level": 0,
-                  "type": "weighted_target",
-                  "target": "the_vault:god_altar",
-                  "output": {
-                      "minecraft:air": 1
-                  }
-              }
-            ]
-        },
-        {
-            "type": "leveled",
-            "levels": [
-              {
-                  "level": 0,
-                  "type": "weighted_target",
-                  "target": "the_vault:god_altar",
-                  "output": {
-                    "minecraft:air": 1
-                  }
-              }
-            ]
-        },
-        {
-            "type": "leveled",
-            "levels": [
-              {
-                  "level": 0,
-                  "type": "weighted_target",
-                  "target": "the_vault:god_altar",
-                  "output": {
-                    "minecraft:air": 1
-                  }
-              }
-            ]
-        },
-        {
-            "type": "leveled",
-            "levels": [
-              {
-                  "level": 0,
-                  "type": "weighted_target",
-                  "target": "the_vault:god_altar",
-                  "output": {
-                    "minecraft:air": 1
-                  }
-              }
+                {
+                    "level": 0,
+                    "type": "weighted_target",
+                    "target": "the_vault:god_altar",
+                    "output": {
+                        "minecraft:air": 1
+                    }
+                }
             ]
         },
         {
             "type": "leveled",
             "levels": [
                 {
-                "level": 0,
-                "type": "weighted_target",
-                "target": "ispawner:spawner",
-                "output": {
-                    "ispawner:spawner{ Manager:{ UsesLeft:1, Settings: { SpawnDelay: 40 } } } }": 1,
-                    "ispawner:spawner{ Manager:{ UsesLeft:1, Settings: { SpawnDelay: 50 } } } }": 4
+                    "level": 0,
+                    "type": "weighted_target",
+                    "target": "the_vault:god_altar",
+                    "output": {
+                        "minecraft:air": 1
+                    }
                 }
+            ]
+        },
+        {
+            "type": "leveled",
+            "levels": [
+                {
+                    "level": 0,
+                    "type": "weighted_target",
+                    "target": "the_vault:god_altar",
+                    "output": {
+                        "minecraft:air": 1
+                    }
+                }
+            ]
+        },
+        {
+            "type": "leveled",
+            "levels": [
+                {
+                    "level": 0,
+                    "type": "weighted_target",
+                    "target": "the_vault:god_altar",
+                    "output": {
+                        "minecraft:air": 1
+                    }
+                }
+            ]
+        },
+        {
+            "type": "leveled",
+            "levels": [
+                {
+                    "level": 0,
+                    "type": "weighted_target",
+                    "target": "ispawner:spawner",
+                    "output": {
+                        "ispawner:spawner{ Manager:{ UsesLeft:1, Settings: { SpawnDelay: 40 } } } }": 1,
+                        "ispawner:spawner{ Manager:{ UsesLeft:1, Settings: { SpawnDelay: 50 } } } }": 4
+                    }
                 }
             ]
         },

@@ -75,7 +75,7 @@
             "target": "minecraft:spruce_slab",
             "output": {
                 "minecraft:spruce_slab": 1,
-                "ecologics:walnut_slab":3
+                "ecologics:walnut_slab": 3
             }
         },
         {

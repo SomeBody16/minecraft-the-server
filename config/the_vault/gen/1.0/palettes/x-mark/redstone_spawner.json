@@ -73,14 +73,14 @@
             "type": "weighted_target",
             "target": "ispawner:spawner",
             "output": {
-              "ispawner:spawner{Manager:{SpawnTimer:200}}": 1
+                "ispawner:spawner{Manager:{SpawnTimer:200}}": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "ispawner:spawner",
             "output": {
-              "ispawner:spawner{Manager:{Settings:{Mode:2}}}": 1
+                "ispawner:spawner{Manager:{Settings:{Mode:2}}}": 1
             }
         }
     ]

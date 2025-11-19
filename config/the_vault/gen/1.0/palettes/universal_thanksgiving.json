@@ -17,7 +17,7 @@
                 "chipped:moss_block_11": 30
             }
         },
-	{
+        {
             "type": "weighted_target",
             "target": "minecraft:stone",
             "output": {
@@ -293,7 +293,7 @@
                 "minecraft:spruce_slab": 1
             }
         },
-	    {
+        {
             "type": "weighted_target",
             "target": "minecraft:oak_trapdoor",
             "output": {
@@ -407,8 +407,8 @@
             "type": "weighted_target",
             "target": "minecraft:mossy_stone_bricks",
             "output": {
-               "createdeco:mossy_red_bricks": 3,
-               "createdeco:mossy_red_long_bricks": 3
+                "createdeco:mossy_red_bricks": 3,
+                "createdeco:mossy_red_long_bricks": 3
             }
         },
         {
@@ -632,18 +632,12 @@
         {
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",
-            "stack": [
-                "THEME_HARVEST",
-                "THEME_CATEGORY_HARVEST"
-            ]
+            "stack": ["THEME_HARVEST", "THEME_CATEGORY_HARVEST"]
         },
         {
             "type": "template_stack_spawner",
             "target": "ispawner:spawner",
-            "stack": [
-                "THEME_HARVEST",
-                "THEME_CATEGORY_HARVEST"
-            ]
+            "stack": ["THEME_HARVEST", "THEME_CATEGORY_HARVEST"]
         }
     ],
     "entity_processors": [],

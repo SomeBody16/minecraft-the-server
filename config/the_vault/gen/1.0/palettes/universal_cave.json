@@ -8,7 +8,7 @@
             "type": "reference",
             "id": "the_vault:generic/treasure_door_placeholder"
         },
-	{
+        {
             "type": "weighted_target",
             "target": "minecraft:cobblestone",
             "output": {
@@ -16,7 +16,7 @@
                 "create:cut_tuff": 1
             }
         },
-	    {
+        {
             "type": "weighted_target",
             "target": "minecraft:stone",
             "output": {
@@ -604,18 +604,12 @@
         {
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",
-            "stack": [
-                "THEME_CAVE",
-                "THEME_CATEGORY_CAVE"
-            ]
+            "stack": ["THEME_CAVE", "THEME_CATEGORY_CAVE"]
         },
         {
             "type": "template_stack_spawner",
             "target": "ispawner:spawner",
-            "stack": [
-                "THEME_CAVE",
-                "THEME_CATEGORY_CAVE"
-            ]
+            "stack": ["THEME_CAVE", "THEME_CATEGORY_CAVE"]
         }
     ],
     "entity_processors": [],

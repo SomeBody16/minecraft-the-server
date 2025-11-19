@@ -3,7 +3,7 @@
         "IMPLICIT": [],
         "PREFIX": [],
         "SUFFIX": [
-             {
+            {
                 "attribute": "the_vault:added_ability_level",
                 "group": "ModAPLvl",
                 "identifier": "the_vault:mod_added_ability_level_expunge",

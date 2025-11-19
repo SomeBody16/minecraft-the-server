@@ -37,7 +37,6 @@
                 "minecraft:red_sandstone": 1,
                 "minecraft:smooth_red_sandstone": 8,
                 "minecraft:red_sand": 8
-                
             }
         },
         {
@@ -598,18 +597,12 @@
         {
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",
-            "stack": [
-                "THEME_MESA",
-                "THEME_CATEGORY_MESA"
-            ]
+            "stack": ["THEME_MESA", "THEME_CATEGORY_MESA"]
         },
         {
             "type": "template_stack_spawner",
             "target": "ispawner:spawner",
-            "stack": [
-                "THEME_MESA",
-                "THEME_CATEGORY_MESA"
-            ]
+            "stack": ["THEME_MESA", "THEME_CATEGORY_MESA"]
         }
     ],
     "entity_processors": [],

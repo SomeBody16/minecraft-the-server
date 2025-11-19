@@ -37,18 +37,12 @@
         {
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",
-            "stack": [
-                "STRUCTURE_DUNGEON",
-                "DUNGEON_DIFFICULTY_IMPOSSIBLE"
-            ]
+            "stack": ["STRUCTURE_DUNGEON", "DUNGEON_DIFFICULTY_IMPOSSIBLE"]
         },
         {
             "type": "template_stack_spawner",
             "target": "ispawner:spawner",
-            "stack": [
-                "STRUCTURE_DUNGEON",
-                "DUNGEON_DIFFICULTY_IMPOSSIBLE"
-            ]
+            "stack": ["STRUCTURE_DUNGEON", "DUNGEON_DIFFICULTY_IMPOSSIBLE"]
         }
     ]
 }

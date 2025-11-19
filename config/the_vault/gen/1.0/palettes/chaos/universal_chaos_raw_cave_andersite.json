@@ -4,7 +4,7 @@
             "type": "reference",
             "id": "the_vault:generic/treasure_door_placeholder"
         },
-	{
+        {
             "type": "weighted_target",
             "target": "minecraft:cobblestone",
             "output": {
@@ -13,7 +13,7 @@
                 "minecraft:stone": 1
             }
         },
-	    {
+        {
             "type": "weighted_target",
             "target": "minecraft:stone",
             "output": {

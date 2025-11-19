@@ -13,14 +13,13 @@
                 "minecraft:moss_block": 30
             }
         },
-	{
+        {
             "type": "weighted_target",
             "target": "minecraft:stone",
             "output": {
                 "decorative_blocks:spruce_beam": 50,
                 "minecraft:stripped_spruce_wood": 25,
                 "minecraft:spruce_planks": 25
-                
             }
         },
         {
@@ -283,7 +282,7 @@
                 "minecraft:acacia_slab": 1
             }
         },
-	    {
+        {
             "type": "weighted_target",
             "target": "minecraft:oak_trapdoor",
             "output": {
@@ -624,18 +623,12 @@
         {
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",
-            "stack": [
-                "THEME_SEASON_FALL",
-                "THEME_CATEGORY_MUSHROOM"
-            ]
+            "stack": ["THEME_SEASON_FALL", "THEME_CATEGORY_MUSHROOM"]
         },
         {
             "type": "template_stack_spawner",
             "target": "ispawner:spawner",
-            "stack": [
-                "THEME_SEASON_FALL",
-                "THEME_CATEGORY_MUSHROOM"
-            ]
+            "stack": ["THEME_SEASON_FALL", "THEME_CATEGORY_MUSHROOM"]
         }
     ],
     "entity_processors": [],

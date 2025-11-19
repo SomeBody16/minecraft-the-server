@@ -4,7 +4,7 @@
             "type": "reference",
             "id": "the_vault:generic/treasure_door_placeholder"
         },
-	    {
+        {
             "type": "weighted_target",
             "target": "minecraft:stone",
             "output": {
@@ -19,7 +19,7 @@
                 "auxiliaryblocks:white_crystal": 1
             }
         },
-		{
+        {
             "type": "weighted_target",
             "target": "minecraft:cobblestone",
             "output": {
@@ -584,7 +584,7 @@
             "type": "weighted_target",
             "target": "the_vault:god_altar",
             "output": {
-              "minecraft:air": 1
+                "minecraft:air": 1
             }
         },
         {

@@ -3,7 +3,7 @@
         "dimension": "mining_dimension:mining",
         "result": "deny"
     },
-     {
+    {
         "mod": "enchantwithmob",
         "result": "deny"
     },
@@ -23,7 +23,7 @@
         "mod": "naturalist",
         "result": "deny"
     },
-        {
+    {
         "mob": "quark:frog",
         "mincount": {
             "amount": 15

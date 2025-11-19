@@ -13,10 +13,10 @@
                     "target": "ispawner:spawner",
                     "output": [
                         {
-                          "elements": {
-                            "the_vault:dungeon_vindicator": 1
-                          },
-                          "weight": 1
+                            "elements": {
+                                "the_vault:dungeon_vindicator": 1
+                            },
+                            "weight": 1
                         }
                     ]
                 },
@@ -26,11 +26,11 @@
                     "target": "ispawner:spawner",
                     "output": [
                         {
-                          "elements": {
-                            "the_vault:dungeon_vindicator": 5,
-                            "the_vault:dungeon_pillager": 1
-                          },
-                          "weight": 1
+                            "elements": {
+                                "the_vault:dungeon_vindicator": 5,
+                                "the_vault:dungeon_pillager": 1
+                            },
+                            "weight": 1
                         }
                     ]
                 }
@@ -49,10 +49,10 @@
                     "target": "ispawner:spawner{ group:champion }",
                     "output": [
                         {
-                          "elements": {
-                            "the_vault:dungeon_vindicator{Tags:[\"vault_champion\"]}": 1
-                          },
-                          "weight": 1
+                            "elements": {
+                                "the_vault:dungeon_vindicator{Tags:[\"vault_champion\"]}": 1
+                            },
+                            "weight": 1
                         }
                     ]
                 }

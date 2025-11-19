@@ -13,7 +13,7 @@
                 "auxiliaryblocks:purple_gelatin": 2
             }
         },
-	{
+        {
             "type": "weighted_target",
             "target": "minecraft:stone",
             "output": {
@@ -267,7 +267,7 @@
             "target": "minecraft:oak_planks",
             "output": {
                 "architects_palette:osseous_pillar[axis=z]": 1,
-                "architects_palette:twisted_planks":3
+                "architects_palette:twisted_planks": 3
             }
         },
         {
@@ -284,7 +284,7 @@
                 "architects_palette:twisted_slab": 1
             }
         },
-	    {
+        {
             "type": "weighted_target",
             "target": "minecraft:oak_trapdoor",
             "output": {
@@ -637,18 +637,12 @@
         {
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",
-            "stack": [
-                "THEME_POISON",
-                "THEME_CATEGORY_MUSHROOM"
-            ]
+            "stack": ["THEME_POISON", "THEME_CATEGORY_MUSHROOM"]
         },
         {
             "type": "template_stack_spawner",
             "target": "ispawner:spawner",
-            "stack": [
-                "THEME_POISON",
-                "THEME_CATEGORY_MUSHROOM"
-            ]
+            "stack": ["THEME_POISON", "THEME_CATEGORY_MUSHROOM"]
         }
     ],
     "entity_processors": [],

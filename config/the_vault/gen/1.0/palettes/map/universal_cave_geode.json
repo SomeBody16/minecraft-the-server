@@ -16,7 +16,7 @@
                 "create:cut_scorchia": 35
             }
         },
-	    {
+        {
             "type": "weighted_target",
             "target": "minecraft:cobblestone",
             "output": {
@@ -179,8 +179,8 @@
             "target": "minecraft:grass",
             "output": {
                 "minecraft:small_amethyst_bud[facing=up]": 5,
-                "minecraft:medium_amethyst_bud[facing=up]":2,
-                "minecraft:large_amethyst_bud[facing=up]":2
+                "minecraft:medium_amethyst_bud[facing=up]": 2,
+                "minecraft:large_amethyst_bud[facing=up]": 2
             }
         },
         {
@@ -610,18 +610,12 @@
         {
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",
-            "stack": [
-                "THEME_CAVE_GEODE",
-                "THEME_CATEGORY_CAVE"
-            ]
+            "stack": ["THEME_CAVE_GEODE", "THEME_CATEGORY_CAVE"]
         },
         {
             "type": "template_stack_spawner",
             "target": "ispawner:spawner",
-            "stack": [
-                "THEME_CAVE_GEODE",
-                "THEME_CATEGORY_CAVE"
-            ]
+            "stack": ["THEME_CAVE_GEODE", "THEME_CATEGORY_CAVE"]
         }
     ],
     "entity_processors": [],

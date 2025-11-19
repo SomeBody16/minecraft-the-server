@@ -12,7 +12,7 @@
                 "architects_palette:spruce_boards": 25
             }
         },
-	{
+        {
             "type": "weighted_target",
             "target": "minecraft:stone",
             "output": {
@@ -284,7 +284,7 @@
                 "minecraft:spruce_slab": 1
             }
         },
-	    {
+        {
             "type": "weighted_target",
             "target": "minecraft:oak_trapdoor",
             "output": {
@@ -629,18 +629,12 @@
         {
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",
-            "stack": [
-                "THEME_LIVING_CAVE",
-                "THEME_CATEGORY_LUSH"
-            ]
+            "stack": ["THEME_LIVING_CAVE", "THEME_CATEGORY_LUSH"]
         },
         {
             "type": "template_stack_spawner",
             "target": "ispawner:spawner",
-            "stack": [
-                "THEME_LIVING_CAVE",
-                "THEME_CATEGORY_LUSH"
-            ]
+            "stack": ["THEME_LIVING_CAVE", "THEME_CATEGORY_LUSH"]
         }
     ],
     "entity_processors": [],

@@ -36,12 +36,6 @@
             }
         },
 
-
-
-
-
-
-
         {
             "type": "weighted_target",
             "target": "the_vault:placeholder{ Difficulty: Normal }",
@@ -77,21 +71,5 @@
                 "the_vault:placeholder{ ItemRarity:1.5f }": 1
             }
         }
-
-
-
-
-
-
-
-        
-        
-
-
-        
-        
-        
-        
-        
     ]
 }
