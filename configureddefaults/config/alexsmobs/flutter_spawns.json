@@ -1,11 +1,11 @@
 {
-  "biomes": [
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "minecraft:lush_caves"
-      }
+    "biomes": [
+        [
+            {
+                "type": "REGISTRY_NAME",
+                "negate": false,
+                "value": "minecraft:lush_caves"
+            }
+        ]
     ]
-  ]
 }
