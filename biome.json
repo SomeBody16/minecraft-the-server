@@ -21,7 +21,7 @@
         "enabled": false
     },
     "files": {
-        "includes": ["biome.json", "config/**/*"],
+        "includes": ["biome.json", "config/**/*", "configureddefaults/**/*"],
         "ignoreUnknown": true,
         "maxSize": 2097152
     }

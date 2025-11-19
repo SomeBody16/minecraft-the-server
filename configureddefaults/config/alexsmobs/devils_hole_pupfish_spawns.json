@@ -1,11 +1,11 @@
 {
-  "biomes": [
-    [
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "overworld"
-      }
+    "biomes": [
+        [
+            {
+                "type": "BIOME_DICT",
+                "negate": false,
+                "value": "overworld"
+            }
+        ]
     ]
-  ]
 }

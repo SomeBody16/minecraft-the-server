@@ -1,11 +1,11 @@
 {
-  "biomes": [
-    [
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "nether"
-      }
+    "biomes": [
+        [
+            {
+                "type": "BIOME_DICT",
+                "negate": false,
+                "value": "nether"
+            }
+        ]
     ]
-  ]
 }
