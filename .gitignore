@@ -31,3 +31,8 @@ o_prof
 
 # Project
 .idea
+
+# game
+/game
+/tools
+launcher_profiles.json

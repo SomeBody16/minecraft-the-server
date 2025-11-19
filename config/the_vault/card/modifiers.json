@@ -1560,7 +1560,6 @@
             ],
             "maxTier": 1
         },
-
         "amp_attack_damage": {
             "type": "gear",
             "name": {
@@ -4489,7 +4488,6 @@
             ],
             "maxTier": 1
         },
-
         "life_tap": {
             "type": "gear",
             "name": {
@@ -4660,7 +4658,6 @@
             ],
             "maxTier": 1
         },
-
         "temporal_charm": {
             "type": "gear",
             "name": {
@@ -5013,7 +5010,6 @@
             ],
             "maxTier": 1
         },
-
         "resource_blackopal": {
             "type": "task_loot",
             "name": {
@@ -5741,7 +5737,6 @@
             "highlightColor": "0x00FF00",
             "maxTier": 1
         },
-
         "resource_bronze": {
             "type": "task_loot",
             "name": {
@@ -6892,7 +6887,6 @@
             "highlightColor": "0x00FF00",
             "maxTier": 1
         },
-
         "wild_base": {
             "type": "dummy",
             "name": {

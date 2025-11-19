@@ -1910,7 +1910,6 @@
                 "attribute": "the_vault:critical_hit_mitigation",
                 "group": "uCritHitImplicit",
                 "identifier": "the_vault:u_base_crit_hit",
-
                 "tiers": [
                     {
                         "minLevel": 0,
@@ -4314,7 +4313,6 @@
                 "attribute": "the_vault:movement_speed",
                 "group": "uMovementSpeed",
                 "identifier": "the_vault:u_pacifist_movement",
-
                 "tiers": [
                     {
                         "minLevel": 0,
@@ -4415,7 +4413,6 @@
                 "attribute": "the_vault:effect",
                 "group": "uJump",
                 "identifier": "the_vault:ujump",
-
                 "tiers": [
                     {
                         "minLevel": 0,
@@ -4506,7 +4503,6 @@
                     }
                 ]
             },
-
             {
                 "attribute": "the_vault:ability_on_damage",
                 "group": "ModOnDamageType",
@@ -6778,7 +6774,7 @@
                         "maxLevel": -1,
                         "weight": 60,
                         "value": {
-                            "abilityKey": "Mana_Shield_Retribution",
+                            "abilityKey": "Mana_Shield_retribution",
                             "levelChange": 1
                         }
                     }

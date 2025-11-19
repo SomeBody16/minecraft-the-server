@@ -22,9 +22,9 @@
                             }
                         },
                         {
-                            "weight": 10,
+                            "weight": 20,
                             "item": {
-                                "id": "the_vault:key_piece",
+                                "id": "the_vault:vault_diamond",
                                 "count": {
                                     "type": "uniform",
                                     "min": 1,
