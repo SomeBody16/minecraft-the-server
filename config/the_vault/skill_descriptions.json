@@ -3641,6 +3641,35 @@
             },
             {
                 "text": "\n\nAlso allows you the ability to craft and wear Angel Rings (note: ALL forms of creative flight are disabled in vaults)."
+            },
+            {
+                "text": "\n\nThere are alternatives for this which are:"
+            },
+            {
+                "text": "\n - The Vault",
+                "color": "yellow"
+            },
+            {
+                "text": "\n   - Wings Trinket",
+                "color": "#FF2EFF"
+            },
+            {
+                "text": "\n - Ars Nouveau",
+                "color": "yellow"
+            },
+            {
+                "text": "\n   - Flight",
+                "color": "#FF2EFF"
+            },
+            {
+                "text": " ritual"
+            },
+            {
+                "text": "\n   - Glide",
+                "color": "#FF2EFF"
+            },
+            {
+                "text": " spell"
             }
         ],
         "Reach": [
