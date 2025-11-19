@@ -1216,7 +1216,6 @@
                 "vaultExp": 0
             }
         },
-
         {
             "type": "level_up",
             "id": "level_five",
@@ -1511,7 +1510,6 @@
                 "vaultExp": 0
             }
         },
-
         {
             "type": "level_up",
             "id": "level_ten",
@@ -2141,7 +2139,6 @@
                 "vaultExp": 0
             }
         },
-
         {
             "type": "level_up",
             "id": "reach_level_20",
@@ -3658,7 +3655,6 @@
                 "vaultExp": 0
             }
         },
-
         {
             "type": "level_up",
             "id": "reach_level_40",
@@ -3903,7 +3899,6 @@
                 "vaultExp": 0
             }
         },
-
         {
             "type": "level_up",
             "id": "reach_level_50",
@@ -4548,7 +4543,6 @@
                     }
                 ]
             },
-
             "icon": "the_vault:gui/quests/companion",
             "targetId": "the_vault:companion_incubator",
             "targetProgress": 1.0,
@@ -4695,7 +4689,6 @@
                 "vaultExp": 0
             }
         },
-
         {
             "type": "level_up",
             "id": "reach_level_100",

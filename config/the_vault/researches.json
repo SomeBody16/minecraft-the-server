@@ -875,7 +875,16 @@
             "usesKnowledge": true
         },
         {
-            "modIds": ["create"],
+            "modIds": [
+                "create",
+                "railways",
+                "create_sabers",
+                "createrailwaysnavigator",
+                "sliceanddice",
+                "create_connected",
+                "vintageimprovements",
+                "create_power_loader"
+            ],
             "restrictions": {
                 "restricts": {
                     "HITTABILITY": false,
@@ -1137,12 +1146,26 @@
                         "USABILITY": true,
                         "CRAFTABILITY": true
                     }
+                },
+                "minecraft:elytra": {
+                    "restricts": {
+                        "HITTABILITY": true,
+                        "USABILITY": true,
+                        "CRAFTABILITY": true
+                    }
+                },
+                "mekanism:hdpe_elytra": {
+                    "restricts": {
+                        "HITTABILITY": true,
+                        "USABILITY": true,
+                        "CRAFTABILITY": true
+                    }
                 }
             },
             "blockRestrictions": {},
             "entityRestrictions": {},
             "name": "Angel",
-            "cost": 4,
+            "cost": 10,
             "usesKnowledge": true
         },
         {

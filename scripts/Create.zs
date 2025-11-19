@@ -57,11 +57,11 @@ for Iskall85's Vaulthunters */
                                                       .addStep<mods.createtweaker.DeployerApplicationRecipe>((rb) => rb.require(<item:the_vault:chromatic_iron_ingot>))
                                                       .addStep<mods.createtweaker.PressingRecipe>((rb) => rb.duration(50)));
 
-craftingTable.addShaped("create_andesite_alloy", <item:create:andesite_alloy> *2, [
-    [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>],
-    [<item:minecraft:andesite>, <item:the_vault:chromatic_iron_ingot>, <item:minecraft:andesite>],
-    [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]
-]);
+// craftingTable.addShaped("create_andesite_alloy", <item:create:andesite_alloy> *2, [
+//     [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>],
+//     [<item:minecraft:andesite>, <item:the_vault:chromatic_iron_ingot>, <item:minecraft:andesite>],
+//     [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]
+// ]);
 
 craftingTable.addShaped("create_shaft", <item:create:shaft> *5, [
     [<item:minecraft:air>, <item:create:andesite_alloy>, <item:minecraft:air>],

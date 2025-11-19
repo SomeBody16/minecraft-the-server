@@ -785,7 +785,6 @@
                     }
                 ]
             },
-
             {
                 "attribute": "the_vault:added_ability_level",
                 "group": "ModLvlDefensive",

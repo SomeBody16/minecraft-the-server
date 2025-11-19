@@ -4,7 +4,11 @@
             "thermal:*_block",
             "thermal:*_ore",
             "thermal:*_rockwool",
-            "thermal:*slag*"
+            "thermal:*slag*",
+            "thermal:device_tree_extractor",
+            "thermal_resin_bucket",
+            "thermal:rubber",
+            "thermal:cured_rubber"
         ],
         "Applied Energistics": [
             "ae2:*_ore",
@@ -68,7 +72,9 @@
             "create:*ochrum*",
             "create:*scoria*",
             "create:*scorchia*",
-            "create:*veridium*"
+            "create:*veridium*",
+            "create:schematicannon",
+            "create:schematic_table"
         ],
         "Immersive Engineering": [
             "immersiveengineering:ore_*",

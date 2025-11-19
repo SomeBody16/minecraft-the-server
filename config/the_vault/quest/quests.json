@@ -1446,7 +1446,6 @@
                 "vaultExp": 0
             }
         },
-
         {
             "type": "level_up",
             "id": "level_ten",
@@ -1967,7 +1966,6 @@
                 "vaultExp": 0
             }
         },
-
         {
             "type": "collection",
             "id": "soul_diffuser",
@@ -2566,7 +2564,6 @@
                 "vaultExp": 0
             }
         },
-
         {
             "type": "mining",
             "id": "temporal_shards",
@@ -2629,7 +2626,6 @@
                 "vaultExp": 0
             }
         },
-
         {
             "type": "collection",
             "id": "artifact",
@@ -3007,7 +3003,6 @@
                 "vaultExp": 0
             }
         },
-
         {
             "type": "collection",
             "id": "warden",
@@ -4454,7 +4449,6 @@
                     }
                 ]
             },
-
             "icon": "the_vault:gui/quests/companion",
             "targetId": "the_vault:companion_incubator",
             "targetProgress": 1.0,

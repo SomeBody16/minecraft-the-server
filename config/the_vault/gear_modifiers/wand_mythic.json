@@ -89,7 +89,6 @@
                 "attribute": "the_vault:ability_power",
                 "group": "ModAPLvl",
                 "identifier": "the_vault:base_ap",
-
                 "tiers": [
                     {
                         "minLevel": 0,

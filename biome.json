@@ -7,7 +7,7 @@
         "indentStyle": "space",
         "indentWidth": 4,
         "lineWidth": 100,
-        "lineEnding": "lf"
+        "lineEnding": "crlf"
     },
     "json": {
         "formatter": {

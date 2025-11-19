@@ -1560,7 +1560,6 @@
             ],
             "maxTier": 1
         },
-
         "amp_attack_damage": {
             "type": "gear",
             "name": {
@@ -4030,23 +4029,6 @@
             ],
             "maxTier": 1
         },
-        "retribution": {
-            "type": "gear",
-            "name": {
-                "text": "Retribution Card"
-            },
-            "model": "the_vault:card/icon/retribution#inventory",
-            "groups": ["Arcane", "Offensive"],
-            "attribute": "the_vault:added_ability_level",
-            "pool": [
-                {
-                    "tier": 1,
-                    "abilityKey": "Retribution",
-                    "levelChange": 1
-                }
-            ],
-            "maxTier": 1
-        },
         "taunt": {
             "type": "gear",
             "name": {
@@ -4506,7 +4488,6 @@
             ],
             "maxTier": 1
         },
-
         "life_tap": {
             "type": "gear",
             "name": {
@@ -4677,7 +4658,6 @@
             ],
             "maxTier": 1
         },
-
         "temporal_charm": {
             "type": "gear",
             "name": {
@@ -5030,7 +5010,6 @@
             ],
             "maxTier": 1
         },
-
         "resource_blackopal": {
             "type": "task_loot",
             "name": {
@@ -5758,7 +5737,6 @@
             "highlightColor": "0x00FF00",
             "maxTier": 1
         },
-
         "resource_bronze": {
             "type": "task_loot",
             "name": {
@@ -6909,7 +6887,6 @@
             "highlightColor": "0x00FF00",
             "maxTier": 1
         },
-
         "wild_base": {
             "type": "dummy",
             "name": {
@@ -7727,10 +7704,6 @@
             },
             {
                 "value": "arcane",
-                "weight": 1.0
-            },
-            {
-                "value": "retribution",
                 "weight": 1.0
             },
             {

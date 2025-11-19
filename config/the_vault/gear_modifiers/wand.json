@@ -141,7 +141,6 @@
                 "attribute": "the_vault:ability_power",
                 "group": "ModAPLvl",
                 "identifier": "the_vault:base_ap",
-
                 "tiers": [
                     {
                         "minLevel": 0,
@@ -607,7 +606,6 @@
                     }
                 ]
             },
-
             {
                 "attribute": "the_vault:added_ability_level",
                 "group": "ModLvlDefensive",
@@ -2412,7 +2410,6 @@
                     }
                 ]
             },
-
             {
                 "attribute": "the_vault:area_of_effect",
                 "group": "ModEffectRadius",
@@ -2461,7 +2458,6 @@
                     }
                 ]
             },
-
             {
                 "attribute": "the_vault:cooldown_reduction",
                 "group": "ModCooldownReduction",
@@ -2550,7 +2546,6 @@
                     }
                 ]
             },
-
             {
                 "attribute": "the_vault:lucky_hit_chance",
                 "group": "ModOnHit",
