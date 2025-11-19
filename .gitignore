@@ -1,32 +1,6 @@
 # Config
-
-config/InventoryHUD
-config/pickupnotifier
-config/jade
-
-config/inventoryhud-client.toml
-config/xaerominimap_entities.json
-config/xaerominimap.txt
-config/shulkerplus/client.json
-config/betteradvancements-client.toml
-config/blueprint-client.toml
-config/configured-client.toml
-config/farsight-common.toml
-config/jeed-client.toml
-config/jeiintegration-client.toml
-config/mc2discord.toml
-config/pehkui-client.toml
-config/railways-client.toml
-config/rftoolsbuilder-client.toml
-config/rftoolsdim-client.toml
-config/rftoolsutility-client.toml
-config/rubidium*
-config/securitycraft-client.toml
-config/sidebar_buttons.json
-config/skinlayers.json
-config/the_vault_tweaks-client.toml
-config/upgrade_aquatic-client.toml
-
+config/*
+!config/the_vault
 
 # Base
 patchouli_data.json

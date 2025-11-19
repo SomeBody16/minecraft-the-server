@@ -996,7 +996,14 @@
     },
     {
       "modIds": [
-        "create"
+        "create",
+        "railways",
+        "create_sabers",
+        "createrailwaysnavigator",
+        "sliceanddice",
+        "create_connected",
+        "vintageimprovements",
+        "create_power_loader"
       ],
       "restrictions": {
         "restricts": {
