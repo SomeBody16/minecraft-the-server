@@ -129,6 +129,16 @@
             "boxWidth": 170,
             "boxHeight": 105,
             "icon": "the_vault:gui/research_groups/bottle"
+        },
+        "THE Server": {
+            "group": "THE Server",
+            "headerColor": -10758712,
+            "headerTextColor": -1,
+            "x": 550,
+            "y": 160,
+            "boxWidth": 170,
+            "boxHeight": 175,
+            "icon": "the_vault:gui/research_groups/the_server"
         }
     }
 }

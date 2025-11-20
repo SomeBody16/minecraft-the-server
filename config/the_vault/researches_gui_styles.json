@@ -539,6 +539,12 @@
             "y": 270,
             "frameType": "RECTANGULAR",
             "icon": "the_vault:gui/researches/brew"
+        },
+        "Biomancy": {
+            "x": 570,
+            "y": 185,
+            "frameType": "RECTANGULAR",
+            "icon": "the_vault:gui/researches/biomancy"
         }
     }
 }
