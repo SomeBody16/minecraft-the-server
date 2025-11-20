@@ -36,3 +36,6 @@ o_prof
 /game
 /tools
 launcher_profiles.json
+
+# node
+node_modules
