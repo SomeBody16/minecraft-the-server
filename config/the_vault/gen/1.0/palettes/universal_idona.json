@@ -636,7 +636,7 @@
             "type": "weighted_target",
             "target": "the_vault:god_altar",
             "output": {
-              "minecraft:air": 1
+                "minecraft:air": 1
             }
         },
         {

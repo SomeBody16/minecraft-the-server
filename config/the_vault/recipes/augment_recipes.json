@@ -1490,7 +1490,7 @@
                 }
             ]
         },
-         {
+        {
             "id": "the_vault:classic_vault_thanksgiving",
             "output": {
                 "AMOUNT": 1,
@@ -1515,7 +1515,7 @@
                 }
             ]
         },
-         {
+        {
             "id": "the_vault:classic_vault_barnyard",
             "output": {
                 "AMOUNT": 1,

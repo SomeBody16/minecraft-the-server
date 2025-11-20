@@ -12,7 +12,7 @@
                 "minecraft:deepslate": 1
             }
         },
-	{
+        {
             "type": "weighted_target",
             "target": "minecraft:stone",
             "output": {
@@ -280,7 +280,7 @@
                 "twigs:stripped_bamboo_slab": 1
             }
         },
-	    {
+        {
             "type": "weighted_target",
             "target": "minecraft:oak_trapdoor",
             "output": {

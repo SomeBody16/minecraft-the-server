@@ -3,16 +3,12 @@
         {
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",
-            "stack": [
-                "STRUCTURE_DUNGEON_SKELETON"
-            ]
+            "stack": ["STRUCTURE_DUNGEON_SKELETON"]
         },
         {
             "type": "template_stack_spawner",
             "target": "ispawner:spawner",
-            "stack": [
-                "STRUCTURE_DUNGEON_SKELETON"
-            ]
+            "stack": ["STRUCTURE_DUNGEON_SKELETON"]
         }
     ]
-  }
+}

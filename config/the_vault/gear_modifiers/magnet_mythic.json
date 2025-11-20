@@ -1,1199 +1,1098 @@
 {
-  "modifierGroup": {
-    "BASE_ATTRIBUTES": [
-      {
-        "attribute": "the_vault:durability",
-        "group": "BaseDurability",
-        "identifier": "the_vault:base_durability",
-        "tags": [
-          "resilientFocusTarget"
+    "modifierGroup": {
+        "BASE_ATTRIBUTES": [
+            {
+                "attribute": "the_vault:durability",
+                "group": "BaseDurability",
+                "identifier": "the_vault:base_durability",
+                "tags": ["resilientFocusTarget"],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 10,
+                        "value": {
+                            "min": 46000,
+                            "max": 60000,
+                            "step": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:soulbound",
+                "group": "BaseSoulbound",
+                "identifier": "the_vault:base_soulbound",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 50,
+                        "value": {
+                            "flag": true
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:soulbound",
+                "group": "BaseSoulbound",
+                "identifier": "the_vault:base_no_soulbound",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 50,
+                        "value": {
+                            "flag": false
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:divine",
+                "group": "BaseDivine",
+                "identifier": "the_vault:base_divine",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 80,
+                        "maxLevel": -1,
+                        "weight": 25,
+                        "value": {
+                            "flag": true
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:divine",
+                "group": "BaseDivine",
+                "identifier": "the_vault:base_no_divine",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 80,
+                        "maxLevel": -1,
+                        "weight": 75,
+                        "value": {
+                            "flag": false
+                        }
+                    }
+                ]
+            }
         ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 46000,
-              "max": 60000,
-              "step": 1
+        "IMPLICIT": [
+            {
+                "attribute": "the_vault:range",
+                "group": "BaseRange",
+                "identifier": "the_vault:base_range",
+                "tiers": [
+                    {
+                        "minLevel": 99,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 24.0,
+                            "max": 30.0,
+                            "step": 0.1
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:velocity",
+                "group": "BaseVelocity",
+                "identifier": "the_vault:base_velocity",
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 0.24,
+                            "max": 0.3,
+                            "step": 0.01
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:endergized",
+                "group": "BaseEndergized",
+                "identifier": "the_vault:base_endergized",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 75,
+                        "value": {
+                            "flag": true
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:endergized",
+                "group": "BaseEndergized",
+                "identifier": "the_vault:base_no_endergized",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 25,
+                        "value": {
+                            "flag": false
+                        }
+                    }
+                ]
             }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:soulbound",
-        "group": "BaseSoulbound",
-        "identifier": "the_vault:base_soulbound",
-        "tags": [],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 50,
-            "value": {
-              "flag": true
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:soulbound",
-        "group": "BaseSoulbound",
-        "identifier": "the_vault:base_no_soulbound",
-        "tags": [],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 50,
-            "value": {
-              "flag": false
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:divine",
-        "group": "BaseDivine",
-        "identifier": "the_vault:base_divine",
-        "tags": [],
-        "tiers": [
-          {
-            "minLevel": 80,
-            "maxLevel": -1,
-            "weight": 25,
-            "value": {
-              "flag": true
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:divine",
-        "group": "BaseDivine",
-        "identifier": "the_vault:base_no_divine",
-        "tags": [],
-        "tiers": [
-          {
-            "minLevel": 80,
-            "maxLevel": -1,
-            "weight": 75,
-            "value": {
-              "flag": false
-            }
-          }
-        ]
-      }
-    ],
-    "IMPLICIT": [
-      {
-        "attribute": "the_vault:range",
-        "group": "BaseRange",
-        "identifier": "the_vault:base_range",
-        "tiers": [
-          {
-            "minLevel": 99,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 24.0,
-              "max": 30.0,
-              "step": 0.1
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:velocity",
-        "group": "BaseVelocity",
-        "identifier": "the_vault:base_velocity",
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.24,
-              "max": 0.3,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:endergized",
-        "group": "BaseEndergized",
-        "identifier": "the_vault:base_endergized",
-        "tags": [],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 75,
-            "value": {
-              "flag": true
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:endergized",
-        "group": "BaseEndergized",
-        "identifier": "the_vault:base_no_endergized",
-        "tags": [],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 25,
-            "value": {
-              "flag": false
-            }
-          }
-        ]
-      }
-    ],
-    "PREFIX": [
-      {
-        "attribute": "the_vault:mining_speed",
-        "group": "ModMiningSpeed",
-        "identifier": "the_vault:mod_mining_speed",
-        "tags": [
-          "focusMiningSpeed"
         ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 18.0,
-              "max": 26.0,
-              "step": 0.1
+        "PREFIX": [
+            {
+                "attribute": "the_vault:mining_speed",
+                "group": "ModMiningSpeed",
+                "identifier": "the_vault:mod_mining_speed",
+                "tags": ["focusMiningSpeed"],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 18.0,
+                            "max": 26.0,
+                            "step": 0.1
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 26.1,
+                            "max": 32.0,
+                            "step": 0.1
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 33.0,
+                            "max": 43.0,
+                            "step": 0.1
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:range",
+                "group": "ModRange",
+                "identifier": "the_vault:mod_range",
+                "tags": ["focusMagnetRange"],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 9.0,
+                            "max": 11.0,
+                            "step": 0.1
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 11.1,
+                            "max": 13.0,
+                            "step": 0.1
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 13.1,
+                            "max": 18.0,
+                            "step": 0.1
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:velocity",
+                "group": "ModVelocity",
+                "identifier": "the_vault:mod_velocity",
+                "tags": ["focusMagnetVelocity"],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 0.18,
+                            "max": 0.23,
+                            "step": 0.01
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 0.24,
+                            "max": 0.26,
+                            "step": 0.01
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 0.27,
+                            "max": 0.32,
+                            "step": 0.01
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:reach",
+                "group": "ModReach",
+                "identifier": "the_vault:mod_reach",
+                "tags": ["focusReach"],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 1.4,
+                            "max": 1.8,
+                            "step": 0.01
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 1.81,
+                            "max": 2.0,
+                            "step": 0.01
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 2.01,
+                            "max": 2.5,
+                            "step": 0.01
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:durability",
+                "group": "ModDurability",
+                "identifier": "the_vault:mod_durability",
+                "tags": ["focusDurability"],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 24000,
+                            "max": 36000,
+                            "step": 1
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 36000,
+                            "max": 48000,
+                            "step": 1
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 48000,
+                            "max": 60000,
+                            "step": 1
+                        }
+                    }
+                ]
             }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 26.1,
-              "max": 32.0,
-              "step": 0.1
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 33.0,
-              "max": 43.0,
-              "step": 0.1
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:range",
-        "group": "ModRange",
-        "identifier": "the_vault:mod_range",
-        "tags": [
-          "focusMagnetRange"
         ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 9.0,
-              "max": 11.0,
-              "step": 0.1
+        "SUFFIX": [
+            {
+                "attribute": "the_vault:item_quantity",
+                "group": "ModItemQuantity",
+                "identifier": "the_vault:mod_item_quantity",
+                "tags": ["focusItemQuantity"],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 0.15,
+                            "max": 0.2,
+                            "step": 0.01
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 0.21,
+                            "max": 0.25,
+                            "step": 0.01
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 0.26,
+                            "max": 0.3,
+                            "step": 0.01
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:item_rarity",
+                "group": "ModItemRarity",
+                "identifier": "the_vault:mod_item_rarity",
+                "tags": ["focusItemRarity"],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 0.28,
+                            "max": 0.32,
+                            "step": 0.01
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 0.33,
+                            "max": 0.38,
+                            "step": 0.01
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 0.39,
+                            "max": 0.48,
+                            "step": 0.01
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:copiously",
+                "group": "ModCopiously",
+                "identifier": "the_vault:copiously",
+                "tags": ["focusCopiously"],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 0.23,
+                            "max": 0.28,
+                            "step": 0.001
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 0.29,
+                            "max": 0.32,
+                            "step": 0.001
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 0.33,
+                            "max": 0.44,
+                            "step": 0.001
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:soul_chance",
+                "group": "ModSoulChance",
+                "identifier": "the_vault:mod_soul_chance",
+                "tags": ["focusSoulChance"],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 140,
+                        "value": {
+                            "min": 0.45,
+                            "max": 0.6,
+                            "step": 0.01
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 0.61,
+                            "max": 0.9,
+                            "step": 0.01
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 0.91,
+                            "max": 1.2,
+                            "step": 0.01
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:trap_disarming",
+                "group": "ModTrapDisarming",
+                "identifier": "the_vault:mod_trap_disarming",
+                "tags": ["focusTrapDisarming"],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 0.19,
+                            "max": 0.24,
+                            "step": 0.01
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 0.25,
+                            "max": 0.33,
+                            "step": 0.01
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 100,
+                        "value": {
+                            "min": 0.34,
+                            "max": 0.44,
+                            "step": 0.01
+                        }
+                    }
+                ]
             }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 11.1,
-              "max": 13.0,
-              "step": 0.1
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 13.1,
-              "max": 18.0,
-              "step": 0.1
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:velocity",
-        "group": "ModVelocity",
-        "identifier": "the_vault:mod_velocity",
-        "tags": [
-          "focusMagnetVelocity"
         ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.18,
-              "max": 0.23,
-              "step": 0.01
+        "CRAFTED_PREFIX": [],
+        "CRAFTED_SUFFIX": [],
+        "CORRUPTED_IMPLICIT": [
+            {
+                "attribute": "the_vault:added_talent_level",
+                "group": "ModLvlBuff",
+                "identifier": "the_vault:corrupted_added_talent_level_prudent",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 40,
+                        "value": {
+                            "talentKey": "Prudent",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 65,
+                        "maxLevel": -1,
+                        "weight": 40,
+                        "value": {
+                            "talentKey": "Prudent",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_talent_level",
+                "group": "ModLvlBuff",
+                "identifier": "the_vault:corrupted_added_talent_level_treasure_seeker",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 40,
+                        "value": {
+                            "talentKey": "Treasure_Seeker",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 65,
+                        "maxLevel": -1,
+                        "weight": 40,
+                        "value": {
+                            "talentKey": "Treasure_Seeker",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_talent_level",
+                "group": "ModLvlBuff",
+                "identifier": "the_vault:corrupted_added_talent_level_harvest",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 40,
+                        "value": {
+                            "talentKey": "Bountiful_Harvest",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 65,
+                        "maxLevel": -1,
+                        "weight": 40,
+                        "value": {
+                            "talentKey": "Bountiful_Harvest",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlBuff",
+                "identifier": "the_vault:corrupted_added_ability_level_totem",
+                "tags": ["focusAbilityPower", "focusAbilityPowerTotem"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Totem",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlDefensive",
+                "identifier": "the_vault:corrupted_added_ability_level_manashield",
+                "tags": ["focusAbilityPower", "focusAbilityPowerManaShield"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 20,
+                        "value": {
+                            "abilityKey": "Mana_Shield",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlDefensive",
+                "identifier": "the_vault:corrupted_added_ability_level_stonefall",
+                "tags": ["focusAbilityPower", "focusAbilityPowerStonefall"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Stonefall",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlUtility",
+                "identifier": "the_vault:corrupted_added_ability_level_heal",
+                "tags": ["focusAbilityPower", "focusAbilityPowerHeal"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 20,
+                        "value": {
+                            "abilityKey": "Heal",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlUtility",
+                "identifier": "the_vault:corrupted_added_ability_level_dash",
+                "tags": ["focusAbilityPower", "focusAbilityPowerDash"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Dash",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlUtility",
+                "identifier": "the_vault:corrupted_added_ability_level_ghostwalk",
+                "tags": ["focusAbilityPower", "focusAbilityPowerGhostWalk"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 20,
+                        "value": {
+                            "abilityKey": "Ghost_Walk",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlUtility",
+                "identifier": "the_vault:corrupted_added_ability_level_megajump",
+                "tags": ["focusAbilityPower", "focusAbilityPowerMegaJump"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Mega_Jump",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlDefensive",
+                "identifier": "the_vault:corrupted_added_ability_level_colossus",
+                "tags": ["focusAbilityPower", "focusAbilityPowerColossus"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 20,
+                        "value": {
+                            "abilityKey": "Colossus",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlBuff",
+                "identifier": "the_vault:corrupted_added_ability_level_empower",
+                "tags": ["focusAbilityPower", "focusAbilityPowerEmpower"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Empower",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlUtility",
+                "identifier": "the_vault:corrupted_added_ability_level_hunter",
+                "tags": ["focusAbilityPower", "focusAbilityPowerHunter"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 10,
+                        "value": {
+                            "abilityKey": "Hunter",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlUtility",
+                "identifier": "the_vault:corrupted_added_ability_level_veinminer",
+                "tags": ["focusAbilityPower", "focusAbilityPowerVeinMiner"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Vein_Miner",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlDefensive",
+                "identifier": "the_vault:corrupted_added_ability_level_frostnova",
+                "tags": ["focusAbilityPower", "focusAbilityPowerNova"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Nova",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlBuff",
+                "identifier": "the_vault:corrupted_added_ability_level_rampage",
+                "tags": ["focusAbilityPower", "focusAbilityPowerRampage"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 30,
+                        "value": {
+                            "abilityKey": "Rampage",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlUtility",
+                "identifier": "the_vault:corrupted_added_ability_level_taunt",
+                "tags": ["focusAbilityPower", "focusAbilityPowerTaunt"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Taunt",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlUtility",
+                "identifier": "the_vault:corrupted_added_ability_level_javelin",
+                "tags": ["focusAbilityPower", "focusAbilityPowerJavelin"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 30,
+                        "value": {
+                            "abilityKey": "Javelin",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlDefensive",
+                "identifier": "the_vault:corrupted_added_ability_level_shell",
+                "tags": ["focusAbilityPower", "focusAbilityPowerShell"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Shell",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlBuff",
+                "identifier": "the_vault:corrupted_added_ability_level_battlecry",
+                "tags": ["focusAbilityPower", "focusAbilityPowerBattleCry"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Battle_Cry",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlDefensive",
+                "identifier": "the_vault:corrupted_added_ability_level_icebolt",
+                "tags": ["focusAbilityPower", "focusAbilityPowerIceBolt"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Ice_Bolt",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlDefensive",
+                "identifier": "the_vault:corrupted_added_ability_level_blizzard",
+                "tags": ["focusAbilityPower", "focusAbilityPowerBlizzard"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 30,
+                        "value": {
+                            "abilityKey": "Storm_Arrow",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:corrupted_added_ability_level_smite",
+                "tags": ["focusAbilityPower", "focusAbilityPowerSmite"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Smite",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:corrupted_added_ability_level_fireball",
+                "tags": ["focusAbilityPower", "focusAbilityPowerFireball"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Fireball",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:corrupted_added_ability_level_arcane",
+                "tags": ["focusAbilityPower", "focusAbilityPowerArcane"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 30,
+                        "value": {
+                            "abilityKey": "Arcane",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:corrupted_added_ability_level_lightning_strike",
+                "tags": ["focusAbilityPower", "focusAbilityPowerLightningStrike"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 30,
+                        "value": {
+                            "abilityKey": "Chain_Lightning",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:corrupted_added_ability_level_grenade_toxic",
+                "tags": ["focusAbilityPower", "focusAbilityPowerGrenadeToxic"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 30,
+                        "value": {
+                            "abilityKey": "Grenade",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlBuff",
+                "identifier": "the_vault:corrupted_added_ability_level_implode_life_tap",
+                "tags": ["focusAbilityPower", "focusAbilityImplodeLifeTap"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 30,
+                        "value": {
+                            "abilityKey": "Implode",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlBuff",
+                "identifier": "the_vault:corrupted_added_ability_level_earthquake",
+                "tags": ["focusAbilityPower", "focusAbilityPowerEarthquake"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 30,
+                        "value": {
+                            "abilityKey": "Earthquake",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlUtility",
+                "identifier": "the_vault:corrupted_added_ability_level_retribution",
+                "tags": ["focusAbilityPower", "focusAbilityPowerShieldBash"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Retribution",
+                            "levelChange": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModLvlUtility",
+                "identifier": "the_vault:corrupted_added_ability_level_shield_expunge",
+                "tags": ["focusAbilityPower", "focusAbilityPowerExpunge"],
+                "tiers": [
+                    {
+                        "minLevel": 25,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Expunge",
+                            "levelChange": 2
+                        }
+                    }
+                ]
             }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.24,
-              "max": 0.26,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.27,
-              "max": 0.32,
-              "step": 0.01
-            }
-          }
         ]
-      },
-      {
-        "attribute": "the_vault:reach",
-        "group": "ModReach",
-        "identifier": "the_vault:mod_reach",
-        "tags": [
-          "focusReach"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 1.4,
-              "max": 1.8,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 1.81,
-              "max": 2.0,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 2.01,
-              "max": 2.5,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:durability",
-        "group": "ModDurability",
-        "identifier": "the_vault:mod_durability",
-        "tags": [
-          "focusDurability"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 24000,
-              "max": 36000,
-              "step": 1
-            }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 36000,
-              "max": 48000,
-              "step": 1
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 48000,
-              "max": 60000,
-              "step": 1
-            }
-          }
-        ]
-      }
-    ],
-    "SUFFIX": [
-      {
-        "attribute": "the_vault:item_quantity",
-        "group": "ModItemQuantity",
-        "identifier": "the_vault:mod_item_quantity",
-        "tags": [
-          "focusItemQuantity"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.15,
-              "max": 0.2,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.21,
-              "max": 0.25,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.26,
-              "max": 0.3,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:item_rarity",
-        "group": "ModItemRarity",
-        "identifier": "the_vault:mod_item_rarity",
-        "tags": [
-          "focusItemRarity"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.28,
-              "max": 0.32,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.33,
-              "max": 0.38,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.39,
-              "max": 0.48,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:copiously",
-        "group": "ModCopiously",
-        "identifier": "the_vault:copiously",
-        "tags": [
-          "focusCopiously"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.23,
-              "max": 0.28,
-              "step": 0.001
-            }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.29,
-              "max": 0.32,
-              "step": 0.001
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.33,
-              "max": 0.44,
-              "step": 0.001
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:soul_chance",
-        "group": "ModSoulChance",
-        "identifier": "the_vault:mod_soul_chance",
-        "tags": [
-          "focusSoulChance"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 140,
-            "value": {
-              "min": 0.45,
-              "max": 0.6,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.61,
-              "max": 0.9,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.91,
-              "max": 1.2,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:trap_disarming",
-        "group": "ModTrapDisarming",
-        "identifier": "the_vault:mod_trap_disarming",
-        "tags": [
-          "focusTrapDisarming"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.19,
-              "max": 0.24,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.25,
-              "max": 0.33,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.34,
-              "max": 0.44,
-              "step": 0.01
-            }
-          }
-        ]
-      }
-    ],
-    "CRAFTED_PREFIX": [],
-    "CRAFTED_SUFFIX": [],
-    "CORRUPTED_IMPLICIT": [
-      {
-        "attribute": "the_vault:added_talent_level",
-        "group": "ModLvlBuff",
-        "identifier": "the_vault:corrupted_added_talent_level_prudent",
-        "tags": [],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 40,
-            "value": {
-              "talentKey": "Prudent",
-              "levelChange": 1
-            }
-          },
-          {
-            "minLevel": 65,
-            "maxLevel": -1,
-            "weight": 40,
-            "value": {
-              "talentKey": "Prudent",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_talent_level",
-        "group": "ModLvlBuff",
-        "identifier": "the_vault:corrupted_added_talent_level_treasure_seeker",
-        "tags": [],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 40,
-            "value": {
-              "talentKey": "Treasure_Seeker",
-              "levelChange": 1
-            }
-          },
-          {
-            "minLevel": 65,
-            "maxLevel": -1,
-            "weight": 40,
-            "value": {
-              "talentKey": "Treasure_Seeker",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_talent_level",
-        "group": "ModLvlBuff",
-        "identifier": "the_vault:corrupted_added_talent_level_harvest",
-        "tags": [],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 40,
-            "value": {
-              "talentKey": "Bountiful_Harvest",
-              "levelChange": 1
-            }
-          },
-          {
-            "minLevel": 65,
-            "maxLevel": -1,
-            "weight": 40,
-            "value": {
-              "talentKey": "Bountiful_Harvest",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlBuff",
-        "identifier": "the_vault:corrupted_added_ability_level_totem",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerTotem"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 60,
-            "value": {
-              "abilityKey": "Totem",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlDefensive",
-        "identifier": "the_vault:corrupted_added_ability_level_manashield",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerManaShield"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 20,
-            "value": {
-              "abilityKey": "Mana_Shield",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlDefensive",
-        "identifier": "the_vault:corrupted_added_ability_level_stonefall",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerStonefall"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 60,
-            "value": {
-              "abilityKey": "Stonefall",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlUtility",
-        "identifier": "the_vault:corrupted_added_ability_level_heal",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerHeal"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 20,
-            "value": {
-              "abilityKey": "Heal",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlUtility",
-        "identifier": "the_vault:corrupted_added_ability_level_dash",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerDash"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 60,
-            "value": {
-              "abilityKey": "Dash",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlUtility",
-        "identifier": "the_vault:corrupted_added_ability_level_ghostwalk",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerGhostWalk"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 20,
-            "value": {
-              "abilityKey": "Ghost_Walk",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlUtility",
-        "identifier": "the_vault:corrupted_added_ability_level_megajump",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerMegaJump"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 60,
-            "value": {
-              "abilityKey": "Mega_Jump",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlDefensive",
-        "identifier": "the_vault:corrupted_added_ability_level_colossus",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerColossus"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 20,
-            "value": {
-              "abilityKey": "Colossus",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlBuff",
-        "identifier": "the_vault:corrupted_added_ability_level_empower",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerEmpower"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 60,
-            "value": {
-              "abilityKey": "Empower",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlUtility",
-        "identifier": "the_vault:corrupted_added_ability_level_hunter",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerHunter"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "abilityKey": "Hunter",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlUtility",
-        "identifier": "the_vault:corrupted_added_ability_level_veinminer",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerVeinMiner"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 60,
-            "value": {
-              "abilityKey": "Vein_Miner",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlDefensive",
-        "identifier": "the_vault:corrupted_added_ability_level_frostnova",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerNova"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 60,
-            "value": {
-              "abilityKey": "Nova",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlBuff",
-        "identifier": "the_vault:corrupted_added_ability_level_rampage",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerRampage"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 30,
-            "value": {
-              "abilityKey": "Rampage",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlUtility",
-        "identifier": "the_vault:corrupted_added_ability_level_taunt",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerTaunt"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 60,
-            "value": {
-              "abilityKey": "Taunt",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlUtility",
-        "identifier": "the_vault:corrupted_added_ability_level_javelin",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerJavelin"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 30,
-            "value": {
-              "abilityKey": "Javelin",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlDefensive",
-        "identifier": "the_vault:corrupted_added_ability_level_shell",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerShell"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 60,
-            "value": {
-              "abilityKey": "Shell",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlBuff",
-        "identifier": "the_vault:corrupted_added_ability_level_battlecry",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerBattleCry"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 60,
-            "value": {
-              "abilityKey": "Battle_Cry",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlDefensive",
-        "identifier": "the_vault:corrupted_added_ability_level_icebolt",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerIceBolt"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 60,
-            "value": {
-              "abilityKey": "Ice_Bolt",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlDefensive",
-        "identifier": "the_vault:corrupted_added_ability_level_blizzard",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerBlizzard"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 30,
-            "value": {
-              "abilityKey": "Storm_Arrow",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModAPLvl",
-        "identifier": "the_vault:corrupted_added_ability_level_smite",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerSmite"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 60,
-            "value": {
-              "abilityKey": "Smite",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModAPLvl",
-        "identifier": "the_vault:corrupted_added_ability_level_fireball",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerFireball"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 60,
-            "value": {
-              "abilityKey": "Fireball",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-       { "attribute": "the_vault:added_ability_level",
-        "group": "ModAPLvl",
-        "identifier": "the_vault:corrupted_added_ability_level_arcane",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerArcane"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 30,
-            "value": {
-              "abilityKey": "Arcane",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      { "attribute": "the_vault:added_ability_level",
-        "group": "ModAPLvl",
-        "identifier": "the_vault:corrupted_added_ability_level_lightning_strike",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerLightningStrike"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 30,
-            "value": {
-              "abilityKey": "Chain_Lightning",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      { "attribute": "the_vault:added_ability_level",
-        "group": "ModAPLvl",
-        "identifier": "the_vault:corrupted_added_ability_level_grenade_toxic",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerGrenadeToxic"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 30,
-            "value": {
-              "abilityKey": "Grenade",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      { "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlBuff",
-        "identifier": "the_vault:corrupted_added_ability_level_implode_life_tap",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityImplodeLifeTap"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 30,
-            "value": {
-              "abilityKey": "Implode",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      { "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlBuff",
-        "identifier": "the_vault:corrupted_added_ability_level_earthquake",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerEarthquake"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 30,
-            "value": {
-              "abilityKey": "Earthquake",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlUtility",
-        "identifier": "the_vault:corrupted_added_ability_level_shield_bash",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerShieldBash"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 60,
-            "value": {
-              "abilityKey": "Shield_Bash",
-              "levelChange": 2
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlUtility",
-        "identifier": "the_vault:corrupted_added_ability_level_shield_expunge",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerExpunge"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 60,
-            "value": {
-              "abilityKey": "Expunge",
-              "levelChange": 2
-            }
-          }
-        ]
-      }
-    ]
-  }
+    }
 }

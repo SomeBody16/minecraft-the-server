@@ -1,8 +1,6 @@
 [
     {
-        "mob": [
-            "quark:frog"
-        ],
+        "mob": ["quark:frog"],
         "persecond": 0.15,
         "attempts": 20,
         "amount": {

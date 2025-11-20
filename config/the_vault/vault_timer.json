@@ -1,8 +1,8 @@
 {
-  "TIME_OVERRIDES": [
-    {
-      "MIN_LEVEL": 0,
-      "TIME": 30000
-    }
-  ]
+    "TIME_OVERRIDES": [
+        {
+            "MIN_LEVEL": 0,
+            "TIME": 30000
+        }
+    ]
 }

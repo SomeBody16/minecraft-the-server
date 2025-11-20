@@ -12,7 +12,7 @@
                 "minecraft:deepslate": 1
             }
         },
-	{
+        {
             "type": "weighted_target",
             "target": "minecraft:stone",
             "output": {
@@ -305,7 +305,7 @@
                 "buildersdelight:acacia_slab_3": 1
             }
         },
-	    {
+        {
             "type": "weighted_target",
             "target": "minecraft:oak_trapdoor",
             "output": {
@@ -721,18 +721,12 @@
         {
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",
-            "stack": [
-                "THEME_GLOOM",
-                "THEME_CATEGORY_GLOOM"
-            ]
+            "stack": ["THEME_GLOOM", "THEME_CATEGORY_GLOOM"]
         },
         {
             "type": "template_stack_spawner",
             "target": "ispawner:spawner",
-            "stack": [
-                "THEME_GLOOM",
-                "THEME_CATEGORY_GLOOM"
-            ]
+            "stack": ["THEME_GLOOM", "THEME_CATEGORY_GLOOM"]
         }
     ],
     "entity_processors": [],

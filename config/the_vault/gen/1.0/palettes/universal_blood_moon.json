@@ -279,7 +279,7 @@
             "target": "minecraft:oak_planks",
             "output": {
                 "architects_palette:twisted_planks": 3,
-				"everycomp:q/architects_palette/vertical_twisted_planks": 1
+                "everycomp:q/architects_palette/vertical_twisted_planks": 1
             }
         },
         {
@@ -435,7 +435,7 @@
             "type": "weighted_target",
             "target": "minecraft:green_concrete",
             "output": {
-				"minecraft:nether_wart_block": 1,
+                "minecraft:nether_wart_block": 1,
                 "auxiliaryblocks:red_gelatin": 1
             }
         },
@@ -632,18 +632,12 @@
         {
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",
-            "stack": [
-                "THEME_BLOOD_MOON",
-                "THEME_CATEGORY_BLOOD_MOON"
-            ]
+            "stack": ["THEME_BLOOD_MOON", "THEME_CATEGORY_BLOOD_MOON"]
         },
         {
             "type": "template_stack_spawner",
             "target": "ispawner:spawner",
-            "stack": [
-                "THEME_BLOOD_MOON",
-                "THEME_CATEGORY_BLOOD_MOON"
-            ]
+            "stack": ["THEME_BLOOD_MOON", "THEME_CATEGORY_BLOOD_MOON"]
         }
     ],
     "entity_processors": [],

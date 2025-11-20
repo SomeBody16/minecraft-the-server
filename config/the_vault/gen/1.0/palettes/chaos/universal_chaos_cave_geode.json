@@ -12,7 +12,7 @@
                 "create:cut_scorchia": 35
             }
         },
-	    {
+        {
             "type": "weighted_target",
             "target": "minecraft:cobblestone",
             "output": {
@@ -175,8 +175,8 @@
             "target": "minecraft:grass",
             "output": {
                 "minecraft:small_amethyst_bud[facing=up]": 5,
-                "minecraft:medium_amethyst_bud[facing=up]":2,
-                "minecraft:large_amethyst_bud[facing=up]":2
+                "minecraft:medium_amethyst_bud[facing=up]": 2,
+                "minecraft:large_amethyst_bud[facing=up]": 2
             }
         },
         {

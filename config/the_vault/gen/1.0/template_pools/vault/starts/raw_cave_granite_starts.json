@@ -1,11 +1,9 @@
 [
-  {
-    "weight": 1,
-    "value": {
-      "template": "the_vault:vault/starts/start1",
-      "palettes": [
-        "the_vault:raw/universal_raw_cave_granite"
-      ]
+    {
+        "weight": 1,
+        "value": {
+            "template": "the_vault:vault/starts/start1",
+            "palettes": ["the_vault:raw/universal_raw_cave_granite"]
+        }
     }
-  }
 ]

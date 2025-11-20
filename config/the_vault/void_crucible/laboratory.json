@@ -1,7 +1,7 @@
 {
-	"displayName": "Challenge Room: Laboratory",
-	"resources": [
-		"architects_palette:flint_pillar",
+    "displayName": "Challenge Room: Laboratory",
+    "resources": [
+        "architects_palette:flint_pillar",
         "architects_palette:hazard_block",
         "architects_palette:pipe",
         "architects_palette:plating_block",
@@ -45,5 +45,5 @@
         "the_vault:polished_vault_stone",
         "the_vault:polished_vault_stone_slab",
         "the_vault:polished_vault_stone_stairs"
-	]
+    ]
 }

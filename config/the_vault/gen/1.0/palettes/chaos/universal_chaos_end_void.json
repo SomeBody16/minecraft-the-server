@@ -8,7 +8,7 @@
             "type": "reference",
             "id": "the_vault:generic/treasure_door_placeholder"
         },
-	{
+        {
             "type": "weighted_target",
             "target": "minecraft:gray_concrete",
             "output": {
@@ -26,7 +26,7 @@
                 "quark:waxed_black_corundum": 20
             }
         },
-	{
+        {
             "type": "weighted_target",
             "target": "minecraft:stone",
             "output": {

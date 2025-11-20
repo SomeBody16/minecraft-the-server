@@ -416,7 +416,7 @@
             "target": "minecraft:mossy_cobblestone",
             "output": {
                 "architects_palette:olivestone_bricks": 20,
-                "architects_palette:cracked_olivestone_tiles":20,
+                "architects_palette:cracked_olivestone_tiles": 20,
                 "architects_palette:olivestone_tiles": 20,
                 "architects_palette:olivestone_brick_wall": 20,
                 "architects_palette:olivestone_tile_wall": 20

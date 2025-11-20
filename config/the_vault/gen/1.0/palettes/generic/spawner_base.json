@@ -1,10 +1,10 @@
 {
     "tile_processors": [
-	    {
+        {
             "type": "weighted_target",
             "target": "ispawner:spawner",
             "output": {
-              "ispawner:spawner{Manager:{SpawnTimer:0}}": 1
+                "ispawner:spawner{Manager:{SpawnTimer:0}}": 1
             }
         }
     ]

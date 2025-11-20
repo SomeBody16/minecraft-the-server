@@ -2,36 +2,36 @@
     {
         "weight": 1,
         "value": {
-        "template": "the_vault:arena/arena1",
-        "palettes": [ "the_vault:arena/classic" ]
+            "template": "the_vault:arena/arena1",
+            "palettes": ["the_vault:arena/classic"]
         }
     },
     {
         "weight": 1,
         "value": {
             "template": "the_vault:arena/arena1",
-            "palettes": [ "the_vault:arena/fairy" ]
+            "palettes": ["the_vault:arena/fairy"]
         }
     },
     {
         "weight": 1,
         "value": {
             "template": "the_vault:arena/arena1",
-            "palettes": [ "the_vault:arena/soul_flame" ]
+            "palettes": ["the_vault:arena/soul_flame"]
         }
     },
     {
         "weight": 1,
         "value": {
             "template": "the_vault:arena/arena1",
-            "palettes": [ "the_vault:arena/terrarium" ]
+            "palettes": ["the_vault:arena/terrarium"]
         }
     },
     {
         "weight": 1,
         "value": {
             "template": "the_vault:arena/arena1",
-            "palettes": [ "the_vault:arena/vampiric" ]
+            "palettes": ["the_vault:arena/vampiric"]
         }
     }
 ]

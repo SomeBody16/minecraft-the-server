@@ -15,7 +15,7 @@
             "type": "weighted_target",
             "target": "minecraft:glass",
             "output": {
-              "minecraft:light[level=12]": 1
+                "minecraft:light[level=12]": 1
             }
         }
     ],

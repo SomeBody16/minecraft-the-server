@@ -13,7 +13,7 @@
                 "minecraft:mushroom_stem": 25
             }
         },
-	{
+        {
             "type": "weighted_target",
             "target": "minecraft:stone",
             "output": {
@@ -257,7 +257,7 @@
             "target": "minecraft:oak_planks",
             "output": {
                 "minecraft:birch_planks": 6,
-                "architects_palette:birch_boards":4
+                "architects_palette:birch_boards": 4
             }
         },
         {
@@ -274,7 +274,7 @@
                 "minecraft:birch_slab": 1
             }
         },
-	    {
+        {
             "type": "weighted_target",
             "target": "minecraft:oak_trapdoor",
             "output": {
@@ -616,18 +616,12 @@
         {
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",
-            "stack": [
-                "THEME_MUSHROOM",
-                "THEME_CATEGORY_MUSHROOM"
-            ]
+            "stack": ["THEME_MUSHROOM", "THEME_CATEGORY_MUSHROOM"]
         },
         {
             "type": "template_stack_spawner",
             "target": "ispawner:spawner",
-            "stack": [
-                "THEME_MUSHROOM",
-                "THEME_CATEGORY_MUSHROOM"
-            ]
+            "stack": ["THEME_MUSHROOM", "THEME_CATEGORY_MUSHROOM"]
         }
     ],
     "entity_processors": [],

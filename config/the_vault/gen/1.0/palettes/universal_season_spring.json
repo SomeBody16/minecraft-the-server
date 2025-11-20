@@ -624,18 +624,12 @@
         {
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",
-            "stack": [
-                "THEME_SEASON_SPRING",
-                "THEME_CATEGORY_LUSH"
-            ]
+            "stack": ["THEME_SEASON_SPRING", "THEME_CATEGORY_LUSH"]
         },
         {
             "type": "template_stack_spawner",
             "target": "ispawner:spawner",
-            "stack": [
-                "THEME_SEASON_SPRING",
-                "THEME_CATEGORY_LUSH"
-            ]
+            "stack": ["THEME_SEASON_SPRING", "THEME_CATEGORY_LUSH"]
         }
     ],
     "entity_processors": [],

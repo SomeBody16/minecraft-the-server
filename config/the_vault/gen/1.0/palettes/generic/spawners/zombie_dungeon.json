@@ -13,10 +13,10 @@
                     "target": "ispawner:spawner",
                     "output": [
                         {
-                          "elements": {
-                            "the_vault:t1_zombie": 1
-                          },
-                          "weight": 1
+                            "elements": {
+                                "the_vault:t1_zombie": 1
+                            },
+                            "weight": 1
                         }
                     ]
                 }
@@ -35,10 +35,10 @@
                     "target": "ispawner:spawner{ group:champion }",
                     "output": [
                         {
-                          "elements": {
-                            "the_vault:t2_zombie{Tags:[\"vault_champion\"]}": 1
-                          },
-                          "weight": 1
+                            "elements": {
+                                "the_vault:t2_zombie{Tags:[\"vault_champion\"]}": 1
+                            },
+                            "weight": 1
                         }
                     ]
                 }
