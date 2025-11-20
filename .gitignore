@@ -36,6 +36,27 @@ o_prof
 /game
 /tools
 launcher_profiles.json
+/assets
+/bin
+/debug
+/libraries
+/modernfix
+/otyacraftengine
+/quickPlay
+/runtime
+/versions
+/webcache2
+/clientId_v2.txt
+/keys.txt
+/launcher_*
+/options.*
+/rhino.*
+/treatment_tags.json
+/updateSourceCache.json
+/vault_soundOptions.txt
+/vaultOptions.json
+/everbook
+/world
 
 # node
 node_modules
