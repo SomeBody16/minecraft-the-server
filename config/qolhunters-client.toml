@@ -2,10 +2,6 @@
 #QOLHunters Configuration
 #SOME CHANGES REQUIRE A CLIENT RESTART
 ["General Configs"]
-	#Disables QOL mods that cannot work on vanilla VH servers (disables all mods in the 'Client-Server Extensions' list)
-	#Be very careful if you change this on single player worlds! For example, if you have emeralds in your enchantment table and you enable this, those will probably get deleted if you load the world before changing this back
-	#Requires Restart
-	"Vanilla Safe Mode" = false
 	#Show the Config Button in the Statistics Menu (H)
 	"Show Config Button" = true
 
@@ -24,36 +20,24 @@
 	"Ability Multicast" = true
 	#Automatically open the next booster pack in your inventory after you select a card
 	"Chain Booster Packs" = true
-	#Show treasure door names in the vault
-	"Treasure Door Names" = true
-	#Add inventory buttons / use arrow keys to cycle through backpacks in your inventory
-	"Backpack Cycler" = false
 	#Autoswap to the correct treasure key when you right-click a treasure door with another key as long as the correct key is in your main inventory
 	"Treasure Key Swapper" = false
-
-	["Client-Only Extensions"."Better Descriptions"]
-		#Improves descriptions in the 'Statistics' Tab.
-		"Better Stats Descriptions" = false
-		#Improves descriptions in the 'Abilities' Tab.
-		#Disable if you're not on version 3.15.1.4
-		"Better Abilities Descriptions" = false
-		#Improves descriptions in the 'Talents', 'Expertises', and 'Researches' Tabs.
-		#Disable if you're not on version 3.15.1.4
-		"Better Talents, Expertise, Research Descriptions" = false
-
-		["Client-Only Extensions"."Better Descriptions"."Better Soul Value Tooltips"]
-			#Improves the descriptions of soul values in tooltips when holding SHIFT
-			"Enable Better Tooltips" = true
-			#Uses shorthand for soul values in tooltips (e.g. 1.4M instead of 1408933)
-			"Use Shorthand" = true
-			#Use soul shards instead of soul value 
-			"Use Soul Shards" = false
-
-	["Client-Only Extensions"."Black Market"]
-		#Displays the number of shards in your Shard Pouch within the Black Market's interface
-		"Black Market Shard Pouch Count" = false
-		#Uses shorthand for the Black Market Shard Pouch count (e.g. 1.4M instead of 1408933)
-		"Black Market Shard Pouch Count Shorthand" = false
+	#Show duration in the cooldown overlay while ability is active (only works with abilities which cooldown starts after their duration ends)
+	"Ability Duration Overlay" = true
+	#Add search box to vault stations
+	"Searchable Vault Stations" = true
+	#Show alert when equipped vault curio is broken
+	"Broken Curio Alert" = true
+	#Show unlocked research requirements in green color
+	"Green Unlocked Researches" = true
+	#Fixes lines breaks in descriptions in the 'Statistics' Tab.
+	"Multiline Stat Labels" = true
+	#Adds toggles to prestige selection screen
+	"Prestige Toggles" = true
+	#Adds roll ranges to resource cards when holding shift
+	"Resource Card Roll Range" = true
+	#Show raw chests and speed up vault history screen
+	"Better Loot Stats" = true
 
 	["Client-Only Extensions"."Scavenger Vaults"]
 		#Shows the number of scavenger items you have in your inventory
@@ -104,10 +88,6 @@
 			#Range: 0 ~ 100
 			"God Objective Y Offset" = 45
 
-		["Client-Only Extensions"."HUD Positioning"."Vault Modifiers"]
-			#Render Vault Modifiers in the top right corner of the screen
-			"Vault Modifiers In Top Right" = false
-
 	["Client-Only Extensions"."Paradox Vaults"]
 		#Hold <SHIFT> to enlarge the paradox vault gate unlock text.
 		#Note: Designed for BUILD mode, but currently also takes effect when running the vault too.
@@ -118,21 +98,12 @@
 		"Enable Bartering Discount Display" = true
 		#Shopping pedestals throw items so that your magnets/bags can pick them up instead
 		"Shopping Pedestal Throws Items" = false
+		#Treasure pedestals throw items so that your magnets/bags can pick them up instead
+		"Treasure Pedestal Throws Items" = true
 
 	["Client-Only Extensions"."Rarity Highlighter"]
-		#Enable highlighting Vault Gear in your Inventory while holding <SHIFT>
-		"Enable Rarity Highlighter" = false
-		#Highlighter Mode
-		#Allowed Values: GRADIENT, UNDERLINE
-		"Highlighter Mode" = "GRADIENT"
-		#Highlight Rare Gear
-		"Highlight Rare Gear" = true
-		#Highlight Epic Gear
-		"Highlight Epic Gear" = true
-		#Highlight Omega Gear
-		"Highlight Omega Gear" = true
-		#Highlight Unique Gear
-		"Highlight Unique Gear" = true
+		#Enable highlighting Vault Gear in AE and RS while holding <SHIFT>
+		"Enable Rarity Highlighter in AE and RS" = true
 
 	#Use a Warped Fungus on a Stick to configure Virtual Dehammerizer.
 	#Use arrow UP/DOWN keys to cycle between Dehammerizers.
@@ -151,7 +122,7 @@
 		"Dehammerizer Range" = 24
 
 	["Client-Only Extensions"."Hunter Particles"]
-		#Show Hunter Particles for Objectives/Altars
+		#Show Hunter Particles for Objectives
 		Objectives = true
 		#Show Hunter Particles for Gilded Chests
 		Gilded = true
@@ -165,9 +136,73 @@
 		Wooden = true
 		#Show Default White Hunter Particles
 		Default = true
+		#Show Hunter Particles for Hardened Chests
+		Hardened = true
+		#Show Hunter Particles for Enigma Chests
+		Enigma = true
+		#Show Hunter Particles for Flesh Chests
+		Flesh = true
+		#Show Hunter Particles for God Altars
+		GodAltars = true
+		#Show Hunter Particles for Dungeons
+		Dungeons = true
+		#Show Hunter Particles for Vendors
+		Vendors = true
+		#Show Hunter Particles for Treasure Doors
+		TreasureDoors = true
+		#Show Hunter Particles for Pylons
+		Pylons = true
 
-["Client-Server Extensions"]
-	#Adds an emerald slot to the Vault Enchanter
-	#This setting will be safely ignored if you connect to a server without QOLHunters installed
-	"Vault Enchanter Emeralds Slot" = true
+	["Client-Only Extensions"."Better Soul Value Tooltips"]
+		#Improves the descriptions of soul values in tooltips when holding SHIFT
+		"Enable Better Tooltips" = true
+		#Uses shorthand for soul values in tooltips (e.g. 1.4M instead of 1408933)
+		"Use Shorthand" = true
+		#Use soul shards instead of soul value 
+		"Use Soul Shards" = false
+
+	["Client-Only Extensions"."Elixir Vaults"]
+		#Removes shadows from Elixir orbs. Significantly improves performance.
+		#Requires Restart
+		"Shadowless Elixir Orbs" = true
+		#Culls Elixir orbs when there are more than this many on screen
+		#LOW=100
+		#MED=50
+		#HIGH=25
+		#Allowed Values: NONE, LOW, MED, HIGH
+		"Elixir Orb Culling" = "MED"
+
+	["Client-Only Extensions"."Ascension Vaults"]
+		#Enable a tooltip to show the amount of Ember granted on a failed Ascension Vault while holding <SHIFT> on Ascension Crystals
+		"Ascension Crystal Ember Grant Amount" = true
+		#Enable a tooltip to show the amount of Ember granted on a failed Ascension Vault while holding <SHIFT> on Challenger Rocks
+		"Challenger Rock Ember Grant Amount" = true
+
+	["Client-Only Extensions"."Better Screens"]
+		#Improves the Jewel Application Screen
+		"Better Jewel Application Screen" = true
+		#Improves the Card Deck Screen
+		"Better Card Deck Screen" = true
+
+	["Client-Only Extensions"."Gear Roll Colors"]
+		#Scrappy+ Gear
+		"Scrappy+" = 12369084
+		#Common+ Gear
+		"Common+" = 5353215
+		#Rare+ Gear
+		"Rare+" = 16771072
+		#Epic+ Gear
+		"Epic+" = 16711935
+		#Omega Gear
+		Omega = 7012096
+
+	["Client-Only Extensions"."Temporal Modifier Timer"]
+		#Enable temporal modifier timer overlay
+		Enable = true
+		#Scale of the text
+		Scale = 0.5
+		#Horizontal offset
+		"X Offset" = 0.0
+		#Vertical offset
+		"Y Offset" = 6.0
 

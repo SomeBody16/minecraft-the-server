@@ -1069,9 +1069,7 @@
             ]
         },
         {
-            "modIds": [
-                "biomancy"
-            ],
+            "modIds": ["biomancy"],
             "restrictions": {
                 "restricts": {
                     "HITTABILITY": false,

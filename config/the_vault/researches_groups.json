@@ -203,9 +203,7 @@
         },
         "THE Server": {
             "title": "THE Server",
-            "research": [
-                "Biomancy"
-            ],
+            "research": ["Biomancy"],
             "globalCostIncrease": 0.0,
             "groupCostIncrease": {
                 "THE Server": 1.0
