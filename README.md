@@ -1,5 +1,11 @@
+# Install
+
+```
+npm i
+```
+
 # Format files
 
 ```
-npx @biomejs/biome format --write --skip-parse-errors
+npx run format
 ```
