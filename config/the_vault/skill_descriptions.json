@@ -19627,6 +19627,21 @@
             {
                 "text": " for crafting inside of the Weaving Station. "
             }
+        ],
+        "Biomancy": [
+            {
+                "text": "Unlocks the "
+            },
+            {
+                "text": "Biomancy",
+                "color": "yellow"
+            },
+            {
+                "text": " mod. A biopunk inspired tech-magic mod with a fleshy art theme.\n\n"
+            },
+            {
+                "text": "Manipulate life essence to craft biological machinery and living equipment."
+            }
         ]
     }
 }

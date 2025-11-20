@@ -200,6 +200,16 @@
             "groupCostIncrease": {
                 "Alchemy": 5.0
             }
+        },
+        "THE Server": {
+            "title": "THE Server",
+            "research": [
+                "Biomancy"
+            ],
+            "globalCostIncrease": 0.0,
+            "groupCostIncrease": {
+                "THE Server": 1.0
+            }
         }
     }
 }

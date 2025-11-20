@@ -882,7 +882,6 @@
                 "createrailwaysnavigator",
                 "sliceanddice",
                 "create_connected",
-                "vintageimprovements",
                 "create_power_loader"
             ],
             "restrictions": {
@@ -1068,6 +1067,23 @@
                 "the_vault:gear/armor/meka_dark/leggings",
                 "the_vault:gear/armor/meka_dark/boots"
             ]
+        },
+        {
+            "modIds": [
+                "biomancy"
+            ],
+            "restrictions": {
+                "restricts": {
+                    "HITTABILITY": false,
+                    "BLOCK_INTERACTABILITY": true,
+                    "USABILITY": true,
+                    "CRAFTABILITY": true,
+                    "ENTITY_INTERACTABILITY": false
+                }
+            },
+            "name": "Biomancy",
+            "cost": 2,
+            "usesKnowledge": true
         }
     ],
     "CUSTOM_RESEARCHES": [
