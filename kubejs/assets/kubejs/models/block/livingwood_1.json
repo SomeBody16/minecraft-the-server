@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "contenttweaker:block/livingwood_top1",
+    "side": "contenttweaker:block/livingwood1"
+  }
+}

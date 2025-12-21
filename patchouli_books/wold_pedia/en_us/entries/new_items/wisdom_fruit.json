@@ -1,0 +1,20 @@
+{
+    "sortnum": 3,
+    "name": "Wisdom Fruit",
+    "icon": "woldsvaults:wisdom_fruit",
+    "category": "patchouli:new_items",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Wisdom Fruit is a new Vault Fruit that doesn't add time to a vault. Instead, it adds a random Hunter modifier, such as Living Hunter, Pylon Hunter, etc. "
+        },
+        {
+            "type": "patchouli:text",
+            "text": "It also will add a nasty negative to your vault as well! You will be informed of which modifiers you got on consumption. There are no limits to Wisdom Fruit eaten."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "You can only obtain the Wisdom Fruit from an $(l)Iskallian Garden$()!"
+        }
+    ]
+}

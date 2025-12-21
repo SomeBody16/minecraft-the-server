@@ -1,0 +1,15 @@
+#Trinkets has value 0.16666667F
+#Range: 0.001 ~ 1.0
+knownModelPunishment = 0.1666666716337204
+
+#This category holds options that are experimental and not-canon.
+["Experimental Unlocks"]
+	#By default it is disabled.
+	experimentalUnlocks = true
+	#By default it is 1%.
+	#Range: 0.0 ~ 1.0
+	chanceToSpawnPig = 0.009999999776482582
+	#By default it is 1%.
+	#Range: 0.0 ~ 1.0
+	chanceToSpawnTeeth = 0.009999999776482582
+

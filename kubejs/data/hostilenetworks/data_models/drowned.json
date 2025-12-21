@@ -1,0 +1,35 @@
+{
+	"type": "minecraft:drowned",
+	"name": "entity.minecraft.drowned",
+	"name_color": "0x976797",
+	"gui_scale": 1,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 256,
+	"input": {
+		"item": "hostilenetworks:empty_prediction"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:overworld_prediction"
+	},
+	"trivia": "hostilenetworks.trivia.drowned",
+	"fabricator_drops": [
+		{
+			"item": "minecraft:copper_ingot",
+			"count": 8
+		},
+		{
+			"item": "minecraft:nautilus_shell",
+			"count": 4
+		},
+		{
+			"item": "minecraft:trident",
+			"count": 1
+		},
+		{
+			"item": "minecraft:rotten_flesh",
+			"count": 32
+		}
+	]
+}

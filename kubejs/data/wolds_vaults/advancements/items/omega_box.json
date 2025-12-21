@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "woldsvaults:omega_box"
+    },
+    "title": {
+      "text": "Treasure Cache"
+    },
+    "description": {
+      "text": "Craft or obtain an Omega Box to get a nice goodie."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "woldsvaults:omega_box"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "diamond"
+    ]
+  ]
+}

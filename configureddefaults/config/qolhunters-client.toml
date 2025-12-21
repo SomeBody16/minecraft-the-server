@@ -1,0 +1,33 @@
+
+#QOLHunters Configuration
+#ALL CHANGES REQUIRE A CLIENT RESTART
+["General Configs"]
+	#Disables QOL mods that cannot work on vanilla VH servers (disables all mods in the 'Client-Server Extensions' list)
+	#Be very careful if you change this on single player worlds! For example, if you have emeralds in your enchantment table and you enable this, those will probably get deleted if you load the world before changing this back
+	"Vanilla Safe Mode" = false
+
+["Client-Only Extensions"]
+	#Improves the descriptions of abilities, talents, expertises and researches
+	"Better Descriptions" = false
+	#Adds text overlays to the Vault modifiers, e.g. '+10% Damage' or 'Speed +1'
+	"Vault Modifier Text Overlays" = false
+	#Adds keybinds to craft/forge/reroll in the Bounty Table, Enchanter, Vault Forge, etc
+	"Vault Interface Keybinds" = true
+	#Improves the Abilities Tab including levelling specializations directly and showing all possible levels/overlevels
+	"Better Abilities Tab" = true
+	#Changes the color of the Vault Cake overlay
+	#Range: 0 ~ 3
+	"Cake Vault Overlay Color" = 0
+	#Changes the style of the Vault Cake overlay
+	#0=Vignette, 1=Cake HUD Icons
+	#Range: 0 ~ 1
+	"Cake Vault Overlay Style" = 0
+	#Shows the amount of shards in the Shard Pouch in the Black Market
+	"Black Market Shard Pouch Count" = true
+	#Uses shorthand for the Black Market Shard Pouch count (e.g. 1.4M instead of 1408933)
+	"Black Market Shard Pouch Count Shorthand" = true
+
+["Client-Server Extensions"]
+	#Adds an emerald slot to the Vault Enchanter
+	"Vault Enchanter Emeralds Slot" = true
+

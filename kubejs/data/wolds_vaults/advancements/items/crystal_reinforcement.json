@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "woldsvaults:crystal_reinforcement"
+    },
+    "title": {
+      "text": "Crystal Alignment"
+    },
+    "description": {
+      "text": "Craft a Crystal Reinforcement to add capacity to your Vault Tool."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "woldsvaults:crystal_reinforcement"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "diamond"
+    ]
+  ]
+}

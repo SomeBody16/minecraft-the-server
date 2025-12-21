@@ -1,0 +1,29 @@
+{
+  "type": "tropicraft:iguana",
+  "name": "entity.tropicraft.iguana",
+  "name_color": "0xEEA5A4",
+  "gui_scale": 1.0,
+  "gui_x_offset": 0.0,
+  "gui_y_offset": 0.0,
+  "gui_z_offset": 0.0,
+  "sim_cost": 64,
+  "input": {
+    "item": "hostilenetworks:empty_prediction",
+    "count": 1
+  },
+  "base_drop": {
+    "item": "hostilenetworks:overworld_prediction",
+    "count": 1
+  },
+  "trivia": "hostilenetworks.trivia.iguana",
+  "fabricator_drops": [
+    {
+      "item": "tropicraft:iguana_leather",
+      "count": 16
+    },
+    {
+      "item": "tropicraft:scale",
+      "count": 4
+    }
+  ]
+}

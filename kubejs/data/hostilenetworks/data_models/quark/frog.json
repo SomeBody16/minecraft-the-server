@@ -1,0 +1,41 @@
+{
+  "type": "quark:frog",
+  "subtypes": [
+    "tropicraft:tree_frog",
+    "wildbackport:frog"
+  ],
+  "name": "entity.quark.frog",
+  "name_color": "0xEEA5A4",
+  "gui_scale": 1.0,
+  "gui_x_offset": 0.0,
+  "gui_y_offset": 0.0,
+  "gui_z_offset": 0.0,
+  "sim_cost": 64,
+  "input": {
+    "item": "hostilenetworks:empty_prediction",
+    "count": 1
+  },
+  "base_drop": {
+    "item": "hostilenetworks:overworld_prediction",
+    "count": 1
+  },
+  "trivia": "hostilenetworks.trivia.frog",
+  "fabricator_drops": [
+    {
+      "item": "quark:frog_leg",
+      "count": 8
+    },
+    {
+      "item": "wildbackport:ochre_froglight",
+      "count": 8
+    },
+    {
+      "item": "wildbackport:verdant_froglight",
+      "count": 8
+    },
+    {
+      "item": "wildbackport:pearlescent_froglight",
+      "count": 8
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+	"type": "cloudstorage:bloviator",
+	"name": "entity.cloudstorage.bloviator",
+	"name_color": "0xFFD528",
+	"gui_scale": 1,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 256,
+	"input": {
+		"item": "hostilenetworks:empty_prediction"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:overworld_prediction"
+	},
+	"trivia": "hostilenetworks.trivia.bloviator",
+	"fabricator_drops": [
+		{
+			"item": "cloudstorage:cloud",
+			"count": 8
+		},
+		{
+			"item": "cloudstorage:static_cloud",
+			"count": 8
+		}
+	],
+	"tier_data": [
+		6,
+		54,
+		354,
+		1254
+	]
+}

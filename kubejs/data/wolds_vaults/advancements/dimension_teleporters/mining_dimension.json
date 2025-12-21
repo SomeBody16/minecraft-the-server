@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "mining_dimension:teleporter"
+    },
+    "title": {
+      "text": "A World for Mining"
+    },
+    "description": {
+      "text": "Craft or Obtain a Mining Dimension Teleporter."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mining_dimension:teleporter"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "diamond"
+    ]
+  ]
+}

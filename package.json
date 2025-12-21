@@ -1,0 +1,10 @@
+{
+    "name": "aether-and-ash",
+    "scripts": {
+        "start": "Minecraft.exe --workDir=.",
+        "format": "npx @biomejs/biome format --write --skip-parse-errors"
+    },
+    "devDependencies": {
+        "@biomejs/biome": "^2.3.6"
+    }
+}

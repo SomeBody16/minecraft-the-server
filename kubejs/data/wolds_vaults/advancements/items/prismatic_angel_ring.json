@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "woldsvaults:prismatic_angel_ring"
+    },
+    "title": {
+      "text": "Above It All"
+    },
+    "description": {
+      "text": "Obtain a Prismatic Angel Ring to get grant free creative flight to yourself in the overworld."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "woldsvaults:prismatic_angel_ring"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "diamond"
+    ]
+  ]
+}

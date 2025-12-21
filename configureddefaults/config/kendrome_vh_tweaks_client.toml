@@ -1,0 +1,20 @@
+
+["Configs for Kendrome VH Tweaks"]
+	#Shows relative values for jewel affixs in tooltips
+	"Enable jewel relative tooltips" = true
+	#Require key to show (None for always show)
+	#Allowed Values: None, Shift, Alt, Ctrl
+	"Jewel relative tooltips key" = "None"
+	#Show gear comparison tooltips
+	"Enable gear comparison tooltips" = true
+	#Require key to show (None for always show)
+	#Allowed Values: None, Shift, Alt, Ctrl
+	"Gear Comparison tooltips key" = "Shift"
+	#Show inscription relative tooltips
+	"Enable inscription relative tooltips" = true
+	#Require key to show (None for always show)
+	#Allowed Values: None, Shift, Alt, Ctrl
+	"Inscription relative tooltips key" = "None"
+	#Which relatives values to show, Valid options ["CompletionPerTime", "CompletionPerInstability", "TimePerInstability"]
+	"Inscription display options" = ["CompletionPerTime", "CompletionPerInstability", "TimePerInstability"]
+

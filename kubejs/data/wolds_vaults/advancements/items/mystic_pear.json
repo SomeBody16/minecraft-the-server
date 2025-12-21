@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "the_vault:mystic_pear"
+    },
+    "title": {
+      "text": "So Tasty It's Magical"
+    },
+    "description": {
+      "text": "Find the elusive Mystic Pear inside of a Vault Treasure chest."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "the_vault:mystic_pear"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "diamond"
+    ]
+  ]
+}

@@ -1,0 +1,26 @@
+{
+    "sortnum": 3,
+    "name": "Unhinged Vault Rock",
+    "icon": "woldsvaults:uber_chaos_catalyst",
+    "category": "patchouli:new_items",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Unhinged Vault Rock is an enhanced version of a Chaotic Vault Rock, it rolls vastly more modifiers, including modifiers that are not possible to get any where else! You place it on your Vault Altar and complete the recipe to get an Unhinged Crystal to use, just like a Chaotic Vault Rock."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "When using an Unhinged Crystal, any objective can be rolled, including objectives like Enchanted Elixir, Brutal Bosses, etc!"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "the_vault:heart_of_chaos",
+            "text": "You will need a Heart of Chaos, a new crafting ingredient, in order to make one!"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "the_vault:uber_chaos_catalyst",
+            "text": "Combine many Chaotic Vault Rocks and a Heart of Chaos to form an Unhinged Vault Rock!"
+        }
+    ]
+}

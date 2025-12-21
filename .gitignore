@@ -1,0 +1,42 @@
+# Config
+config/*
+!config/the_vault
+
+# Base
+patchouli_data.json
+/.mixin.out
+/backups
+/crash-reports
+/data
+/DiscordIntegration-Data
+/logs
+/playerSnapshots
+/saves
+/schematics
+/screenshots
+/Xaero*
+/icon.png
+/imgui*
+/.curseclient
+/manifest.json
+/minecraftinstance.json
+/modlist.html
+o_prof
+/options.txt
+/reauth.toml
+/user*
+/launcher_profiles.json
+/game
+/tools
+
+# Project
+.idea
+
+# game
+/game
+/tools
+launcher_profiles.json
+.minecraft
+
+# node
+node_modules
