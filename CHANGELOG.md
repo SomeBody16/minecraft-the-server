@@ -5,6 +5,7 @@
 - Removed Experienced and Fortunate expertises
 - Added Elytra to Angel research
 - Added shaderpacks
+- Enabled alexsmobs spawning
 
 Added mods:
 - Security Craft
