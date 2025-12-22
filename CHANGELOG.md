@@ -4,3 +4,21 @@
 - Initial release
 - Removed Experienced and Fortunate expertises
 - Added Elytra to Angel research
+- Added shaderpacks
+
+Added mods:
+- Security Craft
+- Block Runner
+- Callable Horses
+- Chat Heads
+- Cosmetic Armor Reworked
+- Dynamic FPS
+- Entity Culling
+- Farmers Delight
+- Incendium
+- Nether Depths Upgrade
+- Not Enough Animations
+- Nullscape
+- Sound Physics
+- SWEM
+
