@@ -1,7 +1,6 @@
 ## 1.0.0
 
 - Wold's Vaults 0.25.2
-- Initial release
 - Removed Experienced and Fortunate expertises
 - Added Elytra to Angel research
 - Added shaderpacks
@@ -17,7 +16,6 @@ Added mods:
 - Entity Culling
 - Farmers Delight
 - Incendium
-- Nether Depths Upgrade
 - Not Enough Animations
 - Nullscape
 - Sound Physics
@@ -29,3 +27,4 @@ Added mods:
 - MOA decor Holidays
 - RS Gauges
 - The Nexus
+- WorldEdit
