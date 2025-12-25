@@ -2,22 +2,6 @@
 #Type \n for a new line. Some messages will have optional inputs surrounded by {} to be filled in with various data.
 #Each message should list the optional inputs, and what they'll be replaced by.
 
-#Format of a fluid sale when displaying the results of the search.\n{fluidName} for the fluid being sold.\n{fluidAmount} for the quantity in mB of the fluid.\n{price} for the price.
-command_search_trade_fluid_sale=Selling {fluidAmount}mB of {fluidName} for {price}
-
-#Format of a fluid purchase when displaying the results of the search.\n{fluidName} for the fluid being sold.\n{fluidAmount} for the quantity in mB of the fluid.\n{price} for the price.
-command_search_trade_fluid_purchase=Purchasing {fluidAmount}mB of {fluidName} for {price}
-
-#Format of an energy sale when displaying the results of the search.
-#{amount} for the amount of energy being sold.
-#{price} for the price.
-command_search_trade_energy_sale=Selling {amount}FE for {price}
-
-#Format of an energy purchase when displaying the results of the search.
-#{amount} for the amount of energy being purchased.
-#{price} for the price.
-command_search_trade_energy_purchase=Purchasing {amount}FE for {price}
-
 #Help message for lightman's currency !notifications.
 help_lc_notifications=Handle private currency notifications.
 
@@ -339,4 +323,20 @@ command_unlinkdiscord_fail=Your account is not linked to a discord account.
 
 #Message displayed when an admin runs the /telldiscord <message> command successfully!
 command_telldiscord=Message '{message}' sent!
+
+#Format of a fluid sale when displaying the results of the search.\n{fluidName} for the fluid being sold.\n{fluidAmount} for the quantity in mB of the fluid.\n{price} for the price.
+command_search_trade_fluid_sale=Selling {fluidAmount}mB of {fluidName} for {price}
+
+#Format of a fluid purchase when displaying the results of the search.\n{fluidName} for the fluid being sold.\n{fluidAmount} for the quantity in mB of the fluid.\n{price} for the price.
+command_search_trade_fluid_purchase=Purchasing {fluidAmount}mB of {fluidName} for {price}
+
+#Format of an energy sale when displaying the results of the search.
+#{amount} for the amount of energy being sold.
+#{price} for the price.
+command_search_trade_energy_sale=Selling {amount}FE for {price}
+
+#Format of an energy purchase when displaying the results of the search.
+#{amount} for the amount of energy being purchased.
+#{price} for the price.
+command_search_trade_energy_purchase=Purchasing {amount}FE for {price}
 

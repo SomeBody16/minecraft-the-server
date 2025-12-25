@@ -1,11 +1,11 @@
 
 #This category holds options how Jewels are sorted
 ["Jewel Sorting"]
-	#Supported Values: NAME, ATTRIBUTE, ATTRIBUTE_VALUE, SIZE, LEVEL, ATTRIBUTE_WEIGHT, CUTS
+	#Supported Values: NAME, ATTRIBUTE, ATTRIBUTE_VALUE, SIZE, LEVEL, ATTRIBUTE_WEIGHT
 	jewel_sorting_by_name = ["NAME", "ATTRIBUTE", "ATTRIBUTE_VALUE", "SIZE", "LEVEL"]
-	#Supported Values: NAME, ATTRIBUTE, ATTRIBUTE_VALUE, SIZE, LEVEL, ATTRIBUTE_WEIGHT, CUTS
+	#Supported Values: NAME, ATTRIBUTE, ATTRIBUTE_VALUE, SIZE, LEVEL, ATTRIBUTE_WEIGHT
 	jewel_sorting_by_amount = []
-	#Supported Values: NAME, ATTRIBUTE, ATTRIBUTE_VALUE, SIZE, LEVEL, ATTRIBUTE_WEIGHT, CUTS
+	#Supported Values: NAME, ATTRIBUTE, ATTRIBUTE_VALUE, SIZE, LEVEL, ATTRIBUTE_WEIGHT
 	jewel_sorting_by_mod = []
 
 #This category holds options how Gear are sorted
@@ -72,13 +72,4 @@
 	catalyst_sorting_by_amount = []
 	#Supported Values: NAME, SIZE, MODIFIER
 	catalyst_sorting_by_mod = []
-
-#This category holds options how Cards are sorted
-["Cards Sorting"]
-	#Supported Values: NAME, TIER, TYPE, COLOR, GROUPS, MODEL
-	card_sorting_by_name = ["TYPE", "COLOR", "TIER", "NAME", "GROUPS"]
-	#Supported Values: NAME, TIER, TYPE, COLOR, GROUPS, MODEL
-	card_sorting_by_amount = ["TYPE", "COLOR", "TIER", "NAME", "GROUPS"]
-	#Supported Values: NAME, TIER, TYPE, COLOR, GROUPS, MODEL
-	card_sorting_by_mod = []
 

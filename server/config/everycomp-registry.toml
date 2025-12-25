@@ -75,33 +75,6 @@
 		luphie_flowering_purple = true
 		luphie_pink = true
 
-	[wood_type.auxiliaryblocks]
-		gloomy = true
-
-	[wood_type.buildscape]
-		mangrove = true
-
-	[wood_type.regions_unexplored]
-		alpha = true
-		baobab = true
-		blackwood = true
-		cherry = true
-		cypress = true
-		dead = true
-		eucalyptus = true
-		joshua = true
-		larch = true
-		maple = true
-		mauve = true
-		palm = true
-		pine = true
-		redwood = true
-		willow = true
-		sculkwood = true
-
-	[wood_type.thenexus]
-		lustre = true
-
 [leaves_type]
 
 	[leaves_type.minecraft]
@@ -160,73 +133,4 @@
 		tall_mangrove = true
 		tea_mangrove = true
 		black_mangrove = true
-
-	[leaves_type.buildscape]
-		mangrove = true
-		snowy = true
-		snowy_oak = true
-		snowy_spruce = true
-		snowy_birch = true
-		snowy_jungle = true
-		snowy_acacia = true
-		snowy_dark_oak = true
-		snowy_mangrove = true
-		snowy_azalea = true
-		snowy_flowering_azalea = true
-		decorated_oak = true
-		decorated_spruce = true
-		decorated_birch = true
-		decorated_jungle = true
-		decorated_acacia = true
-		decorated_dark_oak = true
-		decorated_mangrove = true
-		decorated_azalea = true
-		decorated_flowering_azalea = true
-
-	[leaves_type.regions_unexplored]
-		alpha = true
-		baobab = true
-		blackwood = true
-		cherry = true
-		cypress = true
-		dead = true
-		eucalyptus = true
-		joshua = true
-		larch = true
-		maple = true
-		mauve = true
-		palm = true
-		pine = true
-		redwood = true
-		willow = true
-		sculkwood = true
-		apple_oak = true
-		flowering = true
-		silver_birch = true
-		bamboo = true
-		red_cherry = true
-		pink_cherry = true
-		white_cherry = true
-		dead_pine = true
-		golden_larch = true
-		red_maple = true
-		orange_maple = true
-
-	[leaves_type.occultism]
-		otherworld = true
-
-	[leaves_type.ars_nouveau]
-		blue_archwood = true
-		red_archwood = true
-		green_archwood = true
-		purple_archwood = true
-
-	[leaves_type.mcwholidays]
-		yellow_oak = true
-		orange_oak = true
-		red_oak = true
-		brown_oak = true
-		mixed_oak = true
-		snowy_oak = true
-		snowy_spruce = true
 

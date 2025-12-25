@@ -15,7 +15,7 @@
                         "min": [-23, -5, -23],
                         "max": [23, 41, 23]
                     },
-                    "curses": ["the_vault:nullify_area_of_effect"],
+                    "curses": [],
                     "maxWaves": 4,
                     "goblinVariants": [
                         {
