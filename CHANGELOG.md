@@ -3,17 +3,7 @@
 ## 1.0.0
 
 ### Wold's Vaults 0.25.2
-
-- Removed Experienced and Fortunate expertises
-- Added Elytra to Angel research
-
-### Gameplay
-- Enabled alexsmobs spawning
-
-
-### Modpack
-
-- Added shaderpacks
+### Vault Hunters 3.20.2
 
 #### Added mods:
 
