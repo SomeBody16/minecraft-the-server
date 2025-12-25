@@ -1,5 +1,0 @@
-To refresh this file, delete it and run /reload command again! Last updated: Jan 3, 2024, 3:58:55 PM
-
-#create_enchantment_industry:hyper_enchantable
-
-#create_enchantment_industry:hyper_enchantable_blacklist

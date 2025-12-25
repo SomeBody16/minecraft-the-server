@@ -2,9 +2,12 @@
     "name": "aether-and-ash",
     "scripts": {
         "start": "Minecraft.exe --workDir=.",
-        "format": "npx @biomejs/biome format --write --skip-parse-errors"
+        "format": "npx @biomejs/biome format --write --skip-parse-errors",
+        "serverpack": "ts-node serverpack.ts"
     },
     "devDependencies": {
-        "@biomejs/biome": "^2.3.6"
+        "@biomejs/biome": "^2.3.6",
+        "@types/node": "^22.10.5",
+        "ts-node": "^10.9.2"
     }
 }
