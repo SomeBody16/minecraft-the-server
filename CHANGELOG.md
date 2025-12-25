@@ -1,5 +1,9 @@
 {:outlink:target="blank" rel="noopener noreferrer"}
 
+## 1.0.1
+
+- Fixed missing configs
+
 ## 1.0.0
 
 ### Wold's Vaults 0.25.2
