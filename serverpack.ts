@@ -1,6 +1,6 @@
 import path from 'path'
 import serverpacks from './serverpack.json'
-import { copyFileSync, existsSync, mkdirSync, unlinkSync } from 'fs'
+import { copyFileSync, cpSync, existsSync, mkdirSync, rmSync } from 'fs'
 
 const ensureExistsSync = (path: string) => {
     if (!existsSync(path)) {
@@ -11,6 +11,7 @@ const ensureExistsSync = (path: string) => {
 const BASE_PATH = '.'
 const SERVER_PATH = path.join(BASE_PATH, 'server')
 
+rmSync(SERVER_PATH, { recursive: true })
 ensureExistsSync(SERVER_PATH)
 
 for (const pack of serverpacks) {
@@ -23,6 +24,10 @@ for (const pack of serverpacks) {
             const fileSourcePath = path.join(BASE_PATH, pack.directory, file)
             const fileTargetPath = path.join(SERVER_PATH, pack.directory, file)
 
+            if (!existsSync(fileSourcePath)) {
+                console.warn(`File ${fileSourcePath} does not exist`)
+                continue
+            }
             ensureExistsSync(path.dirname(fileTargetPath))
             copyFileSync(fileSourcePath, fileTargetPath)
         }
@@ -32,13 +37,19 @@ for (const pack of serverpacks) {
         const folderSourcePath = path.join(BASE_PATH, pack.directory)
         const folderTargetPath = path.join(SERVER_PATH, pack.directory)
 
+        if (!existsSync(folderSourcePath)) {
+            console.warn(`Folder ${folderSourcePath} does not exist`)
+            continue
+        }
         ensureExistsSync(folderTargetPath)
-        copyFileSync(folderSourcePath, folderTargetPath)
+        cpSync(folderSourcePath, folderTargetPath, {
+            recursive: true,
+        })
 
         for (const file of pack.exclude || []) {
             const fileTargetPath = path.join(SERVER_PATH, pack.directory, file)
             if (existsSync(fileTargetPath)) {
-                unlinkSync(fileTargetPath)
+                rmSync(fileTargetPath, { recursive: true })
             }
         }
     }
