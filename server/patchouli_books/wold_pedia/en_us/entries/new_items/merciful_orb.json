@@ -1,0 +1,21 @@
+{
+    "sortnum": 3,
+    "name": "Merciful Orb",
+    "icon": "woldsvaults:mercy_orb",
+    "category": "patchouli:new_items",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Merciful Orb is an item you can use to add the Curse of Mercy enchant to a Sword, Axe, or Vault Tool. "
+        },
+        {
+            "type": "patchouli:text",
+            "text": "That might be useful in conjunction with the changes to $(l)Supplementaries Cage$() or perhaps you can find some other uses for it!"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "woldsvaults:mercy_orb",
+            "text": "You can craft the Merciful Orb using the recipe above!"
+        }
+    ]
+}

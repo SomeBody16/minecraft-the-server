@@ -1,0 +1,33 @@
+{
+    "tile_processors": [
+        {
+            "type": "leveled",
+            "levels": [
+                {
+                    "level": 0,
+                    "type": "weighted_target",
+                    "target": "ispawner:spawner",
+                    "output": {
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"minecraft:guardian_spawn_egg\", Count: 20}  ] } }": 1
+                    }
+                },
+                {
+                    "level": 50,
+                    "type": "weighted_target",
+                    "target": "ispawner:spawner",
+                    "output": {
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"minecraft:guardian_spawn_egg\", Count: 20}  ] } }": 1
+                    }
+                },
+                {
+                    "level": 80,
+                    "type": "weighted_target",
+                    "target": "ispawner:spawner",
+                    "output": {
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"minecraft:guardian_spawn_egg\", Count: 15}  ] } }": 1
+                    }
+                }
+            ]
+        }
+    ]
+}

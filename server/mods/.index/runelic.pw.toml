@@ -1,0 +1,13 @@
+filename = 'Runelic-Forge-1.18.2-11.0.1.jar'
+name = 'Runelic'
+side = 'both'
+
+[download]
+hash = '7b0e74b79b307be15a05f50a173e3396363b687a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3683668
+project-id = 393149

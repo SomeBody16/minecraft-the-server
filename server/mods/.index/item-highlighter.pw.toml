@@ -1,0 +1,13 @@
+filename = 'Highlighter-1.18.1-1.1.2.jar'
+name = 'Item Highlighter [Forge]'
+side = 'both'
+
+[download]
+hash = 'c73be6069cde4c10c7052d2fe53c307d7cf66d6a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3561221
+project-id = 521590

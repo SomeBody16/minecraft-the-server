@@ -1,0 +1,17 @@
+{
+    "sortnum": 3,
+    "name": "Pog Prism",
+    "icon": "the_vault:pog_prism",
+    "category": "patchouli:new_items",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Pog Prism is a crafting ingredient that is a middle-ground between a Pog and an Echo Pog."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "woldsvaults:extraordinary_pog_prism",
+            "text": "The Pog Prism makes use of every vault gem in the game!"
+        }
+    ]
+}

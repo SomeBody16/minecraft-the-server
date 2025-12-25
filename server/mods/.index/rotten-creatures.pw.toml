@@ -1,0 +1,13 @@
+filename = 'rottencreatures-forge-1.18.2-1.0.0.jar'
+name = 'Rotten Creatures'
+side = 'both'
+
+[download]
+hash = '64f0868ab63d699f11b5c76a1b75b49dea89a5e7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4060906
+project-id = 371033

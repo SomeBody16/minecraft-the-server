@@ -1,0 +1,10 @@
+{
+    "minecraft": {
+        "command_block": true
+    },
+    "securitycraft": {
+        "showowner": true,
+        "showmodules": true,
+        "showcustomname": true
+    }
+}

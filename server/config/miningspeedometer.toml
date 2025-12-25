@@ -1,0 +1,9 @@
+
+["Config for VH Mining Speedometer"]
+	#The Output Format for the /speedometer command
+	#Allowed Values: TOTAL_MINING_SPEED_WITHBASE, TOTAL_MINING_SPEED_WITHOUTBASE, ADDITIONAL_MINING_SPEED
+	"Command Output Format" = "TOTAL_MINING_SPEED_WITHOUTBASE"
+	#The Output Format for the speedometer jade tooltip
+	#Allowed Values: TOTAL_MINING_SPEED_WITHBASE, TOTAL_MINING_SPEED_WITHOUTBASE, ADDITIONAL_MINING_SPEED
+	"Jade Output Format" = "TOTAL_MINING_SPEED_WITHOUTBASE"
+

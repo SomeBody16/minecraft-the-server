@@ -1,0 +1,27 @@
+{
+    "sortnum": 3,
+    "name": "Expertise Orb",
+    "icon": "woldsvaults:expertise_orb",
+    "category": "patchouli:new_items",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Expertise Orb is a powerful new craftable item that let's you gain Expertise Points even after reaching level 100. "
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "woldsvaults:arcane_shard",
+            "text": "Once you hit level 100, your completion crates will start to contain Arcane Essence, you will need to combine these into Arcane Shards!"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "woldsvaults:orb_frame",
+            "text": "You will need a pricey Orb Frame as well in order to craft the orb."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "woldsvaults:expertise_orb",
+            "text": "Once you have everything, you can craft it all together into the Expertise Orb, you can only use them when you are at least level 100."
+        }
+    ]
+}

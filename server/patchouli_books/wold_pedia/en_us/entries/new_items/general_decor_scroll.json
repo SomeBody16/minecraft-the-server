@@ -1,0 +1,32 @@
+{
+    "sortnum": 3,
+    "name": "Vault Decoration Scroll",
+    "icon": "woldsvaults:general_decor_scroll",
+    "category": "patchouli:new_items",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Vault Decoration Scroll is an extremely rare Vendoor item. You can use it to craft a variety of decorative versions of The Vault blocks. "
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "woldsvaults:deco_brazier",
+            "text": "The Deco Brazier is a decorative version of the Brazier, you can toggle the flame on and off!"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "woldsvaults:deco_lodestone",
+            "text": "The Deco Lodestone is a decorative version of the Lodestone found in Elixir vaults, you shift-right click it to get a random message!"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "woldsvaults:deco_obelisk",
+            "text": "The Deco Obelisk is a decorative version of the Obelisk found in Hunt the Guardian vaults, you can right-click it to activate and de-activate it."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "woldsvaults:deco_scavenger_altar",
+            "text": "The Deco Scavenger Altar is a decorative version of the Scavenger Altar, it can suck in your items you put in and spit them back out."
+        }
+    ]
+}
