@@ -1,0 +1,14 @@
+{
+    "name": "Chromatic Iron Seeds",
+    "type": "mysticalagriculture:resource",
+    "tier": "mysticalagriculture:5",
+    "ingredient": {
+        "item": "the_vault:chromatic_iron_block"
+    },
+    "color": "a3a3c2",
+    "textures": {
+        "flower": "mysticalagriculture:block/flower_ingot",
+        "essence": "mysticalagriculture:item/essence_ingot",
+        "seeds": "mysticalagriculture:item/mystical_seeds"
+    }
+}
