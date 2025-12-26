@@ -1,0 +1,13 @@
+filename = 'BetterF3-3.0.0-Forge-1.18.2.jar'
+name = 'BetterF3'
+side = 'both'
+
+[download]
+hash = '828c97a2439d8f1a37e7237d3b99e4b93b7e76ee'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4030561
+project-id = 401648

@@ -1,0 +1,13 @@
+filename = 'lootbeams-1.18.1-release-july1722.jar'
+name = 'Loot Beams: Relooted!'
+side = 'both'
+
+[download]
+hash = '4724d0bc932fc9ec042c8ea9753d7a3dbdb7e260'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3879829
+project-id = 506757

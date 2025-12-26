@@ -1,0 +1,13 @@
+filename = 'JustEnoughBeacons-Forge-1.18.2-1.0.1.jar'
+name = 'Just Enough Beacons Reforged'
+side = 'both'
+
+[download]
+hash = 'ff9456410e64d03616b5eef8c10d719b48be609a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4816083
+project-id = 912266

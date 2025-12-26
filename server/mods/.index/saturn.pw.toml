@@ -1,0 +1,13 @@
+filename = 'saturn-mc1.18.2-0.1.2.jar'
+name = 'Saturn'
+side = 'both'
+
+[download]
+hash = '2ee514cb6680e654b58adb8cc9d771c9bd631fd5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4979430
+project-id = 670986

@@ -1,0 +1,13 @@
+filename = 'JustEnoughAdvancements-1.18.2-3.2.0.jar'
+name = 'Just Enough Advancements (JEA)'
+side = 'both'
+
+[download]
+hash = '81fbb90f25bd2e0ebd36013e78b4a7e3962b6251'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3680036
+project-id = 444941

@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "tiab:time_in_a_bottle"
+    },
+    "title": {
+      "text": "Timey Wimey Bottle"
+    },
+    "description": {
+      "text": "Craft or Obtain a Time in a Bottle to speed up tick speed of blocks."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tiab:time_in_a_bottle"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "diamond"
+    ]
+  ]
+}

@@ -1,0 +1,13 @@
+filename = 'justenoughkeys-0.5.3-forge.jar'
+name = 'Just Enough Keys [JEK] [Forge]'
+side = 'both'
+
+[download]
+hash = '32d069c7e439f6e4f83f771236a69b8c7251763f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3602966
+project-id = 490868

@@ -1,0 +1,50 @@
+[
+  {
+    "weight": 7,
+    "reference": "the_vault:vault/rooms/paradox/idona/omega/vendor"
+  },
+  {
+    "weight": 7,
+    "reference": "the_vault:vault/rooms/paradox/idona/omega/cube"
+  },
+  {
+    "weight": 1,
+    "reference": "the_vault:vault/rooms/paradox/idona/omega/digsite2"
+  },
+  {
+    "weight": 7,
+    "reference": "the_vault:vault/rooms/paradox/idona/omega/painting"
+  },
+  {
+    "weight": 3,
+    "reference": "the_vault:vault/rooms/paradox/idona/omega/mine"
+  },
+  {
+    "weight": 7,
+    "reference": "the_vault:vault/rooms/paradox/idona/omega/blacksmith"
+  },
+  {
+    "weight": 3,
+    "reference": "the_vault:vault/rooms/paradox/idona/omega/cove"
+  },
+  {
+    "weight": 7,
+    "reference": "the_vault:vault/rooms/paradox/idona/omega/mush_room"
+  },
+  {
+    "weight": 7,
+    "reference": "the_vault:vault/rooms/paradox/idona/omega/library"
+  },
+  {
+    "weight": 7,
+    "reference": "the_vault:vault/rooms/paradox/idona/omega/playzone"
+  },
+  {
+    "weight": 3,
+    "reference": "the_vault:vault/rooms/paradox/idona/omega/arcade"
+  },
+  {
+    "weight": 2,
+    "reference": "the_vault:vault/rooms/paradox/idona/omega/iskallian_garden"
+  }
+]

@@ -1,0 +1,13 @@
+filename = 'MouseTweaks-forge-mc1.18-2.21.jar'
+name = 'Mouse Tweaks'
+side = 'both'
+
+[download]
+hash = 'dc64a2a0df9b205114768a89482fe57ffac54143'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3578801
+project-id = 60089

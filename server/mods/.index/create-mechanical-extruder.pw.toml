@@ -1,0 +1,13 @@
+filename = 'create_mechanical_extruder-1.18.2-1.4.4.e-318.jar'
+name = 'Create Mechanical Extruder'
+side = 'both'
+
+[download]
+hash = 'b93e409ad99bae5c613d05f7f1ad06ed9d3842a1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4763417
+project-id = 686100

@@ -1,0 +1,13 @@
+filename = 'ColossalChests-1.18.2-1.9.0.jar'
+name = 'ColossalChests'
+side = 'both'
+
+[download]
+hash = '0c6ef457e2987a55b5fa27ccc1746326fae62e87'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4502141
+project-id = 237875

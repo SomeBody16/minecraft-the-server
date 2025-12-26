@@ -1,0 +1,13 @@
+filename = 'JAVD-3.0.0-build.54+mc1.18.2.jar'
+name = 'Just Another Void Dimension'
+side = 'both'
+
+[download]
+hash = '9dfb7b143990e4adb5e95e82343f9439a6d24598'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3672172
+project-id = 370890

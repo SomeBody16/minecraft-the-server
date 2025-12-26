@@ -1,0 +1,13 @@
+filename = 'auudio_forge_1.0.3_MC_1.18-1.18.2.jar'
+name = 'Auudio [Forge]'
+side = 'both'
+
+[download]
+hash = '03cef044ece1ddadee34f4fc876dee60b522b872'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3754865
+project-id = 606159

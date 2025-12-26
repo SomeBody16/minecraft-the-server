@@ -1,0 +1,13 @@
+filename = 'time-in-a-bottle-2.1.0-mc1.18.1.jar'
+name = 'Time in a bottle standalone'
+side = 'both'
+
+[download]
+hash = '75481f0016057a365c458c9a0fcf769362cb7e1b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3565298
+project-id = 445025

@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "layers=1": {
+      "model": "contenttweaker:block/vault_essence_block_1"
+    },
+    "layers=2": {
+      "model": "contenttweaker:block/vault_essence_block_2"
+    },
+    "layers=3": {
+      "model": "contenttweaker:block/vault_essence_block_3"
+    },
+    "layers=4": {
+      "model": "contenttweaker:block/vault_essence_block_4"
+    },
+    "layers=5": {
+      "model": "contenttweaker:block/vault_essence_block_5"
+    },
+    "layers=6": {
+      "model": "contenttweaker:block/vault_essence_block_6"
+    },
+    "layers=7": {
+      "model": "contenttweaker:block/vault_essence_block_7"
+    },
+    "layers=8": {
+      "model": "contenttweaker:block/vault_essence_block_8"
+    }
+  }
+}

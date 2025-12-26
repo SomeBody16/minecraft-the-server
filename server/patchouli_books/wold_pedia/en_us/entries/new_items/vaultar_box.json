@@ -1,0 +1,16 @@
+{
+    "sortnum": 3,
+    "name": "Vaultar Box",
+    "icon": "woldsvaults:vaultar_box",
+    "category": "patchouli:new_items",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Vaultar Boxes are a new Mystery Box-like item that contains random ingredients required for the Vaultar. "
+        },
+        {
+            "type": "patchouli:text",
+            "text": "You can only find them in Resource Vaults, in Hardened and Enigma chests!"
+        }
+    ]
+}

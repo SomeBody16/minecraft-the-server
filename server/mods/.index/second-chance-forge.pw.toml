@@ -1,0 +1,13 @@
+filename = 'secondchanceforge-1.18.2-1.5.0.jar'
+name = 'Second Chance (Forge)'
+side = 'both'
+
+[download]
+hash = 'e072e9a4970b91b9e61e68cffddabc4a0fcc7570'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3832230
+project-id = 509239

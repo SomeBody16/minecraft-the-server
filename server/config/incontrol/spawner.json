@@ -1,0 +1,21 @@
+[
+    {
+        "mob": [
+            "quark:frog"
+        ],
+        "persecond": 0.15,
+        "attempts": 20,
+        "amount": {
+            "minimum": 1,
+            "maximum": 2
+        },
+        "conditions": {
+            "dimension": "minecraft:overworld",
+            "mindist": 25,
+            "maxdist": 100,
+            "minheight": 15,
+            "maxheight": 200,
+            "maxthis": 100
+        }
+    }
+]
