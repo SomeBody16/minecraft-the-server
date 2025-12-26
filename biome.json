@@ -25,8 +25,7 @@
             "biome.json",
             "package.json",
             "config/**/*",
-            "configureddefaults/**/*",
-            "server/**/*"
+            "configureddefaults/**/*"
         ],
         "ignoreUnknown": true,
         "maxSize": 2097152
