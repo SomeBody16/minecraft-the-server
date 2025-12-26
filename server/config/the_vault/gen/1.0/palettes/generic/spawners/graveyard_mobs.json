@@ -1,0 +1,53 @@
+{
+    "tile_processors": [
+        {
+            "type": "leveled",
+            "levels": [
+              {
+                "level": 50,
+                "type": "spawner",
+                "target": "ispawner:spawner",
+                "output": [
+                  {
+                    "elements": {
+                      "the_vault:t2_zombie": 7,
+                      "the_vault:t2_skeleton": 7,
+                      "the_vault:bruiser_guardian": 2,
+                      "the_vault:arbalist_guardian": 2,
+                      "woldsvaults:green_ghost": 1,
+                      "woldsvaults:yellow_ghost": 1
+                    },
+                    "weight": 1
+                  }
+                ]
+              },
+              {
+                "level": 75,
+                "type": "spawner",
+                "target": "ispawner:spawner",
+                "output": [
+                  {
+                    "elements": {
+                      "the_vault:t3_zombie": 7,
+                      "the_vault:t2_zombie": 7,
+                      "the_vault:t2_skeleton": 4,
+                      "the_vault:t3_skeleton": 2,
+                      "the_vault:t3_wither_skeleton": 2,
+                      "the_vault:bruiser_guardian": 5,
+                      "the_vault:arbalist_guardian": 5,
+                      "woldsvaults:green_ghost": 3,
+                      "grimoireofgaia:bone_knight": 1,
+                      "grimoireofgaia:flesh_lich": 1,
+                      "woldsvaults:yellow_ghost": 3,
+                      "woldsvaults:black_ghost": 3,
+                      "woldsvaults:brown_ghost": 2,
+                      "woldsvaults:purple_ghost": 1
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ]
+          }
+    ]
+}

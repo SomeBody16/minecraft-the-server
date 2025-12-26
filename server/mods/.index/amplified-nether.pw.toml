@@ -1,0 +1,13 @@
+filename = 'Amplified_Nether_v1.1.1.jar'
+name = 'Amplified Nether'
+side = 'both'
+
+[download]
+hash = '1263318bd15e90d0f3a570d1ddb893edaa2eb49b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3683373
+project-id = 552176

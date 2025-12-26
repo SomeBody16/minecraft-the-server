@@ -1,0 +1,60 @@
+{
+  "CoinEntries": [
+    {
+      "coinitem": "the_vault:vault_bronze",
+      "chain": "main",
+      "initial": "b",
+      "plural": "Vault Bronze"
+    },
+    {
+      "coinitem": "the_vault:vault_silver",
+      "chain": "main",
+      "worth": {
+        "coin": "the_vault:vault_bronze",
+        "count": 9
+      },
+      "initial": "s",
+      "plural": "Vault Silver"
+    },
+    {
+      "coinitem": "the_vault:vault_gold",
+      "chain": "main",
+      "worth": {
+        "coin": "the_vault:vault_silver",
+        "count": 9
+      },
+      "initial": "g",
+      "plural": "Vault Gold"
+    },
+    {
+      "coinitem": "the_vault:vault_platinum",
+      "chain": "main",
+      "worth": {
+        "coin": "the_vault:vault_gold",
+        "count": 9
+      },
+      "initial": "p",
+      "plural": "Vault Platinum"
+    },
+    {
+      "coinitem": "the_vault:vault_palladium",
+      "chain": "main",
+      "worth": {
+        "coin": "the_vault:vault_platinum",
+        "count": 9
+      },
+      "initial": "P",
+      "plural": "Vault Palladium"
+    },
+    {
+      "coinitem": "the_vault:vault_iridium",
+      "chain": "main",
+      "worth": {
+        "coin": "the_vault:vault_palladium",
+        "count": 9
+      },
+      "initial": "i",
+      "plural": "Vault Iridium"
+    }
+  ]
+}

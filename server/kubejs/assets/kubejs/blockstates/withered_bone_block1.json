@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":    { "model": "contenttweaker:block/withered_bone_block1" },
+        "axis=z":    { "model": "contenttweaker:block/withered_bone_block_horizontal1", "x": 90 },
+        "axis=x":    { "model": "contenttweaker:block/withered_bone_block_horizontal1", "x": 90, "y": 90 }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "sortnum": 3,
+    "name": "Extraordinary Pog Prism",
+    "icon": "woldsvaults:extraordinary_pog_prism",
+    "category": "patchouli:new_items",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Extraordinary Pog Prism is a step up from a $(l)Pog Prism$() using in expensive crafting recipes for powerful and useful items."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "woldsvaults:extraordinary_pog_prism",
+            "text": "The Extraordinary Pog Prism is quite expensive in the echo department!"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "top": "contenttweaker:block/gunpowder_sack_top1",
+        "bottom": "contenttweaker:block/gunpowder_sack_bottom1",
+        "side": "contenttweaker:block/gunpowder_sack1"
+    }
+}

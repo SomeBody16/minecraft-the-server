@@ -1,0 +1,13 @@
+filename = 'appleskin-forge-mc1.18.2-2.5.1.jar'
+name = 'AppleSkin'
+side = 'both'
+
+[download]
+hash = 'e14d072aa97605ac77f23f793578270c68d2624c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4770822
+project-id = 248787

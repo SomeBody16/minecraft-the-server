@@ -1,0 +1,130 @@
+{
+  "styles": {
+     "Grave_Insurance": {
+      "x": 0,
+      "y": 70,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/grave_insurance"
+    },
+     "Augmentation_Luck": {
+      "x": 420,
+      "y": 70,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/augmentation_luck"
+    },
+    "ShopReroll": {
+      "x": 210,
+      "y": -140,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/negotiator"
+    },
+    "Pylon_Pilferer": {
+      "x": 210,
+      "y": 280,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/pylon_pilferer"
+    },
+    "Lucky_Altar": {
+      "x": 210,
+      "y": 140,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/lucky_altar"
+    },
+    "Bartering": {
+      "x": 140,
+      "y": 70,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/bartering"
+    },
+    "Artisan": {
+      "x": 280,
+      "y": 70,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/blacksmithing"
+    },
+    "Jeweler": {
+      "x": 350,
+      "y": 70,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/jeweller"
+    },
+    "Bounty_Hunter": {
+      "x": 280,
+      "y": 140,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/bounty_hunter"
+    },
+    "Marketer": {
+      "x": 350,
+      "y": 140,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/marketer"
+    },
+    "Unbreakable": {
+      "x": 70,
+      "y": 70,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/unbreakable"
+    },
+    "Divine": {
+      "x": 280,
+      "y": 0,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/divine"
+    },
+    "Trinketer": {
+      "x": 210,
+      "y": 0,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/trinketer"
+    },
+    "Mystic": {
+      "x": 140,
+      "y": 0,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/mystic"
+    },
+    "Infuser": {
+      "x": 70,
+      "y": 0,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/infuser"
+    },
+    "Experienced": {
+      "x": 140,
+      "y": 140,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/experienced"
+    },
+    "Fortunate": {
+      "x": 70,
+      "y": 140,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/fortunate"
+    },
+    "Fortuitous_Finesse": {
+      "x": 350,
+      "y": 0,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/fortuitous_finesse"
+    },
+    "Craftsman": {
+      "x": 210,
+      "y": 210,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/reroll"
+    },
+    "Surprise_Favors": {
+      "x": 210,
+      "y": 70,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/ward"
+    },
+    "Companion_Loyalty": {
+      "x": 210,
+      "y": -70,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/companion_sleepy"
+    }
+  }
+}

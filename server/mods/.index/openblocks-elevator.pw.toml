@@ -1,0 +1,13 @@
+filename = 'elevatorid-1.18.2-1.8.4.jar'
+name = 'OpenBlocks Elevator'
+side = 'both'
+
+[download]
+hash = 'c32376d6741c1f8ec4ed637bb55e070c3ad3200e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3670034
+project-id = 250832

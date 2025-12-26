@@ -1,0 +1,13 @@
+filename = 'Powah-3.0.8.jar'
+name = 'Powah'
+side = 'both'
+
+[download]
+hash = '9131b9157a5dcd4b0f8267e4135066dde880d9b4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4525198
+project-id = 633483

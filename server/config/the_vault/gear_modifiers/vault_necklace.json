@@ -1,0 +1,1196 @@
+{
+    "modifierGroup": {
+        "IMPLICIT": [],
+        "PREFIX": [],
+        "SUFFIX": [
+             {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_expunge",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Expunge",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Expunge",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Expunge",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Expunge",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_nova",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Nova",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Nova",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Nova",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Nova",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_totem_mob_damage",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Totem",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Totem",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Totem",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Totem",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_smite",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Smite",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Smite",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Smite",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Smite",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_stonefall_snow",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Stonefall",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Stonefall",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Stonefall",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Stonefall",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_taunt_charm",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Taunt",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Taunt",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Taunt",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Taunt",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_fireball",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Fireball",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Fireball",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Fireball",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Fireball",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_battlecry_spectral",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Battle_Cry",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Battle_Cry",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Battle_Cry",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Battle_Cry",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_storm_arrow",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Storm_Arrow",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Storm_Arrow",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Storm_Arrow",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Storm_Arrow",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_arcane",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Arcane",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Arcane",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Arcane",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Arcane",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_lightning_strike",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Chain_Lightning",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Chain_Lightning",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Chain_Lightning",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Chain_Lightning",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_grenade_toxic",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Grenade",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Grenade",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Grenade",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Grenade",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_mana_shield",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 20,
+                        "value": {
+                            "abilityKey": "Mana_Shield",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Mana_Shield",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Mana_Shield",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Mana_Shield",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_heal",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Heal",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Heal",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Heal",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Heal",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_dash",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Dash",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Dash",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Dash",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Dash",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_ghost_walk",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 20,
+                        "value": {
+                            "abilityKey": "Ghost_Walk",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Ghost_Walk",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Ghost_Walk",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Ghost_Walk",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_mega_jump",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Mega_Jump",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Mega_Jump",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Mega_Jump",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Mega_Jump",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_empower",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Empower",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Empower",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Empower",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Empower",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_hunter",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 10,
+                        "value": {
+                            "abilityKey": "Hunter",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Hunter",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Hunter",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Hunter",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_vein_miner",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Vein_Miner",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Vein_Miner",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Vein_Miner",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Vein_Miner",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_rampage",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Rampage",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Rampage",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Rampage",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Rampage",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_javelin",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Javelin",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Javelin",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Javelin",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Javelin",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_shell",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Shell",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Shell",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Shell",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Shell",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_ice_bolt",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Ice_Bolt",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Ice_Bolt",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Ice_Bolt",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Ice_Bolt",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_implode_life_tap",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Implode",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Implode",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Implode",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Implode",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_earthquake",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Earthquake",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Earthquake",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Earthquake",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Earthquake",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_retribution",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Retribution",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Retribution",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Retribution",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Retribution",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

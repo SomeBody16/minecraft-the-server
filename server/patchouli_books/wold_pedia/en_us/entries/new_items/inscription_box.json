@@ -1,0 +1,21 @@
+{
+    "sortnum": 3,
+    "name": "Inscription Boxes",
+    "icon": "woldsvaults:inscription_box",
+    "category": "patchouli:new_items",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Inscription Boxes are a new Mystery Box-like item that contains a random Inscription as a reward. "
+        },
+        {
+            "type": "patchouli:text",
+            "text": "They can be found in bounties, $(l)Omega Boxes$(), and $(l)Dungeon Pedestals$(). They can contain normally unobtainable Inscriptions, as well as ones with 5 size instead of the normal 10!"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "woldsvaults:inscription_box",
+            "text": "You can combine 4 of any Inscriptions and a few ingredients from the vault to craft an Inscription Box as well, in case you'd like to roll the dice for a better one!"
+        }
+    ]
+}

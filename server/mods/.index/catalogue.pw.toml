@@ -1,0 +1,13 @@
+filename = 'catalogue-1.6.2-1.18.2.jar'
+name = 'Catalogue'
+side = 'both'
+
+[download]
+hash = 'ffba614f78af09cd60e554f1d605463f723d7466'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3803098
+project-id = 459701

@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "javd:portal_block"
+    },
+    "title": {
+      "text": "A World for Building"
+    },
+    "description": {
+      "text": "Craft or Obtain a Void Dimension Portal Block."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "javd:portal_block"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "diamond"
+    ]
+  ]
+}

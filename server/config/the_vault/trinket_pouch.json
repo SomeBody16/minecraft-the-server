@@ -1,0 +1,107 @@
+{
+  "TRINKET_POUCH_CONFIGS": {
+    "woldsvaults:basic_alt_r": {
+      "NAME": "trinket_pouch.woldsvaults.basic_alt_r",
+      "SLOT_ENTRIES": {
+        "red_trinket": 1,
+        "green_trinket": 1
+      },
+      "COLOR": "red"
+    },
+    "woldsvaults:basic_alt_g": {
+      "NAME": "trinket_pouch.woldsvaults.basic_alt_g",
+      "SLOT_ENTRIES": {
+        "blue_trinket": 1,
+        "green_trinket": 1
+      },
+      "COLOR": "green"
+    },
+    "woldsvaults:basic_vanilla": {
+      "NAME": "trinket_pouch.woldsvaults.basic_classic",
+      "SLOT_ENTRIES": {
+        "blue_trinket": 1,
+        "red_trinket": 1
+      },
+      "COLOR": "yellow"
+    },
+    "woldsvaults:explorer": {
+      "NAME": "trinket_pouch.woldsvaults.explorer",
+      "SLOT_ENTRIES": {
+        "blue_trinket": 1,
+        "green_trinket": 2
+      },
+      "COLOR": "green"
+    },
+    "woldsvaults:light": {
+      "NAME": "trinket_pouch.woldsvaults.light",
+      "SLOT_ENTRIES": {
+        "blue_trinket": 2,
+        "green_trinket": 1
+      },
+      "COLOR": "blue"
+    },
+    "woldsvaults:wizard": {
+      "NAME": "trinket_pouch.woldsvaults.wizard",
+      "SLOT_ENTRIES": {
+        "blue_trinket": 2,
+        "red_trinket": 1
+      },
+      "COLOR": "blue"
+    },
+    "woldsvaults:standard": {
+      "NAME": "trinket_pouch.woldsvaults.standard",
+      "SLOT_ENTRIES": {
+        "red_trinket": 1,
+        "green_trinket": 1,
+        "blue_trinket": 1
+      },
+      "COLOR": "white"
+    },
+    "woldsvaults:heavy": {
+      "NAME": "trinket_pouch.woldsvaults.heavy",
+      "SLOT_ENTRIES": {
+        "red_trinket": 2,
+        "green_trinket": 1
+      },
+      "COLOR": "red"
+    },
+    "woldsvaults:slayer": {
+      "NAME": "trinket_pouch.woldsvaults.slayer",
+      "SLOT_ENTRIES": {
+        "red_trinket": 2,
+        "blue_trinket": 1
+      },
+      "COLOR": "red"
+    },
+    "woldsvaults:looters_dream": {
+      "NAME": "trinket_pouch.woldsvaults.looters_dream",
+      "SLOT_ENTRIES": {
+        "green_trinket": 3
+      },
+      "COLOR": "green"
+    },
+    "woldsvaults:warrior": {
+      "NAME": "trinket_pouch.woldsvaults.warrior",
+      "SLOT_ENTRIES": {
+        "red_trinket": 3
+      },
+      "COLOR": "red"
+    },
+    "woldsvaults:hyper": {
+      "NAME": "trinket_pouch.woldsvaults.hyper",
+      "SLOT_ENTRIES": {
+        "blue_trinket": 3
+      },
+      "COLOR": "blue"
+    },
+    "woldsvaults:prismatic": {
+      "NAME": "trinket_pouch.woldsvaults.prismatic",
+      "SLOT_ENTRIES": {
+        "red_trinket": 2,
+        "blue_trinket": 2,
+        "green_trinket": 2
+      },
+      "COLOR": "light_purple"
+    }
+  }
+}

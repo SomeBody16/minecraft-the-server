@@ -1,0 +1,13 @@
+filename = 'oculus-mc1.18.2-1.6.4.jar'
+name = 'Oculus'
+side = 'both'
+
+[download]
+hash = '9bafc5d3069d533c49a19b6f5bdb53637a1d47c2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4578744
+project-id = 581495

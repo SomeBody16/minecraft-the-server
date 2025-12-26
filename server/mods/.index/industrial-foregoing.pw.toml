@@ -1,0 +1,13 @@
+filename = 'industrial-foregoing-1.18.2-3.3.1.6-10.jar'
+name = 'Industrial Foregoing'
+side = 'both'
+
+[download]
+hash = 'f4909c17d370922d4a4af5a286b82c69d501ff4d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4401654
+project-id = 266515

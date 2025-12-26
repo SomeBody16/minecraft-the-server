@@ -1,0 +1,13 @@
+filename = 'embeddium-0.2.16+mc1.18.2.jar'
+name = 'Embeddium'
+side = 'both'
+
+[download]
+hash = '1de83343fa908c896dbc81a88e74b94e0a6c454d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4984828
+project-id = 908741
