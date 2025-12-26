@@ -1,6 +1,6 @@
 {:outlink:target="blank" rel="noopener noreferrer"}
 
-## 1.1.0
+## 1.1.0 [CHANGELOG](https://github.com/SomeBody16/minecraft-the-server/pull/42/changes){:outlink}
 
 - Wold's Vaults 0.25.2 -> 0.25.3 [CHANGELOG](https://www.curseforge.com/minecraft/modpacks/wolds-vaults/files/7373941){:outlink}
 - Vault Hunters 3.20.2 -> 3.20.3 [CHANGELOG](https://discord.com/channels/889424759018901514/1048680576988762182/1453434437869244528){:outlink}
