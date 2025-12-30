@@ -1,6 +1,20 @@
 {:outlink:target="blank" rel="noopener noreferrer"}
 
-## 1.1.0 [CHANGELOG](https://github.com/SomeBody16/minecraft-the-server/pull/42/changes){:outlink}
+## 1.2.0 [#43](https://github.com/SomeBody16/minecraft-the-server/pull/43/changes){:outlink}
+
+- Wold's Vaults 0.25.3 -> 0.25.4 [CHANGELOG](https://www.curseforge.com/minecraft/modpacks/wolds-vaults/files/7389645){:outlink}
+- Vault Dwellers will now have player skins
+
+#### Added mods:
+
+- [Snowy Spirit](https://www.curseforge.com/minecraft/mc-mods/snowy-spirit){:outlink}
+- [AlcoCraft+](https://modrinth.com/mod/alcocraft?version=1.18.2&loader=forge){:outlink}
+- [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice?version=1.18.2&loader=forge){:outlink}
+- [Brewin' And Chewin'](https://modrinth.com/mod/brewin-and-chewin?version=1.18.2&loader=forge){:outlink}
+
+---
+
+## 1.1.0 [#42](https://github.com/SomeBody16/minecraft-the-server/pull/42/changes){:outlink}
 
 - Wold's Vaults 0.25.2 -> 0.25.3 [CHANGELOG](https://www.curseforge.com/minecraft/modpacks/wolds-vaults/files/7373941){:outlink}
 - Vault Hunters 3.20.2 -> 3.20.3 [CHANGELOG](https://discord.com/channels/889424759018901514/1048680576988762182/1453434437869244528){:outlink}

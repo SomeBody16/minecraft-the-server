@@ -1762,6 +1762,18 @@
                 {
                     "value": {
                         "item": {
+                            "ITEM": "the_vault:deck_socket",
+                            "AMOUNT": 1,
+                            "NBT": "{Modifier:\"@default\"}"
+                        },
+                        "minPrice": 10000,
+                        "maxPrice": 20000
+                    },
+                    "weight": 6
+                },
+                {
+                    "value": {
+                        "item": {
                             "ITEM": "the_vault:opportunistic_focus",
                             "AMOUNT": 1,
                             "NBT": "{}"
