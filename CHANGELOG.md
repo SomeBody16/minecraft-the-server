@@ -3,6 +3,7 @@
 ## 1.2.0 [#43](https://github.com/SomeBody16/minecraft-the-server/pull/43/changes){:outlink}
 
 - Wold's Vaults 0.25.3 -> 0.25.4 [CHANGELOG](https://www.curseforge.com/minecraft/modpacks/wolds-vaults/files/7389645){:outlink}
+- Vault Dwellers will now have player skins
 
 #### Added mods:
 
