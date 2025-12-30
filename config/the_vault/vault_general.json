@@ -6,6 +6,7 @@
     "OBELISK_DROP_CHANCE": 2,
     "ITEM_BLACKLIST": [
         "alcocraftplus:*",
+        "brewinandchewin:*",
         "!immersiveengineering:*ore*",
         "!powah:*ore*",
         "quark:glass_item_frame",
@@ -276,6 +277,7 @@
     ],
     "BLOCK_BLACKLIST": [
         "alcocraftplus:*",
+        "brewinandchewin:*",
         "!immersiveengineering:*ore*",
         "!powah:*ore*",
         "ars_nouveau:*",
