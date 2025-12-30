@@ -10,6 +10,8 @@
 
 - [Snowy Spirit](https://www.curseforge.com/minecraft/mc-mods/snowy-spirit){:outlink}
 - [AlcoCraft+](https://modrinth.com/mod/alcocraft?version=1.18.2&loader=forge){:outlink}
+- [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice?version=1.18.2&loader=forge){:outlink}
+- [Brewin' And Chewin'](https://modrinth.com/mod/brewin-and-chewin?version=1.18.2&loader=forge){:outlink}
 
 </div>
 
