@@ -1,8 +1,6 @@
 {:outlink:target="blank" rel="noopener noreferrer"}
 
-<div style="background-color: #fff3cd; border: 1px solid #ffeeba; padding: 15px; border-radius: 8px; color: #856404;" markdown="1">
-
-## 1.2.0 [CHANGELOG](https://github.com/SomeBody16/minecraft-the-server/pull/43/changes){:outlink}
+## 1.2.0 [#43](https://github.com/SomeBody16/minecraft-the-server/pull/43/changes){:outlink}
 
 - Wold's Vaults 0.25.3 -> 0.25.4 [CHANGELOG](https://www.curseforge.com/minecraft/modpacks/wolds-vaults/files/7389645){:outlink}
 
@@ -13,9 +11,9 @@
 - [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice?version=1.18.2&loader=forge){:outlink}
 - [Brewin' And Chewin'](https://modrinth.com/mod/brewin-and-chewin?version=1.18.2&loader=forge){:outlink}
 
-</div>
+---
 
-## 1.1.0 [CHANGELOG](https://github.com/SomeBody16/minecraft-the-server/pull/42/changes){:outlink}
+## 1.1.0 [#42](https://github.com/SomeBody16/minecraft-the-server/pull/42/changes){:outlink}
 
 - Wold's Vaults 0.25.2 -> 0.25.3 [CHANGELOG](https://www.curseforge.com/minecraft/modpacks/wolds-vaults/files/7373941){:outlink}
 - Vault Hunters 3.20.2 -> 3.20.3 [CHANGELOG](https://discord.com/channels/889424759018901514/1048680576988762182/1453434437869244528){:outlink}
