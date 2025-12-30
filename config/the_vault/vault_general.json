@@ -5,6 +5,7 @@
     "NO_EXIT_CHANCE": 10,
     "OBELISK_DROP_CHANCE": 2,
     "ITEM_BLACKLIST": [
+        "alcocraftplus:*",
         "!immersiveengineering:*ore*",
         "!powah:*ore*",
         "quark:glass_item_frame",
@@ -274,6 +275,7 @@
         "tiab:time_in_a_bottle"
     ],
     "BLOCK_BLACKLIST": [
+        "alcocraftplus:*",
         "!immersiveengineering:*ore*",
         "!powah:*ore*",
         "ars_nouveau:*",
