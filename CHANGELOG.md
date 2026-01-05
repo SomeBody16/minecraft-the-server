@@ -2,6 +2,8 @@
 
 ## 1.3.0 [#44](https://github.com/SomeBody16/minecraft-the-server/pull/44/changes){:outlink}
 
+- Added addiction to crystal
+
 #### Added mods:
 
 - [Create: Broken Bad](https://www.curseforge.com/minecraft/mc-mods/create-broken-bad){:outlink}
