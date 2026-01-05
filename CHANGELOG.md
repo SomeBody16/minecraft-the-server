@@ -4,7 +4,7 @@
 
 - Added addiction to crystal
 - Fixed some translations and textures
-- Hammer trident model
+- Hammer trident model [WIP]
 
 #### Added mods:
 
