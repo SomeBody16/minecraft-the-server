@@ -10,8 +10,8 @@
 
 - [Create: Broken Bad](https://www.curseforge.com/minecraft/mc-mods/create-broken-bad){:outlink}
 - [Dramatic Doors](https://www.curseforge.com/minecraft/mc-mods/dramatic-doors){:outlink}
-- [Trails&Tales Backport](https://modrinth.com/mod/trailstales-backport?version=1.18.2){:outlink}
 - [Ghostwriter](https://github.com/waffle-stomper/Ghostwriter){:outlink}
+- [MOA DECOR: BATH](https://www.curseforge.com/minecraft/mc-mods/moa-decor-bath){:outlink}
 
 ---
 
