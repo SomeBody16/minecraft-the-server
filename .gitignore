@@ -33,6 +33,25 @@ o_prof
 /tools
 launcher_profiles.json
 .minecraft
+/assets
+/bin
+/debug
+/ESM
+/emojiful/cache
+/everbook
+/fancymenu_data
+/iammusicplayer
+/immersive_paintings_cache
+/libraries
+/modernfix
+/otyacraftengine
+/player_models
+/quickPlay
+/runtime
+/vaultmaps
+/versions
+/webcache2
+/launcher_*
 
 # node
 node_modules
