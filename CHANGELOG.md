@@ -3,6 +3,7 @@
 ## 1.3.0 [#44](https://github.com/SomeBody16/minecraft-the-server/pull/44/changes){:outlink}
 
 - Added addiction to crystal
+- Fixed translations
 
 #### Added mods:
 
