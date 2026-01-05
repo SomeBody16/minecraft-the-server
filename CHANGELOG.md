@@ -1,5 +1,20 @@
 {:outlink:target="blank" rel="noopener noreferrer"}
 
+## 1.3.0 [#44](https://github.com/SomeBody16/minecraft-the-server/pull/44/changes){:outlink}
+
+- Added recipe for corundum
+- Added addiction to crystal
+- Fixed some translations and textures
+- Hammer trident model [WIP]
+
+#### Added mods:
+
+- [Create: Broken Bad](https://www.curseforge.com/minecraft/mc-mods/create-broken-bad){:outlink}
+- [Ghostwriter](https://github.com/waffle-stomper/Ghostwriter){:outlink}
+- [MOA DECOR: BATH](https://www.curseforge.com/minecraft/mc-mods/moa-decor-bath){:outlink}
+
+---
+
 ## 1.2.0 [#43](https://github.com/SomeBody16/minecraft-the-server/pull/43/changes){:outlink}
 
 - Wold's Vaults 0.25.3 -> 0.25.4 [CHANGELOG](https://www.curseforge.com/minecraft/modpacks/wolds-vaults/files/7389645){:outlink}
@@ -11,8 +26,6 @@
 - [AlcoCraft+](https://modrinth.com/mod/alcocraft?version=1.18.2&loader=forge){:outlink}
 - [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice?version=1.18.2&loader=forge){:outlink}
 - [Brewin' And Chewin'](https://modrinth.com/mod/brewin-and-chewin?version=1.18.2&loader=forge){:outlink}
-
----
 
 ## 1.1.0 [#42](https://github.com/SomeBody16/minecraft-the-server/pull/42/changes){:outlink}
 
