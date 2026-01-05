@@ -9,7 +9,6 @@
 #### Added mods:
 
 - [Create: Broken Bad](https://www.curseforge.com/minecraft/mc-mods/create-broken-bad){:outlink}
-- [Dramatic Doors](https://www.curseforge.com/minecraft/mc-mods/dramatic-doors){:outlink}
 - [Ghostwriter](https://github.com/waffle-stomper/Ghostwriter){:outlink}
 - [MOA DECOR: BATH](https://www.curseforge.com/minecraft/mc-mods/moa-decor-bath){:outlink}
 
