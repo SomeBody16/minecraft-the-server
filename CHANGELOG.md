@@ -2,6 +2,7 @@
 
 ## 1.3.0 [#44](https://github.com/SomeBody16/minecraft-the-server/pull/44/changes){:outlink}
 
+- Added recipe for corundum
 - Added addiction to crystal
 - Fixed some translations and textures
 - Hammer trident model [WIP]
