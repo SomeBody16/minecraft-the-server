@@ -3,9 +3,7 @@ const addiction = {
         return itemId.includes('corundum_cluster')
     },
     isPlayerAddicted: (player) => {
-        return player.persistentData.isAddicted 
-            || player.name === 'Ventura42' 
-            || player.name === 'SiogunJH'
+        return player.name === 'SiogunJH'
     },
     setPlayerAddicted: (player) => {
         player.persistentData.isAddicted = true
