@@ -1,5 +1,22 @@
 {:outlink:target="blank" rel="noopener noreferrer"}
 
+## 1.4.0 [#45](https://github.com/SomeBody16/minecraft-the-server/pull/45/changes){:outlink}
+
+- Colossal chests maxSize: 5 -> 10
+- Added steampunk textures for mods:
+    - Applied Energetics
+    - Building Gadgets
+    - Camera
+    - Computer Craft
+    - Easy Villagers
+    - Immersive Aircrafts
+    - Simple Storage Network
+    - Thermal Series
+- Updated addiction to crystal (only true addict is addicted)
+- Added Mjöllnir trident transmog
+
+---
+
 ## 1.3.0 [#44](https://github.com/SomeBody16/minecraft-the-server/pull/44/changes){:outlink}
 
 - Added recipe for corundum
@@ -12,8 +29,6 @@
 - [Create: Broken Bad](https://www.curseforge.com/minecraft/mc-mods/create-broken-bad){:outlink}
 - [Ghostwriter](https://github.com/waffle-stomper/Ghostwriter){:outlink}
 - [MOA DECOR: BATH](https://www.curseforge.com/minecraft/mc-mods/moa-decor-bath){:outlink}
-
----
 
 ## 1.2.0 [#43](https://github.com/SomeBody16/minecraft-the-server/pull/43/changes){:outlink}
 

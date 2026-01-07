@@ -1,0 +1,10 @@
+{
+    "MODELS": [
+        {
+            "id": "vhapi:gear/trident/mjollnir",
+            "displayName": "Mjöllnir",
+            "discoverOnRoll": true,
+            "allowTransmogrification": true
+        }
+    ]
+}

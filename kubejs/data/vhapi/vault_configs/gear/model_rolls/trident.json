@@ -1,0 +1,12 @@
+{
+    "TRIDENT_MODEL_ROLLS": {
+        "SCRAPPY": [],
+        "COMMON": [],
+        "RARE": [],
+        "EPIC": [],
+        "OMEGA": [
+            "vhapi:gear/trident/mjollnir"
+        ],
+        "UNIQUE": []
+    }
+}
