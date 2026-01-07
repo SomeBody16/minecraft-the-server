@@ -1,0 +1,10 @@
+{
+    "MODELS": [
+        {
+            "id": "vhapi:gear/helmet/steampunk",
+            "displayName": "Steampunk",
+            "discoverOnRoll": true,
+            "allowTransmogrification": true
+        }
+    ]
+}

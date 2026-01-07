@@ -13,6 +13,7 @@
     - Simple Storage Network
     - Thermal Series
 - Updated addiction to crystal (only true addict is addicted)
+- Added Mjöllnir trident transmog
 
 ---
 
