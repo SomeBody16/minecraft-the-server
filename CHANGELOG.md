@@ -3,6 +3,15 @@
 ## 1.4.0 [#45](https://github.com/SomeBody16/minecraft-the-server/pull/45/changes){:outlink}
 
 - Colossal chests maxSize: 5 -> 10
+- Added steampunk textures for mods:
+    - Applied Energetics
+    - Building Gadgets
+    - Camera
+    - Computer Craft
+    - Easy Villagers
+    - Immersive Aircrafts
+    - Simple Storage Network
+    - Thermal Series
 
 ---
 
