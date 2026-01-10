@@ -5,9 +5,6 @@ const addiction = {
     isPlayerAddicted: (player) => {
         return player.name === 'SiogunJH'
     },
-    setPlayerAddicted: (player) => {
-        player.persistentData.isAddicted = true
-    },
     setLastDoseTime: (player, level) => {
         player.persistentData.lastDoseTime = level.time
     },
@@ -23,7 +20,6 @@ onEvent('item.food_eaten', (event) => {
     if (addiction.isCrystalItem(item)) {
         if (!addiction.isPlayerAddicted(player)) {
             player.tell(Text.green('This feels... good.'))
-            addiction.setPlayerAddicted(player)
 
             player.potionEffects.add('minecraft:speed', 1200, 1);
             player.potionEffects.add('minecraft:haste', 1200, 1);
@@ -63,7 +59,7 @@ onEvent('player.tick', event => {
         player.tell(Text.yellow('You\'re starting to feel withdrawal symptoms...'))
     }
 
-    if (timeSinceLastDose > MINUTE * 7) {
+    if (timeSinceLastDose > MINUTE * 7 || timeSinceLastDose <= 0) {
         let getTime = () => {
             return Math.floor(Math.random() * MINUTE) + 20
         }
