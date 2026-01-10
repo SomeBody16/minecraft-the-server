@@ -1,5 +1,19 @@
 {:outlink:target="blank" rel="noopener noreferrer"}
 
+## 1.5.0 [#46](https://github.com/SomeBody16/minecraft-the-server/pull/46/changes){:outlink}
+
+- New transmogs:
+    - Soulrender (Axe)
+    - Awakened Lichblade (Sword)
+    - Stormbringer (Sword)
+
+#### Added mods:
+
+- [Create Sabers](https://www.curseforge.com/minecraft/mc-mods/create-sabers){:outlink}
+- [Engineer's Decor](https://www.curseforge.com/minecraft/mc-mods/engineers-decor){:outlink}
+
+---
+
 ## 1.4.0 [#45](https://github.com/SomeBody16/minecraft-the-server/pull/45/changes){:outlink}
 
 - Colossal chests maxSize: 5 -> 10
@@ -14,8 +28,6 @@
     - Thermal Series
 - Updated addiction to crystal (only true addict is addicted)
 - Added Mjöllnir trident transmog
-
----
 
 ## 1.3.0 [#44](https://github.com/SomeBody16/minecraft-the-server/pull/44/changes){:outlink}
 
