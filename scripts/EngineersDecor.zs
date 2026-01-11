@@ -1,3 +1,4 @@
+import mods.jei.JEI;
 
 craftingTable.remove(<item:engineersdecor:small_tree_cutter>);
 JEI.hideIngredient(<item:engineersdecor:small_tree_cutter>);
