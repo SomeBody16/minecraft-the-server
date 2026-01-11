@@ -3,9 +3,7 @@
 ## 1.5.0 [#46](https://github.com/SomeBody16/minecraft-the-server/pull/46/changes){:outlink}
 
 - New transmogs:
-    - Soulrender (Axe)
-    - Awakened Lichblade (Sword)
-    - Stormbringer (Sword)
+    - Hammer of Destiny (Axe)
 
 #### Added mods:
 
