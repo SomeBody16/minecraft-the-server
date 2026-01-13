@@ -1,0 +1,22 @@
+{
+    "MOD_RESEARCHES": [
+        {
+            "modIds": [
+                "create_power_loader"
+            ],
+            "restrictions": {
+                "restricts": {
+                    "HITTABILITY": true,
+                    "BLOCK_INTERACTABILITY": true,
+                    "USABILITY": true,
+                    "CRAFTABILITY": true,
+                    "ENTITY_INTERACTABILITY": true
+                }
+            },
+            "name": "Create: Power Loader",
+            "cost": 5,
+            "usesKnowledge": true
+        }
+    ],
+    "CUSTOM_RESEARCHES": []
+}

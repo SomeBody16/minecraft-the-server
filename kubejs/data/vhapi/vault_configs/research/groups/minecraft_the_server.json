@@ -1,0 +1,14 @@
+{
+    "groups": {
+        "Minecraft THE Server": {
+            "title": "Minecraft THE Server",
+            "research": [
+                "Create: Power Loader"
+            ],
+            "globalCostIncrease": 0.0,
+            "groupCostIncrease": {
+                "Minecraft THE Server": 2
+            }
+        }
+    }
+}
