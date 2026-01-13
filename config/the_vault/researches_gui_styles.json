@@ -66,6 +66,12 @@
             "frameType": "RECTANGULAR",
             "icon": "the_vault:gui/researches/advanced_peripherals"
         },
+        "Create: Power Loader": {
+            "x": 570,
+            "y": 160,
+            "frameType": "RECTANGULAR",
+            "icon": "the_vault:gui/researches/create_power_loader"
+        },
         "Incorporeal": {
             "x": 670,
             "y": 120,
