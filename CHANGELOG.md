@@ -2,6 +2,8 @@
 
 ## 1.6.0 [#47](https://github.com/SomeBody16/minecraft-the-server/pull/47/changes){:outlink}
 
+- Added a random chance for the server to spontaneously combust and delete itself.
+
 #### Added mods:
 
 - [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles?version=1.18.2&loader=forge){:outlink}
