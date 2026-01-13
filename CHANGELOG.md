@@ -1,5 +1,24 @@
 {:outlink:target="blank" rel="noopener noreferrer"}
 
+## 1.6.0 [#47](https://github.com/SomeBody16/minecraft-the-server/pull/47/changes){:outlink}
+
+- Added a random chance for the server to spontaneously combust and delete itself.
+
+#### Added mods:
+
+- [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles?version=1.18.2&loader=forge){:outlink}
+- [Create Train Additions](https://modrinth.com/mod/create-train-additions?version=1.18.2){:outlink}
+- [Create: Connected](https://modrinth.com/mod/create-connected?version=1.18.2&loader=forge){:outlink}
+- [Create: Power Loader](https://modrinth.com/mod/create-power-loader?version=1.18.2&loader=forge){:outlink}
+- [Create: Dreams & Desires](https://modrinth.com/mod/create-dreams-and-desires?version=1.18.2&loader=forge){:outlink}
+- [Create Big Cannons](https://modrinth.com/mod/create-big-cannons?version=1.18.2&loader=forge){:outlink}
+- [Create Railways Navigator](https://modrinth.com/mod/create-railways-navigator?version=1.18.2&loader=forge){:outlink}
+- [Create: Design n' Decor](https://modrinth.com/mod/create-design-n-decor?version=1.18.2&loader=forge){:outlink}
+- [Create Train Utilities](https://modrinth.com/mod/create-trainutilities?version=1.18.2&loader=forge){:outlink}
+- [Immersive Posts](https://www.curseforge.com/minecraft/mc-mods/immersiveposts){:outlink}
+
+---
+
 ## 1.5.0 [#46](https://github.com/SomeBody16/minecraft-the-server/pull/46/changes){:outlink}
 
 - New transmogs:
@@ -9,8 +28,6 @@
 
 - [Create Sabers](https://www.curseforge.com/minecraft/mc-mods/create-sabers){:outlink}
 - [Engineer's Decor](https://www.curseforge.com/minecraft/mc-mods/engineers-decor){:outlink}
-
----
 
 ## 1.4.0 [#45](https://github.com/SomeBody16/minecraft-the-server/pull/45/changes){:outlink}
 

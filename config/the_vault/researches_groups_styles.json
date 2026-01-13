@@ -27,7 +27,7 @@
             "x": 550,
             "y": -25,
             "boxWidth": 170,
-            "boxHeight": 175,
+            "boxHeight": 220,
             "icon": "the_vault:gui/research_groups/addons"
         },
         "Logistics": {

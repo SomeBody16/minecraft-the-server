@@ -250,6 +250,16 @@
                 "ignoreArrow": true,
                 "lockedBy": []
             },
+            "Create: Power Loader": {
+                "dependsOn": [
+                    {
+                        "type": "constant",
+                        "id": "Create"
+                    }
+                ],
+                "ignoreArrow": true,
+                "lockedBy": []
+            },
             "Compressed Creativity": {
                 "dependsOn": [
                     {

@@ -5223,6 +5223,15 @@
             { "text": ", " },
             { "text": "Create", "color": "aqua" },
             { "text": " and your digital storage!" }
+        ],
+        "Create: Power Loader": [
+            { "text": "Unlocks the " },
+            { "text": "Create: Power Loader", "color": "yellow" },
+            {
+                "text": " mod!"
+            },
+            { "text": "\n\nWorks on the ground, on trains and on contraptions" },
+            { "text": "\n\nAttaches to Train Stations for lag-friendly chunk loading" }
         ]
     }
 }
