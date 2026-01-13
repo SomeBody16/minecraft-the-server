@@ -1,4 +1,4 @@
-import crafttweaker.api.recipe.RecipeManagerWrapper;
+import crafttweaker.api.GenericRecipesManager;
 import mods.jei.JEI;
 
 var hide = {
@@ -39,12 +39,11 @@ var hide = {
         "infamagma_block",
         "infamoss_block"
     ]
-}
+};
 
 for modId in hide {
     for itemId in hide[modId] {
-        // var recipes = RecipeManagerWrapper.getRecipesByOutput(<item:${modId}:${itemId}>); 
-        RecipeManagerWrapper.remove(<item:${modId}:${itemId}>);
+        GenericRecipesManager.INSTANCE.remove(<item:${modId}:${itemId}>);
         JEI.hideIngredient(<item:${modId}:${itemId}>);
     }
 }
