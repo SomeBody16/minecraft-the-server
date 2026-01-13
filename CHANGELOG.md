@@ -1,5 +1,9 @@
 {:outlink:target="blank" rel="noopener noreferrer"}
 
+## 1.6.1 [#48](https://github.com/SomeBody16/minecraft-the-server/pull/48/changes){:outlink}
+
+- Removed auto-destruct feature because server did spontaneously combust and deleted itself.
+
 ## 1.6.0 [#47](https://github.com/SomeBody16/minecraft-the-server/pull/47/changes){:outlink}
 
 - Added a random chance for the server to spontaneously combust and delete itself.
