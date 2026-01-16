@@ -1,5 +1,12 @@
 {:outlink:target="blank" rel="noopener noreferrer"}
 
+## 1.7.0 [#49](https://github.com/SomeBody16/minecraft-the-server/pull/49/changes){:outlink}
+
+- Removed SWEM mod
+- New transmogs:
+
+---
+
 ## 1.6.1 [#48](https://github.com/SomeBody16/minecraft-the-server/pull/48/changes){:outlink}
 
 - Removed auto-destruct feature because server did spontaneously combust and deleted itself.
@@ -20,8 +27,6 @@
 - [Create: Design n' Decor](https://modrinth.com/mod/create-design-n-decor?version=1.18.2&loader=forge){:outlink}
 - [Create Train Utilities](https://modrinth.com/mod/create-trainutilities?version=1.18.2&loader=forge){:outlink}
 - [Immersive Posts](https://www.curseforge.com/minecraft/mc-mods/immersiveposts){:outlink}
-
----
 
 ## 1.5.0 [#46](https://github.com/SomeBody16/minecraft-the-server/pull/46/changes){:outlink}
 
