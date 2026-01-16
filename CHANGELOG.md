@@ -4,6 +4,16 @@
 
 - Removed SWEM mod
 - New transmogs:
+    - Asura (trident)
+    - Emerald Crescent-EX (trident)
+    - Oathkeeper (sword)
+    - Moonshine Frost Blade (sword)
+- Added recipe for colored sporee blossoms
+- Added recipe for wold star (creative items)
+- Added new player titles in ascension forge:
+    - Dr.
+    - Dr hab.
+    - Voidborn (fix)
 
 ---
 
