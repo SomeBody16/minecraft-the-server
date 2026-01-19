@@ -1,5 +1,19 @@
 {:outlink:target="blank" rel="noopener noreferrer"}
 
+## 1.8.0 [#50](https://github.com/SomeBody16/minecraft-the-server/pull/50/changes){:outlink}
+
+- Fixed Voidborn title (again)
+- Added new transmogs
+    - Cyberpunk Samurai Axe (axe)
+    - Cyberpunk Samurai Hammer (axe)
+    - Cyberpunk Samurai (sword)
+    - Cyberpunk Samurai (trident)
+    - Cyberpunk Samurai (shield)
+- Added new mods
+    - [Music Maker Mod](https://www.curseforge.com/minecraft/mc-mods/music-maker-mod){:outlink}
+
+---
+
 ## 1.7.0 [#49](https://github.com/SomeBody16/minecraft-the-server/pull/49/changes){:outlink}
 
 - Removed SWEM mod
@@ -14,8 +28,6 @@
     - Dr.
     - Dr hab.
     - Voidborn (fix)
-
----
 
 ## 1.6.1 [#48](https://github.com/SomeBody16/minecraft-the-server/pull/48/changes){:outlink}
 
