@@ -1,6 +1,6 @@
 {:outlink:target="blank" rel="noopener noreferrer"}
 
-## 1.8.0 [#50](https://github.com/SomeBody16/minecraft-the-server/pull/50/changes){:outlink}
+## 1.8.0 [#53](https://github.com/SomeBody16/minecraft-the-server/pull/53/changes){:outlink}
 
 - Fixed Voidborn title (again)
 - Added new mods
@@ -8,7 +8,7 @@
 
 ---
 
-## 1.7.0 [#49](https://github.com/SomeBody16/minecraft-the-server/pull/49/changes){:outlink}
+## 1.7.0 [#52](https://github.com/SomeBody16/minecraft-the-server/pull/52/changes){:outlink}
 
 - Removed SWEM mod
 - New transmogs:
