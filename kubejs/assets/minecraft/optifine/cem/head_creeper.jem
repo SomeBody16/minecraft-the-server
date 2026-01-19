@@ -1,0 +1,25 @@
+{
+	"credit": "Made by Squatting_Slav",
+	"texture": "textures/entity/creeper/head_creeper.png",
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{"coordinates": [-4, 0, -4, 8, 8, 8], "textureOffset": [0, 0]}
+			],
+			"submodels": [
+				{
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"boxes": [
+						{"coordinates": [-4, 0.1, -4, 8, 8, 8], "textureOffset": [33, 1], "sizeAdd": 0.5}
+					]
+				}
+			]
+		}
+	]
+}
