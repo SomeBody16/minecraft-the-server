@@ -317,6 +317,20 @@
                         "rewardPool": "rare"
                     },
                     "weight": 4
+                },
+                {
+                    "value": {
+                        "value": "minecraft:player",
+                        "amount": {
+                            "min": 1,
+                            "max": 2
+                        },
+                        "floorToNearestTen": false,
+                        "validDimensions": ["minecraft:overworld"],
+                        "vaultOnly": false,
+                        "rewardPool": "rare"
+                    },
+                    "weight": 1
                 }
             ]
         },
