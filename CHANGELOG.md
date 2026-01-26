@@ -13,12 +13,11 @@
 - Added smoothboot(reloaded) to optimize **Kryształowice** boot
 - Added starlight to optimize **Kryształowice** lighting
 
----
-
 ## 1.9.0 [#54](https://github.com/SomeBody16/minecraft-the-server/pull/54/changes){:outlink}
 
 - Wold's Vaults 0.25.3 -> 0.26.0 (huge) [CHANGELOG](https://www.curseforge.com/minecraft/modpacks/wolds-vaults/files/7509272){:outlink}
 - Removed Super Hiper Ultra Omega creepers because they didn't work and was too loud.
+- Added kill player bounty
 
 ---
 
