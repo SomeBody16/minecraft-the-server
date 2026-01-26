@@ -60,7 +60,7 @@
                     {
                         "minLevel": 80,
                         "maxLevel": -1,
-                        "weight": 25,
+                        "weight": 4,
                         "value": {
                             "flag": true
                         }
@@ -74,7 +74,7 @@
                 "tags": [],
                 "tiers": [
                     {
-                        "minLevel": 80,
+                        "minLevel": 96,
                         "maxLevel": -1,
                         "weight": 75,
                         "value": {

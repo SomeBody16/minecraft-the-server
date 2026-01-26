@@ -4,6 +4,20 @@
             "pool": [
                 {
                     "value": {
+                        "value": "minecraft:player",
+                        "amount": {
+                            "min": 1,
+                            "max": 2
+                        },
+                        "floorToNearestTen": false,
+                        "validDimensions": ["minecraft:overworld"],
+                        "vaultOnly": false,
+                        "rewardPool": "rare"
+                    },
+                    "weight": 1
+                },
+                {
+                    "value": {
                         "value": "@the_vault:horde",
                         "amount": {
                             "min": 5,
@@ -62,6 +76,20 @@
         },
         "20": {
             "pool": [
+                {
+                    "value": {
+                        "value": "minecraft:player",
+                        "amount": {
+                            "min": 1,
+                            "max": 2
+                        },
+                        "floorToNearestTen": false,
+                        "validDimensions": ["minecraft:overworld"],
+                        "vaultOnly": false,
+                        "rewardPool": "rare"
+                    },
+                    "weight": 1
+                },
                 {
                     "value": {
                         "value": "@the_vault:assassin",
@@ -164,6 +192,20 @@
         },
         "50": {
             "pool": [
+                {
+                    "value": {
+                        "value": "minecraft:player",
+                        "amount": {
+                            "min": 1,
+                            "max": 2
+                        },
+                        "floorToNearestTen": false,
+                        "validDimensions": ["minecraft:overworld"],
+                        "vaultOnly": false,
+                        "rewardPool": "rare"
+                    },
+                    "weight": 1
+                },
                 {
                     "value": {
                         "value": "@the_vault:assassin",
@@ -322,6 +364,20 @@
         },
         "65": {
             "pool": [
+                {
+                    "value": {
+                        "value": "minecraft:player",
+                        "amount": {
+                            "min": 1,
+                            "max": 2
+                        },
+                        "floorToNearestTen": false,
+                        "validDimensions": ["minecraft:overworld"],
+                        "vaultOnly": false,
+                        "rewardPool": "rare"
+                    },
+                    "weight": 1
+                },
                 {
                     "value": {
                         "value": "@the_vault:assassin",

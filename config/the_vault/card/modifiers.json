@@ -52,8 +52,8 @@
             "attribute": "the_vault:attack_damage",
             "pool": [
                 {
-                    "min": 10.0,
-                    "max": 10.0,
+                    "min": 8.0,
+                    "max": 8.0,
                     "step": 0.0,
                     "tier": 1
                 }
@@ -112,8 +112,8 @@
             "attribute": "the_vault:health",
             "pool": [
                 {
-                    "min": 10.0,
-                    "max": 10.0,
+                    "min": 6.0,
+                    "max": 6.0,
                     "step": 0.0,
                     "tier": 1
                 }
@@ -172,8 +172,8 @@
             "attribute": "the_vault:ability_power",
             "pool": [
                 {
-                    "min": 12.5,
-                    "max": 12.5,
+                    "min": 10.0,
+                    "max": 10.0,
                     "step": 0.0,
                     "tier": 1
                 }
@@ -232,8 +232,8 @@
             "attribute": "the_vault:attack_speed_percent",
             "pool": [
                 {
-                    "min": 0.075,
-                    "max": 0.075,
+                    "min": 0.05,
+                    "max": 0.05,
                     "step": 1.0,
                     "tier": 1
                 }
@@ -292,8 +292,8 @@
             "attribute": "the_vault:cooldown_reduction",
             "pool": [
                 {
-                    "min": 0.04,
-                    "max": 0.04,
+                    "min": 0.025,
+                    "max": 0.025,
                     "step": 0.0,
                     "tier": 1
                 }
@@ -352,8 +352,8 @@
             "attribute": "the_vault:critical_hit_mitigation",
             "pool": [
                 {
-                    "min": 0.05,
-                    "max": 0.05,
+                    "min": 0.035,
+                    "max": 0.035,
                     "step": 0.0,
                     "tier": 1
                 }
@@ -532,8 +532,8 @@
             "attribute": "the_vault:item_rarity",
             "pool": [
                 {
-                    "min": 0.05,
-                    "max": 0.05,
+                    "min": 0.035,
+                    "max": 0.035,
                     "step": 0.0,
                     "tier": 1
                 }
@@ -592,8 +592,8 @@
             "attribute": "the_vault:knockback_resistance",
             "pool": [
                 {
-                    "min": 0.075,
-                    "max": 0.075,
+                    "min": 0.05,
+                    "max": 0.05,
                     "step": 0.0,
                     "tier": 1
                 }
@@ -652,8 +652,8 @@
             "attribute": "the_vault:lucky_hit_chance",
             "pool": [
                 {
-                    "min": 0.015,
-                    "max": 0.015,
+                    "min": 0.01,
+                    "max": 0.01,
                     "step": 0.0,
                     "tier": 1
                 }
@@ -712,8 +712,8 @@
             "attribute": "the_vault:mana_additive",
             "pool": [
                 {
-                    "min": 15.0,
-                    "max": 15.0,
+                    "min": 10.0,
+                    "max": 10.0,
                     "step": 0.0,
                     "tier": 1
                 }
@@ -772,8 +772,8 @@
             "attribute": "the_vault:mana_regen",
             "pool": [
                 {
-                    "min": 0.15,
-                    "max": 0.15,
+                    "min": 0.1,
+                    "max": 0.1,
                     "step": 0.01,
                     "tier": 1
                 }
@@ -832,8 +832,8 @@
             "attribute": "the_vault:mining_speed",
             "pool": [
                 {
-                    "min": 12.5,
-                    "max": 12.5,
+                    "min": 10,
+                    "max": 10,
                     "step": 1.0,
                     "tier": 1
                 }
@@ -892,8 +892,8 @@
             "attribute": "the_vault:resistance",
             "pool": [
                 {
-                    "min": 0.025,
-                    "max": 0.025,
+                    "min": 0.015,
+                    "max": 0.015,
                     "step": 0.0,
                     "tier": 1
                 }
@@ -952,8 +952,8 @@
             "attribute": "the_vault:soul_chance",
             "pool": [
                 {
-                    "min": 0.2,
-                    "max": 0.2,
+                    "min": 0.1,
+                    "max": 0.1,
                     "step": 0.0,
                     "tier": 1
                 }
@@ -1012,8 +1012,8 @@
             "attribute": "the_vault:thorns_damage_flat",
             "pool": [
                 {
-                    "min": 10.0,
-                    "max": 10.0,
+                    "min": 8.0,
+                    "max": 8.0,
                     "step": 0.0,
                     "tier": 1
                 }
@@ -1072,8 +1072,8 @@
             "attribute": "the_vault:trap_disarming",
             "pool": [
                 {
-                    "min": 0.075,
-                    "max": 0.075,
+                    "min": 0.05,
+                    "max": 0.05,
                     "step": 1.0,
                     "tier": 1
                 }
@@ -1132,8 +1132,8 @@
             "attribute": "the_vault:mana_additive_percentile",
             "pool": [
                 {
-                    "min": 0.05,
-                    "max": 0.05,
+                    "min": 0.035,
+                    "max": 0.035,
                     "step": 0.0,
                     "tier": 1
                 }
@@ -1192,8 +1192,8 @@
             "attribute": "the_vault:damage_increase",
             "pool": [
                 {
-                    "min": 0.05,
-                    "max": 0.05,
+                    "min": 0.035,
+                    "max": 0.035,
                     "step": 0.0,
                     "tier": 1
                 }
@@ -1252,8 +1252,8 @@
             "attribute": "the_vault:ability_power_percent",
             "pool": [
                 {
-                    "min": 0.03,
-                    "max": 0.03,
+                    "min": 0.02,
+                    "max": 0.02,
                     "step": 0.0,
                     "tier": 1
                 }
@@ -1312,8 +1312,8 @@
             "attribute": "the_vault:armor_percentile",
             "pool": [
                 {
-                    "min": 0.075,
-                    "max": 0.075,
+                    "min": 0.05,
+                    "max": 0.05,
                     "step": 0.0,
                     "tier": 1
                 }
@@ -1372,8 +1372,8 @@
             "attribute": "the_vault:health_percentile",
             "pool": [
                 {
-                    "min": 0.075,
-                    "max": 0.075,
+                    "min": 0.05,
+                    "max": 0.05,
                     "step": 0.0,
                     "tier": 1
                 }
@@ -1432,8 +1432,8 @@
             "attribute": "the_vault:area_of_effect",
             "pool": [
                 {
-                    "min": 0.03,
-                    "max": 0.03,
+                    "min": 0.025,
+                    "max": 0.025,
                     "step": 1.0,
                     "tier": 1
                 }
@@ -1492,8 +1492,8 @@
             "attribute": "the_vault:movement_speed",
             "pool": [
                 {
-                    "min": 0.02,
-                    "max": 0.02,
+                    "min": 0.015,
+                    "max": 0.015,
                     "step": 0.0,
                     "tier": 1
                 }
@@ -1552,8 +1552,8 @@
             "attribute": "the_vault:copiously",
             "pool": [
                 {
-                    "min": 0.035,
-                    "max": 0.035,
+                    "min": 0.025,
+                    "max": 0.025,
                     "step": 1.0,
                     "tier": 1
                 }
@@ -3260,23 +3260,6 @@
                 {
                     "tier": 1,
                     "talentKey": "Prudent",
-                    "levelChange": 1
-                }
-            ],
-            "maxTier": 1
-        },
-        "alchemist": {
-            "type": "gear",
-            "name": {
-                "text": "Prudent Card"
-            },
-            "model": "the_vault:skills/potion_time#inventory",
-            "groups": ["Knack", "Utility"],
-            "attribute": "the_vault:added_talent_level",
-            "pool": [
-                {
-                    "tier": 1,
-                    "talentKey": "Alchemist",
                     "levelChange": 1
                 }
             ],
@@ -7581,10 +7564,6 @@
             },
             {
                 "value": "prudent",
-                "weight": 4.0
-            },
-            {
-                "value": "alchemist",
                 "weight": 4.0
             },
             {

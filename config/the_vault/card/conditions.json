@@ -1035,10 +1035,6 @@
                                             "weight": 1.0
                                         },
                                         {
-                                            "value": ["ADJACENT"],
-                                            "weight": 1.0
-                                        },
-                                        {
                                             "value": ["SURROUNDING"],
                                             "weight": 1.0
                                         }
