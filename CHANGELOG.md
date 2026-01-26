@@ -1,5 +1,20 @@
 {:outlink:target="blank" rel="noopener noreferrer"}
 
+## 1.10.0 [#55](https://github.com/SomeBody16/minecraft-the-server/pull/55/changes){:outlink}
+
+- Added betterbiomeblend to optimize **Kryształowice** biome
+- Added betterfpsdist to optimize **Kryształowice** fps
+- Added canary-mc to optimize **Kryształowice** kanarki
+- Added CullLessLeaves-Regorged to optimize **Kryształowice** leaves
+- Added farsight to see **Kryształowice** from distance
+- Added Fastload-Reforged to optimize **Kryształowice** loading
+- Added gpumemleakfix to optimize **Kryształowice** gpu memory leak
+- Added saturnmc to optimize **Kryształowice** planets
+- Added smoothboot(reloaded) to optimize **Kryształowice** boot
+- Added starlight to optimize **Kryształowice** lighting
+
+---
+
 ## 1.9.0 [#54](https://github.com/SomeBody16/minecraft-the-server/pull/54/changes){:outlink}
 
 - Wold's Vaults 0.25.3 -> 0.26.0 (huge) [CHANGELOG](https://www.curseforge.com/minecraft/modpacks/wolds-vaults/files/7509272){:outlink}
