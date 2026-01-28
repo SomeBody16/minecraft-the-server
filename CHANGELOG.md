@@ -7,6 +7,8 @@
 - Added recipes for moa's soap
 - Removed farsight mod
 
+---
+
 ## 1.10.0 [#55](https://github.com/SomeBody16/minecraft-the-server/pull/55/changes){:outlink}
 
 - Added betterbiomeblend to optimize **Kryształowice** biome
@@ -25,8 +27,6 @@
 - Wold's Vaults 0.25.3 -> 0.26.0 (huge) [CHANGELOG](https://www.curseforge.com/minecraft/modpacks/wolds-vaults/files/7509272){:outlink}
 - Removed Super Hiper Ultra Omega creepers because they didn't work and was too loud.
 - Added kill player bounty
-
----
 
 ## 1.8.0 [#53](https://github.com/SomeBody16/minecraft-the-server/pull/53/changes){:outlink}
 
