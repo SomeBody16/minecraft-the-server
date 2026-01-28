@@ -2,7 +2,7 @@
 
 ## 1.11.0 [#56](https://github.com/SomeBody16/minecraft-the-server/pull/56/changes){:outlink}
 
-- Added [Faz's Roleplay Clothes](https://modrinth.com/mod/fazs-roleplay-clothes)
+- Added [Faz's Roleplay Clothes](https://modrinth.com/mod/fazs-roleplay-clothes){:outlink}
 - Added recipes for mud
 - Added recipes for moa's soap
 - Removed farsight mod
