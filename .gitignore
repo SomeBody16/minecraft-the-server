@@ -55,3 +55,7 @@ launcher_profiles.json
 
 # node
 node_modules
+
+# dev
+.vscode
+/world

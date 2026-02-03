@@ -3,7 +3,7 @@ onEvent("recipes", event => {
     event.shapeless('wildbackport:mud', ['buildscape:mud'])
 
     event.recipes.createFilling(`wildbackport:mud`, [
-        'minecraft:dirt',
+        'minecraft:coarse_dirt',
         Fluid.of(`minecraft:water`, 100)
     ])
 })

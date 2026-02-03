@@ -1,13 +1,17 @@
 {:outlink:target="blank" rel="noopener noreferrer"}
 
+## 1.12.0 [#57](https://github.com/SomeBody16/minecraft-the-server/pull/57/changes){:outlink}
+
+- Updated somevhaddons
+
+---
+
 ## 1.11.0 [#56](https://github.com/SomeBody16/minecraft-the-server/pull/56/changes){:outlink}
 
 - Added [Faz's Roleplay Clothes](https://modrinth.com/mod/fazs-roleplay-clothes){:outlink}
 - Added recipes for mud
 - Added recipes for moa's soap
 - Removed farsight mod
-
----
 
 ## 1.10.0 [#55](https://github.com/SomeBody16/minecraft-the-server/pull/55/changes){:outlink}
 
