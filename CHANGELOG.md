@@ -1,6 +1,18 @@
 {:outlink:target="blank" rel="noopener noreferrer"}
 
-## 1.13.0 [#57](https://github.com/SomeBody16/minecraft-the-server/pull/57/changes){:outlink}
+## 1.14.0 [#59](https://github.com/SomeBody16/minecraft-the-server/pull/59/changes){:outlink}
+
+- Wold's Vaults 0.26.0 -> 0.26.1 [CHANGELOG](https://www.curseforge.com/minecraft/modpacks/wolds-vaults/files/7509272){:outlink}
+
+### Highlights:
+> - New Layouts: All disabled, will return with improvements later is the plan.
+> - Fix: All Raid mobs now are highlighted when ringing bell (including custom added ones - thanks rizek)
+> - Fix: Fixed ticking player exception caused by Etched Vault Layouts.
+> - Fix: Improved Crate Cracker item handling.
+> - Fix: Time Trial now sets a seed on the crystal, same for all players during the event.
+> - Hopefully fixed Time Trial rewards not being rewarded and no message being sent when the winner is offline.
+
+## 1.13.0 [#58](https://github.com/SomeBody16/minecraft-the-server/pull/58/changes){:outlink}
 
 - New altar ingredients for level 75+
 - Fixed some gem language
