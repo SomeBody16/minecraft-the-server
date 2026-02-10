@@ -1823,8 +1823,8 @@
                     "color": "$castType"
                 }
             ],
-            "current": ["cooldown", "manaCost", "duration", "radius", "heal"],
-            "next": ["cooldown", "manaCost", "duration", "radius", "heal"]
+            "current": ["cooldown", "manaCost", "adjustedDuration", "adjustedRadius", "heal"],
+            "next": ["cooldown", "manaCost", "adjustedDuration", "adjustedRadius", "heal"]
         },
         "Totem_Mana_Regen": {
             "description": [
