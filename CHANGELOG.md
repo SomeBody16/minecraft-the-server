@@ -3,6 +3,7 @@
 ## 1.13.0 [#57](https://github.com/SomeBody16/minecraft-the-server/pull/57/changes){:outlink}
 
 - New altar ingredients for level 75+
+- Fixed some gem language
 
 ---
 
