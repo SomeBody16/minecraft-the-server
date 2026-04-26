@@ -1,5 +1,5 @@
 {
-    "serverId": "mc.hypixel.net",
+    "serverIp": "mc.hypixel.net",
     "minecraft": {
         "version": "1.21.1",
         "loader": {
