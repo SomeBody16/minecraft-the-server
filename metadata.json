@@ -1,5 +1,6 @@
 {
   "serverIp": "minecraft-the-server.spot.gs",
+  "name": "Minecraft THE Pokemon",
   "minecraft": {
     "version": "1.21.1",
     "loader": {
