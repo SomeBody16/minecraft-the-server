@@ -1,0 +1,83 @@
+[data]
+# Max samples stored per display panel (default 600 = 10 min at 1/sec)
+# Default: 600
+# Range: 60 ~ 6000
+panelBufferSize = 600
+# Max samples stored per recorder (default 1800 = 30 min at 1/sec)
+# Default: 1800
+# Range: 60 ~ 18000
+recorderBufferSize = 1800
+# Ticks between samples (20 = 1 second). Lower = more resolution, more memory
+# Default: 20
+# Range: 1 ~ 200
+sampleIntervalTicks = 20
+
+[display]
+# Ticks between client sync updates for display panels
+# Default: 20
+# Range: 5 ~ 200
+panelSyncIntervalTicks = 20
+# Passive refresh interval for stats-link auto-read sources (20 = default, 10 = high refresh, 5 = aggressive)
+# Default: 20
+# Range: 5 ~ 20
+statsLinkPassiveRefreshTicks = 20
+# Responsive refresh cap for live stats-link telemetry. Effective cadence uses the lower of this and statsLinkPassiveRefreshTicks. Default 5 for snappier AERO/Simulated updates.
+# Default: 5
+# Range: 5 ~ 20
+responsiveStatsLinkRefreshTicks = 5
+# Maximum width of a multiblock display panel
+# Default: 8
+# Range: 1 ~ 16
+maxMultiblockWidth = 8
+# Maximum height of a multiblock display panel
+# Default: 8
+# Range: 1 ~ 16
+maxMultiblockHeight = 8
+# Max block distance at which panel graphs render
+# Default: 48
+# Range: 16 ~ 128
+maxRenderDistance = 48
+
+[export]
+# Allow CSV export from recorders
+enableCsvExport = true
+# Auto-export interval in minutes (0 = disabled)
+# Default: 0
+# Range: 0 ~ 60
+csvAutoExportIntervalMinutes = 0
+
+[dashboard]
+# Minimum multiblock blocks (W*H) to auto-activate dashboard mode
+# Default: 6
+# Range: 4 ~ 64
+dashboardMinBlocks = 6
+# Minimum width or height to allow dashboard (prevents thin strips)
+# Default: 3
+# Range: 2 ~ 8
+dashboardMinDimension = 3
+# Enable scrolling alert ticker in dashboard mode
+dashboardTickerEnabled = true
+# Ticker scroll speed in pixels per texture update (1-5)
+# Default: 1
+# Range: 1 ~ 5
+dashboardTickerSpeed = 1
+
+[topology]
+# Default maximum nodes in topology map (higher = more CPU). Panel settings can lower this per display.
+# Default: 200
+# Range: 10 ~ 1000
+topologyMaxNodes = 200
+# Radius to search for kinetic seed blocks
+# Default: 5
+# Range: 1 ~ 16
+topologyScanRadius = 5
+# Force-directed layout iterations (higher = better layout, more CPU)
+# Default: 150
+# Range: 30 ~ 300
+topologyLayoutIterations = 150
+
+[trainMap]
+# Force-directed layout iterations for the full train map screen (higher = better layout, more CPU)
+# Default: 180
+# Range: 30 ~ 500
+trainMapLayoutIterations = 180
