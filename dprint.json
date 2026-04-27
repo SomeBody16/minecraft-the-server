@@ -1,6 +1,6 @@
 {
   "lineWidth": 160,
-  "newLineKind": "crlf",
+  "newLineKind": "auto",
   "useTabs": false,
   "typescript": {
     "quoteStyle": "alwaysSingle",
