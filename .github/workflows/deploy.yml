@@ -1,0 +1,95 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - minecraft-the-pokemon
+
+jobs:
+  web-deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🚚 Get latest code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 📂 Sync `config`
+        uses: milanmk/actions-file-deployer@1.18
+        with:
+          remote-protocol: sftp
+          remote-host: ${{ secrets.SFTP_IP }}
+          remote-port: ${{ secrets.SFTP_PORT }}
+          remote-user: ${{ secrets.SFTP_LOGIN }}
+          remote-password: ${{ secrets.SFTP_PASSWORD }}
+          local-path: ./defaultconfigs
+          remote-path: ./config
+          sync-delta-excludes: |
+            paxi/resourcepacks/**
+
+      - name: 📂 Sync `kubejs`
+        uses: milanmk/actions-file-deployer@1.18
+        with:
+          remote-protocol: sftp
+          remote-host: ${{ secrets.SFTP_IP }}
+          remote-port: ${{ secrets.SFTP_PORT }}
+          remote-user: ${{ secrets.SFTP_LOGIN }}
+          remote-password: ${{ secrets.SFTP_PASSWORD }}
+          local-path: ./kubejs
+          remote-path: ./kubejs
+
+      - name: 📂 Sync `mods`
+        uses: milanmk/actions-file-deployer@1.18
+        with:
+          remote-protocol: sftp
+          remote-host: ${{ secrets.SFTP_IP }}
+          remote-port: ${{ secrets.SFTP_PORT }}
+          remote-user: ${{ secrets.SFTP_LOGIN }}
+          remote-password: ${{ secrets.SFTP_PASSWORD }}
+          local-path: ./mods
+          remote-path: ./mods
+          sync-delta-excludes: |
+            appleskin-*.jar
+            better-clouds-*.jar
+            BetterF3-*.jar
+            BetterGrassify-*.jar
+            BetterPingDisplay-*.jar
+            chat_heads-*.jar
+            cleanswing-*.jar
+            CobblemonMoveInspector-*.jar
+            Controlling-*.jar
+            coolrain-*.jar
+            cosycritters-*.jar
+            Drip Sounds-*.jar
+            dynamic-fps-*.jar
+            eatinganimation-*.jar
+            enchdesc-*.jar
+            entityculling-*.jar
+            EuphoriaPatcher-*.jar
+            fast-ip-ping-*.jar
+            figura-*.jar
+            gpumemleakfix-*.jar
+            highlight-*.jar
+            ImmediatelyFast-*.jar
+            immersivehotbar-*.jar
+            ImmersiveUI-*.jar
+            InventoryParticles-*.jar
+            iris-*.jar
+            Jade-*.jar
+            jei-*.jar
+            MouseTweaks-*.jar
+            ParticleEffects-*.jar
+            particlerain-*.jar
+            polytone-*.jar
+            PresenceFootsteps-*.jar
+            pv-addon-soundphysics-*.jar
+            Resourcify*.jar
+            Searchables-*.jar
+            sodium-*.jar
+            sodium-extra-*.jar
+            sound-physics-remastered-*.jar
+            sounds-*.jar
+            SubtleEffects-*.jar
+            visual_keybinder-*.jar
+            visuality-*.jar
