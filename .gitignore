@@ -1,3 +1,16 @@
+# Minecraft
+.neoforge/
+assets/
+config/
+crash-reports/
 game/
+libraries/
+logs/
+natives/
+runtime/
+runtimes/
 tools/
+versions/
+
+launcher_profiles.json
 Minecraft.exe
