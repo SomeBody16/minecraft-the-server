@@ -1,0 +1,10 @@
+{
+  "serverIp": "minecraft-the-server.spot.gs",
+  "minecraft": {
+    "version": "1.21.1",
+    "loader": {
+      "name": "neoforge",
+      "version": "21.1.228"
+    }
+  }
+}
