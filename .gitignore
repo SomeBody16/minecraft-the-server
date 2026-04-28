@@ -1,16 +1,24 @@
 # Minecraft
+.mixin.out/
 .neoforge/
+.pg-native/
 assets/
 config/
 crash-reports/
+data/
+downloads/
+dynamic-resource-pack-cache/
+figura/
 game/
 libraries/
+local/
 logs/
 natives/
 runtime/
 runtimes/
 tools/
+showdown/
 versions/
 
-launcher_profiles.json
-Minecraft.exe
+options.txt
+patchouli_data.json
