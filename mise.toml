@@ -1,5 +1,7 @@
 [tools]
 dprint = "latest"
+node = "lts"
+yarn = "latest"
 
 [tasks.format]
 run = "dprint fmt"

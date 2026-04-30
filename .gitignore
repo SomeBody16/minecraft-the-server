@@ -22,3 +22,7 @@ versions/
 
 options.txt
 patchouli_data.json
+
+# Node / Yarn
+.yarn/
+node_modules/

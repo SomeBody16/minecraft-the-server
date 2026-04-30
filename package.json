@@ -1,0 +1,27 @@
+{
+  "name": "minecraft-the-server",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/SomeBody16/minecraft-the-server#readme",
+  "bugs": {
+    "url": "https://github.com/SomeBody16/minecraft-the-server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SomeBody16/minecraft-the-server.git"
+  },
+  "license": "ISC",
+  "author": "SomeBody16_",
+  "type": "commonjs",
+  "scripts": {
+    "metadata": "tsx .modpack/metadata.ts --write",
+    "manifest": "tsx .modpack/manifest.ts --write"
+  },
+  "dependencies": {
+    "glob": "^13.0.6"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "tsx": "^4.21.0"
+  }
+}
