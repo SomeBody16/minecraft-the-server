@@ -14,7 +14,6 @@
   "author": "SomeBody16_",
   "type": "commonjs",
   "scripts": {
-    "metadata": "tsx .modpack/metadata.ts --write",
     "manifest": "tsx .modpack/manifest.ts --write"
   },
   "dependencies": {

@@ -1,23 +1,19 @@
-export type Metadata = {
+export type Manifest = {
   name: string;
   serverIp: string;
   version: {
+    modpack: string;
     minecraft: string;
     modloader: {
       name: string;
       version: string;
-    }
-  }
-  include: string[];
-}
+    };
+  };
+  files: File[];
+};
 
 export type File = {
   name: string;
   size: number;
   hash: string;
-}
-
-export type Manifest = {
-  version: string;
-  files: File[];
-}
+};
