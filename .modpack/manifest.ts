@@ -3,11 +3,12 @@ import {globSync} from "glob";
 
 import { Manifest, File, hashFile, hashString } from "./core";
 import { config } from "./config";
+import path from "path";
 
 const files: File[] = globSync(config.include)
   .filter((file) => fs.statSync(file).isFile())
   .map((file) => ({
-    name: file,
+    name: path.normalize(file).replaceAll(path.sep, path.posix.sep),
     size: fs.statSync(file).size,
     hash: hashFile(file),
   }));
