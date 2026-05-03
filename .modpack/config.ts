@@ -10,4 +10,5 @@ export const config = {
   },
   /** Files to include in modpack */
   include: ["defaultconfigs/**/*", "mods/**/*.jar", "shaderpacks/**/*"],
+  lfs: [/\.jar$/],
 };
