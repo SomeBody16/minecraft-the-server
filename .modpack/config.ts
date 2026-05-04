@@ -15,7 +15,7 @@ export const config = {
     },
   },
   /** Files to include in modpack */
-  include: ["defaultconfigs/**/*", "mods/**/*.jar", "shaderpacks/**/*"],
+  include: ["config/**/*", "defaultconfigs/**/*", "mods/**/*.jar", "shaderpacks/**/*"],
   /** Paths matching Git LFS rules from `.gitattributes` (`filter=lfs`) */
   lfs: lfsRegexesFromGitattributes(fs.readFileSync(gitattributesPath, "utf8")),
 };

@@ -15,7 +15,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: 📂 Sync `config`
+      - name: 📂 Sync `defaultconfigs`
         uses: milanmk/actions-file-deployer@1.18
         with:
           remote-protocol: sftp
@@ -24,6 +24,17 @@ jobs:
           remote-user: ${{ secrets.SFTP_LOGIN }}
           remote-password: ${{ secrets.SFTP_PASSWORD }}
           local-path: ./defaultconfigs
+          remote-path: ./config
+
+      - name: 📂 Sync `config`
+        uses: milanmk/actions-file-deployer@1.18
+        with:
+          remote-protocol: sftp
+          remote-host: ${{ secrets.SFTP_IP }}
+          remote-port: ${{ secrets.SFTP_PORT }}
+          remote-user: ${{ secrets.SFTP_LOGIN }}
+          remote-password: ${{ secrets.SFTP_PASSWORD }}
+          local-path: ./config
           remote-path: ./config
           sync-delta-excludes: |
             paxi/resourcepacks/**

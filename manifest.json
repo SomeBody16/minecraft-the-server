@@ -2,7 +2,7 @@
   "name": "Minecraft THE Pokemon",
   "serverIp": "minecraft-the-server.spot.gs",
   "version": {
-    "modpack": "3c724cf9a4b8427fa910a1c42d0d61e562565c849ce15e3436f3bb813f7a3f6a",
+    "modpack": "f56fdc443941be60e91d8130baccc0bd86574998edb03ba182464bdd5a498553",
     "minecraft": "1.21.1",
     "modloader": {
       "name": "neoforge",
@@ -10,6 +10,91 @@
     }
   },
   "files": [
+    {
+      "name": "config/paxi/datapack_load_order.json",
+      "hash": "8f51bb16857a9668512f01334c8c2b95273867da229692c0daff400c95519128",
+      "size": 22
+    },
+    {
+      "name": "config/paxi/datapacks/CR - Biome Expanded Spawns - 5.8.1.zip",
+      "hash": "8e261cc1cfbbc0e2d9cb91e206b0a965d075a21df4ca64b32627901e0a5edeea",
+      "size": 901067
+    },
+    {
+      "name": "config/paxi/datapacks/PathToLegends-1.1.1-release.zip",
+      "hash": "156e42b8fa35bf30e21a73af1f1bbed66f5ed54085aa8beb6544190aa35e3f59",
+      "size": 492682
+    },
+    {
+      "name": "config/paxi/datapacks/vanilla_only_advancements/pack.mcmeta",
+      "hash": "b6521ac327afd49859fd4ed46b38c30ff0ef1f657973d6a38e53ff0b26018a93",
+      "size": 250
+    },
+    {
+      "name": "config/paxi/datapacks/VanillaTweaks_d185723_UNZIP_ME.zip",
+      "hash": "98b1c4db350736d5e26dde0526a679935c581c9d5fe8869b8015de121a3663f9",
+      "size": 297183
+    },
+    {
+      "name": "config/paxi/resourcepack_load_order.json",
+      "hash": "8f51bb16857a9668512f01334c8c2b95273867da229692c0daff400c95519128",
+      "size": 22
+    },
+    {
+      "name": "config/paxi/resourcepacks/[1.5] Enhanced Boss Bars.zip",
+      "hash": "dd6cc4be800ec9baa99d91ba5e30546cce9e5c00ed742c6a5b4888d90a67388f",
+      "size": 203258
+    },
+    {
+      "name": "config/paxi/resourcepacks/§e[FORGE]Eating Animations More Compat.zip",
+      "hash": "b8e618b9b06195a00e0e74289aa8748fa2e49fae535dcc9cbe6d0092986047a3",
+      "size": 1103721
+    },
+    {
+      "name": "config/paxi/resourcepacks/§eExtended_Illumina_1.21x.zip",
+      "hash": "ff1f8382f8d000636c86efa399b470e830bd3fd24d49b0c40c903fa0712ee85b",
+      "size": 5035
+    },
+    {
+      "name": "config/paxi/resourcepacks/§eTorches§8-§eReimagined§0_§8[v1.7.2]§0.zip",
+      "hash": "c9262d923b69a54e4c16d281fd4f039dc467560f4395289eafd240c27eb799a7",
+      "size": 186249
+    },
+    {
+      "name": "config/paxi/resourcepacks/CreateSophBackpacks.zip",
+      "hash": "cb63a5a33c142ce588f1df020c7d4615f57f0e312064e03d4e7901060803905d",
+      "size": 557473
+    },
+    {
+      "name": "config/paxi/resourcepacks/CreateSophiStorage.zip",
+      "hash": "cea881b7e94723237391ef5075afc68e15bad74d124bb98220804fed1d48e580",
+      "size": 611818
+    },
+    {
+      "name": "config/paxi/resourcepacks/Gentler Weather Sounds 2.2.0.zip",
+      "hash": "9198b0932e19def4795240cb4863b61a65f606fc66f9eb3cafeff1fbebb434cf",
+      "size": 2642800
+    },
+    {
+      "name": "config/paxi/resourcepacks/Os' Colorful Grasses (Mix).zip",
+      "hash": "13fa9c58de7beb6ce8a12e3231e9d0b3f54b7032e1b3fd4e68f0c198b8cd3b4b",
+      "size": 294362
+    },
+    {
+      "name": "config/paxi/resourcepacks/rainbows-foliage-polytone-edition-v1.7.zip",
+      "hash": "e3851c5c2c9e796ed51409b6536e6441abb74d83ae30abd1761377c6b95968ea",
+      "size": 932983
+    },
+    {
+      "name": "config/paxi/resourcepacks/Soft-Weather-1.0-Universal.zip",
+      "hash": "3f47ccac79c0c9ff2f723e4d8061f5881ca5323931be29f9009d42682cdcc1dd",
+      "size": 6534
+    },
+    {
+      "name": "config/paxi/resourcepacks/VanillaTweaks_r298651_MC26.1.x.zip",
+      "hash": "8b3ecdf6a879bf4d8ac6f5a9d73a49bbe4dd44e03435fabd498411db45203c1f",
+      "size": 254197
+    },
     {
       "name": "defaultconfigs/accessories.json5",
       "hash": "b9f6a56acdb02a286de9aa06578dac5485656fb476adc819fb3c63dd49ad0785",
@@ -866,86 +951,6 @@
       "size": 500
     },
     {
-      "name": "defaultconfigs/paxi/datapack_load_order.json",
-      "hash": "8f51bb16857a9668512f01334c8c2b95273867da229692c0daff400c95519128",
-      "size": 22
-    },
-    {
-      "name": "defaultconfigs/paxi/datapacks/CR - Biome Expanded Spawns - 5.8.1.zip",
-      "hash": "8e261cc1cfbbc0e2d9cb91e206b0a965d075a21df4ca64b32627901e0a5edeea",
-      "size": 901067
-    },
-    {
-      "name": "defaultconfigs/paxi/datapacks/PathToLegends-1.1.1-release.zip",
-      "hash": "156e42b8fa35bf30e21a73af1f1bbed66f5ed54085aa8beb6544190aa35e3f59",
-      "size": 492682
-    },
-    {
-      "name": "defaultconfigs/paxi/datapacks/VanillaTweaks_d185723_UNZIP_ME.zip",
-      "hash": "98b1c4db350736d5e26dde0526a679935c581c9d5fe8869b8015de121a3663f9",
-      "size": 297183
-    },
-    {
-      "name": "defaultconfigs/paxi/resourcepack_load_order.json",
-      "hash": "8f51bb16857a9668512f01334c8c2b95273867da229692c0daff400c95519128",
-      "size": 22
-    },
-    {
-      "name": "defaultconfigs/paxi/resourcepacks/[1.5] Enhanced Boss Bars.zip",
-      "hash": "dd6cc4be800ec9baa99d91ba5e30546cce9e5c00ed742c6a5b4888d90a67388f",
-      "size": 203258
-    },
-    {
-      "name": "defaultconfigs/paxi/resourcepacks/§e[FORGE]Eating Animations More Compat.zip",
-      "hash": "b8e618b9b06195a00e0e74289aa8748fa2e49fae535dcc9cbe6d0092986047a3",
-      "size": 1103721
-    },
-    {
-      "name": "defaultconfigs/paxi/resourcepacks/§eExtended_Illumina_1.21x.zip",
-      "hash": "ff1f8382f8d000636c86efa399b470e830bd3fd24d49b0c40c903fa0712ee85b",
-      "size": 5035
-    },
-    {
-      "name": "defaultconfigs/paxi/resourcepacks/§eTorches§8-§eReimagined§0_§8[v1.7.2]§0.zip",
-      "hash": "c9262d923b69a54e4c16d281fd4f039dc467560f4395289eafd240c27eb799a7",
-      "size": 186249
-    },
-    {
-      "name": "defaultconfigs/paxi/resourcepacks/CreateSophBackpacks.zip",
-      "hash": "cb63a5a33c142ce588f1df020c7d4615f57f0e312064e03d4e7901060803905d",
-      "size": 557473
-    },
-    {
-      "name": "defaultconfigs/paxi/resourcepacks/CreateSophiStorage.zip",
-      "hash": "cea881b7e94723237391ef5075afc68e15bad74d124bb98220804fed1d48e580",
-      "size": 611818
-    },
-    {
-      "name": "defaultconfigs/paxi/resourcepacks/Gentler Weather Sounds 2.2.0.zip",
-      "hash": "9198b0932e19def4795240cb4863b61a65f606fc66f9eb3cafeff1fbebb434cf",
-      "size": 2642800
-    },
-    {
-      "name": "defaultconfigs/paxi/resourcepacks/Os' Colorful Grasses (Mix).zip",
-      "hash": "13fa9c58de7beb6ce8a12e3231e9d0b3f54b7032e1b3fd4e68f0c198b8cd3b4b",
-      "size": 294362
-    },
-    {
-      "name": "defaultconfigs/paxi/resourcepacks/rainbows-foliage-polytone-edition-v1.7.zip",
-      "hash": "e3851c5c2c9e796ed51409b6536e6441abb74d83ae30abd1761377c6b95968ea",
-      "size": 932983
-    },
-    {
-      "name": "defaultconfigs/paxi/resourcepacks/Soft-Weather-1.0-Universal.zip",
-      "hash": "3f47ccac79c0c9ff2f723e4d8061f5881ca5323931be29f9009d42682cdcc1dd",
-      "size": 6534
-    },
-    {
-      "name": "defaultconfigs/paxi/resourcepacks/VanillaTweaks_r298651_MC26.1.x.zip",
-      "hash": "8b3ecdf6a879bf4d8ac6f5a9d73a49bbe4dd44e03435fabd498411db45203c1f",
-      "size": 254197
-    },
-    {
       "name": "defaultconfigs/perception.yaml",
       "hash": "8e5d06199182ff3cbc4eeeded1cad6000db7477b0efb08b995e78585b7080cdf",
       "size": 773
@@ -1775,6 +1780,12 @@
       "name": "mods/gpumemleakfix-1.21-1.8.client.jar",
       "hash": "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931",
       "size": 6574,
+      "lfs": true
+    },
+    {
+      "name": "mods/handcrafted-neoforge-1.21.1-4.0.3.jar",
+      "hash": "6f2a776fb28ed07d370899814e5e711fbeebe31396097d78a3b550439b364948",
+      "size": 7132842,
       "lfs": true
     },
     {
