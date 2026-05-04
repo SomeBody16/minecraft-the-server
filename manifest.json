@@ -2,7 +2,7 @@
   "name": "Minecraft THE Pokemon",
   "serverIp": "minecraft-the-server.spot.gs",
   "version": {
-    "modpack": "f56fdc443941be60e91d8130baccc0bd86574998edb03ba182464bdd5a498553",
+    "modpack": "98e7a9190bc3b164d19c288a69c092f87a2c5f7285b7bffd92afca39efb9226f",
     "minecraft": "1.21.1",
     "modloader": {
       "name": "neoforge",
@@ -1349,6 +1349,81 @@
       "name": "defaultconfigs/zeta-common.toml",
       "hash": "9cecf159702efac02eddd7bac3c31239712dca349304fa8cefca16aa7d217f31",
       "size": 1870
+    },
+    {
+      "name": "kubejs/AGENTS.md",
+      "hash": "e0d767407471c1dad7cf84fe8a94fb6d3d295214c2ff007628d4eebe0b4a9738",
+      "size": 2109
+    },
+    {
+      "name": "kubejs/assets/kubes/textures/item/dense_hammer_ingot.png",
+      "hash": "78d38f6766a8524ab268fe0a4b17a99600c7853a7dd2cc88f44ba08538361edd",
+      "size": 300402
+    },
+    {
+      "name": "kubejs/assets/kubes/textures/item/hammer_alloy_blend.png",
+      "hash": "b70f834a494bba337b7c8fff4700ffd1bace43e10fef2fd74c749f177627b316",
+      "size": 339722
+    },
+    {
+      "name": "kubejs/assets/kubes/textures/item/hammer_head_blank.png",
+      "hash": "ea650c3e2fde155f6ba42a7d3c32a3e92086fefaa78ba211f4e25209de141861",
+      "size": 300547
+    },
+    {
+      "name": "kubejs/assets/kubes/textures/item/reinforced_hammer_head.png",
+      "hash": "639ce435e89ee5f0f25fb7b4434af702c8afe5612595c4189eec3e9ee628ace2",
+      "size": 271400
+    },
+    {
+      "name": "kubejs/assets/kubes/textures/item/stone_dust.png",
+      "hash": "b04833a09bb52f7d9a6bcd322eae3e85386765548220e6ed083cc812cbd8a6f6",
+      "size": 178362
+    },
+    {
+      "name": "kubejs/assets/kubes/textures/item/treated_handle.png",
+      "hash": "835c244a95ecb7fbff3c88c414f8945a44263187e9dafb73a8caa1f352440567",
+      "size": 169589
+    },
+    {
+      "name": "kubejs/assets/kubes/textures/item/unfinished_hammer.png",
+      "hash": "12c2cd62e66b47b6967628f4b8b801a9d0ddd5271d5b37afe96ee9929b94d481",
+      "size": 247939
+    },
+    {
+      "name": "kubejs/assets/kubes/textures/item/wood_handle_blank.png",
+      "hash": "0cc6b24a33bc74e09dd9b77f5020817e0fc1a05e77810303d0ce1b9bd54aaf12",
+      "size": 183636
+    },
+    {
+      "name": "kubejs/config/client.json",
+      "hash": "7accf3064ebee20f5850a5bb35684e3a6a10d9ab4bfe5debb5d9ba4a2a7b85ac",
+      "size": 364
+    },
+    {
+      "name": "kubejs/config/common.json",
+      "hash": "5f4ef4b40fac39bff32439961ae66a3018e45dc56715d3eb6012d12f8132310d",
+      "size": 447
+    },
+    {
+      "name": "kubejs/README.txt",
+      "hash": "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af",
+      "size": 1203
+    },
+    {
+      "name": "kubejs/server_scripts/handcrafted.js",
+      "hash": "e44bbe118057230ffe70a3c947a6c791342bb84676900c59717325646f2bd721",
+      "size": 5249
+    },
+    {
+      "name": "kubejs/server_scripts/simulated.js",
+      "hash": "de110415c64c5518925589cda0caee97141d781f3355435ac79c485dfaa945a0",
+      "size": 882
+    },
+    {
+      "name": "kubejs/startup_scripts/handcrafted_factory_items.js",
+      "hash": "bdd5d6960ef7ba26699c04d7320d42627a2358dc0a43bfb6f218c10eef670ac1",
+      "size": 1272
     },
     {
       "name": "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
