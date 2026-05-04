@@ -11,8 +11,10 @@ const files: File[] = globSync(config.include)
     const lfs = config.lfs.some((regex) => regex.test(file));
     return {
       name: path.normalize(file).replaceAll(path.sep, path.posix.sep),
-      lfs: lfs ? lfs : undefined,
       hash: hashFile(file),
+      size: fs.statSync(file).size,
+      lfs: lfs ? lfs : undefined,
+      optional: file.includes(".optional.") ? true : undefined,
     };
   });
 

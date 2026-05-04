@@ -1,3 +1,9 @@
+import fs from "fs";
+import path from "path";
+import { lfsRegexesFromGitattributes } from "./core";
+
+const gitattributesPath = path.join(__dirname, "..", ".gitattributes");
+
 export const config = {
   name: "Minecraft THE Pokemon",
   serverIp: "minecraft-the-server.spot.gs",
@@ -10,5 +16,6 @@ export const config = {
   },
   /** Files to include in modpack */
   include: ["defaultconfigs/**/*", "mods/**/*.jar", "shaderpacks/**/*"],
-  lfs: [/\.jar$/],
+  /** Paths matching Git LFS rules from `.gitattributes` (`filter=lfs`) */
+  lfs: lfsRegexesFromGitattributes(fs.readFileSync(gitattributesPath, "utf8")),
 };
