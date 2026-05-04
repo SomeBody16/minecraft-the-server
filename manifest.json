@@ -2,7 +2,7 @@
   "name": "Minecraft THE Pokemon",
   "serverIp": "minecraft-the-server.spot.gs",
   "version": {
-    "modpack": "445f44fa2049f6582d702d095ae3d4e48b1652e850c7aa45e67e3b2607bfb269",
+    "modpack": "deb145e8a00bdca14d51c1531d96d73a117b2dadc3f17f3c3ae47bd9520ee15b",
     "minecraft": "1.21.1",
     "modloader": {
       "name": "neoforge",
@@ -11,839 +11,9 @@
   },
   "files": [
     {
-      "name": "defaultconfigs/zeta-common.toml",
-      "hash": "5ea285e78632baab353b158b318b3904694dd9eb7843d3b89bcb989d47fe48f2",
-      "size": 1896
-    },
-    {
-      "name": "defaultconfigs/yungscavebiomes-neoforge-1_21_1.toml",
-      "hash": "df21c0044c0338c2804951827d4ed7f1f3882f0bf8a2a8c57b5dc3564eb09f17",
-      "size": 2850
-    },
-    {
-      "name": "defaultconfigs/yacl.json5",
-      "hash": "8a201ac6b572e9b56ea1de77e13a8d6c8fab64c89727649346e22e6e27413577",
-      "size": 255
-    },
-    {
-      "name": "defaultconfigs/waterdripsound.json",
-      "hash": "d2c1b15aba368804ff1499fc783e5f42c1ffe0d096855d60e5791c74c350009c",
-      "size": 204
-    },
-    {
-      "name": "defaultconfigs/wakes.json",
-      "hash": "cd0c72c81221cac08909848a06a66119b375f306dcd389a048182c48da998127",
-      "size": 1210
-    },
-    {
-      "name": "defaultconfigs/visual_keybinder.toml",
-      "hash": "b39299efabf2fe7d7d6f097c4ee3ce30875b0b32ea702b2a849942f98fabf719",
-      "size": 885
-    },
-    {
-      "name": "defaultconfigs/visuality.json",
-      "hash": "7d82a6f2b3fd11fe0e195decf1f56b9a6f56148ab75a3b68249cea570a2705ac",
-      "size": 1095
-    },
-    {
-      "name": "defaultconfigs/vista-common.toml",
-      "hash": "766d1c3a4acf861824925e5f4b0489fae80bb368f5b4ef558fa85fcedb9bb974",
-      "size": 313
-    },
-    {
-      "name": "defaultconfigs/vista-client.toml",
-      "hash": "950fe8a4adc8060e6bf1dd944eac6b5cef53c3121d25327fa4fc1c703e7a3d01",
-      "size": 2226
-    },
-    {
-      "name": "defaultconfigs/via_romana.json",
-      "hash": "80df159466c9bfcb7a1006fb4895b7667918ffe3fba2b0c1b4e46e5577fcda15",
-      "size": 1830
-    },
-    {
-      "name": "defaultconfigs/vanillabackport-common.toml",
-      "hash": "fd8e644d1bf2c513695e51d105d12af37e828e83e82669a48207888420834323",
-      "size": 2242
-    },
-    {
-      "name": "defaultconfigs/vanillabackport-client.toml",
-      "hash": "a0fd403035dabc7af5726409bda5084e12d0ebc26461e2e8d320fa41a1460f61",
-      "size": 340
-    },
-    {
-      "name": "defaultconfigs/trender.json",
-      "hash": "2eed89e299c4a52f674920d860a6099285eb5dea26700c80f38a8888b926a102",
-      "size": 52
-    },
-    {
-      "name": "defaultconfigs/transition.json",
-      "hash": "38ebc31642343a66c454ed078b7cd1cc367c05711c8fe5853dc86bd9af80246d",
-      "size": 67
-    },
-    {
-      "name": "defaultconfigs/tim_core.json",
-      "hash": "221acdc91c776a99326a01aec6bd5477a5a642c5095da343eb83f40ec59c63b2",
-      "size": 788
-    },
-    {
-      "name": "defaultconfigs/terrablender.toml",
-      "hash": "35d0386012ad88058188331bc5e5ccb739402df24f9d401029996788adbd5104",
-      "size": 976
-    },
-    {
-      "name": "defaultconfigs/suppsquared-common.toml",
-      "hash": "cf74f4a1b1281685ce1bbf49f97f33e24f9ebb08a6a30635b94ef8156ad723ec",
-      "size": 82
-    },
-    {
-      "name": "defaultconfigs/supplementaries-common.toml",
-      "hash": "e8e46d9fd26276d2652094b02d5112aa12c4899e42bdbf16e1570f701fbf8510",
-      "size": 26686
-    },
-    {
-      "name": "defaultconfigs/supplementaries-client.toml",
-      "hash": "69b06ae6c4271e167d48e54fe5dc91e80b1247a4c166fca683498cb6bd99c06a",
-      "size": 8987
-    },
-    {
-      "name": "defaultconfigs/structureessentials.json",
-      "hash": "89ffaf307813473dbc6b9fecca384902c173d57d230df7f0e92e3541e7d0b82a",
-      "size": 3853
-    },
-    {
-      "name": "defaultconfigs/sophisticatedstorage-server.toml",
-      "hash": "bcca29af47410ee6d6e70462de5fc48f3da9bf0a7f620d79aa949dd6375718bd",
-      "size": 24217
-    },
-    {
-      "name": "defaultconfigs/sophisticatedstorage-common.toml",
-      "hash": "4ae737999feca7bcd05d63cecd6c67ba66c3c8bf4521d283bfae43fcd69d3b72",
-      "size": 186
-    },
-    {
-      "name": "defaultconfigs/sophisticatedstorage-client.toml",
-      "hash": "6a951d1e77ec56cf1cb9b512f7084974a17b3d5488ce22f2298344bcc71ffa0b",
-      "size": 413
-    },
-    {
-      "name": "defaultconfigs/sophisticatedcore-common.toml",
-      "hash": "abde869e19eaf61c2107cd4ad81bf2122ec5eabdf1435c015cae6d6d25054539",
-      "size": 9104
-    },
-    {
-      "name": "defaultconfigs/sophisticatedcore-client.toml",
-      "hash": "42bf929a81aebe05ebe1c0b1e6c971b8a41ff9b5cc152d97266057b9168a25b1",
-      "size": 476
-    },
-    {
-      "name": "defaultconfigs/sophisticatedbackpacks-server.toml",
-      "hash": "a5e8f1f2d0ace46c617b890fccf8f202e42caa79d7e2a56f28ea4c0f65fa8745",
-      "size": 21023
-    },
-    {
-      "name": "defaultconfigs/sophisticatedbackpacks-common.toml",
-      "hash": "c2dffeda2a5b257b3eef619bbbda11744ba4233b364c7a1b26c109c737b1bdc2",
-      "size": 118
-    },
-    {
-      "name": "defaultconfigs/sodium-options.json",
-      "hash": "88b53fe08dcbec70287e4e09b12b28ec34af449012221f3aa0e25e61d1b9f5f1",
-      "size": 715
-    },
-    {
-      "name": "defaultconfigs/sodium-mixins.properties",
-      "hash": "35d3939d1bc306839c6ad538803288b3d2bc8a2dfed4948eae569d540d6b8058",
-      "size": 264
-    },
-    {
-      "name": "defaultconfigs/sodium-fingerprint.json",
-      "hash": "2c692e08042d4ee5606f997338f9a1239b3245c92e75b0b805afa4dd0f807708",
-      "size": 456
-    },
-    {
-      "name": "defaultconfigs/sodium-extra.properties",
-      "hash": "ab259e2369fc503c0cd905ec9b57b5867f4dbd249edf7a2b52193b36ffbcdeab",
-      "size": 367
-    },
-    {
-      "name": "defaultconfigs/sodium-extra-options.json",
-      "hash": "2ad0bd99bab0b24aec683fb0e9ee1ef082a18f4849421205b564b1bb240b0bf3",
-      "size": 6188
-    },
-    {
-      "name": "defaultconfigs/seamless_sleep.toml",
-      "hash": "17562679e47ccf19d476e9b5366acc2460d4d5c38c4b822776a566fc54aaffd9",
-      "size": 965
-    },
-    {
-      "name": "defaultconfigs/seamless_sleep-server.toml",
-      "hash": "62784e3a7348e320e3d463c3d7cb53bb722b18d72f6647208c2a9ed22b7ee497",
-      "size": 269
-    },
-    {
-      "name": "defaultconfigs/scholar-common.toml",
-      "hash": "8b7134d5be4440df9c114f8ece86e55423bffeab3282002e91a44ffe5776d38a",
-      "size": 846
-    },
-    {
-      "name": "defaultconfigs/scholar-client.toml",
-      "hash": "720592710bdeb6b80da48b8e97c2dfb59f3f6b714d14e04e075bdd72e2e98901",
-      "size": 1066
-    },
-    {
-      "name": "defaultconfigs/resourcify.json",
-      "hash": "24ab9ec4284e5eb258efa72bbe5fc42efbe3879fa86f1a353a6a6ea5465fa456",
-      "size": 288
-    },
-    {
-      "name": "defaultconfigs/resourceful-config-web.json",
-      "hash": "2328a4c96b79ae9c3507a4973a97afbbd62de887c91ec8471c0449e937218a98",
-      "size": 209
-    },
-    {
-      "name": "defaultconfigs/quark-common.toml",
-      "hash": "27f27eb08ec5321452dd6a4ddb53769f4335950dd85ada4b9dce460bea1bf756",
-      "size": 78198
-    },
-    {
-      "name": "defaultconfigs/protection-pixel.toml",
-      "hash": "8a7bd1ae5facd0df8604d1f94e14072a42f6bf32335256981850b0a9c35c6ab0",
-      "size": 544
-    },
-    {
-      "name": "defaultconfigs/powergrid-server.toml",
-      "hash": "a9255ece6d6caae8b0c4e8890456b406fe5992d20dee747f0618a727ccf74568",
-      "size": 14404
-    },
-    {
-      "name": "defaultconfigs/powergrid-common.toml",
-      "hash": "ddf2e126029d1811f2431fce9eb8e7319e037224523e738cc3dfe6e6c90cff6f",
-      "size": 450
-    },
-    {
-      "name": "defaultconfigs/powergrid-client.toml",
-      "hash": "216035ebd00ba6017190262994d1574cdd8f2ce5021a99f0a856c561d5dde130",
-      "size": 1053
-    },
-    {
-      "name": "defaultconfigs/ponder-client.toml",
-      "hash": "f24404cdb6ab7d77121e7f90acd82f18ae86738203f855a16bb709284e36db66",
-      "size": 637
-    },
-    {
-      "name": "defaultconfigs/perception.yaml",
-      "hash": "8e5d06199182ff3cbc4eeeded1cad6000db7477b0efb08b995e78585b7080cdf",
-      "size": 773
-    },
-    {
-      "name": "defaultconfigs/paxi-neoforge-1_21.toml",
-      "hash": "6f3aa99fa7f184e7ff53dcd65a65f348f74418ab93055554132651f125f5a234",
-      "size": 509
-    },
-    {
-      "name": "defaultconfigs/patchouli-client.toml",
-      "hash": "ee2f712c895b68ff5c443b4c5d5a5eb379605a4ecbca38f40aec50fdf78da0a9",
-      "size": 1097
-    },
-    {
-      "name": "defaultconfigs/particle_effects.json5",
-      "hash": "2b2dcd549f57d7abb750f9d4db0444549d654578906525dfa0a31c1ce75c412f",
-      "size": 27
-    },
-    {
-      "name": "defaultconfigs/neoforge-server.toml",
-      "hash": "02acb61c4b55b1e66933f4643c77c9f2928af59c4c62625412b01515551b3762",
-      "size": 1182
-    },
-    {
-      "name": "defaultconfigs/neoforge-common.toml",
-      "hash": "1030b52021d16f22e3cb4bb8d261ec9efa0d020f44682157d6e13d55181e1112",
-      "size": 777
-    },
-    {
-      "name": "defaultconfigs/neoforge-client.toml",
-      "hash": "3344caa3a5cdc2015e7b1ef025fefc4a09098fb7ce57eb369cd5c99ed5b04b4b",
-      "size": 582
-    },
-    {
-      "name": "defaultconfigs/naturescompass-common.toml",
-      "hash": "600334e053821065dde95faacd000ebde33d90cce356f616d9c9ad8cc7b7177a",
-      "size": 2205
-    },
-    {
-      "name": "defaultconfigs/naturescompass-client.toml",
-      "hash": "7c82e4d10f087104456143829b0e82a2521d4ab0dbc3c9876afefb0a901f12a3",
-      "size": 438
-    },
-    {
-      "name": "defaultconfigs/MouseTweaks.cfg",
-      "hash": "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8",
-      "size": 143
-    },
-    {
-      "name": "defaultconfigs/moonlight-common.toml",
-      "hash": "93f7cb4c4518984e89d5bd1e38cfcafe18d734be20cb4324c81b33108aad0e3e",
+      "name": "defaultconfigs/accessories.json5",
+      "hash": "8f88bbd16f42d837582885a8822cda74cea569766c80d4e89b74028499e012b8",
       "size": 955
-    },
-    {
-      "name": "defaultconfigs/moonlight-client.toml",
-      "hash": "118089bf0f86d8a22f6839bac8ed7eddb67287e573eac357b8ed1c173c3a5b49",
-      "size": 1275
-    },
-    {
-      "name": "defaultconfigs/modmenu.json",
-      "hash": "32395e2598dd288f8b63cd921647da4ed69e839d8db9bc85262d2091840a668d",
-      "size": 872
-    },
-    {
-      "name": "defaultconfigs/modernfix-mixins.properties",
-      "hash": "469d8242523771178ca7747a8535eb99e67c1fe19d82144c24107bacb534ae40",
-      "size": 5454
-    },
-    {
-      "name": "defaultconfigs/modernfix-common.toml",
-      "hash": "8832bf3d7c98c0468622783a2f161ec871ebf40605399d68767cea42a32358d6",
-      "size": 106
-    },
-    {
-      "name": "defaultconfigs/midnightlib.json",
-      "hash": "7fae4917f0ecd3cd371bf526f147850a76c524eb216a2e0b16d24afc191e17b2",
-      "size": 41
-    },
-    {
-      "name": "defaultconfigs/mechtrowel-common.toml",
-      "hash": "d002b4c927c42185c2ba052111bb985ce155b332762649f439a14a98dfa28663",
-      "size": 1963
-    },
-    {
-      "name": "defaultconfigs/mechtrowel-client.toml",
-      "hash": "ac78363003629031d4ab9e9096ded0b4f37f8d37569d077440e86ff070e2be0e",
-      "size": 71
-    },
-    {
-      "name": "defaultconfigs/make_bubbles_pop.json",
-      "hash": "892c1e4c38c4ce5258c4c01af2ed41d953fe66efc7452f3ac89a3ca2153e6db5",
-      "size": 397
-    },
-    {
-      "name": "defaultconfigs/lithium.properties",
-      "hash": "79348e4677fbd9474a18f772ecd271efebccdffed3a3f0bf2cc546e93d5c205a",
-      "size": 273
-    },
-    {
-      "name": "defaultconfigs/libraryferret_1.properties",
-      "hash": "ce899bc676a2db8001f7d744bee71edb9906359b4f5882d4143deb4a66924857",
-      "size": 194
-    },
-    {
-      "name": "defaultconfigs/libjf_web_v1.json5",
-      "hash": "a5abaf6a7e844714cabaaf29fca14ee45b6adb060389b232a40fa44f191c7942",
-      "size": 132
-    },
-    {
-      "name": "defaultconfigs/libjf_translate_v1.json5",
-      "hash": "7f429692f09e7a8ded58be898fd78361a404fed62460e4e1906de3f12be0b431",
-      "size": 115
-    },
-    {
-      "name": "defaultconfigs/libjf_config_core_v2.json5",
-      "hash": "31034e7bacb0a81e96fa4b7e44e9486a08a00c28bba8af0d638010a7bca9d9c1",
-      "size": 31
-    },
-    {
-      "name": "defaultconfigs/leawind_third_person.json",
-      "hash": "63e327f8979807ff33a7bd25b5936131e63820e3352bae4b7c11ef0c30f89e31",
-      "size": 2042
-    },
-    {
-      "name": "defaultconfigs/lambdynlights.toml",
-      "hash": "b6faadc10f278da322bcfa3d5c2301400adc32ac203eaaa7a20853491e736b2c",
-      "size": 4511
-    },
-    {
-      "name": "defaultconfigs/lambdabettergrass.toml",
-      "hash": "5b4d9fd7329cb7faced7f582e3a9fc00905de4ceaedc9280d2c0c7dc0a38e095",
-      "size": 305
-    },
-    {
-      "name": "defaultconfigs/jei-server.toml",
-      "hash": "e3b34f59c3557d8cb7906308eb67e86f6a3d4e5583cd80838085617a47acbd1b",
-      "size": 321
-    },
-    {
-      "name": "defaultconfigs/iris.properties",
-      "hash": "11ce38dedfac961c1f2a9c8695118bd18703f9e113935d2960fa000c148f04ce",
-      "size": 336
-    },
-    {
-      "name": "defaultconfigs/iris-excluded.json",
-      "hash": "1573158b841de30ec1378740df4948dacca52e9af33599e834ec59115e15abcd",
-      "size": 36
-    },
-    {
-      "name": "defaultconfigs/inventory_particles.json5",
-      "hash": "978e64d1352d2d46a0f31a764668c4ac3fe454400b95642a1853ec52b1edbf8c",
-      "size": 1484
-    },
-    {
-      "name": "defaultconfigs/immersive_aircraft.json",
-      "hash": "563799775ef1fcc21ab3577cce7cc7256f3b31695ea59144fcf0b76d37e981aa",
-      "size": 1578
-    },
-    {
-      "name": "defaultconfigs/immersiveui.yaml",
-      "hash": "2abb8702e36e2745284cb4337508d9e2305ff7bf1d6eebe23bf05de75b3acff6",
-      "size": 1451
-    },
-    {
-      "name": "defaultconfigs/immersive-hotbar.json5",
-      "hash": "bf577b8346424385dcdbbc2107b7a280202a8e9a2cff88c4cd75be9d1e7339ab",
-      "size": 1181
-    },
-    {
-      "name": "defaultconfigs/immediatelyfast.json",
-      "hash": "f0017d7af93a75abb58d0ed77a8b1659d98b731edf164426253c4d7829c76d55",
-      "size": 1137
-    },
-    {
-      "name": "defaultconfigs/horseman-server.toml",
-      "hash": "50d72af55c7e3daa8466e17ff50f7bfd00217a98ee357ce9f9b7caae76651b04",
-      "size": 6083
-    },
-    {
-      "name": "defaultconfigs/horseman-common.toml",
-      "hash": "6bfb05430b7cfaa211d09bf8a0caacd3544e6c1bf9de9eb27ab53a1c018eb1e9",
-      "size": 138
-    },
-    {
-      "name": "defaultconfigs/horseman-client.toml",
-      "hash": "3c72878685866fd8edcd6f725c99cb11ebbd852b3746ca1027ba5bd7ba8efba0",
-      "size": 2439
-    },
-    {
-      "name": "defaultconfigs/holdmyitemsnf-client.toml",
-      "hash": "1de1a2cd80a3aae665b1486a0f357aded992f94bae5dae7b3cdb70ca70a65c72",
-      "size": 3218
-    },
-    {
-      "name": "defaultconfigs/forgeconfigapiport.toml",
-      "hash": "e142fd7748168f993ea848df16cce864920eead32cb305e76874ba1829318cd2",
-      "size": 526
-    },
-    {
-      "name": "defaultconfigs/footprintparticle.json",
-      "hash": "2870e412fd33c0e77259cb658c9f27f0b1f218848d827a506eaa4b10aff4b9ec",
-      "size": 2243
-    },
-    {
-      "name": "defaultconfigs/fml.toml",
-      "hash": "e28fe06294baac1609a7694deeda0304edb3eb260df47d216c749826ebbbf38a",
-      "size": 1569
-    },
-    {
-      "name": "defaultconfigs/flywheel-client.toml",
-      "hash": "aea80a32875f638c12ec4176f4055914fa6fbd2d9155711f181d00c079b89cd2",
-      "size": 640
-    },
-    {
-      "name": "defaultconfigs/figura.json",
-      "hash": "37f3fbeba2d176bf027be395bf2ff37edef13d57c272ab3e8cf19877aaf6a960",
-      "size": 29
-    },
-    {
-      "name": "defaultconfigs/fightorflight_visual_effect.json5",
-      "hash": "9d517b6ccdb67af77d8ad79b0463d27311f169e7cda7e44dee071f36d8b1e148",
-      "size": 1429
-    },
-    {
-      "name": "defaultconfigs/fightorflight_moves.json5",
-      "hash": "f4793001554524850a0d4b668dbadee853e0483599827d05cc2452ed5801f91e",
-      "size": 8569
-    },
-    {
-      "name": "defaultconfigs/fightorflight.json5",
-      "hash": "a3622e3df79bbb3160f6ad393992e11f1b489ec3cdc4514c7d3a50df254319a6",
-      "size": 15380
-    },
-    {
-      "name": "defaultconfigs/ferritecore.mixin.properties",
-      "hash": "bdd54ad580fc678a117e4f559daaed5ebbe0dde176127ddb95dd2d5e5b4e4818",
-      "size": 1615
-    },
-    {
-      "name": "defaultconfigs/ferritecore-mixin.toml",
-      "hash": "62b09a696fbb93fb4d40d1111e692288ad8daee1e6c37d69e36428a71ace3585",
-      "size": 1615
-    },
-    {
-      "name": "defaultconfigs/fastquit.toml",
-      "hash": "fbdfff0d6ff4c2ca863895c6ad091e1170f4fb841bfe72981a4d5ff223639bf2",
-      "size": 125
-    },
-    {
-      "name": "defaultconfigs/exposure_polaroid-server.toml",
-      "hash": "fe83a46bc83c4fbd6739d6b3236cc14b56c926ee57dedf1a3bfd1e059dec1918",
-      "size": 429
-    },
-    {
-      "name": "defaultconfigs/exposure_polaroid-client.toml",
-      "hash": "47241420c4df4d43ea4bbecd39d3709c38f805061d8cc2bd7bf33af6adaa1440",
-      "size": 585
-    },
-    {
-      "name": "defaultconfigs/exposure-server.toml",
-      "hash": "6b4a5a7882247b595b7a7cbeadf78fd9a3f9891ab0b114f3fc1a652856033dab",
-      "size": 5319
-    },
-    {
-      "name": "defaultconfigs/exposure-common.toml",
-      "hash": "e062bf8ab6b936b05d15940e20cb77c7cd58c940924c0e89a1fbe6d1b6dfa46f",
-      "size": 348
-    },
-    {
-      "name": "defaultconfigs/exposure-client.toml",
-      "hash": "b6323ec4ebc3339efcd0ab9dc25c9bf5f0d9a11d48e50d865910bc3594c29795",
-      "size": 7606
-    },
-    {
-      "name": "defaultconfigs/etf_warnings.json",
-      "hash": "6fa1b6af4e971524f786431fe28e8d8ef71f10548002c9749e3c950eef1df0a2",
-      "size": 32
-    },
-    {
-      "name": "defaultconfigs/envelope-server.toml",
-      "hash": "ba7ea37e595222ee1f558f375e8c4df73ee7313922ccdb5ca4cc77ec686d8980",
-      "size": 4333
-    },
-    {
-      "name": "defaultconfigs/envelope-client.toml",
-      "hash": "d44197932b8ba9d021a181a6ee57215d214295ad88310d0955d30683e303b245",
-      "size": 252
-    },
-    {
-      "name": "defaultconfigs/entity_texture_features.json",
-      "hash": "cdfd37decab26b8cdc16ba2704f363b66f9824a0e595a8e1c084efacf7dd36e3",
-      "size": 1462
-    },
-    {
-      "name": "defaultconfigs/entity_model_features.json",
-      "hash": "1627c97a80f62e3d9d17a4c3e407a6234595fa3364b38a257df1be3791cc6d2f",
-      "size": 1179
-    },
-    {
-      "name": "defaultconfigs/entityculling.json",
-      "hash": "256a53dcafb3b6ee296b339ee509b357865af86416f2836203cdd83cce4f3b8d",
-      "size": 1967
-    },
-    {
-      "name": "defaultconfigs/enchdesc.json",
-      "hash": "58ac334896151321ff9410a7cc8ae2498ebcd70e3911bdb016fb60892820921d",
-      "size": 2130
-    },
-    {
-      "name": "defaultconfigs/eg_particle_interactions.json",
-      "hash": "f287ca6bffa004c0239636aee006ddf8baf3e71f6671f72e68e5d38de53843e3",
-      "size": 173
-    },
-    {
-      "name": "defaultconfigs/dynamic_fps.json",
-      "hash": "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f",
-      "size": 4
-    },
-    {
-      "name": "defaultconfigs/DistantHorizons.toml",
-      "hash": "66407fbe7b836b689a755669f0be0ba894d09ac0d3756393745afc976c2d026e",
-      "size": 29712
-    },
-    {
-      "name": "defaultconfigs/curios-server.toml",
-      "hash": "4f539c22bc2316f119f1753a0addf27391c262835b267692fd048e438d0e68e3",
-      "size": 482
-    },
-    {
-      "name": "defaultconfigs/curios-common.toml",
-      "hash": "e399abf245e8130cd3122f32e6cf0f4c6df0be199388ebe098d633672be58e9c",
-      "size": 161
-    },
-    {
-      "name": "defaultconfigs/curios-client.toml",
-      "hash": "a74649e2873037eee5db22ed24c2f6ffe2c62a5f1fb1d6f7d3ee9dd091e5fb20",
-      "size": 752
-    },
-    {
-      "name": "defaultconfigs/cupboard.json",
-      "hash": "9ca403c2fdb98337856030d7470aeaf7ddc5ac427e8f9c6c1bc1991a8ac02a47",
-      "size": 1331
-    },
-    {
-      "name": "defaultconfigs/cubes-without-borders.json",
-      "hash": "e533d7525ccb0345466a9a6d7f9fd7fa884f044ac90529a31cff66766630ca95",
-      "size": 210
-    },
-    {
-      "name": "defaultconfigs/create_stats-common.toml",
-      "hash": "90a89aaf00f0eee7988a7c20550d15653105304483879118e5842df48cec5dd8",
-      "size": 2524
-    },
-    {
-      "name": "defaultconfigs/create_factory_logistics-server.toml",
-      "hash": "58b36c1001cfb09a4d1e28eba73718b588b580f269bbcf8e3d435f9709609ade",
-      "size": 353
-    },
-    {
-      "name": "defaultconfigs/create_enchantment_industry-server.toml",
-      "hash": "fd11de265aab2e0efbe6b846fdf472a988d50a9e7b0e6610bd171a9d4fb90e9b",
-      "size": 6235
-    },
-    {
-      "name": "defaultconfigs/create_enchantment_industry-client.toml",
-      "hash": "f702c288fa06ab10ce405cf396bc43832f774a3ff223cd4f9cc4353b93ca5c2a",
-      "size": 157
-    },
-    {
-      "name": "defaultconfigs/create_encapsulated-common.toml",
-      "hash": "3a53fef331e84a25f58b13dbda92f6e8fc8d838fd75552c0e1f3fe6cfc6b4efb",
-      "size": 334
-    },
-    {
-      "name": "defaultconfigs/create_dragons_plus-server.toml",
-      "hash": "0aeb2d60187d0c1a5691aebedf89b448d7a88a573ffe42138ffbd2e3d9911b55",
-      "size": 351
-    },
-    {
-      "name": "defaultconfigs/create_dragons_plus-common.toml",
-      "hash": "602ad3a6cf9d680cbb8e4c218c36116fd88ab5699c77ade35c740ec5e5dc99e2",
-      "size": 1416
-    },
-    {
-      "name": "defaultconfigs/create_dragons_plus-client.toml",
-      "hash": "f2695bdc0128d017ee06586a04139309ec314a03b766144ea6cf1319f5a8ba45",
-      "size": 306
-    },
-    {
-      "name": "defaultconfigs/create_connected-server.toml",
-      "hash": "006d16602a65d527dadecdcbb876fc8eb8c467b7a2b1fdfcdc2d4b470572753b",
-      "size": 1875
-    },
-    {
-      "name": "defaultconfigs/create_connected-common.toml",
-      "hash": "3bd164eb4a04c74da87098b224f14b1bfc08f3ddfbbc26f00582e0dda70ad6fe",
-      "size": 1683
-    },
-    {
-      "name": "defaultconfigs/create-server.toml",
-      "hash": "a44fe8023e1a52744d02980aac83d8abdf35cdede7a9f46dbdb04ad1119c957b",
-      "size": 16239
-    },
-    {
-      "name": "defaultconfigs/create-common.toml",
-      "hash": "705b3abd888edeedc35c608f48248de29f1bc1ed0b71da16d9cee0cc8c974467",
-      "size": 154
-    },
-    {
-      "name": "defaultconfigs/create-client.toml",
-      "hash": "c7a4a9cb89e3e283e2d8d88582d688545b57ff4b72197217f65c60e57799c724",
-      "size": 4661
-    },
-    {
-      "name": "defaultconfigs/cosycritters.json",
-      "hash": "70b646bb5bc4c9f9802be9223dcbf5ad6fa47e7e1bd71584b85881891dfdc6bb",
-      "size": 685
-    },
-    {
-      "name": "defaultconfigs/cosmeticarmorreworked-common.toml",
-      "hash": "948d9473c4cafb1ee761f2fc136fc676dcdc9270adcce44f586a4e7b0cdf3b43",
-      "size": 373
-    },
-    {
-      "name": "defaultconfigs/cosmeticarmorreworked-client.toml",
-      "hash": "7379ca8f14c9e3d34995df2567838577d864048069d40343c0c2c20ed74ae166",
-      "size": 1308
-    },
-    {
-      "name": "defaultconfigs/corpse-server.toml",
-      "hash": "0939d309e71343408c9f2153a9d75e51da168ece15135669ed18a9e0688b7257",
-      "size": 1066
-    },
-    {
-      "name": "defaultconfigs/coolrain.json",
-      "hash": "0050f0c2dcc2c169dce5a6fe46aa547697181711efa89d9e5bec5521a4be1df5",
-      "size": 9948
-    },
-    {
-      "name": "defaultconfigs/controlify.json",
-      "hash": "d518aa778f3e3e4abd8d7f39e36d71c0e8e353e3d24764bb7c544223944cde9d",
-      "size": 9957
-    },
-    {
-      "name": "defaultconfigs/continuity.json",
-      "hash": "c9fa36dd3a5bbbe1ebd140ac9ee2eb0cb7b27a954b5fb4841b1b567e32344f3a",
-      "size": 98
-    },
-    {
-      "name": "defaultconfigs/connectivity.json",
-      "hash": "b40ad84f07b31d46d97af140e434fb1671feaa1c77ce81880351bfdd4300950f",
-      "size": 1804
-    },
-    {
-      "name": "defaultconfigs/collective.json5",
-      "hash": "72ea023785e7b7368adccbae4fa6bb961f8a56825bb10a4f357abed33a0ec393",
-      "size": 1012
-    },
-    {
-      "name": "defaultconfigs/cobblemonintegrations-common.toml",
-      "hash": "d60450672b0b7d153d1c87f1f9769b8f53272748639467907fbd975757d758fd",
-      "size": 2150
-    },
-    {
-      "name": "defaultconfigs/cobbled_counter.json",
-      "hash": "c9efa4718d538a640e61671554824f8555c1852b0b3df3fd299995af7085aabc",
-      "size": 140
-    },
-    {
-      "name": "defaultconfigs/clear-despawn-reworked.toml",
-      "hash": "ef99a9fb1bfe7daa8cea67428471e76bf7b8df9310c634d4b865b8a8c31b95ba",
-      "size": 206
-    },
-    {
-      "name": "defaultconfigs/citadel-common.toml",
-      "hash": "37b58c818b2936a7d3b17982c2d198b55d026c33bcbbb98b17075c78202fb752",
-      "size": 656
-    },
-    {
-      "name": "defaultconfigs/chat_heads.json5",
-      "hash": "6c33c13dd59338bed6c694acf4959315f2b67be4160e4b9c44e87c4966f77cad",
-      "size": 238
-    },
-    {
-      "name": "defaultconfigs/charmofundying-server.toml",
-      "hash": "ee41c32602d73c308162a1d2165ad0031aa28ffcd7c78af026daf7407de6312b",
-      "size": 380
-    },
-    {
-      "name": "defaultconfigs/chalk-common.toml",
-      "hash": "4f871b565501ec9cbf9539121ad4d446a15421028fd07107045cb01a1440844c",
-      "size": 1311
-    },
-    {
-      "name": "defaultconfigs/chalk-client.toml",
-      "hash": "f69c5ddc4036db5b1c8ae54382375599919d5f9bc20c35440a5aaefbac4980d4",
-      "size": 753
-    },
-    {
-      "name": "defaultconfigs/cameraoverhaul.toml",
-      "hash": "7da36cb0cd25ea357170858d0b72e87388ea036d0cfa3fb35e3d078a22fedb8b",
-      "size": 5287
-    },
-    {
-      "name": "defaultconfigs/betterwitchhuts-neoforge-1_21.toml",
-      "hash": "d51fbc7519fa486b0c468589d421f1da7939d8d688c11f4cc299477fd4007e05",
-      "size": 392
-    },
-    {
-      "name": "defaultconfigs/bettervillage_1.properties",
-      "hash": "e0f0d9cb03db8f1703b7d5b3643c461a339590703b1d41bed6e18f8f3605ee1d",
-      "size": 271
-    },
-    {
-      "name": "defaultconfigs/betterstrongholds-neoforge-1_21.toml",
-      "hash": "7a74efe84358a6ebc6658892822ccd7d755bd425dad4a8e5e2712aa7886e5ed5",
-      "size": 603
-    },
-    {
-      "name": "defaultconfigs/betterpingdisplay-client.toml",
-      "hash": "7cf52dc9a2605f2acb2aa23159e5e8c0793be9fd71017ecd45078f513f0924ef",
-      "size": 675
-    },
-    {
-      "name": "defaultconfigs/betteroceanmonuments-neoforge-1_21.toml",
-      "hash": "7fb501f263ab6d843e1712814d45d8f7d64bd410440a422452474673a950ca98",
-      "size": 407
-    },
-    {
-      "name": "defaultconfigs/bettermineshafts-neoforge-1_21.toml",
-      "hash": "c40e87bba61db3d78719e9cd849cf9ac2dfad8895fa375e34718649f36209c6d",
-      "size": 3927
-    },
-    {
-      "name": "defaultconfigs/betterjungletemples-neoforge-1_21.toml",
-      "hash": "a96e98325c500163a24afd06d46dcc1ce4328a3bc136c4c08fba8691ff02db20",
-      "size": 83
-    },
-    {
-      "name": "defaultconfigs/bettergrass.json5",
-      "hash": "b070ead9a48f62ab9dded2c138dc4e4d6d135ab225beafd64894910482647031",
-      "size": 943
-    },
-    {
-      "name": "defaultconfigs/betterfortresses-neoforge-1_21.toml",
-      "hash": "a79ae742d383e3037b0b383dba3a536108ae838dc064208297a8cb89dbb2beb2",
-      "size": 413
-    },
-    {
-      "name": "defaultconfigs/betterendisland-neoforge-1_21.toml",
-      "hash": "63d001e3885170e503b2ceca8489745019ae039ecfe3b76cc3530684a3692c08",
-      "size": 925
-    },
-    {
-      "name": "defaultconfigs/betterdungeons-neoforge-1_21.toml",
-      "hash": "d3bc229187e359ba28a7b0280200a356fe9239f95fe6e1b8eff6e73fab3b1fa9",
-      "size": 3375
-    },
-    {
-      "name": "defaultconfigs/betterdeserttemples-neoforge-1_21.toml",
-      "hash": "ddcda37a2601d47310f53e4e78dfacea4627acf488ba2e22eb52a0f3abe35819",
-      "size": 558
-    },
-    {
-      "name": "defaultconfigs/betterclouds-v1.json",
-      "hash": "387e3decb1231b47ee2c58b3bb67d4125ddcef5a50e0d4a0960f092093007eb4",
-      "size": 8378
-    },
-    {
-      "name": "defaultconfigs/betterarcheology.jsonc",
-      "hash": "e0cf67368197b1d187e87345823951be218fdd485a02b8bb41a7bdbc81a67118",
-      "size": 2588
-    },
-    {
-      "name": "defaultconfigs/betteradvancements.json",
-      "hash": "90ec23cf1d730153d34167760b65051878f482d326545d223b4c5eafd9e75783",
-      "size": 639
-    },
-    {
-      "name": "defaultconfigs/autohud.json5",
-      "hash": "d277a4cb15df9b3179d1553b62b089caf07e28eb6b7ca281e18c75d98ef597ef",
-      "size": 4448
-    },
-    {
-      "name": "defaultconfigs/atmosfera.json",
-      "hash": "37d6bac4d7aaffb37c3d65f3402c21a235fe4f27635d10f7d5842e08fdadbb91",
-      "size": 3503
-    },
-    {
-      "name": "defaultconfigs/astikorcartsredux-common.toml",
-      "hash": "97a40cc814cabd1172f91db27c9b8689ece37000cf5081a13ec45f4b4a88302e",
-      "size": 3995
-    },
-    {
-      "name": "defaultconfigs/astikorcartsredux-client.toml",
-      "hash": "6795173d60827c4b0fe8e4e71b33125c01655bfa519b3ab229e2f1fd125e2069",
-      "size": 452
-    },
-    {
-      "name": "defaultconfigs/areas.json5",
-      "hash": "ca21eb0aef19bfba51a7c4865787f21acf461559bea37a8fbbe108085bf941cc",
-      "size": 2123
-    },
-    {
-      "name": "defaultconfigs/appleskin-client.toml",
-      "hash": "8d039ef2d5c95f2344060f54a041451ee6ee3988bfb4b4d4ed88ebba8fce3cc5",
-      "size": 1364
-    },
-    {
-      "name": "defaultconfigs/amendments-common.toml",
-      "hash": "06857505f098c21ccef347719231446bb84a17d97ec85e610072f5eb4ced8297",
-      "size": 5116
     },
     {
       "name": "defaultconfigs/amendments-client.toml",
@@ -851,84 +21,1139 @@
       "size": 4693
     },
     {
-      "name": "defaultconfigs/accessories.json5",
-      "hash": "8f88bbd16f42d837582885a8822cda74cea569766c80d4e89b74028499e012b8",
-      "size": 955
+      "name": "defaultconfigs/amendments-common.toml",
+      "hash": "06857505f098c21ccef347719231446bb84a17d97ec85e610072f5eb4ced8297",
+      "size": 5116
     },
     {
-      "name": "defaultconfigs/visuality/config.toml",
-      "hash": "38e41c3683cf1d99b37dff1b058d4888ab78de687ad4f75cbe002a850662a5bc",
-      "size": 273
-    },
-    {
-      "name": "defaultconfigs/visuality/particle_emitters/entity_hit.json",
-      "hash": "227d3492242e88b5c18390ad5ff6147894ffe6c773df3864879cf56ebafb484a",
-      "size": 722
-    },
-    {
-      "name": "defaultconfigs/visuality/particle_emitters/entity_armor.json",
-      "hash": "d525e9b5add10362697fd393651cbdde3f13fb0f2bfc2a326ba95814680076c7",
-      "size": 776
-    },
-    {
-      "name": "defaultconfigs/visuality/particle_emitters/block_step.json",
-      "hash": "d7a399d83cda81404d7e7580f792634d64cd289356124655d4beccd2720c6d38",
-      "size": 235
-    },
-    {
-      "name": "defaultconfigs/visuality/particle_emitters/block_ambient.json",
-      "hash": "e9b1255cf8d1a4f76294462174f10fe9151c8ac1da1220bafab4439bda4c3381",
+      "name": "defaultconfigs/appleskin-client.toml",
+      "hash": "8d039ef2d5c95f2344060f54a041451ee6ee3988bfb4b4d4ed88ebba8fce3cc5",
       "size": 1364
     },
     {
-      "name": "defaultconfigs/timm/general.json",
-      "hash": "44ce13de602060fb132341ab8a8ec5f8a8835d2d6bcd743a9a518f640a4441aa",
-      "size": 235
+      "name": "defaultconfigs/areas.json5",
+      "hash": "ca21eb0aef19bfba51a7c4865787f21acf461559bea37a8fbbe108085bf941cc",
+      "size": 2123
     },
     {
-      "name": "defaultconfigs/swinginglanterns/swinginglanterns.json",
-      "hash": "c0c10d5c6ecaf560fd4dea513cf0badf05ca2d7f2a099e35422aa48ade554d1a",
-      "size": 646
+      "name": "defaultconfigs/astikorcartsredux-client.toml",
+      "hash": "6795173d60827c4b0fe8e4e71b33125c01655bfa519b3ab229e2f1fd125e2069",
+      "size": 452
     },
     {
-      "name": "defaultconfigs/swinginglanterns/README.txt",
-      "hash": "3b41cd843d70a22b5dd7993fcb794d51051c7c9649b33e54cf028499f35f152c",
-      "size": 769
+      "name": "defaultconfigs/astikorcartsredux-common.toml",
+      "hash": "97a40cc814cabd1172f91db27c9b8689ece37000cf5081a13ec45f4b4a88302e",
+      "size": 3995
     },
     {
-      "name": "defaultconfigs/swinginglanterns/raycast_ignored_blocks.json",
-      "hash": "51c3e3f97c7492d3f3f05e3559c5dc071eed9382030242b56b3d67a34c273fcf",
+      "name": "defaultconfigs/atmosfera.json",
+      "hash": "37d6bac4d7aaffb37c3d65f3402c21a235fe4f27635d10f7d5842e08fdadbb91",
+      "size": 3503
+    },
+    {
+      "name": "defaultconfigs/autohud.json5",
+      "hash": "d277a4cb15df9b3179d1553b62b089caf07e28eb6b7ca281e18c75d98ef597ef",
+      "size": 4448
+    },
+    {
+      "name": "defaultconfigs/betteradvancements.json",
+      "hash": "90ec23cf1d730153d34167760b65051878f482d326545d223b4c5eafd9e75783",
+      "size": 639
+    },
+    {
+      "name": "defaultconfigs/betterarcheology.jsonc",
+      "hash": "e0cf67368197b1d187e87345823951be218fdd485a02b8bb41a7bdbc81a67118",
+      "size": 2588
+    },
+    {
+      "name": "defaultconfigs/bettercaves/neoforge-1_21_1/liquidregions.json",
+      "hash": "29e23d985f00626672b0230045453502ade1ca5eca87af28caaf0449772933cd",
+      "size": 178
+    },
+    {
+      "name": "defaultconfigs/bettercaves/neoforge-1_21_1/README.txt",
+      "hash": "62c95c0edadffca79addf23d001c37b40e9bf3ca9aac0252e0d818acb73aafc2",
+      "size": 755
+    },
+    {
+      "name": "defaultconfigs/bettercaves/README.txt",
+      "hash": "f21e5c85af3ce356ee37f0d8388ffc1698386c62e355b8a803897a4420c24a1f",
+      "size": 550
+    },
+    {
+      "name": "defaultconfigs/betterclouds-v1.json",
+      "hash": "387e3decb1231b47ee2c58b3bb67d4125ddcef5a50e0d4a0960f092093007eb4",
+      "size": 8378
+    },
+    {
+      "name": "defaultconfigs/betterdeserttemples-neoforge-1_21.toml",
+      "hash": "ddcda37a2601d47310f53e4e78dfacea4627acf488ba2e22eb52a0f3abe35819",
+      "size": 558
+    },
+    {
+      "name": "defaultconfigs/betterdeserttemples/neoforge-1_21/armorstands.json",
+      "hash": "dcceee3c2bb1f9dafb545595d3a446411a1be6cdb5b97f310e623217e7a00b95",
+      "size": 1403
+    },
+    {
+      "name": "defaultconfigs/betterdeserttemples/neoforge-1_21/itemframes.json",
+      "hash": "9f5b04d532854501f197a514930800cbdfec92f7d01c942bb4b848dea150f348",
+      "size": 856
+    },
+    {
+      "name": "defaultconfigs/betterdeserttemples/neoforge-1_21/README.txt",
+      "hash": "5a8b0890db6b40611e79651c49a5c91c5f24c83d53d40842f698e53c7fab4d9d",
+      "size": 1713
+    },
+    {
+      "name": "defaultconfigs/betterdeserttemples/README.txt",
+      "hash": "56605f71b83020b4661411385022dfee6454328b2320419117f0e4c89e449522",
+      "size": 732
+    },
+    {
+      "name": "defaultconfigs/betterdungeons-neoforge-1_21.toml",
+      "hash": "d3bc229187e359ba28a7b0280200a356fe9239f95fe6e1b8eff6e73fab3b1fa9",
+      "size": 3375
+    },
+    {
+      "name": "defaultconfigs/betterendisland-neoforge-1_21.toml",
+      "hash": "63d001e3885170e503b2ceca8489745019ae039ecfe3b76cc3530684a3692c08",
+      "size": 925
+    },
+    {
+      "name": "defaultconfigs/betterfortresses-neoforge-1_21.toml",
+      "hash": "a79ae742d383e3037b0b383dba3a536108ae838dc064208297a8cb89dbb2beb2",
+      "size": 413
+    },
+    {
+      "name": "defaultconfigs/betterfortresses/neoforge-1_21/itemframes.json",
+      "hash": "40a5010bf8e31a1de4eebbd228e508d455bfb00b000350a57987ba460a2ace97",
+      "size": 1210
+    },
+    {
+      "name": "defaultconfigs/betterfortresses/neoforge-1_21/README.txt",
+      "hash": "050cf34b7d9f1568c55c250b23b1b233d5525a69ed6719ef6782ac64d6ee6be7",
+      "size": 1365
+    },
+    {
+      "name": "defaultconfigs/betterfortresses/README.txt",
+      "hash": "c4fb461d8edd63aee398207fe964e49ffb2dee3011fe2b8222312b32bf37894b",
+      "size": 874
+    },
+    {
+      "name": "defaultconfigs/bettergrass.json5",
+      "hash": "b070ead9a48f62ab9dded2c138dc4e4d6d135ab225beafd64894910482647031",
+      "size": 943
+    },
+    {
+      "name": "defaultconfigs/betterjungletemples-neoforge-1_21.toml",
+      "hash": "a96e98325c500163a24afd06d46dcc1ce4328a3bc136c4c08fba8691ff02db20",
+      "size": 83
+    },
+    {
+      "name": "defaultconfigs/bettermineshafts-neoforge-1_21.toml",
+      "hash": "c40e87bba61db3d78719e9cd849cf9ac2dfad8895fa375e34718649f36209c6d",
+      "size": 3927
+    },
+    {
+      "name": "defaultconfigs/betteroceanmonuments-neoforge-1_21.toml",
+      "hash": "7fb501f263ab6d843e1712814d45d8f7d64bd410440a422452474673a950ca98",
+      "size": 407
+    },
+    {
+      "name": "defaultconfigs/betterpingdisplay-client.toml",
+      "hash": "7cf52dc9a2605f2acb2aa23159e5e8c0793be9fd71017ecd45078f513f0924ef",
+      "size": 675
+    },
+    {
+      "name": "defaultconfigs/betterstrongholds-neoforge-1_21.toml",
+      "hash": "7a74efe84358a6ebc6658892822ccd7d755bd425dad4a8e5e2712aa7886e5ed5",
+      "size": 603
+    },
+    {
+      "name": "defaultconfigs/betterstrongholds/neoforge-1_21/armorstands.json",
+      "hash": "95c19936e647b2492487d283bd27611bb8f9f297d59882e172c561423d0bbb7d",
+      "size": 1452
+    },
+    {
+      "name": "defaultconfigs/betterstrongholds/neoforge-1_21/itemframes.json",
+      "hash": "dabb20191ed6413591a341ee30a449b82ab4779d586e7eb08000cf6eb757ea67",
+      "size": 955
+    },
+    {
+      "name": "defaultconfigs/betterstrongholds/neoforge-1_21/ores.json",
+      "hash": "ccffbc08679018e5f700c8aec651b8f0f344016ce501edb8bcddd2593cdadf95",
+      "size": 361
+    },
+    {
+      "name": "defaultconfigs/betterstrongholds/neoforge-1_21/rareblocks.json",
+      "hash": "2b10530265bbbf18eae48d61bd53acb9aea79a799934f24098768ff1bdfa2ee2",
+      "size": 250
+    },
+    {
+      "name": "defaultconfigs/betterstrongholds/neoforge-1_21/README.txt",
+      "hash": "8600df0b106b20965f27bb66458eaee47a8ca7b495430e335913fa0bf67d35d8",
+      "size": 2892
+    },
+    {
+      "name": "defaultconfigs/betterstrongholds/README.txt",
+      "hash": "068caa8f02b36023342e051ccfcf30d79283123f9694392ac6201293f77e452b",
+      "size": 726
+    },
+    {
+      "name": "defaultconfigs/bettervillage_1.properties",
+      "hash": "e0f0d9cb03db8f1703b7d5b3643c461a339590703b1d41bed6e18f8f3605ee1d",
+      "size": 271
+    },
+    {
+      "name": "defaultconfigs/betterwitchhuts-neoforge-1_21.toml",
+      "hash": "d51fbc7519fa486b0c468589d421f1da7939d8d688c11f4cc299477fd4007e05",
+      "size": 392
+    },
+    {
+      "name": "defaultconfigs/biolith/general.json",
+      "hash": "6b53e5b4921f29d6bbb2398696684660e39737a15079184f04f03c3ebf252b80",
+      "size": 180
+    },
+    {
+      "name": "defaultconfigs/cameraoverhaul.toml",
+      "hash": "7da36cb0cd25ea357170858d0b72e87388ea036d0cfa3fb35e3d078a22fedb8b",
+      "size": 5287
+    },
+    {
+      "name": "defaultconfigs/chalk-client.toml",
+      "hash": "f69c5ddc4036db5b1c8ae54382375599919d5f9bc20c35440a5aaefbac4980d4",
+      "size": 753
+    },
+    {
+      "name": "defaultconfigs/chalk-common.toml",
+      "hash": "4f871b565501ec9cbf9539121ad4d446a15421028fd07107045cb01a1440844c",
+      "size": 1311
+    },
+    {
+      "name": "defaultconfigs/charmofundying-server.toml",
+      "hash": "ee41c32602d73c308162a1d2165ad0031aa28ffcd7c78af026daf7407de6312b",
+      "size": 380
+    },
+    {
+      "name": "defaultconfigs/chat_heads.json5",
+      "hash": "6c33c13dd59338bed6c694acf4959315f2b67be4160e4b9c44e87c4966f77cad",
+      "size": 238
+    },
+    {
+      "name": "defaultconfigs/citadel-common.toml",
+      "hash": "37b58c818b2936a7d3b17982c2d198b55d026c33bcbbb98b17075c78202fb752",
+      "size": 656
+    },
+    {
+      "name": "defaultconfigs/clear-despawn-reworked.toml",
+      "hash": "ef99a9fb1bfe7daa8cea67428471e76bf7b8df9310c634d4b865b8a8c31b95ba",
+      "size": 206
+    },
+    {
+      "name": "defaultconfigs/cobbled_counter.json",
+      "hash": "c9efa4718d538a640e61671554824f8555c1852b0b3df3fd299995af7085aabc",
+      "size": 140
+    },
+    {
+      "name": "defaultconfigs/cobblemon/main.json",
+      "hash": "43ec51e0d5e8b9465688b8ba653ef977135c6c5d0bb153b35becc65320eb7c3f",
+      "size": 3515
+    },
+    {
+      "name": "defaultconfigs/cobblemonintegrations-common.toml",
+      "hash": "d60450672b0b7d153d1c87f1f9769b8f53272748639467907fbd975757d758fd",
+      "size": 2150
+    },
+    {
+      "name": "defaultconfigs/cobblenav/client-config.json",
+      "hash": "7f08d1b32fda5d1a6ac3e3df7b214562f2f943d7d1d26e03f019ddbefd3b4343",
+      "size": 416
+    },
+    {
+      "name": "defaultconfigs/cobblenav/server-config.json",
+      "hash": "2a728fddb55f615cc25fa2474087568eff19221973053b287a1dd1b6ececfa42",
+      "size": 1144
+    },
+    {
+      "name": "defaultconfigs/collective.json5",
+      "hash": "72ea023785e7b7368adccbae4fa6bb961f8a56825bb10a4f357abed33a0ec393",
+      "size": 1012
+    },
+    {
+      "name": "defaultconfigs/collective/area_names.json",
+      "hash": "d4e7ad5cceb9dd6dc75fb992ac861fbb7e33fabdebd815ee3d4351959d2c2f1c",
+      "size": 11489
+    },
+    {
+      "name": "defaultconfigs/connectivity.json",
+      "hash": "b40ad84f07b31d46d97af140e434fb1671feaa1c77ce81880351bfdd4300950f",
+      "size": 1804
+    },
+    {
+      "name": "defaultconfigs/continuity.json",
+      "hash": "c9fa36dd3a5bbbe1ebd140ac9ee2eb0cb7b27a954b5fb4841b1b567e32344f3a",
+      "size": 98
+    },
+    {
+      "name": "defaultconfigs/controlify.json",
+      "hash": "d518aa778f3e3e4abd8d7f39e36d71c0e8e353e3d24764bb7c544223944cde9d",
+      "size": 9957
+    },
+    {
+      "name": "defaultconfigs/coolrain.json",
+      "hash": "0050f0c2dcc2c169dce5a6fe46aa547697181711efa89d9e5bec5521a4be1df5",
+      "size": 9948
+    },
+    {
+      "name": "defaultconfigs/corpse-server.toml",
+      "hash": "0939d309e71343408c9f2153a9d75e51da168ece15135669ed18a9e0688b7257",
+      "size": 1066
+    },
+    {
+      "name": "defaultconfigs/cosmeticarmorreworked-client.toml",
+      "hash": "7379ca8f14c9e3d34995df2567838577d864048069d40343c0c2c20ed74ae166",
+      "size": 1308
+    },
+    {
+      "name": "defaultconfigs/cosmeticarmorreworked-common.toml",
+      "hash": "948d9473c4cafb1ee761f2fc136fc676dcdc9270adcce44f586a4e7b0cdf3b43",
+      "size": 373
+    },
+    {
+      "name": "defaultconfigs/cosycritters.json",
+      "hash": "70b646bb5bc4c9f9802be9223dcbf5ad6fa47e7e1bd71584b85881891dfdc6bb",
+      "size": 685
+    },
+    {
+      "name": "defaultconfigs/create_connected-common.toml",
+      "hash": "3bd164eb4a04c74da87098b224f14b1bfc08f3ddfbbc26f00582e0dda70ad6fe",
+      "size": 1683
+    },
+    {
+      "name": "defaultconfigs/create_connected-server.toml",
+      "hash": "006d16602a65d527dadecdcbb876fc8eb8c467b7a2b1fdfcdc2d4b470572753b",
+      "size": 1875
+    },
+    {
+      "name": "defaultconfigs/create_dragons_plus-client.toml",
+      "hash": "f2695bdc0128d017ee06586a04139309ec314a03b766144ea6cf1319f5a8ba45",
+      "size": 306
+    },
+    {
+      "name": "defaultconfigs/create_dragons_plus-common.toml",
+      "hash": "602ad3a6cf9d680cbb8e4c218c36116fd88ab5699c77ade35c740ec5e5dc99e2",
+      "size": 1416
+    },
+    {
+      "name": "defaultconfigs/create_dragons_plus-server.toml",
+      "hash": "0aeb2d60187d0c1a5691aebedf89b448d7a88a573ffe42138ffbd2e3d9911b55",
+      "size": 351
+    },
+    {
+      "name": "defaultconfigs/create_encapsulated-common.toml",
+      "hash": "3a53fef331e84a25f58b13dbda92f6e8fc8d838fd75552c0e1f3fe6cfc6b4efb",
+      "size": 334
+    },
+    {
+      "name": "defaultconfigs/create_enchantment_industry-client.toml",
+      "hash": "f702c288fa06ab10ce405cf396bc43832f774a3ff223cd4f9cc4353b93ca5c2a",
+      "size": 157
+    },
+    {
+      "name": "defaultconfigs/create_enchantment_industry-server.toml",
+      "hash": "fd11de265aab2e0efbe6b846fdf472a988d50a9e7b0e6610bd171a9d4fb90e9b",
+      "size": 6235
+    },
+    {
+      "name": "defaultconfigs/create_factory_logistics-server.toml",
+      "hash": "58b36c1001cfb09a4d1e28eba73718b588b580f269bbcf8e3d435f9709609ade",
+      "size": 353
+    },
+    {
+      "name": "defaultconfigs/create_stats-common.toml",
+      "hash": "90a89aaf00f0eee7988a7c20550d15653105304483879118e5842df48cec5dd8",
+      "size": 2524
+    },
+    {
+      "name": "defaultconfigs/create-client.toml",
+      "hash": "c7a4a9cb89e3e283e2d8d88582d688545b57ff4b72197217f65c60e57799c724",
+      "size": 4661
+    },
+    {
+      "name": "defaultconfigs/create-common.toml",
+      "hash": "705b3abd888edeedc35c608f48248de29f1bc1ed0b71da16d9cee0cc8c974467",
+      "size": 154
+    },
+    {
+      "name": "defaultconfigs/create-server.toml",
+      "hash": "a44fe8023e1a52744d02980aac83d8abdf35cdede7a9f46dbdb04ad1119c957b",
+      "size": 16239
+    },
+    {
+      "name": "defaultconfigs/cubes-without-borders.json",
+      "hash": "e533d7525ccb0345466a9a6d7f9fd7fa884f044ac90529a31cff66766630ca95",
+      "size": 210
+    },
+    {
+      "name": "defaultconfigs/cupboard.json",
+      "hash": "9ca403c2fdb98337856030d7470aeaf7ddc5ac427e8f9c6c1bc1991a8ac02a47",
+      "size": 1331
+    },
+    {
+      "name": "defaultconfigs/curios-client.toml",
+      "hash": "a74649e2873037eee5db22ed24c2f6ffe2c62a5f1fb1d6f7d3ee9dd091e5fb20",
+      "size": 752
+    },
+    {
+      "name": "defaultconfigs/curios-common.toml",
+      "hash": "e399abf245e8130cd3122f32e6cf0f4c6df0be199388ebe098d633672be58e9c",
+      "size": 161
+    },
+    {
+      "name": "defaultconfigs/curios-server.toml",
+      "hash": "4f539c22bc2316f119f1753a0addf27391c262835b267692fd048e438d0e68e3",
+      "size": 482
+    },
+    {
+      "name": "defaultconfigs/DistantHorizons.toml",
+      "hash": "66407fbe7b836b689a755669f0be0ba894d09ac0d3756393745afc976c2d026e",
+      "size": 29712
+    },
+    {
+      "name": "defaultconfigs/dynamic_fps.json",
+      "hash": "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f",
+      "size": 4
+    },
+    {
+      "name": "defaultconfigs/eg_particle_interactions.json",
+      "hash": "f287ca6bffa004c0239636aee006ddf8baf3e71f6671f72e68e5d38de53843e3",
+      "size": 173
+    },
+    {
+      "name": "defaultconfigs/enchdesc.json",
+      "hash": "58ac334896151321ff9410a7cc8ae2498ebcd70e3911bdb016fb60892820921d",
+      "size": 2130
+    },
+    {
+      "name": "defaultconfigs/entity_model_features.json",
+      "hash": "1627c97a80f62e3d9d17a4c3e407a6234595fa3364b38a257df1be3791cc6d2f",
+      "size": 1179
+    },
+    {
+      "name": "defaultconfigs/entity_texture_features.json",
+      "hash": "cdfd37decab26b8cdc16ba2704f363b66f9824a0e595a8e1c084efacf7dd36e3",
+      "size": 1462
+    },
+    {
+      "name": "defaultconfigs/entityculling.json",
+      "hash": "256a53dcafb3b6ee296b339ee509b357865af86416f2836203cdd83cce4f3b8d",
+      "size": 1967
+    },
+    {
+      "name": "defaultconfigs/envelope-client.toml",
+      "hash": "d44197932b8ba9d021a181a6ee57215d214295ad88310d0955d30683e303b245",
+      "size": 252
+    },
+    {
+      "name": "defaultconfigs/envelope-server.toml",
+      "hash": "ba7ea37e595222ee1f558f375e8c4df73ee7313922ccdb5ca4cc77ec686d8980",
+      "size": 4333
+    },
+    {
+      "name": "defaultconfigs/etf_warnings.json",
+      "hash": "6fa1b6af4e971524f786431fe28e8d8ef71f10548002c9749e3c950eef1df0a2",
+      "size": 32
+    },
+    {
+      "name": "defaultconfigs/euphoria_patcher/data.json",
+      "hash": "fa1ca48801ad5f73d36564203c484a078abd6819162a16f13ecbf0074e95a91b",
+      "size": 170
+    },
+    {
+      "name": "defaultconfigs/euphoria_patcher/settings.toml",
+      "hash": "fb5b96538eee40c7c35a87095453554963790da073cbda865901fc5bb489cc83",
+      "size": 2607
+    },
+    {
+      "name": "defaultconfigs/exposure_polaroid-client.toml",
+      "hash": "47241420c4df4d43ea4bbecd39d3709c38f805061d8cc2bd7bf33af6adaa1440",
+      "size": 585
+    },
+    {
+      "name": "defaultconfigs/exposure_polaroid-server.toml",
+      "hash": "fe83a46bc83c4fbd6739d6b3236cc14b56c926ee57dedf1a3bfd1e059dec1918",
+      "size": 429
+    },
+    {
+      "name": "defaultconfigs/exposure-client.toml",
+      "hash": "b6323ec4ebc3339efcd0ab9dc25c9bf5f0d9a11d48e50d865910bc3594c29795",
+      "size": 7606
+    },
+    {
+      "name": "defaultconfigs/exposure-common.toml",
+      "hash": "e062bf8ab6b936b05d15940e20cb77c7cd58c940924c0e89a1fbe6d1b6dfa46f",
+      "size": 348
+    },
+    {
+      "name": "defaultconfigs/exposure-server.toml",
+      "hash": "6b4a5a7882247b595b7a7cbeadf78fd9a3f9891ab0b114f3fc1a652856033dab",
+      "size": 5319
+    },
+    {
+      "name": "defaultconfigs/fabric/indigo-renderer.properties",
+      "hash": "c06e94780ab3db12347e1b6888d540b4feead192eab138fb7b83eaae916e4f4b",
+      "size": 291
+    },
+    {
+      "name": "defaultconfigs/fastquit.toml",
+      "hash": "fbdfff0d6ff4c2ca863895c6ad091e1170f4fb841bfe72981a4d5ff223639bf2",
+      "size": 125
+    },
+    {
+      "name": "defaultconfigs/ferritecore-mixin.toml",
+      "hash": "62b09a696fbb93fb4d40d1111e692288ad8daee1e6c37d69e36428a71ace3585",
+      "size": 1615
+    },
+    {
+      "name": "defaultconfigs/ferritecore.mixin.properties",
+      "hash": "bdd54ad580fc678a117e4f559daaed5ebbe0dde176127ddb95dd2d5e5b4e4818",
+      "size": 1615
+    },
+    {
+      "name": "defaultconfigs/fightorflight_moves.json5",
+      "hash": "f4793001554524850a0d4b668dbadee853e0483599827d05cc2452ed5801f91e",
+      "size": 8569
+    },
+    {
+      "name": "defaultconfigs/fightorflight_visual_effect.json5",
+      "hash": "9d517b6ccdb67af77d8ad79b0463d27311f169e7cda7e44dee071f36d8b1e148",
+      "size": 1429
+    },
+    {
+      "name": "defaultconfigs/fightorflight.json5",
+      "hash": "a3622e3df79bbb3160f6ad393992e11f1b489ec3cdc4514c7d3a50df254319a6",
+      "size": 15380
+    },
+    {
+      "name": "defaultconfigs/figura.json",
+      "hash": "37f3fbeba2d176bf027be395bf2ff37edef13d57c272ab3e8cf19877aaf6a960",
+      "size": 29
+    },
+    {
+      "name": "defaultconfigs/flywheel-client.toml",
+      "hash": "aea80a32875f638c12ec4176f4055914fa6fbd2d9155711f181d00c079b89cd2",
+      "size": 640
+    },
+    {
+      "name": "defaultconfigs/fml.toml",
+      "hash": "e28fe06294baac1609a7694deeda0304edb3eb260df47d216c749826ebbbf38a",
+      "size": 1569
+    },
+    {
+      "name": "defaultconfigs/footprintparticle.json",
+      "hash": "2870e412fd33c0e77259cb658c9f27f0b1f218848d827a506eaa4b10aff4b9ec",
+      "size": 2243
+    },
+    {
+      "name": "defaultconfigs/forgeconfigapiport.toml",
+      "hash": "e142fd7748168f993ea848df16cce864920eead32cb305e76874ba1829318cd2",
+      "size": 526
+    },
+    {
+      "name": "defaultconfigs/fzzy_config/keybinds.toml",
+      "hash": "fe96c8122a0a05c8742d0864326797b65ade16dc30aa58b5dd5c0408118582ac",
+      "size": 6640
+    },
+    {
+      "name": "defaultconfigs/fzzy_config/search.toml",
+      "hash": "f2bd3529b87b31a1322f89f5e67e5b125d374f2a37b94605e8c1c7a5587e41d2",
+      "size": 519
+    },
+    {
+      "name": "defaultconfigs/holdmyitemsnf-client.toml",
+      "hash": "1de1a2cd80a3aae665b1486a0f357aded992f94bae5dae7b3cdb70ca70a65c72",
+      "size": 3218
+    },
+    {
+      "name": "defaultconfigs/horseman-client.toml",
+      "hash": "3c72878685866fd8edcd6f725c99cb11ebbd852b3746ca1027ba5bd7ba8efba0",
+      "size": 2439
+    },
+    {
+      "name": "defaultconfigs/horseman-common.toml",
+      "hash": "6bfb05430b7cfaa211d09bf8a0caacd3544e6c1bf9de9eb27ab53a1c018eb1e9",
+      "size": 138
+    },
+    {
+      "name": "defaultconfigs/horseman-server.toml",
+      "hash": "50d72af55c7e3daa8466e17ff50f7bfd00217a98ee357ce9f9b7caae76651b04",
+      "size": 6083
+    },
+    {
+      "name": "defaultconfigs/immediatelyfast.json",
+      "hash": "f0017d7af93a75abb58d0ed77a8b1659d98b731edf164426253c4d7829c76d55",
+      "size": 1137
+    },
+    {
+      "name": "defaultconfigs/immersive_aircraft.json",
+      "hash": "563799775ef1fcc21ab3577cce7cc7256f3b31695ea59144fcf0b76d37e981aa",
+      "size": 1578
+    },
+    {
+      "name": "defaultconfigs/immersive-hotbar.json5",
+      "hash": "bf577b8346424385dcdbbc2107b7a280202a8e9a2cff88c4cd75be9d1e7339ab",
+      "size": 1181
+    },
+    {
+      "name": "defaultconfigs/immersive-storms/biomes.json5",
+      "hash": "b48cbba59b0b22894a21832fcdd87240988be6a26a076db130630785255f58b9",
+      "size": 541
+    },
+    {
+      "name": "defaultconfigs/immersive-storms/general.json5",
+      "hash": "0944d0db0d72caa1e938dbf1be4c6bb537f44049f9da0219126c754e067a0682",
+      "size": 1041
+    },
+    {
+      "name": "defaultconfigs/immersive-storms/sandstorm.json5",
+      "hash": "65d91420c919d6deaf5e4094f1eef8a3ce12ba788b053a8a7286dd437492f70d",
+      "size": 438
+    },
+    {
+      "name": "defaultconfigs/immersive-storms/schema.json5",
+      "hash": "3449f89e472cd16750ddd499e913bd319aa348ce7c01c6025a8456c156220c5b",
+      "size": 121
+    },
+    {
+      "name": "defaultconfigs/immersiveui.yaml",
+      "hash": "2abb8702e36e2745284cb4337508d9e2305ff7bf1d6eebe23bf05de75b3acff6",
+      "size": 1451
+    },
+    {
+      "name": "defaultconfigs/inventory_particles.json5",
+      "hash": "978e64d1352d2d46a0f31a764668c4ac3fe454400b95642a1853ec52b1edbf8c",
+      "size": 1484
+    },
+    {
+      "name": "defaultconfigs/iris-excluded.json",
+      "hash": "1573158b841de30ec1378740df4948dacca52e9af33599e834ec59115e15abcd",
+      "size": 36
+    },
+    {
+      "name": "defaultconfigs/iris.properties",
+      "hash": "11ce38dedfac961c1f2a9c8695118bd18703f9e113935d2960fa000c148f04ce",
+      "size": 336
+    },
+    {
+      "name": "defaultconfigs/jade/hide-blocks.json",
+      "hash": "b3397e07a4c07561e1d6971efae0c607aa5c62a5dfa0fb92ce7a5abfd74d6b23",
+      "size": 156
+    },
+    {
+      "name": "defaultconfigs/jade/hide-entities.json",
+      "hash": "fb5bb1c2546daf3a448a474eaf0b2b4519f064065d4992c024f1ab550f9461e8",
+      "size": 254
+    },
+    {
+      "name": "defaultconfigs/jade/jade.json",
+      "hash": "dff247a4736503ce3bd48a9f970900d16539d041357621dc9788e8b4df9e2f51",
+      "size": 1137
+    },
+    {
+      "name": "defaultconfigs/jade/plugins.json",
+      "hash": "516cdd6a8c703a4d086e778305d5e31c133cf9ec4716c96c4dbd89d7be248d21",
+      "size": 2428
+    },
+    {
+      "name": "defaultconfigs/jade/sort-order.json",
+      "hash": "80080bfa850154a50ba21357ec51bb50cc11b71df49918e6a5bd152b1e923d6a",
+      "size": 2545
+    },
+    {
+      "name": "defaultconfigs/jei-server.toml",
+      "hash": "e3b34f59c3557d8cb7906308eb67e86f6a3d4e5583cd80838085617a47acbd1b",
+      "size": 321
+    },
+    {
+      "name": "defaultconfigs/jei/blacklist.json",
+      "hash": "02e6c3c674c46c8e698ee70aeaaf8a395736d99c9df1277c1975eff3b6864b59",
+      "size": 26
+    },
+    {
+      "name": "defaultconfigs/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "f914722f76b05abecb5d919d4147948c5dc477fae72c0e706d5febb6bfd04ec8",
+      "size": 610
+    },
+    {
+      "name": "defaultconfigs/jei/ingredient-list-type-sort-order.ini",
+      "hash": "8e677bb72879f9d606ce034e97782a950e6e6faff03b8f9579c4c70a1da55157",
+      "size": 148
+    },
+    {
+      "name": "defaultconfigs/jei/jei-client.ini",
+      "hash": "f6841387ba118885299e6fe6574daaa62ad5adcf4e73f851ec2e9f8977ea066d",
+      "size": 10746
+    },
+    {
+      "name": "defaultconfigs/jei/jei-colors.ini",
+      "hash": "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f",
+      "size": 1362
+    },
+    {
+      "name": "defaultconfigs/jei/jei-debug.ini",
+      "hash": "960b16c7af6d62bbe7b58fb52216a8a15771bddecbeefab49a8614b7ca86dcbd",
+      "size": 1326
+    },
+    {
+      "name": "defaultconfigs/jei/jei-mod-id-format.ini",
+      "hash": "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054",
+      "size": 489
+    },
+    {
+      "name": "defaultconfigs/jei/recipe-category-sort-order.ini",
+      "hash": "fb28c53eb79ffbb5704b749cb5d423dcdcc17f8237a7c2faf4b063619de39f4b",
+      "size": 1267
+    },
+    {
+      "name": "defaultconfigs/jei/world/local/New_World/lookupHistory.json",
+      "hash": "1ffaa80cfea453dcd08142971221331cd3009d37321ddf70b711cdca917aa538",
+      "size": 146
+    },
+    {
+      "name": "defaultconfigs/lambdabettergrass.toml",
+      "hash": "5b4d9fd7329cb7faced7f582e3a9fc00905de4ceaedc9280d2c0c7dc0a38e095",
+      "size": 305
+    },
+    {
+      "name": "defaultconfigs/lambdynlights.toml",
+      "hash": "b6faadc10f278da322bcfa3d5c2301400adc32ac203eaaa7a20853491e736b2c",
+      "size": 4511
+    },
+    {
+      "name": "defaultconfigs/leawind_third_person.json",
+      "hash": "63e327f8979807ff33a7bd25b5936131e63820e3352bae4b7c11ef0c30f89e31",
+      "size": 2042
+    },
+    {
+      "name": "defaultconfigs/libjf_config_core_v2.json5",
+      "hash": "31034e7bacb0a81e96fa4b7e44e9486a08a00c28bba8af0d638010a7bca9d9c1",
+      "size": 31
+    },
+    {
+      "name": "defaultconfigs/libjf_translate_v1.json5",
+      "hash": "7f429692f09e7a8ded58be898fd78361a404fed62460e4e1906de3f12be0b431",
+      "size": 115
+    },
+    {
+      "name": "defaultconfigs/libjf_web_v1.json5",
+      "hash": "a5abaf6a7e844714cabaaf29fca14ee45b6adb060389b232a40fa44f191c7942",
+      "size": 132
+    },
+    {
+      "name": "defaultconfigs/libraryferret_1.properties",
+      "hash": "ce899bc676a2db8001f7d744bee71edb9906359b4f5882d4143deb4a66924857",
+      "size": 194
+    },
+    {
+      "name": "defaultconfigs/lithium.properties",
+      "hash": "79348e4677fbd9474a18f772ecd271efebccdffed3a3f0bf2cc546e93d5c205a",
+      "size": 273
+    },
+    {
+      "name": "defaultconfigs/make_bubbles_pop.json",
+      "hash": "892c1e4c38c4ce5258c4c01af2ed41d953fe66efc7452f3ac89a3ca2153e6db5",
+      "size": 397
+    },
+    {
+      "name": "defaultconfigs/mechtrowel-client.toml",
+      "hash": "ac78363003629031d4ab9e9096ded0b4f37f8d37569d077440e86ff070e2be0e",
+      "size": 71
+    },
+    {
+      "name": "defaultconfigs/mechtrowel-common.toml",
+      "hash": "d002b4c927c42185c2ba052111bb985ce155b332762649f439a14a98dfa28663",
+      "size": 1963
+    },
+    {
+      "name": "defaultconfigs/mega_showdown/config.json",
+      "hash": "0893a00a4186424cefcd059fc7e5e1043bb3bc71a6ea01f60acc1f1e44179819",
+      "size": 594
+    },
+    {
+      "name": "defaultconfigs/midnightlib.json",
+      "hash": "7fae4917f0ecd3cd371bf526f147850a76c524eb216a2e0b16d24afc191e17b2",
+      "size": 41
+    },
+    {
+      "name": "defaultconfigs/modernfix-common.toml",
+      "hash": "8832bf3d7c98c0468622783a2f161ec871ebf40605399d68767cea42a32358d6",
+      "size": 106
+    },
+    {
+      "name": "defaultconfigs/modernfix-mixins.properties",
+      "hash": "469d8242523771178ca7747a8535eb99e67c1fe19d82144c24107bacb534ae40",
+      "size": 5454
+    },
+    {
+      "name": "defaultconfigs/modmenu.json",
+      "hash": "32395e2598dd288f8b63cd921647da4ed69e839d8db9bc85262d2091840a668d",
+      "size": 872
+    },
+    {
+      "name": "defaultconfigs/moonlight-client.toml",
+      "hash": "118089bf0f86d8a22f6839bac8ed7eddb67287e573eac357b8ed1c173c3a5b49",
+      "size": 1275
+    },
+    {
+      "name": "defaultconfigs/moonlight-common.toml",
+      "hash": "93f7cb4c4518984e89d5bd1e38cfcafe18d734be20cb4324c81b33108aad0e3e",
+      "size": 955
+    },
+    {
+      "name": "defaultconfigs/MouseTweaks.cfg",
+      "hash": "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8",
+      "size": 143
+    },
+    {
+      "name": "defaultconfigs/naturescompass-client.toml",
+      "hash": "7c82e4d10f087104456143829b0e82a2521d4ab0dbc3c9876afefb0a901f12a3",
+      "size": 438
+    },
+    {
+      "name": "defaultconfigs/naturescompass-common.toml",
+      "hash": "600334e053821065dde95faacd000ebde33d90cce356f616d9c9ad8cc7b7177a",
+      "size": 2205
+    },
+    {
+      "name": "defaultconfigs/neoforge-client.toml",
+      "hash": "3344caa3a5cdc2015e7b1ef025fefc4a09098fb7ce57eb369cd5c99ed5b04b4b",
       "size": 582
     },
     {
-      "name": "defaultconfigs/swinginglanterns/lantern_overrides.json",
-      "hash": "39df3ea0de760729a32d57f7b0e2a013f2c5d88fc153fd282e07b8f96eab1504",
-      "size": 73
+      "name": "defaultconfigs/neoforge-common.toml",
+      "hash": "1030b52021d16f22e3cb4bb8d261ec9efa0d020f44682157d6e13d55181e1112",
+      "size": 777
     },
     {
-      "name": "defaultconfigs/subtle_effects/items.toml",
-      "hash": "2b29af6d8d20b9deab33d143d5c49b773c1b16efb9f1f6cc5d7263cda627fb08",
-      "size": 1095
+      "name": "defaultconfigs/neoforge-server.toml",
+      "hash": "02acb61c4b55b1e66933f4643c77c9f2928af59c4c62625412b01515551b3762",
+      "size": 1182
     },
     {
-      "name": "defaultconfigs/subtle_effects/general.toml",
-      "hash": "1d294b9c7bd869c5ee5588d9a5d2ee43ce2cb794569f5b01b33acb835bc794ae",
-      "size": 1165
+      "name": "defaultconfigs/particle_effects.json5",
+      "hash": "2b2dcd549f57d7abb750f9d4db0444549d654578906525dfa0a31c1ce75c412f",
+      "size": 27
     },
     {
-      "name": "defaultconfigs/subtle_effects/environment.toml",
-      "hash": "8a75e323ca6331b83ec1f8f835cde499d08b88d32472af4775aeeae28084f7ba",
-      "size": 2560
+      "name": "defaultconfigs/particlerain/config.json",
+      "hash": "3c6a698d96a9debe5e8db820c374bf81a83c21bab26437cc0acb5764accf7dd2",
+      "size": 1221
     },
     {
-      "name": "defaultconfigs/subtle_effects/entities.toml",
-      "hash": "9483773ee5bca36a2992660a2c65ac8d30139b68ff628b87e0fe27ce59faa727",
-      "size": 3227
+      "name": "defaultconfigs/particlerain/particles.json",
+      "hash": "cf4905176ee2fec9ae54da301643b50193223a97c7e68cfaaa14aaf79c7bec84",
+      "size": 249
     },
     {
-      "name": "defaultconfigs/subtle_effects/blocks.toml",
-      "hash": "e7d2e46da227d36f1c00f9becb5ab855bcfbb79eb5e6215b6b9cc43e48c0a4d6",
-      "size": 4216
+      "name": "defaultconfigs/patchouli-client.toml",
+      "hash": "ee2f712c895b68ff5c443b4c5d5a5eb379605a4ecbca38f40aec50fdf78da0a9",
+      "size": 1097
+    },
+    {
+      "name": "defaultconfigs/paxi-neoforge-1_21.toml",
+      "hash": "6f3aa99fa7f184e7ff53dcd65a65f348f74418ab93055554132651f125f5a234",
+      "size": 509
+    },
+    {
+      "name": "defaultconfigs/paxi/datapack_load_order.json",
+      "hash": "b9e995ee9e8c482dfb80f5a1141b881596dc170b4d6417b38a6309229d0510a9",
+      "size": 25
+    },
+    {
+      "name": "defaultconfigs/paxi/datapacks/CR - Biome Expanded Spawns - 5.8.1.zip",
+      "hash": "8e261cc1cfbbc0e2d9cb91e206b0a965d075a21df4ca64b32627901e0a5edeea",
+      "size": 901067
+    },
+    {
+      "name": "defaultconfigs/paxi/datapacks/PathToLegends-1.1.1-release.zip",
+      "hash": "156e42b8fa35bf30e21a73af1f1bbed66f5ed54085aa8beb6544190aa35e3f59",
+      "size": 492682
+    },
+    {
+      "name": "defaultconfigs/paxi/datapacks/VanillaTweaks_d185723_UNZIP_ME.zip",
+      "hash": "98b1c4db350736d5e26dde0526a679935c581c9d5fe8869b8015de121a3663f9",
+      "size": 297183
+    },
+    {
+      "name": "defaultconfigs/paxi/resourcepack_load_order.json",
+      "hash": "b9e995ee9e8c482dfb80f5a1141b881596dc170b4d6417b38a6309229d0510a9",
+      "size": 25
+    },
+    {
+      "name": "defaultconfigs/paxi/resourcepacks/[1.5] Enhanced Boss Bars.zip",
+      "hash": "dd6cc4be800ec9baa99d91ba5e30546cce9e5c00ed742c6a5b4888d90a67388f",
+      "size": 203258
+    },
+    {
+      "name": "defaultconfigs/paxi/resourcepacks/§e[FORGE]Eating Animations More Compat.zip",
+      "hash": "b8e618b9b06195a00e0e74289aa8748fa2e49fae535dcc9cbe6d0092986047a3",
+      "size": 1103721
+    },
+    {
+      "name": "defaultconfigs/paxi/resourcepacks/§eExtended_Illumina_1.21x.zip",
+      "hash": "ff1f8382f8d000636c86efa399b470e830bd3fd24d49b0c40c903fa0712ee85b",
+      "size": 5035
+    },
+    {
+      "name": "defaultconfigs/paxi/resourcepacks/§eTorches§8-§eReimagined§0_§8[v1.7.2]§0.zip",
+      "hash": "c9262d923b69a54e4c16d281fd4f039dc467560f4395289eafd240c27eb799a7",
+      "size": 186249
+    },
+    {
+      "name": "defaultconfigs/paxi/resourcepacks/CreateSophBackpacks.zip",
+      "hash": "cb63a5a33c142ce588f1df020c7d4615f57f0e312064e03d4e7901060803905d",
+      "size": 557473
+    },
+    {
+      "name": "defaultconfigs/paxi/resourcepacks/CreateSophiStorage.zip",
+      "hash": "cea881b7e94723237391ef5075afc68e15bad74d124bb98220804fed1d48e580",
+      "size": 611818
+    },
+    {
+      "name": "defaultconfigs/paxi/resourcepacks/Gentler Weather Sounds 2.2.0.zip",
+      "hash": "9198b0932e19def4795240cb4863b61a65f606fc66f9eb3cafeff1fbebb434cf",
+      "size": 2642800
+    },
+    {
+      "name": "defaultconfigs/paxi/resourcepacks/Os' Colorful Grasses (Mix).zip",
+      "hash": "13fa9c58de7beb6ce8a12e3231e9d0b3f54b7032e1b3fd4e68f0c198b8cd3b4b",
+      "size": 294362
+    },
+    {
+      "name": "defaultconfigs/paxi/resourcepacks/rainbows-foliage-polytone-edition-v1.7.zip",
+      "hash": "e3851c5c2c9e796ed51409b6536e6441abb74d83ae30abd1761377c6b95968ea",
+      "size": 932983
+    },
+    {
+      "name": "defaultconfigs/paxi/resourcepacks/Soft-Weather-1.0-Universal.zip",
+      "hash": "3f47ccac79c0c9ff2f723e4d8061f5881ca5323931be29f9009d42682cdcc1dd",
+      "size": 6534
+    },
+    {
+      "name": "defaultconfigs/paxi/resourcepacks/VanillaTweaks_r298651_MC26.1.x.zip",
+      "hash": "8b3ecdf6a879bf4d8ac6f5a9d73a49bbe4dd44e03435fabd498411db45203c1f",
+      "size": 254197
+    },
+    {
+      "name": "defaultconfigs/perception.yaml",
+      "hash": "8e5d06199182ff3cbc4eeeded1cad6000db7477b0efb08b995e78585b7080cdf",
+      "size": 773
+    },
+    {
+      "name": "defaultconfigs/physicsmod/physics_animations_client_config.json",
+      "hash": "a6ecad5c69a9be43fb4a5501fa3caeec721b94c94405749ac73bb0d88d797027",
+      "size": 2823
+    },
+    {
+      "name": "defaultconfigs/physicsmod/physics_blocks_client_config.json",
+      "hash": "01c522cbb0ae950c989fc06afbab8ddf7e205654b48cf0ab3398894539c8657e",
+      "size": 228262
+    },
+    {
+      "name": "defaultconfigs/physicsmod/physics_client_config.json",
+      "hash": "f1e5ea2105bf9f176467c1033f28fd73a02e09c0612272201e6ae980124077a3",
+      "size": 4949
+    },
+    {
+      "name": "defaultconfigs/physicsmod/physics_cloth_config.json",
+      "hash": "4774cddb62d91432e9bf996c97d1b1a1fbeceb70c9d169c654056ad8a4743b9c",
+      "size": 54
+    },
+    {
+      "name": "defaultconfigs/physicsmod/physics_mobs_client_config.json",
+      "hash": "3c0b9f1c883cb4820e5e43cf727bd27c9d599691b3a2f221185867d111e4ceb6",
+      "size": 26355
+    },
+    {
+      "name": "defaultconfigs/physicsmod/physics_server_config.json",
+      "hash": "e609699fd496258578daadc59f7271253b6f90a36c19bf06450901882523c91e",
+      "size": 105
+    },
+    {
+      "name": "defaultconfigs/physicsmod/physics_snow_client_config.json",
+      "hash": "76192286840d040b5aa7bae96e7d804dec9eae103d0644b87d56c191591c05b9",
+      "size": 202
+    },
+    {
+      "name": "defaultconfigs/physicsmod/physics_vines_client_config.json",
+      "hash": "895a69f23f78ec332e2445572dba142c48b9e81d094ef11c28992295d48e47bc",
+      "size": 20578
+    },
+    {
+      "name": "defaultconfigs/ponder-client.toml",
+      "hash": "f24404cdb6ab7d77121e7f90acd82f18ae86738203f855a16bb709284e36db66",
+      "size": 637
+    },
+    {
+      "name": "defaultconfigs/powergrid-client.toml",
+      "hash": "216035ebd00ba6017190262994d1574cdd8f2ce5021a99f0a856c561d5dde130",
+      "size": 1053
+    },
+    {
+      "name": "defaultconfigs/powergrid-common.toml",
+      "hash": "ddf2e126029d1811f2431fce9eb8e7319e037224523e738cc3dfe6e6c90cff6f",
+      "size": 450
+    },
+    {
+      "name": "defaultconfigs/powergrid-server.toml",
+      "hash": "a9255ece6d6caae8b0c4e8890456b406fe5992d20dee747f0618a727ccf74568",
+      "size": 14404
+    },
+    {
+      "name": "defaultconfigs/presencefootsteps/updater.json",
+      "hash": "18045fe3197c2545bcef41eea63659ae2a7fa7e87c950afb20eeb347f138e0d4",
+      "size": 74
+    },
+    {
+      "name": "defaultconfigs/presencefootsteps/userconfig.json",
+      "hash": "15c51b16598db103f6b0f15c8e45c3d790b8e3b063cfcd7cded0dbaaa887874b",
+      "size": 421
+    },
+    {
+      "name": "defaultconfigs/presencefootsteps/userconfig.json5",
+      "hash": "c469b7228a9dd6f6919430d762b2cf9d0e671eee8bfc6467834a6f622e3eeb00",
+      "size": 3324
+    },
+    {
+      "name": "defaultconfigs/protection-pixel.toml",
+      "hash": "8a7bd1ae5facd0df8604d1f94e14072a42f6bf32335256981850b0a9c35c6ab0",
+      "size": 544
+    },
+    {
+      "name": "defaultconfigs/quark-common.toml",
+      "hash": "27f27eb08ec5321452dd6a4ddb53769f4335950dd85ada4b9dce460bea1bf756",
+      "size": 78198
+    },
+    {
+      "name": "defaultconfigs/resonance/client.toml",
+      "hash": "bc04b721c041f1d86c61bdc18f0da5f3e0ba13e08b58ab571eee1be761174acd",
+      "size": 1441
+    },
+    {
+      "name": "defaultconfigs/resourceful-config-web.json",
+      "hash": "2328a4c96b79ae9c3507a4973a97afbbd62de887c91ec8471c0449e937218a98",
+      "size": 209
+    },
+    {
+      "name": "defaultconfigs/resourcify.json",
+      "hash": "24ab9ec4284e5eb258efa72bbe5fc42efbe3879fa86f1a353a6a6ea5465fa456",
+      "size": 288
+    },
+    {
+      "name": "defaultconfigs/scholar-client.toml",
+      "hash": "720592710bdeb6b80da48b8e97c2dfb59f3f6b714d14e04e075bdd72e2e98901",
+      "size": 1066
+    },
+    {
+      "name": "defaultconfigs/scholar-common.toml",
+      "hash": "8b7134d5be4440df9c114f8ece86e55423bffeab3282002e91a44ffe5776d38a",
+      "size": 846
+    },
+    {
+      "name": "defaultconfigs/seamless_sleep-server.toml",
+      "hash": "62784e3a7348e320e3d463c3d7cb53bb722b18d72f6647208c2a9ed22b7ee497",
+      "size": 269
+    },
+    {
+      "name": "defaultconfigs/seamless_sleep.toml",
+      "hash": "17562679e47ccf19d476e9b5366acc2460d4d5c38c4b822776a566fc54aaffd9",
+      "size": 965
+    },
+    {
+      "name": "defaultconfigs/sodium-extra-options.json",
+      "hash": "2ad0bd99bab0b24aec683fb0e9ee1ef082a18f4849421205b564b1bb240b0bf3",
+      "size": 6188
+    },
+    {
+      "name": "defaultconfigs/sodium-extra.properties",
+      "hash": "ab259e2369fc503c0cd905ec9b57b5867f4dbd249edf7a2b52193b36ffbcdeab",
+      "size": 367
+    },
+    {
+      "name": "defaultconfigs/sodium-fingerprint.json",
+      "hash": "2c692e08042d4ee5606f997338f9a1239b3245c92e75b0b805afa4dd0f807708",
+      "size": 456
+    },
+    {
+      "name": "defaultconfigs/sodium-mixins.properties",
+      "hash": "35d3939d1bc306839c6ad538803288b3d2bc8a2dfed4948eae569d540d6b8058",
+      "size": 264
+    },
+    {
+      "name": "defaultconfigs/sodium-options.json",
+      "hash": "88b53fe08dcbec70287e4e09b12b28ec34af449012221f3aa0e25e61d1b9f5f1",
+      "size": 715
+    },
+    {
+      "name": "defaultconfigs/sophisticatedbackpacks-common.toml",
+      "hash": "c2dffeda2a5b257b3eef619bbbda11744ba4233b364c7a1b26c109c737b1bdc2",
+      "size": 118
+    },
+    {
+      "name": "defaultconfigs/sophisticatedbackpacks-server.toml",
+      "hash": "a5e8f1f2d0ace46c617b890fccf8f202e42caa79d7e2a56f28ea4c0f65fa8745",
+      "size": 21023
+    },
+    {
+      "name": "defaultconfigs/sophisticatedcore-client.toml",
+      "hash": "42bf929a81aebe05ebe1c0b1e6c971b8a41ff9b5cc152d97266057b9168a25b1",
+      "size": 476
+    },
+    {
+      "name": "defaultconfigs/sophisticatedcore-common.toml",
+      "hash": "abde869e19eaf61c2107cd4ad81bf2122ec5eabdf1435c015cae6d6d25054539",
+      "size": 9104
+    },
+    {
+      "name": "defaultconfigs/sophisticatedstorage-client.toml",
+      "hash": "6a951d1e77ec56cf1cb9b512f7084974a17b3d5488ce22f2298344bcc71ffa0b",
+      "size": 413
+    },
+    {
+      "name": "defaultconfigs/sophisticatedstorage-common.toml",
+      "hash": "4ae737999feca7bcd05d63cecd6c67ba66c3c8bf4521d283bfae43fcd69d3b72",
+      "size": 186
+    },
+    {
+      "name": "defaultconfigs/sophisticatedstorage-server.toml",
+      "hash": "bcca29af47410ee6d6e70462de5fc48f3da9bf0a7f620d79aa949dd6375718bd",
+      "size": 24217
+    },
+    {
+      "name": "defaultconfigs/sounds/chat.json",
+      "hash": "65df81f270c75413dab8c329750723bb47b87137f2cbe1a0c7f322cb6636882e",
+      "size": 689
+    },
+    {
+      "name": "defaultconfigs/sounds/event.json",
+      "hash": "91503c658c74ecfd6100e71f8ea048a174257f97bcf1d54b0df9cbd14d6dd1f1",
+      "size": 878
+    },
+    {
+      "name": "defaultconfigs/sounds/mod_utils.json",
+      "hash": "063e26484656ef26e6b06a14b11b57102b67c715102004321dd3be88cb74e7df",
+      "size": 46
+    },
+    {
+      "name": "defaultconfigs/sounds/ui.json",
+      "hash": "07024df205f4f1b7afa85d2c38d04c519784d2df807404b516a30772ff054724",
+      "size": 2355
+    },
+    {
+      "name": "defaultconfigs/sounds/world.json",
+      "hash": "906e3ebac53f552989204d060b3e7b72ef716fe807e8cbf2c3284c60add9f499",
+      "size": 1975
     },
     {
       "name": "defaultconfigs/spark/config.json",
@@ -946,1027 +1171,556 @@
       "size": 585
     },
     {
-      "name": "defaultconfigs/sounds/world.json",
-      "hash": "906e3ebac53f552989204d060b3e7b72ef716fe807e8cbf2c3284c60add9f499",
-      "size": 1975
+      "name": "defaultconfigs/structureessentials.json",
+      "hash": "89ffaf307813473dbc6b9fecca384902c173d57d230df7f0e92e3541e7d0b82a",
+      "size": 3853
     },
     {
-      "name": "defaultconfigs/sounds/ui.json",
-      "hash": "07024df205f4f1b7afa85d2c38d04c519784d2df807404b516a30772ff054724",
-      "size": 2355
+      "name": "defaultconfigs/subtle_effects/blocks.toml",
+      "hash": "e7d2e46da227d36f1c00f9becb5ab855bcfbb79eb5e6215b6b9cc43e48c0a4d6",
+      "size": 4216
     },
     {
-      "name": "defaultconfigs/sounds/mod_utils.json",
-      "hash": "063e26484656ef26e6b06a14b11b57102b67c715102004321dd3be88cb74e7df",
-      "size": 46
+      "name": "defaultconfigs/subtle_effects/entities.toml",
+      "hash": "9483773ee5bca36a2992660a2c65ac8d30139b68ff628b87e0fe27ce59faa727",
+      "size": 3227
     },
     {
-      "name": "defaultconfigs/sounds/event.json",
-      "hash": "91503c658c74ecfd6100e71f8ea048a174257f97bcf1d54b0df9cbd14d6dd1f1",
-      "size": 878
+      "name": "defaultconfigs/subtle_effects/environment.toml",
+      "hash": "8a75e323ca6331b83ec1f8f835cde499d08b88d32472af4775aeeae28084f7ba",
+      "size": 2560
     },
     {
-      "name": "defaultconfigs/sounds/chat.json",
-      "hash": "65df81f270c75413dab8c329750723bb47b87137f2cbe1a0c7f322cb6636882e",
-      "size": 689
+      "name": "defaultconfigs/subtle_effects/general.toml",
+      "hash": "1d294b9c7bd869c5ee5588d9a5d2ee43ce2cb794569f5b01b33acb835bc794ae",
+      "size": 1165
     },
     {
-      "name": "defaultconfigs/resonance/client.toml",
-      "hash": "bc04b721c041f1d86c61bdc18f0da5f3e0ba13e08b58ab571eee1be761174acd",
-      "size": 1441
+      "name": "defaultconfigs/subtle_effects/items.toml",
+      "hash": "2b29af6d8d20b9deab33d143d5c49b773c1b16efb9f1f6cc5d7263cda627fb08",
+      "size": 1095
     },
     {
-      "name": "defaultconfigs/presencefootsteps/userconfig.json5",
-      "hash": "c469b7228a9dd6f6919430d762b2cf9d0e671eee8bfc6467834a6f622e3eeb00",
-      "size": 3324
+      "name": "defaultconfigs/supplementaries-client.toml",
+      "hash": "69b06ae6c4271e167d48e54fe5dc91e80b1247a4c166fca683498cb6bd99c06a",
+      "size": 8987
     },
     {
-      "name": "defaultconfigs/presencefootsteps/userconfig.json",
-      "hash": "15c51b16598db103f6b0f15c8e45c3d790b8e3b063cfcd7cded0dbaaa887874b",
-      "size": 421
+      "name": "defaultconfigs/supplementaries-common.toml",
+      "hash": "e8e46d9fd26276d2652094b02d5112aa12c4899e42bdbf16e1570f701fbf8510",
+      "size": 26686
     },
     {
-      "name": "defaultconfigs/presencefootsteps/updater.json",
-      "hash": "18045fe3197c2545bcef41eea63659ae2a7fa7e87c950afb20eeb347f138e0d4",
-      "size": 74
+      "name": "defaultconfigs/suppsquared-common.toml",
+      "hash": "cf74f4a1b1281685ce1bbf49f97f33e24f9ebb08a6a30635b94ef8156ad723ec",
+      "size": 82
     },
     {
-      "name": "defaultconfigs/physicsmod/physics_vines_client_config.json",
-      "hash": "895a69f23f78ec332e2445572dba142c48b9e81d094ef11c28992295d48e47bc",
-      "size": 20578
+      "name": "defaultconfigs/swinginglanterns/lantern_overrides.json",
+      "hash": "39df3ea0de760729a32d57f7b0e2a013f2c5d88fc153fd282e07b8f96eab1504",
+      "size": 73
     },
     {
-      "name": "defaultconfigs/physicsmod/physics_snow_client_config.json",
-      "hash": "76192286840d040b5aa7bae96e7d804dec9eae103d0644b87d56c191591c05b9",
-      "size": 202
+      "name": "defaultconfigs/swinginglanterns/raycast_ignored_blocks.json",
+      "hash": "51c3e3f97c7492d3f3f05e3559c5dc071eed9382030242b56b3d67a34c273fcf",
+      "size": 582
     },
     {
-      "name": "defaultconfigs/physicsmod/physics_server_config.json",
-      "hash": "e609699fd496258578daadc59f7271253b6f90a36c19bf06450901882523c91e",
-      "size": 105
+      "name": "defaultconfigs/swinginglanterns/README.txt",
+      "hash": "3b41cd843d70a22b5dd7993fcb794d51051c7c9649b33e54cf028499f35f152c",
+      "size": 769
     },
     {
-      "name": "defaultconfigs/physicsmod/physics_mobs_client_config.json",
-      "hash": "3c0b9f1c883cb4820e5e43cf727bd27c9d599691b3a2f221185867d111e4ceb6",
-      "size": 26355
+      "name": "defaultconfigs/swinginglanterns/swinginglanterns.json",
+      "hash": "c0c10d5c6ecaf560fd4dea513cf0badf05ca2d7f2a099e35422aa48ade554d1a",
+      "size": 646
     },
     {
-      "name": "defaultconfigs/physicsmod/physics_cloth_config.json",
-      "hash": "4774cddb62d91432e9bf996c97d1b1a1fbeceb70c9d169c654056ad8a4743b9c",
-      "size": 54
+      "name": "defaultconfigs/terrablender.toml",
+      "hash": "35d0386012ad88058188331bc5e5ccb739402df24f9d401029996788adbd5104",
+      "size": 976
     },
     {
-      "name": "defaultconfigs/physicsmod/physics_client_config.json",
-      "hash": "f1e5ea2105bf9f176467c1033f28fd73a02e09c0612272201e6ae980124077a3",
-      "size": 4949
+      "name": "defaultconfigs/tim_core.json",
+      "hash": "221acdc91c776a99326a01aec6bd5477a5a642c5095da343eb83f40ec59c63b2",
+      "size": 788
     },
     {
-      "name": "defaultconfigs/physicsmod/physics_blocks_client_config.json",
-      "hash": "01c522cbb0ae950c989fc06afbab8ddf7e205654b48cf0ab3398894539c8657e",
-      "size": 228262
+      "name": "defaultconfigs/timm/general.json",
+      "hash": "44ce13de602060fb132341ab8a8ec5f8a8835d2d6bcd743a9a518f640a4441aa",
+      "size": 235
     },
     {
-      "name": "defaultconfigs/physicsmod/physics_animations_client_config.json",
-      "hash": "a6ecad5c69a9be43fb4a5501fa3caeec721b94c94405749ac73bb0d88d797027",
-      "size": 2823
+      "name": "defaultconfigs/transition.json",
+      "hash": "38ebc31642343a66c454ed078b7cd1cc367c05711c8fe5853dc86bd9af80246d",
+      "size": 67
     },
     {
-      "name": "defaultconfigs/paxi/resourcepack_load_order.json",
-      "hash": "b9e995ee9e8c482dfb80f5a1141b881596dc170b4d6417b38a6309229d0510a9",
-      "size": 25
+      "name": "defaultconfigs/trender.json",
+      "hash": "2eed89e299c4a52f674920d860a6099285eb5dea26700c80f38a8888b926a102",
+      "size": 52
     },
     {
-      "name": "defaultconfigs/paxi/datapack_load_order.json",
-      "hash": "b9e995ee9e8c482dfb80f5a1141b881596dc170b4d6417b38a6309229d0510a9",
-      "size": 25
+      "name": "defaultconfigs/vanillabackport-client.toml",
+      "hash": "a0fd403035dabc7af5726409bda5084e12d0ebc26461e2e8d320fa41a1460f61",
+      "size": 340
     },
     {
-      "name": "defaultconfigs/paxi/resourcepacks/§e[FORGE]Eating Animations More Compat.zip",
-      "hash": "b8e618b9b06195a00e0e74289aa8748fa2e49fae535dcc9cbe6d0092986047a3",
-      "size": 1103721
+      "name": "defaultconfigs/vanillabackport-common.toml",
+      "hash": "fd8e644d1bf2c513695e51d105d12af37e828e83e82669a48207888420834323",
+      "size": 2242
     },
     {
-      "name": "defaultconfigs/paxi/resourcepacks/§eTorches§8-§eReimagined§0_§8[v1.7.2]§0.zip",
-      "hash": "c9262d923b69a54e4c16d281fd4f039dc467560f4395289eafd240c27eb799a7",
-      "size": 186249
+      "name": "defaultconfigs/via_romana.json",
+      "hash": "80df159466c9bfcb7a1006fb4895b7667918ffe3fba2b0c1b4e46e5577fcda15",
+      "size": 1830
     },
     {
-      "name": "defaultconfigs/paxi/resourcepacks/§eExtended_Illumina_1.21x.zip",
-      "hash": "ff1f8382f8d000636c86efa399b470e830bd3fd24d49b0c40c903fa0712ee85b",
-      "size": 5035
+      "name": "defaultconfigs/vista-client.toml",
+      "hash": "950fe8a4adc8060e6bf1dd944eac6b5cef53c3121d25327fa4fc1c703e7a3d01",
+      "size": 2226
     },
     {
-      "name": "defaultconfigs/paxi/resourcepacks/[1.5] Enhanced Boss Bars.zip",
-      "hash": "dd6cc4be800ec9baa99d91ba5e30546cce9e5c00ed742c6a5b4888d90a67388f",
-      "size": 203258
+      "name": "defaultconfigs/vista-common.toml",
+      "hash": "766d1c3a4acf861824925e5f4b0489fae80bb368f5b4ef558fa85fcedb9bb974",
+      "size": 313
     },
     {
-      "name": "defaultconfigs/paxi/resourcepacks/VanillaTweaks_r298651_MC26.1.x.zip",
-      "hash": "8b3ecdf6a879bf4d8ac6f5a9d73a49bbe4dd44e03435fabd498411db45203c1f",
-      "size": 254197
+      "name": "defaultconfigs/visual_keybinder.toml",
+      "hash": "b39299efabf2fe7d7d6f097c4ee3ce30875b0b32ea702b2a849942f98fabf719",
+      "size": 885
     },
     {
-      "name": "defaultconfigs/paxi/resourcepacks/Soft-Weather-1.0-Universal.zip",
-      "hash": "3f47ccac79c0c9ff2f723e4d8061f5881ca5323931be29f9009d42682cdcc1dd",
-      "size": 6534
+      "name": "defaultconfigs/visuality.json",
+      "hash": "7d82a6f2b3fd11fe0e195decf1f56b9a6f56148ab75a3b68249cea570a2705ac",
+      "size": 1095
     },
     {
-      "name": "defaultconfigs/paxi/resourcepacks/rainbows-foliage-polytone-edition-v1.7.zip",
-      "hash": "e3851c5c2c9e796ed51409b6536e6441abb74d83ae30abd1761377c6b95968ea",
-      "size": 932983
+      "name": "defaultconfigs/visuality/config.toml",
+      "hash": "38e41c3683cf1d99b37dff1b058d4888ab78de687ad4f75cbe002a850662a5bc",
+      "size": 273
     },
     {
-      "name": "defaultconfigs/paxi/resourcepacks/Os' Colorful Grasses (Mix).zip",
-      "hash": "13fa9c58de7beb6ce8a12e3231e9d0b3f54b7032e1b3fd4e68f0c198b8cd3b4b",
-      "size": 294362
+      "name": "defaultconfigs/visuality/particle_emitters/block_ambient.json",
+      "hash": "e9b1255cf8d1a4f76294462174f10fe9151c8ac1da1220bafab4439bda4c3381",
+      "size": 1364
     },
     {
-      "name": "defaultconfigs/paxi/resourcepacks/Gentler Weather Sounds 2.2.0.zip",
-      "hash": "9198b0932e19def4795240cb4863b61a65f606fc66f9eb3cafeff1fbebb434cf",
-      "size": 2642800
+      "name": "defaultconfigs/visuality/particle_emitters/block_step.json",
+      "hash": "d7a399d83cda81404d7e7580f792634d64cd289356124655d4beccd2720c6d38",
+      "size": 235
     },
     {
-      "name": "defaultconfigs/paxi/resourcepacks/CreateSophiStorage.zip",
-      "hash": "cea881b7e94723237391ef5075afc68e15bad74d124bb98220804fed1d48e580",
-      "size": 611818
+      "name": "defaultconfigs/visuality/particle_emitters/entity_armor.json",
+      "hash": "d525e9b5add10362697fd393651cbdde3f13fb0f2bfc2a326ba95814680076c7",
+      "size": 776
     },
     {
-      "name": "defaultconfigs/paxi/resourcepacks/CreateSophBackpacks.zip",
-      "hash": "cb63a5a33c142ce588f1df020c7d4615f57f0e312064e03d4e7901060803905d",
-      "size": 557473
+      "name": "defaultconfigs/visuality/particle_emitters/entity_hit.json",
+      "hash": "227d3492242e88b5c18390ad5ff6147894ffe6c773df3864879cf56ebafb484a",
+      "size": 722
     },
     {
-      "name": "defaultconfigs/paxi/datapacks/VanillaTweaks_d185723_UNZIP_ME.zip",
-      "hash": "98b1c4db350736d5e26dde0526a679935c581c9d5fe8869b8015de121a3663f9",
-      "size": 297183
-    },
-    {
-      "name": "defaultconfigs/paxi/datapacks/PathToLegends-1.1.1-release.zip",
-      "hash": "156e42b8fa35bf30e21a73af1f1bbed66f5ed54085aa8beb6544190aa35e3f59",
-      "size": 492682
-    },
-    {
-      "name": "defaultconfigs/paxi/datapacks/CR - Biome Expanded Spawns - 5.8.1.zip",
-      "hash": "8e261cc1cfbbc0e2d9cb91e206b0a965d075a21df4ca64b32627901e0a5edeea",
-      "size": 901067
-    },
-    {
-      "name": "defaultconfigs/particlerain/particles.json",
-      "hash": "cf4905176ee2fec9ae54da301643b50193223a97c7e68cfaaa14aaf79c7bec84",
-      "size": 249
-    },
-    {
-      "name": "defaultconfigs/particlerain/config.json",
-      "hash": "3c6a698d96a9debe5e8db820c374bf81a83c21bab26437cc0acb5764accf7dd2",
-      "size": 1221
-    },
-    {
-      "name": "defaultconfigs/mega_showdown/config.json",
-      "hash": "0893a00a4186424cefcd059fc7e5e1043bb3bc71a6ea01f60acc1f1e44179819",
-      "size": 594
-    },
-    {
-      "name": "defaultconfigs/jei/recipe-category-sort-order.ini",
-      "hash": "fb28c53eb79ffbb5704b749cb5d423dcdcc17f8237a7c2faf4b063619de39f4b",
-      "size": 1267
-    },
-    {
-      "name": "defaultconfigs/jei/jei-mod-id-format.ini",
-      "hash": "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054",
-      "size": 489
-    },
-    {
-      "name": "defaultconfigs/jei/jei-debug.ini",
-      "hash": "960b16c7af6d62bbe7b58fb52216a8a15771bddecbeefab49a8614b7ca86dcbd",
-      "size": 1326
-    },
-    {
-      "name": "defaultconfigs/jei/jei-colors.ini",
-      "hash": "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f",
-      "size": 1362
-    },
-    {
-      "name": "defaultconfigs/jei/jei-client.ini",
-      "hash": "f6841387ba118885299e6fe6574daaa62ad5adcf4e73f851ec2e9f8977ea066d",
-      "size": 10746
-    },
-    {
-      "name": "defaultconfigs/jei/ingredient-list-type-sort-order.ini",
-      "hash": "8e677bb72879f9d606ce034e97782a950e6e6faff03b8f9579c4c70a1da55157",
-      "size": 148
-    },
-    {
-      "name": "defaultconfigs/jei/ingredient-list-mod-sort-order.ini",
-      "hash": "f914722f76b05abecb5d919d4147948c5dc477fae72c0e706d5febb6bfd04ec8",
-      "size": 610
-    },
-    {
-      "name": "defaultconfigs/jei/blacklist.json",
-      "hash": "02e6c3c674c46c8e698ee70aeaaf8a395736d99c9df1277c1975eff3b6864b59",
-      "size": 26
-    },
-    {
-      "name": "defaultconfigs/jei/world/local/New_World/lookupHistory.json",
-      "hash": "1ffaa80cfea453dcd08142971221331cd3009d37321ddf70b711cdca917aa538",
-      "size": 146
-    },
-    {
-      "name": "defaultconfigs/jade/sort-order.json",
-      "hash": "80080bfa850154a50ba21357ec51bb50cc11b71df49918e6a5bd152b1e923d6a",
-      "size": 2545
-    },
-    {
-      "name": "defaultconfigs/jade/plugins.json",
-      "hash": "516cdd6a8c703a4d086e778305d5e31c133cf9ec4716c96c4dbd89d7be248d21",
-      "size": 2428
-    },
-    {
-      "name": "defaultconfigs/jade/jade.json",
-      "hash": "dff247a4736503ce3bd48a9f970900d16539d041357621dc9788e8b4df9e2f51",
-      "size": 1137
-    },
-    {
-      "name": "defaultconfigs/jade/hide-entities.json",
-      "hash": "fb5bb1c2546daf3a448a474eaf0b2b4519f064065d4992c024f1ab550f9461e8",
-      "size": 254
-    },
-    {
-      "name": "defaultconfigs/jade/hide-blocks.json",
-      "hash": "b3397e07a4c07561e1d6971efae0c607aa5c62a5dfa0fb92ce7a5abfd74d6b23",
-      "size": 156
-    },
-    {
-      "name": "defaultconfigs/immersive-storms/schema.json5",
-      "hash": "3449f89e472cd16750ddd499e913bd319aa348ce7c01c6025a8456c156220c5b",
-      "size": 121
-    },
-    {
-      "name": "defaultconfigs/immersive-storms/sandstorm.json5",
-      "hash": "65d91420c919d6deaf5e4094f1eef8a3ce12ba788b053a8a7286dd437492f70d",
-      "size": 438
-    },
-    {
-      "name": "defaultconfigs/immersive-storms/general.json5",
-      "hash": "0944d0db0d72caa1e938dbf1be4c6bb537f44049f9da0219126c754e067a0682",
-      "size": 1041
-    },
-    {
-      "name": "defaultconfigs/immersive-storms/biomes.json5",
-      "hash": "b48cbba59b0b22894a21832fcdd87240988be6a26a076db130630785255f58b9",
-      "size": 541
-    },
-    {
-      "name": "defaultconfigs/fzzy_config/search.toml",
-      "hash": "f2bd3529b87b31a1322f89f5e67e5b125d374f2a37b94605e8c1c7a5587e41d2",
-      "size": 519
-    },
-    {
-      "name": "defaultconfigs/fzzy_config/keybinds.toml",
-      "hash": "fe96c8122a0a05c8742d0864326797b65ade16dc30aa58b5dd5c0408118582ac",
-      "size": 6640
-    },
-    {
-      "name": "defaultconfigs/fabric/indigo-renderer.properties",
-      "hash": "c06e94780ab3db12347e1b6888d540b4feead192eab138fb7b83eaae916e4f4b",
-      "size": 291
-    },
-    {
-      "name": "defaultconfigs/euphoria_patcher/settings.toml",
-      "hash": "fb5b96538eee40c7c35a87095453554963790da073cbda865901fc5bb489cc83",
-      "size": 2607
-    },
-    {
-      "name": "defaultconfigs/euphoria_patcher/data.json",
-      "hash": "fa1ca48801ad5f73d36564203c484a078abd6819162a16f13ecbf0074e95a91b",
-      "size": 170
-    },
-    {
-      "name": "defaultconfigs/collective/area_names.json",
-      "hash": "d4e7ad5cceb9dd6dc75fb992ac861fbb7e33fabdebd815ee3d4351959d2c2f1c",
-      "size": 11489
-    },
-    {
-      "name": "defaultconfigs/cobblenav/server-config.json",
-      "hash": "2a728fddb55f615cc25fa2474087568eff19221973053b287a1dd1b6ececfa42",
-      "size": 1144
-    },
-    {
-      "name": "defaultconfigs/cobblenav/client-config.json",
-      "hash": "7f08d1b32fda5d1a6ac3e3df7b214562f2f943d7d1d26e03f019ddbefd3b4343",
-      "size": 416
-    },
-    {
-      "name": "defaultconfigs/cobblemon/main.json",
-      "hash": "43ec51e0d5e8b9465688b8ba653ef977135c6c5d0bb153b35becc65320eb7c3f",
-      "size": 3515
-    },
-    {
-      "name": "defaultconfigs/biolith/general.json",
-      "hash": "6b53e5b4921f29d6bbb2398696684660e39737a15079184f04f03c3ebf252b80",
-      "size": 180
-    },
-    {
-      "name": "defaultconfigs/betterstrongholds/README.txt",
-      "hash": "068caa8f02b36023342e051ccfcf30d79283123f9694392ac6201293f77e452b",
-      "size": 726
-    },
-    {
-      "name": "defaultconfigs/betterstrongholds/neoforge-1_21/README.txt",
-      "hash": "8600df0b106b20965f27bb66458eaee47a8ca7b495430e335913fa0bf67d35d8",
-      "size": 2892
-    },
-    {
-      "name": "defaultconfigs/betterstrongholds/neoforge-1_21/rareblocks.json",
-      "hash": "2b10530265bbbf18eae48d61bd53acb9aea79a799934f24098768ff1bdfa2ee2",
-      "size": 250
-    },
-    {
-      "name": "defaultconfigs/betterstrongholds/neoforge-1_21/ores.json",
-      "hash": "ccffbc08679018e5f700c8aec651b8f0f344016ce501edb8bcddd2593cdadf95",
-      "size": 361
-    },
-    {
-      "name": "defaultconfigs/betterstrongholds/neoforge-1_21/itemframes.json",
-      "hash": "dabb20191ed6413591a341ee30a449b82ab4779d586e7eb08000cf6eb757ea67",
-      "size": 955
-    },
-    {
-      "name": "defaultconfigs/betterstrongholds/neoforge-1_21/armorstands.json",
-      "hash": "95c19936e647b2492487d283bd27611bb8f9f297d59882e172c561423d0bbb7d",
-      "size": 1452
-    },
-    {
-      "name": "defaultconfigs/betterfortresses/README.txt",
-      "hash": "c4fb461d8edd63aee398207fe964e49ffb2dee3011fe2b8222312b32bf37894b",
-      "size": 874
-    },
-    {
-      "name": "defaultconfigs/betterfortresses/neoforge-1_21/README.txt",
-      "hash": "050cf34b7d9f1568c55c250b23b1b233d5525a69ed6719ef6782ac64d6ee6be7",
-      "size": 1365
-    },
-    {
-      "name": "defaultconfigs/betterfortresses/neoforge-1_21/itemframes.json",
-      "hash": "40a5010bf8e31a1de4eebbd228e508d455bfb00b000350a57987ba460a2ace97",
+      "name": "defaultconfigs/wakes.json",
+      "hash": "cd0c72c81221cac08909848a06a66119b375f306dcd389a048182c48da998127",
       "size": 1210
     },
     {
-      "name": "defaultconfigs/betterdeserttemples/README.txt",
-      "hash": "56605f71b83020b4661411385022dfee6454328b2320419117f0e4c89e449522",
-      "size": 732
+      "name": "defaultconfigs/waterdripsound.json",
+      "hash": "d2c1b15aba368804ff1499fc783e5f42c1ffe0d096855d60e5791c74c350009c",
+      "size": 204
     },
     {
-      "name": "defaultconfigs/betterdeserttemples/neoforge-1_21/README.txt",
-      "hash": "5a8b0890db6b40611e79651c49a5c91c5f24c83d53d40842f698e53c7fab4d9d",
-      "size": 1713
+      "name": "defaultconfigs/yacl.json5",
+      "hash": "8a201ac6b572e9b56ea1de77e13a8d6c8fab64c89727649346e22e6e27413577",
+      "size": 255
     },
     {
-      "name": "defaultconfigs/betterdeserttemples/neoforge-1_21/itemframes.json",
-      "hash": "9f5b04d532854501f197a514930800cbdfec92f7d01c942bb4b848dea150f348",
-      "size": 856
+      "name": "defaultconfigs/yungscavebiomes-neoforge-1_21_1.toml",
+      "hash": "df21c0044c0338c2804951827d4ed7f1f3882f0bf8a2a8c57b5dc3564eb09f17",
+      "size": 2850
     },
     {
-      "name": "defaultconfigs/betterdeserttemples/neoforge-1_21/armorstands.json",
-      "hash": "dcceee3c2bb1f9dafb545595d3a446411a1be6cdb5b97f310e623217e7a00b95",
-      "size": 1403
+      "name": "defaultconfigs/zeta-common.toml",
+      "hash": "5ea285e78632baab353b158b318b3904694dd9eb7843d3b89bcb989d47fe48f2",
+      "size": 1896
     },
     {
-      "name": "defaultconfigs/bettercaves/README.txt",
-      "hash": "f21e5c85af3ce356ee37f0d8388ffc1698386c62e355b8a803897a4420c24a1f",
-      "size": 550
-    },
-    {
-      "name": "defaultconfigs/bettercaves/neoforge-1_21_1/README.txt",
-      "hash": "62c95c0edadffca79addf23d001c37b40e9bf3ca9aac0252e0d818acb73aafc2",
-      "size": 755
-    },
-    {
-      "name": "defaultconfigs/bettercaves/neoforge-1_21_1/liquidregions.json",
-      "hash": "29e23d985f00626672b0230045453502ade1ca5eca87af28caaf0449772933cd",
-      "size": 178
-    },
-    {
-      "name": "mods/Zeta-1.1-39.jar",
-      "hash": "b4fc724a436ee63d7ab9af0cced89b54e7ea5887054164eff1c1aae6d4cfa531",
-      "size": 765399,
-      "lfs": true
-    },
-    {
-      "name": "mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
-      "hash": "0cd26474e514f5dc3114aaf5ec7e049bcd285f0c5db191bb45223193f35df70d",
-      "size": 198183,
-      "lfs": true
-    },
-    {
-      "name": "mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
-      "hash": "7585587e5cb7859e26189c6ec0a5b829c5c228f095e4e843fa3add61f817dd20",
-      "size": 13006621,
-      "lfs": true
-    },
-    {
-      "name": "mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
-      "hash": "bf93a85422a6b457358c3b56352641a97ec09cc37dec18b2cedcac2bd1ff9bec",
-      "size": 136820,
-      "lfs": true
-    },
-    {
-      "name": "mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
-      "hash": "888b1e6d1ada21982a75abfb4afb040c9bc2cc68777ec5fcd1199b978e3d4f8d",
-      "size": 174789,
-      "lfs": true
-    },
-    {
-      "name": "mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
-      "hash": "a9cab2fc01538368862365691f7d215309801aed0b390351681b6b60a1db7b58",
-      "size": 461244,
-      "lfs": true
-    },
-    {
-      "name": "mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
-      "hash": "cdcf8fe0e08c75261048d43c6ed4898972d23e096dd04a2524c136f06416ab02",
-      "size": 1025571,
-      "lfs": true
-    },
-    {
-      "name": "mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
-      "hash": "5450a64a7036237f449496837e08f3e5b3aa1d7974a10df43944172def75d8ff",
-      "size": 609639,
-      "lfs": true
-    },
-    {
-      "name": "mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
-      "hash": "5625930dfb3240820d6e4ecf55fff0c39f70ce782fad117a4d418251184c7be0",
-      "size": 493967,
-      "lfs": true
-    },
-    {
-      "name": "mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
-      "hash": "a0d57b78c7a1891796f342b1f09c214bc27bedf0a3a894f029dfdb2db9f813d0",
-      "size": 795839,
-      "lfs": true
-    },
-    {
-      "name": "mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
-      "hash": "8005f1ea798d09fc05dad07a21ed1f393a523a718197cdbd37b1ce6d9a17e4a4",
-      "size": 398130,
-      "lfs": true
-    },
-    {
-      "name": "mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
-      "hash": "61816c3b7c9d92c6b44f93dce87ceb0a22827f20285d5d9c4d10d519d734de04",
-      "size": 782160,
-      "lfs": true
-    },
-    {
-      "name": "mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
-      "hash": "2c3191ad447092cc7873a06e92f16bd3e2ff9dc31e93268b8893d06dd89e1fd6",
-      "size": 905839,
-      "lfs": true
-    },
-    {
-      "name": "mods/YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar",
-      "hash": "aa94ae3e7fdacb469459bf45be60c35bebfebe0488a79e31c7686d746939701d",
-      "size": 392794,
-      "lfs": true
-    },
-    {
-      "name": "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
-      "hash": "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca",
-      "size": 388678,
-      "lfs": true
-    },
-    {
-      "name": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
-      "hash": "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f",
-      "size": 1118651,
-      "lfs": true
-    },
-    {
-      "name": "mods/yeetusexperimentus-neoforge-87.0.0.jar",
-      "hash": "9117db8b5905abf18f64fdf8f8d8ca5a91c23abd0a7fa2c9986c21aa17d74e75",
-      "size": 570057,
-      "lfs": true
-    },
-    {
-      "name": "mods/visual_keybinder-1.21.1-0.1.12-neoforge.jar",
-      "hash": "031e1df515952a1ffe6eb4c165faf469f22518bf80d505ddbb64703ae4a93986",
-      "size": 347038,
-      "lfs": true
-    },
-    {
-      "name": "mods/visuality-forge-2.1.0.jar",
-      "hash": "f4c134d3041e9e6626276a26d2864f3aed177c08c8a109cd3788c5470c28d02e",
-      "size": 115765,
-      "lfs": true
-    },
-    {
-      "name": "mods/vistaallthetapes - 1.2.0 - neoforge - 1.21.1.jar",
-      "hash": "581ded201f19ffef74c0e7b554fff3ae59ca0f6fef957ac89a5eba6955ffd9d0",
-      "size": 6080891,
-      "lfs": true
-    },
-    {
-      "name": "mods/VistaAeronauticsFix-1.0.0.jar",
-      "hash": "81c7808d33876e10f53e0bc61fa6d4893f98bf5527706c45659c7f2c360a1c71",
-      "size": 155054,
-      "lfs": true
-    },
-    {
-      "name": "mods/vista-1.21-3.1.2-neoforge.jar",
-      "hash": "3ae155c4c8683f8a357f5136ce79e1ed8e9d4d149673339f44cb4c924b0fc26f",
-      "size": 7021168,
-      "lfs": true
-    },
-    {
-      "name": "mods/via_romana-2.2.2+1.21.1-neoforge.jar",
-      "hash": "7c93686dd28d17369235154c0c7deadea75357bd158114d2e6ec557824340cbc",
-      "size": 1241040,
-      "lfs": true
-    },
-    {
-      "name": "mods/VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
-      "hash": "d25f39ec0ca11505aec9eb511f56b1bc2562932190c7e02f2f47983d3dd763d6",
-      "size": 27456653,
-      "lfs": true
-    },
-    {
-      "name": "mods/timcore-neoforge-1.7.3-1.32.0.jar",
-      "hash": "9c1440f95bac8ce1f0cd0a75d593e167d36fb190b00015ae0200f28bab5bedf8",
-      "size": 306328,
-      "lfs": true
-    },
-    {
-      "name": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
-      "hash": "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8",
-      "size": 120364,
-      "lfs": true
-    },
-    {
-      "name": "mods/suppsquared-1.21-1.2.17-neoforge.jar",
-      "hash": "49120a2cedff5a51b9257ee44c72a9d38058ea13fe98d3fcb9ead2c2edf5dd49",
-      "size": 774220,
-      "lfs": true
-    },
-    {
-      "name": "mods/supplementaries-1.21-3.5.34-neoforge.jar",
-      "hash": "3e82252fcd89b090786e1640f8cf8fac76e3e35f30465849944e7b89ca2f433b",
-      "size": 13366044,
-      "lfs": true
-    },
-    {
-      "name": "mods/SubtleEffects-neoforge-1.21.1-1.14.3.jar",
-      "hash": "78fd24ecaadee01746ecc4cf598284923e762e25964311e86a67aa30cd3c2b67",
-      "size": 3306773,
-      "lfs": true
-    },
-    {
-      "name": "mods/SubtleEffects-neoforge-1.21.1-1.14.2.jar",
-      "hash": "f024c15562176a85460d783a1f4841b15ec43b8835a21611206d739f21ed7bbd",
-      "size": 3306325,
-      "lfs": true
-    },
-    {
-      "name": "mods/structureessentials-1.21.1-5.0.jar",
-      "hash": "7ecb6c9d04e20a6803ba6e51dd226eaa289ba2c2c095248f3645222a8bfc1c8d",
-      "size": 60833,
-      "lfs": true
-    },
-    {
-      "name": "mods/spark-1.10.124-neoforge.jar",
-      "hash": "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db",
-      "size": 3642581,
-      "lfs": true
-    },
-    {
-      "name": "mods/sounds-2.4.22+lts+1.21.1-neoforge.jar",
-      "hash": "d3bda0a7a5b1f267747da182e788139da380f625eaf96a5c2a8fa5bcb8d908b7",
-      "size": 8732437,
-      "lfs": true
-    },
-    {
-      "name": "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
-      "hash": "65372ad64422a20f03ad6e39aabaa827c191abbe9be5c35631acc3a8105fe177",
-      "size": 202454,
-      "lfs": true
-    },
-    {
-      "name": "mods/sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
-      "hash": "ddb8a296bc7c4189cebb2721a7088efb3736d4e737579774a71dc4228ca79295",
-      "size": 133451,
-      "lfs": true
-    },
-    {
-      "name": "mods/sophisticatedstorage-1.21.1-1.5.45.1697.jar",
-      "hash": "b2f2f320700046b5d074836551bd8c4d049a18ab2dba6866d81d76cf0f5065f3",
-      "size": 1666661,
-      "lfs": true
-    },
-    {
-      "name": "mods/sophisticatedstorage-1.21.1-1.5.43.1672.jar",
-      "hash": "cd433d399a1812a401f67b3024e684d5a4512797de45ab1d06c88ea605b07cb4",
-      "size": 1666709,
-      "lfs": true
-    },
-    {
-      "name": "mods/sophisticatedcore-1.21.1-1.4.25.1696.jar",
-      "hash": "35c982368bece35c6d024b8bcf0c20a42e49f7315fb9d14f1328194f08a23c3c",
-      "size": 1480937,
-      "lfs": true
-    },
-    {
-      "name": "mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar",
-      "hash": "b7dda5c02ba4cfe76ddcb239da3d1460efe57f4af10a8e2827ee8145bf44b9ea",
-      "size": 82316,
-      "lfs": true
-    },
-    {
-      "name": "mods/sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
-      "hash": "8817a7ce02fdddc8bbe4ca5be5bb63678efa22770c81d19984a1e4f3d1d48950",
-      "size": 1023170,
-      "lfs": true
-    },
-    {
-      "name": "mods/sophisticatedbackpacks-1.21.1-3.25.41.1683.jar",
-      "hash": "099c7cd5f9e84b6cd2b48c0713ede39946f888849936cd924826e099cb064686",
-      "size": 1023170,
-      "lfs": true
-    },
-    {
-      "name": "mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
-      "hash": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
-      "size": 1162994,
+      "name": "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
+      "hash": "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0",
+      "size": 1078697,
       "lfs": true
     },
     {
-      "name": "mods/sodium-extra-neoforge-0.6.0+mc1.21.1.jar",
-      "hash": "c20fe1a554916cde5dd0ac72ba2b82ed04263026d4394ac51be6f7a300902443",
-      "size": 367047,
+      "name": "mods/aeronauticscompat-1.1.2.jar",
+      "hash": "5eff8158a171f7520f5fafe2db66d8309983a0fbaa0bdcfd6e107b19b1466482",
+      "size": 37307,
       "lfs": true
     },
     {
-      "name": "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
-      "hash": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68",
-      "size": 77326,
+      "name": "mods/amendments-1.21-2.0.15-neoforge.jar",
+      "hash": "e44e67d5c2eb5a73ee8ca3d1e9099ed20ccbf8167022bc407df8434b1bf362b5",
+      "size": 1143659,
       "lfs": true
     },
     {
-      "name": "mods/seamlesssleep-neoforge-1.21-2.5.3.jar",
-      "hash": "01e92fdc4a3a72bcfd5432ccbdec2c14c6e2b7eb14b38f0db9b0251f3b4ea313",
-      "size": 148048,
+      "name": "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "hash": "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df",
+      "size": 75804,
       "lfs": true
     },
     {
-      "name": "mods/scholar-neoforge-1.21.1-1.1.13.jar",
-      "hash": "36dde43bb49748af0ef26ee590e40e4cfdd4b316bb557f1b55775f8a20001af8",
-      "size": 721844,
+      "name": "mods/architectury-13.0.8-neoforge.jar",
+      "hash": "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee",
+      "size": 584004,
       "lfs": true
     },
     {
-      "name": "mods/sable-neoforge-1.21.1-1.2.2.jar",
-      "hash": "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8",
-      "size": 12719293,
+      "name": "mods/areas-1.21.1-6.1.jar",
+      "hash": "b2811412171a7f0686fcf262916e5294bebc60a4781f63eca4b3619dd1ddf136",
+      "size": 106034,
       "lfs": true
     },
     {
-      "name": "mods/rhino-2101.2.7-build.81.jar",
-      "hash": "fcc3f8de61771596f1b120f734819cb97f5935a5d42c76f4057a0be06a3609db",
-      "size": 882032,
+      "name": "mods/astages-2.0.2-1.21.1.jar",
+      "hash": "9f338dae62c0603943cf1a490e851e8c9573d9fd7992c04cae2b905542218f8b",
+      "size": 750745,
       "lfs": true
     },
     {
-      "name": "mods/Resourcify (1.21.1-neoforge)-1.8.1.jar",
-      "hash": "b159a2ac63a369eeace652ff305391ed6d4c14fc51e13bcc6b8a7dc2ae8691b6",
-      "size": 2586268,
+      "name": "mods/astages-2.0.3-1.21.1.jar",
+      "hash": "f1189d34fea0b0801d786f614f6a24da9838a5afa41498e7eabdcac987d33042",
+      "size": 763849,
       "lfs": true
     },
     {
-      "name": "mods/resourcefullib-neoforge-1.21-3.0.12.jar",
-      "hash": "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261",
-      "size": 484332,
+      "name": "mods/astikorcartsredux-1.2.2.jar",
+      "hash": "44b2db02a6699481d212f0fa0a766b52776650396fa67951a428ad32b2d7dc24",
+      "size": 531765,
       "lfs": true
     },
     {
-      "name": "mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
-      "hash": "25b4f3502d25c535004acd4a9420272fff01d2f1e2df352239fec93fdab005d4",
-      "size": 341009,
+      "name": "mods/better-clouds-1.7.19+1.21.1-neoforge.jar",
+      "hash": "bb304388027626d25539a8c5e7bf3387d08cc9022bbf31c600e55cd59af9d5cf",
+      "size": 787669,
       "lfs": true
     },
     {
-      "name": "mods/Quark-4.1-476.jar",
-      "hash": "ce4b200f7eff30ffad9a6fdfbc4e61f57264dbbfd6180f18c2a37230150c41d7",
-      "size": 15578260,
+      "name": "mods/better-clouds-1.7.20-alpha+1.21.1-neoforge.rev.4c611d9.jar",
+      "hash": "d80ea189bb859ce12dd702803c35512a39c707ca7211a84abba3341362e77534",
+      "size": 790657,
       "lfs": true
     },
     {
-      "name": "mods/pv-addon-soundphysics-1.1.2.jar",
-      "hash": "cd7af450fbc5612674149476b8142392a8040f3961c222c653ecfd6f13f81615",
-      "size": 16176,
+      "name": "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "hash": "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26",
+      "size": 481646,
       "lfs": true
     },
     {
-      "name": "mods/pv-addon-sculk-1.1.0.jar",
-      "hash": "6e3c195c976be29d20e37ea3e8dcb489342c813e84e9c3561b39cfe0a543228f",
-      "size": 14035,
+      "name": "mods/BetterGrassify-1.7.0+neoforge.1.21.1.jar",
+      "hash": "2424e74f09e01fdca1d0eb8b5933bc55c8ee4d769b8afd2fca900a0b33ec8f7d",
+      "size": 155305,
       "lfs": true
     },
     {
-      "name": "mods/prickle-neoforge-1.21.1-21.1.11.jar",
-      "hash": "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167",
-      "size": 84812,
+      "name": "mods/BetterPingDisplay-1.21.1-1.1.jar",
+      "hash": "f8388de4831ca70f3e94d98d4655278b514f8589234fa92df0d6b2ff1dff321b",
+      "size": 13871,
       "lfs": true
     },
     {
-      "name": "mods/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar",
-      "hash": "ded9ea8677f407cbf280b0ee33866ae70859a7c476ef0f60fd35a9be2ee9b91a",
-      "size": 7096988,
+      "name": "mods/bettervillage-neoforge-1.21.1-3.3.1.jar",
+      "hash": "d2b5cbad0070c977f5b5be973219481e9d0f56224eedca9c874be7c655890a3b",
+      "size": 2429558,
       "lfs": true
     },
     {
-      "name": "mods/powergrid-mc1.21.1-0.5.5.1.jar",
-      "hash": "e1570e7691b0d1d7495342581a769ddb765d538c63047e96159e0c6dec9a8d69",
-      "size": 6252168,
+      "name": "mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "hash": "19e88d40da2b6a114c2b808f7fb469d96e66a5379df0a8a43fcb7834498b3e76",
+      "size": 328813,
       "lfs": true
     },
     {
-      "name": "mods/powergrid-mc1.21.1-0.5.4.jar",
-      "hash": "513d54ab406ba424db45581539d8dc344c4ba0ffa3d30416649cd4332c49b970",
-      "size": 6117871,
+      "name": "mods/chalk-1.6.11.jar",
+      "hash": "1dcf17baa4b14bd189b045500bd3f41714089b0b36e20326298072e15ae4b1ab",
+      "size": 336981,
       "lfs": true
     },
     {
-      "name": "mods/polytone-1.21-3.6.6-neoforge.jar",
-      "hash": "1ead64bea6f61632180ccdd594bf4d9853f5d02ecbc860865d47be1bb1711e0d",
-      "size": 861174,
+      "name": "mods/charmofundying-neoforge-9.1.0+1.21.1.jar",
+      "hash": "361bb87bb0cd0881ab5d1f469595c26c49992d4ed965f2631015135d61f515d1",
+      "size": 178369,
       "lfs": true
     },
     {
-      "name": "mods/polymorph-neoforge-1.1.0+1.21.1.jar",
-      "hash": "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b",
-      "size": 174972,
+      "name": "mods/chat_heads-0.15.1-neoforge-1.21.jar",
+      "hash": "b1ed6a52efa3cb43e4c37e3982bc7b08116302511b8f675346f6aea6d3524e41",
+      "size": 89272,
       "lfs": true
     },
     {
-      "name": "mods/Platform-neoforge-1.21.1-1.3.jar",
-      "hash": "0abcc2edd20d2263d30a50a72d58a15e0c792e9817e812f1a1a7b867bee0664d",
-      "size": 473152,
+      "name": "mods/citadel-1.21.1-2.7.5.jar",
+      "hash": "6abf9492db59c0dc1f38e884710f2352bf55e1cb2ceb919c62aac4fabb1de6b8",
+      "size": 3029054,
       "lfs": true
     },
     {
-      "name": "mods/plasmovoice-neoforge-1.21.1-2.1.9.jar",
-      "hash": "6210d2521b57de6da40ba2a1a7914f192fe3d1585d8f303b521652c76622bde6",
-      "size": 12239419,
+      "name": "mods/citadel-2.7.0-1.21.1.jar",
+      "hash": "a80af1dbc6d00ea908366bcc175951a11fbf83a12aeadd36b5035a772ff7c3a6",
+      "size": 3033192,
       "lfs": true
     },
     {
-      "name": "mods/Perception-NEOFORGE-0.2.1+1.21.1.jar",
-      "hash": "e9e6b126fdc2cab3deda2f15ebd20c7492aa620ebfd1f5af9095db4e63277df5",
-      "size": 78664,
+      "name": "mods/cleanswing-1.9.jar",
+      "hash": "b86e69372a3451a09c1b5d09d69f2e20485c6d2aa62fa8a538ef77509a5f5595",
+      "size": 8449,
       "lfs": true
     },
     {
-      "name": "mods/Paxi-1.21.1-NeoForge-5.1.3.jar",
-      "hash": "4b60f8eb3b8b8880eff7c3ac825cde84394848eac3915ed61ade607cdd331ce7",
-      "size": 102980,
+      "name": "mods/cloth-config-15.0.140-neoforge.jar",
+      "hash": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
+      "size": 1163890,
       "lfs": true
     },
     {
-      "name": "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
-      "hash": "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993",
-      "size": 646777,
+      "name": "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "hash": "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e",
+      "size": 18382,
       "lfs": true
     },
     {
-      "name": "mods/particlerain-4.0.0-beta.9+1.21.1-neoforge.jar",
-      "hash": "dd886cfd14c6cf1d23aec5d40871fd4b8794e65bc4153a74619e418a1b3165ba",
-      "size": 602187,
+      "name": "mods/Cobblemon-neoforge-1.7.3+1.21.1.jar",
+      "hash": "962d75df4fb649d94863a7a7d130d4d2b3de4da9b3cae4c44b1ce90f37ec0ed5",
+      "size": 128748941,
       "lfs": true
     },
     {
-      "name": "mods/ParticleEffects-1.3.0+1.21.1+neoforge.jar",
-      "hash": "6c3d0a292a4bf1a636e7d819d54f66f05fc786f97f6b7f8a91801ded7fc0cabc",
-      "size": 309063,
+      "name": "mods/cobblemonintegrations-neoforge-1.21.1-1.1.6.jar",
+      "hash": "d331a93ac3a53f43c4881516db24bff3756beb38c8b8da6d24957ed65a4d645a",
+      "size": 366734,
       "lfs": true
     },
     {
-      "name": "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
-      "hash": "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d",
-      "size": 1221583,
+      "name": "mods/CobblemonMoveInspector-neoforge-1.3.0.jar",
+      "hash": "9e688281967bdb371a9769d522bb92157f3ebd9b29d6dbd60e5825cec23435be",
+      "size": 26970,
       "lfs": true
     },
     {
-      "name": "mods/OctoLib-NEOFORGE-0.6.1+1.21.jar",
-      "hash": "77e0a87cf7ab158ce7cbd69dc0fa1e0bf871841d8ddc078b4fbcfecd570d7581",
-      "size": 540285,
+      "name": "mods/cobblenav-neoforge-2.3.3.jar",
+      "hash": "d186ffa602aa7ee0f36eb73d34eb6801ab5095ec037de506a9af2d7172b08571",
+      "size": 1098652,
       "lfs": true
     },
     {
-      "name": "mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
-      "hash": "0e249ac11b2f916c5570d9679e188da652fa5664ba9cdb7be5dc9ff69497539c",
-      "size": 224657,
+      "name": "mods/Cobblepedia-NeoForge-0.7.1.jar",
+      "hash": "d978d6223e46c23e2d812235b89d2bf8c297b8155c13640a1de7a503484c996e",
+      "size": 8276599,
       "lfs": true
     },
     {
-      "name": "mods/mru-1.0.19+LTS+1.21.1+neoforge.jar",
-      "hash": "ed025100de31f5635d48a5a0cc4bc9c701d885bf3777e0c2ad8af5f2cad4601a",
-      "size": 243953,
+      "name": "mods/collective-1.21.1-8.20.jar",
+      "hash": "cf192da39ba0d02a151a324b22c073a194dc177c789ec287a357152b7eedce9e",
+      "size": 942780,
       "lfs": true
     },
     {
-      "name": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
-      "hash": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b",
-      "size": 73938,
+      "name": "mods/connectivity-1.21.1-7.6.jar",
+      "hash": "2366973ddae5ba00b9ba15a26e5b610a6648038b9f2549bf81b9ae61342b281a",
+      "size": 114165,
       "lfs": true
     },
     {
-      "name": "mods/MossyLib-1.1.0+1.21.1+neoforge.jar",
-      "hash": "11c31dd3cfa404f2209106ca90960a1f1e6d4cbca91c5f38631b53c85f7c37db",
-      "size": 178015,
+      "name": "mods/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "hash": "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0",
+      "size": 77555,
       "lfs": true
     },
     {
-      "name": "mods/moonlight-1.21-2.29.33-neoforge.jar",
-      "hash": "47759081ab26271fed829f17abe1a8aa8ac1a17a111acb3b9255749e35e00f7a",
-      "size": 1596760,
+      "name": "mods/coolrain-1.1.0-1.21.1-neoforge.jar",
+      "hash": "b2b522c98e24630c069602d8650c1eb74a78c043da5ffa77b46594b208d64799",
+      "size": 3127528,
       "lfs": true
     },
     {
-      "name": "mods/midnightlib-neoforge-1.9.2+1.21.1.jar",
-      "hash": "adb29c10b3bdc2fd1a1cb8f4cbeb0280f7d15af1a76ee3074d2db1eec7fe28e7",
-      "size": 60347,
+      "name": "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "hash": "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1",
+      "size": 1791747,
       "lfs": true
     },
     {
-      "name": "mods/mega_showdown-neoforge-1.8.2+1.7.3+1.21.1-hotfix.jar",
-      "hash": "9b7c5a47abc28521737a4773d5b42d6d710c1898740b9cb4708c870aaf9e9366",
-      "size": 17146214,
+      "name": "mods/corpse-neoforge-1.21.1-1.1.13.jar",
+      "hash": "f61e750eb2cb49867483d34d6630e02597a52e41680fc38d1c65ece4ef36fd2b",
+      "size": 253695,
       "lfs": true
     },
     {
-      "name": "mods/mechtrowel-1.3.1.jar",
-      "hash": "29f5b561373f3123ee7f548c3811ad71e1d7e55de4d8977a1f049700c480f7e7",
-      "size": 497230,
+      "name": "mods/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "hash": "6328049755735159c55f5918ac301cff53a8d8790c3fe63e32e7d8a0e37f123f",
+      "size": 92722,
       "lfs": true
     },
     {
-      "name": "mods/lithium-neoforge-0.15.3+mc1.21.1.jar",
-      "hash": "a6548862bd13ff8eea6747cf61df50c8374a16a22d067614e414ed600eee6d83",
-      "size": 774148,
+      "name": "mods/cosycritters-0.3.2+1.21.1-neoforge.jar",
+      "hash": "141ea3f204c8a8c4a0a4542df0cac4a1ad88cc57ffa50eb207225a3eefd07d6d",
+      "size": 98864,
       "lfs": true
     },
     {
-      "name": "mods/libraryferret-neoforge-1.21.1-4.0.0.jar",
-      "hash": "b0e9aed25266ad91e66bda1067c0d5cd531c0853af2ade17d70f972751e74f63",
-      "size": 139416,
+      "name": "mods/counter-neoforge-1.7.3-1.9.0.jar",
+      "hash": "a8def8af633cb2540e64fe0b86628473a55929cae39f5af9a13fa2da1f375d38",
+      "size": 165401,
       "lfs": true
     },
     {
-      "name": "mods/libjf-3.17.4+forge.jar",
-      "hash": "6c77dab50125f819fe5d4107fa481cf6074c8d935aa608fc7f7e7f67e103a6cc",
-      "size": 730989,
+      "name": "mods/Create Encased-1.21.1-1.8-ht2.jar",
+      "hash": "d66b7caac3fe29bb95ed6c53c8271d797a2f0cacfc98c8819406bc445783d12c",
+      "size": 2410332,
       "lfs": true
     },
     {
-      "name": "mods/kubejs-neoforge-2101.7.2-build.361.jar",
-      "hash": "73509a9668bf2e5dfd24b21b95e2ae0d8c4bd3c051444e8f453c1c3a1ccabd42",
-      "size": 2270421,
+      "name": "mods/create_connected-1.1.13-mc1.21.1.jar",
+      "hash": "c3b25c03d9600e020ccbf4edead41420707a927bc4713b48739aaaf76afb1ad9",
+      "size": 6555122,
       "lfs": true
     },
     {
-      "name": "mods/kubejs-neoforge-2101.7.2-build.348.jar",
-      "hash": "6ddc6ddd16fabe09e2dd4303c6a598e3c272d6820b5c081f9c53e6b7aa6397fb",
-      "size": 2240610,
+      "name": "mods/create_connected-1.1.14-mc1.21.1.jar",
+      "hash": "fb33e9cbb234d5b6cc7e3eb9ebd55e8dbb4506a11c37a9d72899eef788d25b8f",
+      "size": 6590288,
       "lfs": true
     },
     {
-      "name": "mods/kotlinforforge-5.11.0-all.jar",
-      "hash": "89d2ccd9d2ca2996ca3ee57b27165893f4bc4b8431be89461f8b2f8fe6162ac1",
-      "size": 6869790,
+      "name": "mods/create_encapsulated-1.0.7+1.21.1.jar",
+      "hash": "2c71101bf825afcddc2fab2e123a3349955b9b4c752957167ede11179e05085b",
+      "size": 621832,
       "lfs": true
     },
     {
-      "name": "mods/jei-1.21.1-neoforge-19.27.0.336.jar",
-      "hash": "2b6d84df11ab2bb94a75be8bac6790bfbb2c0112a1622cd5f5f234468a196721",
-      "size": 1529192,
+      "name": "mods/create_expanded_logistics-1.0-server fix.jar",
+      "hash": "03b86812bdfc2a06a473c5ba252fd5d63f90c66983a435d352231437e490e323",
+      "size": 495860,
       "lfs": true
     },
     {
-      "name": "mods/Jade-1.21.1-NeoForge-15.10.5.jar",
-      "hash": "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d",
-      "size": 725742,
+      "name": "mods/create_factory_logistics-1.21.1-1.4.9.jar",
+      "hash": "0dd32088be666fffc7d637677ce0b9a8d144e8ea689edde6a30b1c32bf8845e9",
+      "size": 1134582,
       "lfs": true
     },
     {
-      "name": "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
-      "hash": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
-      "size": 2438548,
+      "name": "mods/create_stats-0.10.32.jar",
+      "hash": "a1e36edd15ea954677cda793a898254cfe89b40c6a7f413eaff6c4f467302017",
+      "size": 2485140,
       "lfs": true
     },
     {
-      "name": "mods/InventoryParticles-1.5.0+1.21.1+neoforge.jar",
-      "hash": "86c5675fb522119e26d48dde4a2ed06a58b7f6fa9ad18f71d1a231eebecd0014",
-      "size": 1489097,
+      "name": "mods/create_stats-0.10.35.T.jar",
+      "hash": "ae8c2a5de6d2374df43953002b81a13b7be826a4464cff36d323d2136d97beb1",
+      "size": 2570910,
       "lfs": true
     },
     {
-      "name": "mods/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
-      "hash": "6b914e305f27962a91d49a659b77eb65f47acee9d79930801b4fc1d3e474c8a4",
-      "size": 217081,
+      "name": "mods/create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
+      "hash": "58c88a2277ba4e942cf4d0ffda160f590236eb35e7757bacd95a7ac3246a7dce",
+      "size": 234343,
       "lfs": true
     },
     {
-      "name": "mods/immersivehotbar-1.1.1-neoforge-1.21-1.21.1.jar",
-      "hash": "78abac794ef5ffec568d7b97e76d3e581b087dc52369fbedbb859d587c225e01",
-      "size": 220747,
+      "name": "mods/create-1.21.1-6.0.10.jar",
+      "hash": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a",
+      "size": 19123767,
       "lfs": true
     },
     {
-      "name": "mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
-      "hash": "9fbb8dce1bb72feacdc3b75c6fcbf689865ad3793a19649443d76be20993ddd0",
-      "size": 368598,
+      "name": "mods/create-aeronautics-bundled-1.21.1-1.2.1.jar",
+      "hash": "5a8c6d168ec1b47ecee7f2e83a93accbca71544d2b14ca1ca1b1271855f26248",
+      "size": 33030286,
       "lfs": true
     },
     {
-      "name": "mods/horseman-neoforge-1.21.1-1.5.9.jar",
-      "hash": "6ead0d129ee4a40acec31d569572ec18db3f08a15ce73df66ce7694e2b251266",
-      "size": 445058,
+      "name": "mods/create-enchantment-industry-2.3.1.jar",
+      "hash": "6bd60393cf582568a09aa38f82fe6ea6e5928659d7befc6b0ee9f46025179064",
+      "size": 684729,
       "lfs": true
     },
     {
-      "name": "mods/holdmyitemsnf-1.21.1v2.1.jar",
-      "hash": "ba638b37b49ff4efbc4eed9408b53abd16c2f2ce6825feea6c24f486c729a2e1",
-      "size": 107291,
+      "name": "mods/createdieselgenerators-1.21.1-1.3.11.jar",
+      "hash": "8e5e0cb90cd1fd6336f22994d6c6a31dd56373096275b80910c6983a4dccc864",
+      "size": 3132480,
       "lfs": true
     },
     {
-      "name": "mods/highlight-neoforge-1.21.9-3.9.0.jar",
-      "hash": "473169d0c6c83f893d8f2252f6e9612d44455e412e28c7b7bc7d2d750c1d0ec5",
-      "size": 471520,
+      "name": "mods/CreateDragonsPlus-1.10.0b.jar",
+      "hash": "8cc47a5ea04c8bbefd24ebca67d45e6a44f80925723cb2f82676d27b0a2a9d66",
+      "size": 756460,
       "lfs": true
     },
     {
-      "name": "mods/gpumemleakfix-1.21-1.8.jar",
-      "hash": "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931",
-      "size": 6574,
+      "name": "mods/cupboard-1.21-3.5.jar",
+      "hash": "d27298b67d74d6c95bdf1869bd60f49cfb93f33e6f14a0393be144584649c7db",
+      "size": 26659,
       "lfs": true
     },
     {
-      "name": "mods/gml-6.0.2.jar",
-      "hash": "c508464433fc7739c1aa6a7208c5dbf2c02038fe9813f98187b3fb10e457d2bd",
-      "size": 10981280,
+      "name": "mods/curios-neoforge-9.5.1+1.21.1.jar",
+      "hash": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
+      "size": 410690,
       "lfs": true
     },
     {
-      "name": "mods/GeophilicBackported-v1.3.2 1.21.1.jar",
-      "hash": "9a19917119cfb3501aa49ddfb9319b0e625cdaad1c8fc471f5ce7b43802015d8",
-      "size": 87564,
+      "name": "mods/Data_Anchor-neoforge-1.21.1-2.0.0.13.jar",
+      "hash": "84d0fea1e051913a6cd9656fb63692313f1748d06221e453911ec1a22940262e",
+      "size": 111722,
       "lfs": true
     },
     {
-      "name": "mods/Geophilic v3.4.6.mod.jar",
-      "hash": "6da4e3e8691d2a950685601af3a24269137496a5aa37ce423d070aa5f69f0da6",
-      "size": 751598,
+      "name": "mods/DistantHorizons-3.0.2-b-1.21.1-fabric-neoforge.jar",
+      "hash": "ffe8da15ac4deedcf1eb306b0a49d6f5ba1a8385d0119bf1475e5c358f16f855",
+      "size": 30019727,
       "lfs": true
     },
     {
-      "name": "mods/geckolib-neoforge-1.21.1-4.8.4.jar",
-      "hash": "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9",
-      "size": 622582,
+      "name": "mods/Drip Sounds-0.5.2+1.21.8-NeoForge.jar",
+      "hash": "9849e10aa123e7e4f2b53627dedf4d1699837a84045a03396da46a60945c6c2f",
+      "size": 58459,
       "lfs": true
     },
     {
-      "name": "mods/fzzy_config-0.7.6+1.21+neoforge.jar",
-      "hash": "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050",
-      "size": 2369895,
+      "name": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+      "hash": "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e",
+      "size": 220193,
       "lfs": true
     },
     {
-      "name": "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
-      "hash": "19867adeb1b5c0e79510b7fd2d6213a59949c9277b96a1c76a04a22211ad6d15",
-      "size": 5569717,
+      "name": "mods/eatinganimation-1.21.0-6.0.1.jar",
+      "hash": "3b222ada8de0cd982b755019cb9ada012d0f8a440fb67f2bdc634c241b7481cb",
+      "size": 289863,
       "lfs": true
     },
     {
-      "name": "mods/figura-0.1.5+1.21.1-neoforge-patched.jar",
-      "hash": "a2e4e58d2aabc5a3352ef605155f92eb7d617419e24d651806d748f4b5cde3bc",
-      "size": 2189644,
+      "name": "mods/enchdesc-neoforge-1.21.1-21.1.9.jar",
+      "hash": "74d546ecb147da7e2cb53fe3115f6e062094329dcf15639b3da694cc00d3f843",
+      "size": 81847,
       "lfs": true
     },
     {
-      "name": "mods/fightorflight-neoforge-0.10.7.jar",
-      "hash": "f1b3e1fba0e5a801d582a919de8af225a0ae3a657516da26ac40d0baca0bd489",
-      "size": 1418105,
+      "name": "mods/entityculling-neoforge-1.10.1-mc1.21.1.jar",
+      "hash": "da2f7c43329b20d9627a6590f8048233c349d5efe78defe57b05eff120ded691",
+      "size": 1578350,
       "lfs": true
     },
     {
-      "name": "mods/ferritecore-7.0.3-neoforge.jar",
-      "hash": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8",
-      "size": 121559,
+      "name": "mods/envelope-neoforge-1.21.1-0.6.0.jar",
+      "hash": "ac639a3591f95d3bdd41e38dadc95a41ac7dac7045991abc8a38771e4132d529",
+      "size": 1580646,
       "lfs": true
     },
     {
-      "name": "mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
-      "hash": "c93500aa25eaa7bc473e753b8abf4234e7c46713d50bb82b30383ee47e646f5a",
-      "size": 10413,
+      "name": "mods/EuphoriaPatcher-1.8.6-r5.7.1-neoforge.jar",
+      "hash": "ed61db7ab3c5d43a404cbe09663d0ce59d7cf9e3a3dd3d0d224afea4b5213efa",
+      "size": 2773488,
       "lfs": true
     },
     {
@@ -1982,387 +1736,633 @@
       "lfs": true
     },
     {
-      "name": "mods/EuphoriaPatcher-1.8.6-r5.7.1-neoforge.jar",
-      "hash": "ed61db7ab3c5d43a404cbe09663d0ce59d7cf9e3a3dd3d0d224afea4b5213efa",
-      "size": 2773488,
+      "name": "mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+      "hash": "c93500aa25eaa7bc473e753b8abf4234e7c46713d50bb82b30383ee47e646f5a",
+      "size": 10413,
       "lfs": true
     },
     {
-      "name": "mods/envelope-neoforge-1.21.1-0.6.0.jar",
-      "hash": "ac639a3591f95d3bdd41e38dadc95a41ac7dac7045991abc8a38771e4132d529",
-      "size": 1580646,
+      "name": "mods/ferritecore-7.0.3-neoforge.jar",
+      "hash": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8",
+      "size": 121559,
       "lfs": true
     },
     {
-      "name": "mods/entityculling-neoforge-1.10.1-mc1.21.1.jar",
-      "hash": "da2f7c43329b20d9627a6590f8048233c349d5efe78defe57b05eff120ded691",
-      "size": 1578350,
+      "name": "mods/fightorflight-neoforge-0.10.7.jar",
+      "hash": "f1b3e1fba0e5a801d582a919de8af225a0ae3a657516da26ac40d0baca0bd489",
+      "size": 1418105,
       "lfs": true
     },
     {
-      "name": "mods/enchdesc-neoforge-1.21.1-21.1.9.jar",
-      "hash": "74d546ecb147da7e2cb53fe3115f6e062094329dcf15639b3da694cc00d3f843",
-      "size": 81847,
+      "name": "mods/figura-0.1.5+1.21.1-neoforge-patched.jar",
+      "hash": "a2e4e58d2aabc5a3352ef605155f92eb7d617419e24d651806d748f4b5cde3bc",
+      "size": 2189644,
       "lfs": true
     },
     {
-      "name": "mods/eatinganimation-1.21.0-6.0.1.jar",
-      "hash": "3b222ada8de0cd982b755019cb9ada012d0f8a440fb67f2bdc634c241b7481cb",
-      "size": 289863,
+      "name": "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
+      "hash": "19867adeb1b5c0e79510b7fd2d6213a59949c9277b96a1c76a04a22211ad6d15",
+      "size": 5569717,
       "lfs": true
     },
     {
-      "name": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
-      "hash": "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e",
-      "size": 220193,
+      "name": "mods/fzzy_config-0.7.6+1.21+neoforge.jar",
+      "hash": "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050",
+      "size": 2369895,
       "lfs": true
     },
     {
-      "name": "mods/Drip Sounds-0.5.2+1.21.8-NeoForge.jar",
-      "hash": "9849e10aa123e7e4f2b53627dedf4d1699837a84045a03396da46a60945c6c2f",
-      "size": 58459,
+      "name": "mods/geckolib-neoforge-1.21.1-4.8.4.jar",
+      "hash": "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9",
+      "size": 622582,
       "lfs": true
     },
     {
-      "name": "mods/DistantHorizons-3.0.2-b-1.21.1-fabric-neoforge.jar",
-      "hash": "ffe8da15ac4deedcf1eb306b0a49d6f5ba1a8385d0119bf1475e5c358f16f855",
-      "size": 30019727,
+      "name": "mods/Geophilic v3.4.6.mod.jar",
+      "hash": "6da4e3e8691d2a950685601af3a24269137496a5aa37ce423d070aa5f69f0da6",
+      "size": 751598,
       "lfs": true
     },
     {
-      "name": "mods/Data_Anchor-neoforge-1.21.1-2.0.0.13.jar",
-      "hash": "84d0fea1e051913a6cd9656fb63692313f1748d06221e453911ec1a22940262e",
-      "size": 111722,
+      "name": "mods/GeophilicBackported-v1.3.2 1.21.1.jar",
+      "hash": "9a19917119cfb3501aa49ddfb9319b0e625cdaad1c8fc471f5ce7b43802015d8",
+      "size": 87564,
       "lfs": true
     },
     {
-      "name": "mods/curios-neoforge-9.5.1+1.21.1.jar",
-      "hash": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
-      "size": 410690,
+      "name": "mods/gml-6.0.2.jar",
+      "hash": "c508464433fc7739c1aa6a7208c5dbf2c02038fe9813f98187b3fb10e457d2bd",
+      "size": 10981280,
       "lfs": true
     },
     {
-      "name": "mods/cupboard-1.21-3.5.jar",
-      "hash": "d27298b67d74d6c95bdf1869bd60f49cfb93f33e6f14a0393be144584649c7db",
-      "size": 26659,
+      "name": "mods/gpumemleakfix-1.21-1.8.jar",
+      "hash": "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931",
+      "size": 6574,
       "lfs": true
     },
     {
-      "name": "mods/create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
-      "hash": "58c88a2277ba4e942cf4d0ffda160f590236eb35e7757bacd95a7ac3246a7dce",
-      "size": 234343,
+      "name": "mods/highlight-neoforge-1.21.9-3.9.0.jar",
+      "hash": "473169d0c6c83f893d8f2252f6e9612d44455e412e28c7b7bc7d2d750c1d0ec5",
+      "size": 471520,
       "lfs": true
     },
     {
-      "name": "mods/create_stats-0.10.35.T.jar",
-      "hash": "ae8c2a5de6d2374df43953002b81a13b7be826a4464cff36d323d2136d97beb1",
-      "size": 2570910,
+      "name": "mods/holdmyitemsnf-1.21.1v2.1.jar",
+      "hash": "ba638b37b49ff4efbc4eed9408b53abd16c2f2ce6825feea6c24f486c729a2e1",
+      "size": 107291,
       "lfs": true
     },
     {
-      "name": "mods/create_stats-0.10.32.jar",
-      "hash": "a1e36edd15ea954677cda793a898254cfe89b40c6a7f413eaff6c4f467302017",
-      "size": 2485140,
+      "name": "mods/horseman-neoforge-1.21.1-1.5.9.jar",
+      "hash": "6ead0d129ee4a40acec31d569572ec18db3f08a15ce73df66ce7694e2b251266",
+      "size": 445058,
       "lfs": true
     },
     {
-      "name": "mods/create_factory_logistics-1.21.1-1.4.9.jar",
-      "hash": "0dd32088be666fffc7d637677ce0b9a8d144e8ea689edde6a30b1c32bf8845e9",
-      "size": 1134582,
+      "name": "mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+      "hash": "9fbb8dce1bb72feacdc3b75c6fcbf689865ad3793a19649443d76be20993ddd0",
+      "size": 368598,
       "lfs": true
     },
     {
-      "name": "mods/create_expanded_logistics-1.0-server fix.jar",
-      "hash": "03b86812bdfc2a06a473c5ba252fd5d63f90c66983a435d352231437e490e323",
-      "size": 495860,
+      "name": "mods/immersivehotbar-1.1.1-neoforge-1.21-1.21.1.jar",
+      "hash": "78abac794ef5ffec568d7b97e76d3e581b087dc52369fbedbb859d587c225e01",
+      "size": 220747,
       "lfs": true
     },
     {
-      "name": "mods/create_encapsulated-1.0.7+1.21.1.jar",
-      "hash": "2c71101bf825afcddc2fab2e123a3349955b9b4c752957167ede11179e05085b",
-      "size": 621832,
+      "name": "mods/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
+      "hash": "6b914e305f27962a91d49a659b77eb65f47acee9d79930801b4fc1d3e474c8a4",
+      "size": 217081,
       "lfs": true
     },
     {
-      "name": "mods/create_connected-1.1.14-mc1.21.1.jar",
-      "hash": "fb33e9cbb234d5b6cc7e3eb9ebd55e8dbb4506a11c37a9d72899eef788d25b8f",
-      "size": 6590288,
+      "name": "mods/InventoryParticles-1.5.0+1.21.1+neoforge.jar",
+      "hash": "86c5675fb522119e26d48dde4a2ed06a58b7f6fa9ad18f71d1a231eebecd0014",
+      "size": 1489097,
       "lfs": true
     },
     {
-      "name": "mods/create_connected-1.1.13-mc1.21.1.jar",
-      "hash": "c3b25c03d9600e020ccbf4edead41420707a927bc4713b48739aaaf76afb1ad9",
-      "size": 6555122,
+      "name": "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+      "hash": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
+      "size": 2438548,
       "lfs": true
     },
     {
-      "name": "mods/CreateDragonsPlus-1.10.0b.jar",
-      "hash": "8cc47a5ea04c8bbefd24ebca67d45e6a44f80925723cb2f82676d27b0a2a9d66",
-      "size": 756460,
+      "name": "mods/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "hash": "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d",
+      "size": 725742,
       "lfs": true
     },
     {
-      "name": "mods/createdieselgenerators-1.21.1-1.3.11.jar",
-      "hash": "8e5e0cb90cd1fd6336f22994d6c6a31dd56373096275b80910c6983a4dccc864",
-      "size": 3132480,
+      "name": "mods/jei-1.21.1-neoforge-19.27.0.336.jar",
+      "hash": "2b6d84df11ab2bb94a75be8bac6790bfbb2c0112a1622cd5f5f234468a196721",
+      "size": 1529192,
       "lfs": true
     },
     {
-      "name": "mods/create-enchantment-industry-2.3.1.jar",
-      "hash": "6bd60393cf582568a09aa38f82fe6ea6e5928659d7befc6b0ee9f46025179064",
-      "size": 684729,
+      "name": "mods/kotlinforforge-5.11.0-all.jar",
+      "hash": "89d2ccd9d2ca2996ca3ee57b27165893f4bc4b8431be89461f8b2f8fe6162ac1",
+      "size": 6869790,
       "lfs": true
     },
     {
-      "name": "mods/create-aeronautics-bundled-1.21.1-1.2.1.jar",
-      "hash": "5a8c6d168ec1b47ecee7f2e83a93accbca71544d2b14ca1ca1b1271855f26248",
-      "size": 33030286,
+      "name": "mods/kubejs-neoforge-2101.7.2-build.348.jar",
+      "hash": "6ddc6ddd16fabe09e2dd4303c6a598e3c272d6820b5c081f9c53e6b7aa6397fb",
+      "size": 2240610,
       "lfs": true
     },
     {
-      "name": "mods/create-1.21.1-6.0.10.jar",
-      "hash": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a",
-      "size": 19123767,
+      "name": "mods/kubejs-neoforge-2101.7.2-build.361.jar",
+      "hash": "73509a9668bf2e5dfd24b21b95e2ae0d8c4bd3c051444e8f453c1c3a1ccabd42",
+      "size": 2270421,
       "lfs": true
     },
     {
-      "name": "mods/Create Encased-1.21.1-1.8-ht2.jar",
-      "hash": "d66b7caac3fe29bb95ed6c53c8271d797a2f0cacfc98c8819406bc445783d12c",
-      "size": 2410332,
+      "name": "mods/libjf-3.17.4+forge.jar",
+      "hash": "6c77dab50125f819fe5d4107fa481cf6074c8d935aa608fc7f7e7f67e103a6cc",
+      "size": 730989,
       "lfs": true
     },
     {
-      "name": "mods/counter-neoforge-1.7.3-1.9.0.jar",
-      "hash": "a8def8af633cb2540e64fe0b86628473a55929cae39f5af9a13fa2da1f375d38",
-      "size": 165401,
+      "name": "mods/libraryferret-neoforge-1.21.1-4.0.0.jar",
+      "hash": "b0e9aed25266ad91e66bda1067c0d5cd531c0853af2ade17d70f972751e74f63",
+      "size": 139416,
       "lfs": true
     },
     {
-      "name": "mods/cosycritters-0.3.2+1.21.1-neoforge.jar",
-      "hash": "141ea3f204c8a8c4a0a4542df0cac4a1ad88cc57ffa50eb207225a3eefd07d6d",
-      "size": 98864,
+      "name": "mods/lithium-neoforge-0.15.3+mc1.21.1.jar",
+      "hash": "a6548862bd13ff8eea6747cf61df50c8374a16a22d067614e414ed600eee6d83",
+      "size": 774148,
       "lfs": true
     },
     {
-      "name": "mods/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
-      "hash": "6328049755735159c55f5918ac301cff53a8d8790c3fe63e32e7d8a0e37f123f",
-      "size": 92722,
+      "name": "mods/mechtrowel-1.3.1.jar",
+      "hash": "29f5b561373f3123ee7f548c3811ad71e1d7e55de4d8977a1f049700c480f7e7",
+      "size": 497230,
       "lfs": true
     },
     {
-      "name": "mods/corpse-neoforge-1.21.1-1.1.13.jar",
-      "hash": "f61e750eb2cb49867483d34d6630e02597a52e41680fc38d1c65ece4ef36fd2b",
-      "size": 253695,
+      "name": "mods/mega_showdown-neoforge-1.8.2+1.7.3+1.21.1-hotfix.jar",
+      "hash": "9b7c5a47abc28521737a4773d5b42d6d710c1898740b9cb4708c870aaf9e9366",
+      "size": 17146214,
       "lfs": true
     },
     {
-      "name": "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar",
-      "hash": "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1",
-      "size": 1791747,
+      "name": "mods/midnightlib-neoforge-1.9.2+1.21.1.jar",
+      "hash": "adb29c10b3bdc2fd1a1cb8f4cbeb0280f7d15af1a76ee3074d2db1eec7fe28e7",
+      "size": 60347,
       "lfs": true
     },
     {
-      "name": "mods/coolrain-1.1.0-1.21.1-neoforge.jar",
-      "hash": "b2b522c98e24630c069602d8650c1eb74a78c043da5ffa77b46594b208d64799",
-      "size": 3127528,
+      "name": "mods/moonlight-1.21-2.29.33-neoforge.jar",
+      "hash": "47759081ab26271fed829f17abe1a8aa8ac1a17a111acb3b9255749e35e00f7a",
+      "size": 1596760,
       "lfs": true
     },
     {
-      "name": "mods/Controlling-neoforge-1.21.1-19.0.5.jar",
-      "hash": "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0",
-      "size": 77555,
+      "name": "mods/MossyLib-1.1.0+1.21.1+neoforge.jar",
+      "hash": "11c31dd3cfa404f2209106ca90960a1f1e6d4cbca91c5f38631b53c85f7c37db",
+      "size": 178015,
       "lfs": true
     },
     {
-      "name": "mods/connectivity-1.21.1-7.6.jar",
-      "hash": "2366973ddae5ba00b9ba15a26e5b610a6648038b9f2549bf81b9ae61342b281a",
-      "size": 114165,
+      "name": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "hash": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b",
+      "size": 73938,
       "lfs": true
     },
     {
-      "name": "mods/collective-1.21.1-8.20.jar",
-      "hash": "cf192da39ba0d02a151a324b22c073a194dc177c789ec287a357152b7eedce9e",
-      "size": 942780,
+      "name": "mods/mru-1.0.19+LTS+1.21.1+neoforge.jar",
+      "hash": "ed025100de31f5635d48a5a0cc4bc9c701d885bf3777e0c2ad8af5f2cad4601a",
+      "size": 243953,
       "lfs": true
     },
     {
-      "name": "mods/Cobblepedia-NeoForge-0.7.1.jar",
-      "hash": "d978d6223e46c23e2d812235b89d2bf8c297b8155c13640a1de7a503484c996e",
-      "size": 8276599,
+      "name": "mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "hash": "0e249ac11b2f916c5570d9679e188da652fa5664ba9cdb7be5dc9ff69497539c",
+      "size": 224657,
       "lfs": true
     },
     {
-      "name": "mods/cobblenav-neoforge-2.3.3.jar",
-      "hash": "d186ffa602aa7ee0f36eb73d34eb6801ab5095ec037de506a9af2d7172b08571",
-      "size": 1098652,
+      "name": "mods/OctoLib-NEOFORGE-0.6.1+1.21.jar",
+      "hash": "77e0a87cf7ab158ce7cbd69dc0fa1e0bf871841d8ddc078b4fbcfecd570d7581",
+      "size": 540285,
       "lfs": true
     },
     {
-      "name": "mods/CobblemonMoveInspector-neoforge-1.3.0.jar",
-      "hash": "9e688281967bdb371a9769d522bb92157f3ebd9b29d6dbd60e5825cec23435be",
-      "size": 26970,
+      "name": "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "hash": "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d",
+      "size": 1221583,
       "lfs": true
     },
     {
-      "name": "mods/cobblemonintegrations-neoforge-1.21.1-1.1.6.jar",
-      "hash": "d331a93ac3a53f43c4881516db24bff3756beb38c8b8da6d24957ed65a4d645a",
-      "size": 366734,
+      "name": "mods/ParticleEffects-1.3.0+1.21.1+neoforge.jar",
+      "hash": "6c3d0a292a4bf1a636e7d819d54f66f05fc786f97f6b7f8a91801ded7fc0cabc",
+      "size": 309063,
       "lfs": true
     },
     {
-      "name": "mods/Cobblemon-neoforge-1.7.3+1.21.1.jar",
-      "hash": "962d75df4fb649d94863a7a7d130d4d2b3de4da9b3cae4c44b1ce90f37ec0ed5",
-      "size": 128748941,
+      "name": "mods/particlerain-4.0.0-beta.9+1.21.1-neoforge.jar",
+      "hash": "dd886cfd14c6cf1d23aec5d40871fd4b8794e65bc4153a74619e418a1b3165ba",
+      "size": 602187,
       "lfs": true
     },
     {
-      "name": "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
-      "hash": "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e",
-      "size": 18382,
+      "name": "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
+      "hash": "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993",
+      "size": 646777,
       "lfs": true
     },
     {
-      "name": "mods/cloth-config-15.0.140-neoforge.jar",
-      "hash": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
-      "size": 1163890,
+      "name": "mods/Paxi-1.21.1-NeoForge-5.1.3.jar",
+      "hash": "4b60f8eb3b8b8880eff7c3ac825cde84394848eac3915ed61ade607cdd331ce7",
+      "size": 102980,
       "lfs": true
     },
     {
-      "name": "mods/cleanswing-1.9.jar",
-      "hash": "b86e69372a3451a09c1b5d09d69f2e20485c6d2aa62fa8a538ef77509a5f5595",
-      "size": 8449,
+      "name": "mods/Perception-NEOFORGE-0.2.1+1.21.1.jar",
+      "hash": "e9e6b126fdc2cab3deda2f15ebd20c7492aa620ebfd1f5af9095db4e63277df5",
+      "size": 78664,
       "lfs": true
     },
     {
-      "name": "mods/citadel-2.7.0-1.21.1.jar",
-      "hash": "a80af1dbc6d00ea908366bcc175951a11fbf83a12aeadd36b5035a772ff7c3a6",
-      "size": 3033192,
+      "name": "mods/plasmovoice-neoforge-1.21.1-2.1.9.jar",
+      "hash": "6210d2521b57de6da40ba2a1a7914f192fe3d1585d8f303b521652c76622bde6",
+      "size": 12239419,
       "lfs": true
     },
     {
-      "name": "mods/citadel-1.21.1-2.7.5.jar",
-      "hash": "6abf9492db59c0dc1f38e884710f2352bf55e1cb2ceb919c62aac4fabb1de6b8",
-      "size": 3029054,
+      "name": "mods/Platform-neoforge-1.21.1-1.3.jar",
+      "hash": "0abcc2edd20d2263d30a50a72d58a15e0c792e9817e812f1a1a7b867bee0664d",
+      "size": 473152,
       "lfs": true
     },
     {
-      "name": "mods/chat_heads-0.15.1-neoforge-1.21.jar",
-      "hash": "b1ed6a52efa3cb43e4c37e3982bc7b08116302511b8f675346f6aea6d3524e41",
-      "size": 89272,
+      "name": "mods/polymorph-neoforge-1.1.0+1.21.1.jar",
+      "hash": "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b",
+      "size": 174972,
       "lfs": true
     },
     {
-      "name": "mods/charmofundying-neoforge-9.1.0+1.21.1.jar",
-      "hash": "361bb87bb0cd0881ab5d1f469595c26c49992d4ed965f2631015135d61f515d1",
-      "size": 178369,
+      "name": "mods/polytone-1.21-3.6.6-neoforge.jar",
+      "hash": "1ead64bea6f61632180ccdd594bf4d9853f5d02ecbc860865d47be1bb1711e0d",
+      "size": 861174,
       "lfs": true
     },
     {
-      "name": "mods/chalk-1.6.11.jar",
-      "hash": "1dcf17baa4b14bd189b045500bd3f41714089b0b36e20326298072e15ae4b1ab",
-      "size": 336981,
+      "name": "mods/powergrid-mc1.21.1-0.5.4.jar",
+      "hash": "513d54ab406ba424db45581539d8dc344c4ba0ffa3d30416649cd4332c49b970",
+      "size": 6117871,
       "lfs": true
     },
     {
-      "name": "mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
-      "hash": "19e88d40da2b6a114c2b808f7fb469d96e66a5379df0a8a43fcb7834498b3e76",
-      "size": 328813,
+      "name": "mods/powergrid-mc1.21.1-0.5.5.1.jar",
+      "hash": "e1570e7691b0d1d7495342581a769ddb765d538c63047e96159e0c6dec9a8d69",
+      "size": 6252168,
       "lfs": true
     },
     {
-      "name": "mods/bettervillage-neoforge-1.21.1-3.3.1.jar",
-      "hash": "d2b5cbad0070c977f5b5be973219481e9d0f56224eedca9c874be7c655890a3b",
-      "size": 2429558,
+      "name": "mods/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar",
+      "hash": "ded9ea8677f407cbf280b0ee33866ae70859a7c476ef0f60fd35a9be2ee9b91a",
+      "size": 7096988,
       "lfs": true
     },
     {
-      "name": "mods/BetterPingDisplay-1.21.1-1.1.jar",
-      "hash": "f8388de4831ca70f3e94d98d4655278b514f8589234fa92df0d6b2ff1dff321b",
-      "size": 13871,
+      "name": "mods/prickle-neoforge-1.21.1-21.1.11.jar",
+      "hash": "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167",
+      "size": 84812,
       "lfs": true
     },
     {
-      "name": "mods/BetterGrassify-1.7.0+neoforge.1.21.1.jar",
-      "hash": "2424e74f09e01fdca1d0eb8b5933bc55c8ee4d769b8afd2fca900a0b33ec8f7d",
-      "size": 155305,
+      "name": "mods/pv-addon-sculk-1.1.0.jar",
+      "hash": "6e3c195c976be29d20e37ea3e8dcb489342c813e84e9c3561b39cfe0a543228f",
+      "size": 14035,
       "lfs": true
     },
     {
-      "name": "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
-      "hash": "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26",
-      "size": 481646,
+      "name": "mods/pv-addon-soundphysics-1.1.2.jar",
+      "hash": "cd7af450fbc5612674149476b8142392a8040f3961c222c653ecfd6f13f81615",
+      "size": 16176,
       "lfs": true
     },
     {
-      "name": "mods/better-clouds-1.7.20-alpha+1.21.1-neoforge.rev.4c611d9.jar",
-      "hash": "d80ea189bb859ce12dd702803c35512a39c707ca7211a84abba3341362e77534",
-      "size": 790657,
+      "name": "mods/Quark-4.1-476.jar",
+      "hash": "ce4b200f7eff30ffad9a6fdfbc4e61f57264dbbfd6180f18c2a37230150c41d7",
+      "size": 15578260,
       "lfs": true
     },
     {
-      "name": "mods/better-clouds-1.7.19+1.21.1-neoforge.jar",
-      "hash": "bb304388027626d25539a8c5e7bf3387d08cc9022bbf31c600e55cd59af9d5cf",
-      "size": 787669,
+      "name": "mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "hash": "25b4f3502d25c535004acd4a9420272fff01d2f1e2df352239fec93fdab005d4",
+      "size": 341009,
       "lfs": true
     },
     {
-      "name": "mods/astikorcartsredux-1.2.2.jar",
-      "hash": "44b2db02a6699481d212f0fa0a766b52776650396fa67951a428ad32b2d7dc24",
-      "size": 531765,
+      "name": "mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "hash": "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261",
+      "size": 484332,
       "lfs": true
     },
     {
-      "name": "mods/astages-2.0.3-1.21.1.jar",
-      "hash": "f1189d34fea0b0801d786f614f6a24da9838a5afa41498e7eabdcac987d33042",
-      "size": 763849,
+      "name": "mods/Resourcify (1.21.1-neoforge)-1.8.1.jar",
+      "hash": "b159a2ac63a369eeace652ff305391ed6d4c14fc51e13bcc6b8a7dc2ae8691b6",
+      "size": 2586268,
       "lfs": true
     },
     {
-      "name": "mods/astages-2.0.2-1.21.1.jar",
-      "hash": "9f338dae62c0603943cf1a490e851e8c9573d9fd7992c04cae2b905542218f8b",
-      "size": 750745,
+      "name": "mods/rhino-2101.2.7-build.81.jar",
+      "hash": "fcc3f8de61771596f1b120f734819cb97f5935a5d42c76f4057a0be06a3609db",
+      "size": 882032,
       "lfs": true
     },
     {
-      "name": "mods/areas-1.21.1-6.1.jar",
-      "hash": "b2811412171a7f0686fcf262916e5294bebc60a4781f63eca4b3619dd1ddf136",
-      "size": 106034,
+      "name": "mods/sable-neoforge-1.21.1-1.2.2.jar",
+      "hash": "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8",
+      "size": 12719293,
       "lfs": true
     },
     {
-      "name": "mods/architectury-13.0.8-neoforge.jar",
-      "hash": "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee",
-      "size": 584004,
+      "name": "mods/scholar-neoforge-1.21.1-1.1.13.jar",
+      "hash": "36dde43bb49748af0ef26ee590e40e4cfdd4b316bb557f1b55775f8a20001af8",
+      "size": 721844,
       "lfs": true
     },
     {
-      "name": "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
-      "hash": "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df",
-      "size": 75804,
+      "name": "mods/seamlesssleep-neoforge-1.21-2.5.3.jar",
+      "hash": "01e92fdc4a3a72bcfd5432ccbdec2c14c6e2b7eb14b38f0db9b0251f3b4ea313",
+      "size": 148048,
       "lfs": true
     },
     {
-      "name": "mods/amendments-1.21-2.0.15-neoforge.jar",
-      "hash": "e44e67d5c2eb5a73ee8ca3d1e9099ed20ccbf8167022bc407df8434b1bf362b5",
-      "size": 1143659,
+      "name": "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "hash": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68",
+      "size": 77326,
       "lfs": true
     },
     {
-      "name": "mods/aeronauticscompat-1.1.2.jar",
-      "hash": "5eff8158a171f7520f5fafe2db66d8309983a0fbaa0bdcfd6e107b19b1466482",
-      "size": 37307,
+      "name": "mods/sodium-extra-neoforge-0.6.0+mc1.21.1.jar",
+      "hash": "c20fe1a554916cde5dd0ac72ba2b82ed04263026d4394ac51be6f7a300902443",
+      "size": 367047,
       "lfs": true
     },
     {
-      "name": "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
-      "hash": "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0",
-      "size": 1078697,
+      "name": "mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "hash": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
+      "size": 1162994,
       "lfs": true
     },
     {
-      "name": "shaderpacks/ComplementaryReimagined_r5.7.1.zip",
-      "hash": "24a20634a7832d422d3cd5023be16829f26840e25c69404dd418306ea79f63f0",
-      "size": 522970
+      "name": "mods/sophisticatedbackpacks-1.21.1-3.25.41.1683.jar",
+      "hash": "099c7cd5f9e84b6cd2b48c0713ede39946f888849936cd924826e099cb064686",
+      "size": 1023170,
+      "lfs": true
+    },
+    {
+      "name": "mods/sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
+      "hash": "8817a7ce02fdddc8bbe4ca5be5bb63678efa22770c81d19984a1e4f3d1d48950",
+      "size": 1023170,
+      "lfs": true
+    },
+    {
+      "name": "mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar",
+      "hash": "b7dda5c02ba4cfe76ddcb239da3d1460efe57f4af10a8e2827ee8145bf44b9ea",
+      "size": 82316,
+      "lfs": true
+    },
+    {
+      "name": "mods/sophisticatedcore-1.21.1-1.4.25.1696.jar",
+      "hash": "35c982368bece35c6d024b8bcf0c20a42e49f7315fb9d14f1328194f08a23c3c",
+      "size": 1480937,
+      "lfs": true
+    },
+    {
+      "name": "mods/sophisticatedstorage-1.21.1-1.5.43.1672.jar",
+      "hash": "cd433d399a1812a401f67b3024e684d5a4512797de45ab1d06c88ea605b07cb4",
+      "size": 1666709,
+      "lfs": true
+    },
+    {
+      "name": "mods/sophisticatedstorage-1.21.1-1.5.45.1697.jar",
+      "hash": "b2f2f320700046b5d074836551bd8c4d049a18ab2dba6866d81d76cf0f5065f3",
+      "size": 1666661,
+      "lfs": true
+    },
+    {
+      "name": "mods/sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
+      "hash": "ddb8a296bc7c4189cebb2721a7088efb3736d4e737579774a71dc4228ca79295",
+      "size": 133451,
+      "lfs": true
+    },
+    {
+      "name": "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "hash": "65372ad64422a20f03ad6e39aabaa827c191abbe9be5c35631acc3a8105fe177",
+      "size": 202454,
+      "lfs": true
+    },
+    {
+      "name": "mods/sounds-2.4.22+lts+1.21.1-neoforge.jar",
+      "hash": "d3bda0a7a5b1f267747da182e788139da380f625eaf96a5c2a8fa5bcb8d908b7",
+      "size": 8732437,
+      "lfs": true
+    },
+    {
+      "name": "mods/spark-1.10.124-neoforge.jar",
+      "hash": "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db",
+      "size": 3642581,
+      "lfs": true
+    },
+    {
+      "name": "mods/structureessentials-1.21.1-5.0.jar",
+      "hash": "7ecb6c9d04e20a6803ba6e51dd226eaa289ba2c2c095248f3645222a8bfc1c8d",
+      "size": 60833,
+      "lfs": true
+    },
+    {
+      "name": "mods/SubtleEffects-neoforge-1.21.1-1.14.2.jar",
+      "hash": "f024c15562176a85460d783a1f4841b15ec43b8835a21611206d739f21ed7bbd",
+      "size": 3306325,
+      "lfs": true
+    },
+    {
+      "name": "mods/SubtleEffects-neoforge-1.21.1-1.14.3.jar",
+      "hash": "78fd24ecaadee01746ecc4cf598284923e762e25964311e86a67aa30cd3c2b67",
+      "size": 3306773,
+      "lfs": true
+    },
+    {
+      "name": "mods/supplementaries-1.21-3.5.34-neoforge.jar",
+      "hash": "3e82252fcd89b090786e1640f8cf8fac76e3e35f30465849944e7b89ca2f433b",
+      "size": 13366044,
+      "lfs": true
+    },
+    {
+      "name": "mods/suppsquared-1.21-1.2.17-neoforge.jar",
+      "hash": "49120a2cedff5a51b9257ee44c72a9d38058ea13fe98d3fcb9ead2c2edf5dd49",
+      "size": 774220,
+      "lfs": true
+    },
+    {
+      "name": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "hash": "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8",
+      "size": 120364,
+      "lfs": true
+    },
+    {
+      "name": "mods/timcore-neoforge-1.7.3-1.32.0.jar",
+      "hash": "9c1440f95bac8ce1f0cd0a75d593e167d36fb190b00015ae0200f28bab5bedf8",
+      "size": 306328,
+      "lfs": true
+    },
+    {
+      "name": "mods/VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
+      "hash": "d25f39ec0ca11505aec9eb511f56b1bc2562932190c7e02f2f47983d3dd763d6",
+      "size": 27456653,
+      "lfs": true
+    },
+    {
+      "name": "mods/via_romana-2.2.2+1.21.1-neoforge.jar",
+      "hash": "7c93686dd28d17369235154c0c7deadea75357bd158114d2e6ec557824340cbc",
+      "size": 1241040,
+      "lfs": true
+    },
+    {
+      "name": "mods/vista-1.21-3.1.2-neoforge.jar",
+      "hash": "3ae155c4c8683f8a357f5136ce79e1ed8e9d4d149673339f44cb4c924b0fc26f",
+      "size": 7021168,
+      "lfs": true
+    },
+    {
+      "name": "mods/VistaAeronauticsFix-1.0.0.jar",
+      "hash": "81c7808d33876e10f53e0bc61fa6d4893f98bf5527706c45659c7f2c360a1c71",
+      "size": 155054,
+      "lfs": true
+    },
+    {
+      "name": "mods/vistaallthetapes - 1.2.0 - neoforge - 1.21.1.jar",
+      "hash": "581ded201f19ffef74c0e7b554fff3ae59ca0f6fef957ac89a5eba6955ffd9d0",
+      "size": 6080891,
+      "lfs": true
+    },
+    {
+      "name": "mods/visual_keybinder-1.21.1-0.1.12-neoforge.jar",
+      "hash": "031e1df515952a1ffe6eb4c165faf469f22518bf80d505ddbb64703ae4a93986",
+      "size": 347038,
+      "lfs": true
+    },
+    {
+      "name": "mods/visuality-forge-2.1.0.jar",
+      "hash": "f4c134d3041e9e6626276a26d2864f3aed177c08c8a109cd3788c5470c28d02e",
+      "size": 115765,
+      "lfs": true
+    },
+    {
+      "name": "mods/yeetusexperimentus-neoforge-87.0.0.jar",
+      "hash": "9117db8b5905abf18f64fdf8f8d8ca5a91c23abd0a7fa2c9986c21aa17d74e75",
+      "size": 570057,
+      "lfs": true
+    },
+    {
+      "name": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "hash": "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f",
+      "size": 1118651,
+      "lfs": true
+    },
+    {
+      "name": "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "hash": "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca",
+      "size": 388678,
+      "lfs": true
+    },
+    {
+      "name": "mods/YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar",
+      "hash": "aa94ae3e7fdacb469459bf45be60c35bebfebe0488a79e31c7686d746939701d",
+      "size": 392794,
+      "lfs": true
+    },
+    {
+      "name": "mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "hash": "2c3191ad447092cc7873a06e92f16bd3e2ff9dc31e93268b8893d06dd89e1fd6",
+      "size": 905839,
+      "lfs": true
+    },
+    {
+      "name": "mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "hash": "61816c3b7c9d92c6b44f93dce87ceb0a22827f20285d5d9c4d10d519d734de04",
+      "size": 782160,
+      "lfs": true
+    },
+    {
+      "name": "mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "hash": "8005f1ea798d09fc05dad07a21ed1f393a523a718197cdbd37b1ce6d9a17e4a4",
+      "size": 398130,
+      "lfs": true
+    },
+    {
+      "name": "mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "hash": "a0d57b78c7a1891796f342b1f09c214bc27bedf0a3a894f029dfdb2db9f813d0",
+      "size": 795839,
+      "lfs": true
+    },
+    {
+      "name": "mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "hash": "5625930dfb3240820d6e4ecf55fff0c39f70ce782fad117a4d418251184c7be0",
+      "size": 493967,
+      "lfs": true
+    },
+    {
+      "name": "mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "hash": "5450a64a7036237f449496837e08f3e5b3aa1d7974a10df43944172def75d8ff",
+      "size": 609639,
+      "lfs": true
+    },
+    {
+      "name": "mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "hash": "cdcf8fe0e08c75261048d43c6ed4898972d23e096dd04a2524c136f06416ab02",
+      "size": 1025571,
+      "lfs": true
+    },
+    {
+      "name": "mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "hash": "a9cab2fc01538368862365691f7d215309801aed0b390351681b6b60a1db7b58",
+      "size": 461244,
+      "lfs": true
+    },
+    {
+      "name": "mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+      "hash": "888b1e6d1ada21982a75abfb4afb040c9bc2cc68777ec5fcd1199b978e3d4f8d",
+      "size": 174789,
+      "lfs": true
+    },
+    {
+      "name": "mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "hash": "bf93a85422a6b457358c3b56352641a97ec09cc37dec18b2cedcac2bd1ff9bec",
+      "size": 136820,
+      "lfs": true
+    },
+    {
+      "name": "mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+      "hash": "7585587e5cb7859e26189c6ec0a5b829c5c228f095e4e843fa3add61f817dd20",
+      "size": 13006621,
+      "lfs": true
+    },
+    {
+      "name": "mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "hash": "0cd26474e514f5dc3114aaf5ec7e049bcd285f0c5db191bb45223193f35df70d",
+      "size": 198183,
+      "lfs": true
+    },
+    {
+      "name": "mods/Zeta-1.1-39.jar",
+      "hash": "b4fc724a436ee63d7ab9af0cced89b54e7ea5887054164eff1c1aae6d4cfa531",
+      "size": 765399,
+      "lfs": true
+    },
+    {
+      "name": "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt",
+      "hash": "8bd3a4e8aa3ffdcc97e660226e69e7bf17c3e46effe87eb39982aab17a316946",
+      "size": 811
     },
     {
       "name": "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.zip",
@@ -2370,9 +2370,9 @@
       "size": 1948971
     },
     {
-      "name": "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt",
-      "hash": "8bd3a4e8aa3ffdcc97e660226e69e7bf17c3e46effe87eb39982aab17a316946",
-      "size": 811
+      "name": "shaderpacks/ComplementaryReimagined_r5.7.1.zip",
+      "hash": "24a20634a7832d422d3cd5023be16829f26840e25c69404dd418306ea79f63f0",
+      "size": 522970
     }
   ]
 }

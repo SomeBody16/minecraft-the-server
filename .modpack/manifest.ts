@@ -16,7 +16,8 @@ const files: File[] = globSync(config.include)
       lfs: lfs ? lfs : undefined,
       optional: file.includes(".optional.") ? true : undefined,
     };
-  });
+  })
+  .sort((a, b) => a.name.toLowerCase().localeCompare(b.name.toLowerCase()));
 
 export const manifest: Manifest = {
   name: config.name,
