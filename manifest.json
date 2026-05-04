@@ -2,7 +2,7 @@
   "name": "Minecraft THE Pokemon",
   "serverIp": "minecraft-the-server.spot.gs",
   "version": {
-    "modpack": "349be79613e8ee7e49daa85a30c28c315dbd9fba547ffcddcad203d8268c0110",
+    "modpack": "3c724cf9a4b8427fa910a1c42d0d61e562565c849ce15e3436f3bb813f7a3f6a",
     "minecraft": "1.21.1",
     "modloader": {
       "name": "neoforge",
@@ -1364,7 +1364,7 @@
       "lfs": true
     },
     {
-      "name": "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "name": "mods/appleskin-neoforge-mc1.21-3.0.9.client.jar",
       "hash": "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df",
       "size": 75804,
       "lfs": true
@@ -1382,12 +1382,6 @@
       "lfs": true
     },
     {
-      "name": "mods/astages-2.0.2-1.21.1.jar",
-      "hash": "9f338dae62c0603943cf1a490e851e8c9573d9fd7992c04cae2b905542218f8b",
-      "size": 750745,
-      "lfs": true
-    },
-    {
       "name": "mods/astages-2.0.3-1.21.1.jar",
       "hash": "f1189d34fea0b0801d786f614f6a24da9838a5afa41498e7eabdcac987d33042",
       "size": 763849,
@@ -1400,31 +1394,25 @@
       "lfs": true
     },
     {
-      "name": "mods/better-clouds-1.7.19+1.21.1-neoforge.jar",
-      "hash": "bb304388027626d25539a8c5e7bf3387d08cc9022bbf31c600e55cd59af9d5cf",
-      "size": 787669,
-      "lfs": true
-    },
-    {
-      "name": "mods/better-clouds-1.7.20-alpha+1.21.1-neoforge.rev.4c611d9.jar",
+      "name": "mods/better-clouds-1.7.20-alpha+1.21.1-neoforge.rev.4c611d9.client.jar",
       "hash": "d80ea189bb859ce12dd702803c35512a39c707ca7211a84abba3341362e77534",
       "size": 790657,
       "lfs": true
     },
     {
-      "name": "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "name": "mods/BetterF3-11.0.3-NeoForge-1.21.1.client.jar",
       "hash": "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26",
       "size": 481646,
       "lfs": true
     },
     {
-      "name": "mods/BetterGrassify-1.7.0+neoforge.1.21.1.jar",
+      "name": "mods/BetterGrassify-1.7.0+neoforge.1.21.1.client.jar",
       "hash": "2424e74f09e01fdca1d0eb8b5933bc55c8ee4d769b8afd2fca900a0b33ec8f7d",
       "size": 155305,
       "lfs": true
     },
     {
-      "name": "mods/BetterPingDisplay-1.21.1-1.1.jar",
+      "name": "mods/BetterPingDisplay-1.21.1-1.1.client.jar",
       "hash": "f8388de4831ca70f3e94d98d4655278b514f8589234fa92df0d6b2ff1dff321b",
       "size": 13871,
       "lfs": true
@@ -1454,7 +1442,7 @@
       "lfs": true
     },
     {
-      "name": "mods/chat_heads-0.15.1-neoforge-1.21.jar",
+      "name": "mods/chat_heads-0.15.1-neoforge-1.21.client.jar",
       "hash": "b1ed6a52efa3cb43e4c37e3982bc7b08116302511b8f675346f6aea6d3524e41",
       "size": 89272,
       "lfs": true
@@ -1466,13 +1454,7 @@
       "lfs": true
     },
     {
-      "name": "mods/citadel-2.7.0-1.21.1.jar",
-      "hash": "a80af1dbc6d00ea908366bcc175951a11fbf83a12aeadd36b5035a772ff7c3a6",
-      "size": 3033192,
-      "lfs": true
-    },
-    {
-      "name": "mods/cleanswing-1.9.jar",
+      "name": "mods/cleanswing-1.9.client.jar",
       "hash": "b86e69372a3451a09c1b5d09d69f2e20485c6d2aa62fa8a538ef77509a5f5595",
       "size": 8449,
       "lfs": true
@@ -1502,7 +1484,7 @@
       "lfs": true
     },
     {
-      "name": "mods/CobblemonMoveInspector-neoforge-1.3.0.jar",
+      "name": "mods/CobblemonMoveInspector-neoforge-1.3.0.client.jar",
       "hash": "9e688281967bdb371a9769d522bb92157f3ebd9b29d6dbd60e5825cec23435be",
       "size": 26970,
       "lfs": true
@@ -1532,13 +1514,13 @@
       "lfs": true
     },
     {
-      "name": "mods/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "name": "mods/Controlling-neoforge-1.21.1-19.0.5.client.jar",
       "hash": "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0",
       "size": 77555,
       "lfs": true
     },
     {
-      "name": "mods/coolrain-1.1.0-1.21.1-neoforge.jar",
+      "name": "mods/coolrain-1.1.0-1.21.1-neoforge.client.jar",
       "hash": "b2b522c98e24630c069602d8650c1eb74a78c043da5ffa77b46594b208d64799",
       "size": 3127528,
       "lfs": true
@@ -1562,7 +1544,7 @@
       "lfs": true
     },
     {
-      "name": "mods/cosycritters-0.3.2+1.21.1-neoforge.jar",
+      "name": "mods/cosycritters-0.3.2+1.21.1-neoforge.client.jar",
       "hash": "141ea3f204c8a8c4a0a4542df0cac4a1ad88cc57ffa50eb207225a3eefd07d6d",
       "size": 98864,
       "lfs": true
@@ -1577,12 +1559,6 @@
       "name": "mods/Create Encased-1.21.1-1.8-ht2.jar",
       "hash": "d66b7caac3fe29bb95ed6c53c8271d797a2f0cacfc98c8819406bc445783d12c",
       "size": 2410332,
-      "lfs": true
-    },
-    {
-      "name": "mods/create_connected-1.1.13-mc1.21.1.jar",
-      "hash": "c3b25c03d9600e020ccbf4edead41420707a927bc4713b48739aaaf76afb1ad9",
-      "size": 6555122,
       "lfs": true
     },
     {
@@ -1607,12 +1583,6 @@
       "name": "mods/create_factory_logistics-1.21.1-1.4.9.jar",
       "hash": "0dd32088be666fffc7d637677ce0b9a8d144e8ea689edde6a30b1c32bf8845e9",
       "size": 1134582,
-      "lfs": true
-    },
-    {
-      "name": "mods/create_stats-0.10.32.jar",
-      "hash": "a1e36edd15ea954677cda793a898254cfe89b40c6a7f413eaff6c4f467302017",
-      "size": 2485140,
       "lfs": true
     },
     {
@@ -1682,31 +1652,31 @@
       "lfs": true
     },
     {
-      "name": "mods/Drip Sounds-0.5.2+1.21.8-NeoForge.jar",
+      "name": "mods/Drip Sounds-0.5.2+1.21.8-NeoForge.client.jar",
       "hash": "9849e10aa123e7e4f2b53627dedf4d1699837a84045a03396da46a60945c6c2f",
       "size": 58459,
       "lfs": true
     },
     {
-      "name": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+      "name": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.client.jar",
       "hash": "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e",
       "size": 220193,
       "lfs": true
     },
     {
-      "name": "mods/eatinganimation-1.21.0-6.0.1.jar",
+      "name": "mods/eatinganimation-1.21.0-6.0.1.client.jar",
       "hash": "3b222ada8de0cd982b755019cb9ada012d0f8a440fb67f2bdc634c241b7481cb",
       "size": 289863,
       "lfs": true
     },
     {
-      "name": "mods/enchdesc-neoforge-1.21.1-21.1.9.jar",
+      "name": "mods/enchdesc-neoforge-1.21.1-21.1.9.client.jar",
       "hash": "74d546ecb147da7e2cb53fe3115f6e062094329dcf15639b3da694cc00d3f843",
       "size": 81847,
       "lfs": true
     },
     {
-      "name": "mods/entityculling-neoforge-1.10.1-mc1.21.1.jar",
+      "name": "mods/entityculling-neoforge-1.10.1-mc1.21.1.client.jar",
       "hash": "da2f7c43329b20d9627a6590f8048233c349d5efe78defe57b05eff120ded691",
       "size": 1578350,
       "lfs": true
@@ -1718,7 +1688,7 @@
       "lfs": true
     },
     {
-      "name": "mods/EuphoriaPatcher-1.8.6-r5.7.1-neoforge.jar",
+      "name": "mods/EuphoriaPatcher-1.8.6-r5.7.1-neoforge.client.jar",
       "hash": "ed61db7ab3c5d43a404cbe09663d0ce59d7cf9e3a3dd3d0d224afea4b5213efa",
       "size": 2773488,
       "lfs": true
@@ -1742,7 +1712,7 @@
       "lfs": true
     },
     {
-      "name": "mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+      "name": "mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.client.jar",
       "hash": "c93500aa25eaa7bc473e753b8abf4234e7c46713d50bb82b30383ee47e646f5a",
       "size": 10413,
       "lfs": true
@@ -1760,7 +1730,7 @@
       "lfs": true
     },
     {
-      "name": "mods/figura-0.1.5+1.21.1-neoforge-patched.jar",
+      "name": "mods/figura-0.1.5+1.21.1-neoforge-patched.client.jar",
       "hash": "a2e4e58d2aabc5a3352ef605155f92eb7d617419e24d651806d748f4b5cde3bc",
       "size": 2189644,
       "lfs": true
@@ -1802,13 +1772,13 @@
       "lfs": true
     },
     {
-      "name": "mods/gpumemleakfix-1.21-1.8.jar",
+      "name": "mods/gpumemleakfix-1.21-1.8.client.jar",
       "hash": "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931",
       "size": 6574,
       "lfs": true
     },
     {
-      "name": "mods/highlight-neoforge-1.21.9-3.9.0.jar",
+      "name": "mods/highlight-neoforge-1.21.9-3.9.0.client.jar",
       "hash": "473169d0c6c83f893d8f2252f6e9612d44455e412e28c7b7bc7d2d750c1d0ec5",
       "size": 471520,
       "lfs": true
@@ -1826,37 +1796,37 @@
       "lfs": true
     },
     {
-      "name": "mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+      "name": "mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.client.jar",
       "hash": "9fbb8dce1bb72feacdc3b75c6fcbf689865ad3793a19649443d76be20993ddd0",
       "size": 368598,
       "lfs": true
     },
     {
-      "name": "mods/immersivehotbar-1.1.1-neoforge-1.21-1.21.1.jar",
+      "name": "mods/immersivehotbar-1.1.1-neoforge-1.21-1.21.1.client.jar",
       "hash": "78abac794ef5ffec568d7b97e76d3e581b087dc52369fbedbb859d587c225e01",
       "size": 220747,
       "lfs": true
     },
     {
-      "name": "mods/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
+      "name": "mods/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.client.jar",
       "hash": "6b914e305f27962a91d49a659b77eb65f47acee9d79930801b4fc1d3e474c8a4",
       "size": 217081,
       "lfs": true
     },
     {
-      "name": "mods/InventoryParticles-1.5.0+1.21.1+neoforge.jar",
+      "name": "mods/InventoryParticles-1.5.0+1.21.1+neoforge.client.jar",
       "hash": "86c5675fb522119e26d48dde4a2ed06a58b7f6fa9ad18f71d1a231eebecd0014",
       "size": 1489097,
       "lfs": true
     },
     {
-      "name": "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+      "name": "mods/iris-neoforge-1.8.12+mc1.21.1.client.jar",
       "hash": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
       "size": 2438548,
       "lfs": true
     },
     {
-      "name": "mods/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "name": "mods/Jade-1.21.1-NeoForge-15.10.5.client.jar",
       "hash": "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d",
       "size": 725742,
       "lfs": true
@@ -1871,12 +1841,6 @@
       "name": "mods/kotlinforforge-5.11.0-all.jar",
       "hash": "89d2ccd9d2ca2996ca3ee57b27165893f4bc4b8431be89461f8b2f8fe6162ac1",
       "size": 6869790,
-      "lfs": true
-    },
-    {
-      "name": "mods/kubejs-neoforge-2101.7.2-build.348.jar",
-      "hash": "6ddc6ddd16fabe09e2dd4303c6a598e3c272d6820b5c081f9c53e6b7aa6397fb",
-      "size": 2240610,
       "lfs": true
     },
     {
@@ -1934,7 +1898,7 @@
       "lfs": true
     },
     {
-      "name": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "name": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.client.jar",
       "hash": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b",
       "size": 73938,
       "lfs": true
@@ -1964,13 +1928,13 @@
       "lfs": true
     },
     {
-      "name": "mods/ParticleEffects-1.3.0+1.21.1+neoforge.jar",
+      "name": "mods/ParticleEffects-1.3.0+1.21.1+neoforge.client.jar",
       "hash": "6c3d0a292a4bf1a636e7d819d54f66f05fc786f97f6b7f8a91801ded7fc0cabc",
       "size": 309063,
       "lfs": true
     },
     {
-      "name": "mods/particlerain-4.0.0-beta.9+1.21.1-neoforge.jar",
+      "name": "mods/particlerain-4.0.0-beta.9+1.21.1-neoforge.client.jar",
       "hash": "dd886cfd14c6cf1d23aec5d40871fd4b8794e65bc4153a74619e418a1b3165ba",
       "size": 602187,
       "lfs": true
@@ -2012,15 +1976,9 @@
       "lfs": true
     },
     {
-      "name": "mods/polytone-1.21-3.6.6-neoforge.jar",
+      "name": "mods/polytone-1.21-3.6.6-neoforge.client.jar",
       "hash": "1ead64bea6f61632180ccdd594bf4d9853f5d02ecbc860865d47be1bb1711e0d",
       "size": 861174,
-      "lfs": true
-    },
-    {
-      "name": "mods/powergrid-mc1.21.1-0.5.4.jar",
-      "hash": "513d54ab406ba424db45581539d8dc344c4ba0ffa3d30416649cd4332c49b970",
-      "size": 6117871,
       "lfs": true
     },
     {
@@ -2030,7 +1988,7 @@
       "lfs": true
     },
     {
-      "name": "mods/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar",
+      "name": "mods/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.client.jar",
       "hash": "ded9ea8677f407cbf280b0ee33866ae70859a7c476ef0f60fd35a9be2ee9b91a",
       "size": 7096988,
       "lfs": true
@@ -2048,7 +2006,7 @@
       "lfs": true
     },
     {
-      "name": "mods/pv-addon-soundphysics-1.1.2.jar",
+      "name": "mods/pv-addon-soundphysics-1.1.2.client.jar",
       "hash": "cd7af450fbc5612674149476b8142392a8040f3961c222c653ecfd6f13f81615",
       "size": 16176,
       "lfs": true
@@ -2072,7 +2030,7 @@
       "lfs": true
     },
     {
-      "name": "mods/Resourcify (1.21.1-neoforge)-1.8.1.jar",
+      "name": "mods/Resourcify (1.21.1-neoforge)-1.8.1.client.jar",
       "hash": "b159a2ac63a369eeace652ff305391ed6d4c14fc51e13bcc6b8a7dc2ae8691b6",
       "size": 2586268,
       "lfs": true
@@ -2102,27 +2060,21 @@
       "lfs": true
     },
     {
-      "name": "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "name": "mods/Searchables-neoforge-1.21.1-1.0.2.client.jar",
       "hash": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68",
       "size": 77326,
       "lfs": true
     },
     {
-      "name": "mods/sodium-extra-neoforge-0.6.0+mc1.21.1.jar",
+      "name": "mods/sodium-extra-neoforge-0.6.0+mc1.21.1.client.jar",
       "hash": "c20fe1a554916cde5dd0ac72ba2b82ed04263026d4394ac51be6f7a300902443",
       "size": 367047,
       "lfs": true
     },
     {
-      "name": "mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "name": "mods/sodium-neoforge-0.6.13+mc1.21.1.client.jar",
       "hash": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
       "size": 1162994,
-      "lfs": true
-    },
-    {
-      "name": "mods/sophisticatedbackpacks-1.21.1-3.25.41.1683.jar",
-      "hash": "099c7cd5f9e84b6cd2b48c0713ede39946f888849936cd924826e099cb064686",
-      "size": 1023170,
       "lfs": true
     },
     {
@@ -2132,21 +2084,9 @@
       "lfs": true
     },
     {
-      "name": "mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar",
-      "hash": "b7dda5c02ba4cfe76ddcb239da3d1460efe57f4af10a8e2827ee8145bf44b9ea",
-      "size": 82316,
-      "lfs": true
-    },
-    {
-      "name": "mods/sophisticatedcore-1.21.1-1.4.25.1696.jar",
-      "hash": "35c982368bece35c6d024b8bcf0c20a42e49f7315fb9d14f1328194f08a23c3c",
-      "size": 1480937,
-      "lfs": true
-    },
-    {
-      "name": "mods/sophisticatedstorage-1.21.1-1.5.43.1672.jar",
-      "hash": "cd433d399a1812a401f67b3024e684d5a4512797de45ab1d06c88ea605b07cb4",
-      "size": 1666709,
+      "name": "mods/sophisticatedcore-1.21.1-1.4.35.1823.jar",
+      "hash": "0fbd34a14e3ac918e4926ddb4135208fb780ec1a4da6908a70231d4443cb7904",
+      "size": 1517676,
       "lfs": true
     },
     {
@@ -2162,13 +2102,13 @@
       "lfs": true
     },
     {
-      "name": "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "name": "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.client.jar",
       "hash": "65372ad64422a20f03ad6e39aabaa827c191abbe9be5c35631acc3a8105fe177",
       "size": 202454,
       "lfs": true
     },
     {
-      "name": "mods/sounds-2.4.22+lts+1.21.1-neoforge.jar",
+      "name": "mods/sounds-2.4.22+lts+1.21.1-neoforge.client.jar",
       "hash": "d3bda0a7a5b1f267747da182e788139da380f625eaf96a5c2a8fa5bcb8d908b7",
       "size": 8732437,
       "lfs": true
@@ -2186,13 +2126,7 @@
       "lfs": true
     },
     {
-      "name": "mods/SubtleEffects-neoforge-1.21.1-1.14.2.jar",
-      "hash": "f024c15562176a85460d783a1f4841b15ec43b8835a21611206d739f21ed7bbd",
-      "size": 3306325,
-      "lfs": true
-    },
-    {
-      "name": "mods/SubtleEffects-neoforge-1.21.1-1.14.3.jar",
+      "name": "mods/SubtleEffects-neoforge-1.21.1-1.14.3.client.jar",
       "hash": "78fd24ecaadee01746ecc4cf598284923e762e25964311e86a67aa30cd3c2b67",
       "size": 3306773,
       "lfs": true
@@ -2252,19 +2186,19 @@
       "lfs": true
     },
     {
-      "name": "mods/visual_keybinder-1.21.1-0.1.12-neoforge.jar",
+      "name": "mods/visual_keybinder-1.21.1-0.1.12-neoforge.client.jar",
       "hash": "031e1df515952a1ffe6eb4c165faf469f22518bf80d505ddbb64703ae4a93986",
       "size": 347038,
       "lfs": true
     },
     {
-      "name": "mods/visuality-forge-2.1.0.jar",
+      "name": "mods/visuality-forge-2.1.0.client.jar",
       "hash": "f4c134d3041e9e6626276a26d2864f3aed177c08c8a109cd3788c5470c28d02e",
       "size": 115765,
       "lfs": true
     },
     {
-      "name": "mods/yeetusexperimentus-neoforge-87.0.0.jar",
+      "name": "mods/yeetusexperimentus-neoforge-87.0.0.client.jar",
       "hash": "9117db8b5905abf18f64fdf8f8d8ca5a91c23abd0a7fa2c9986c21aa17d74e75",
       "size": 570057,
       "lfs": true
