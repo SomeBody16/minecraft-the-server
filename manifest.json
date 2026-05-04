@@ -2,7 +2,7 @@
   "name": "Minecraft THE Pokemon",
   "serverIp": "minecraft-the-server.spot.gs",
   "version": {
-    "modpack": "f0366d50d4627316b6bf4e71b3485fece0bfb1f80dba75085181da509b5d3bd5",
+    "modpack": "349be79613e8ee7e49daa85a30c28c315dbd9fba547ffcddcad203d8268c0110",
     "minecraft": "1.21.1",
     "modloader": {
       "name": "neoforge",
@@ -1733,6 +1733,12 @@
       "name": "mods/exposure-neoforge-1.21.1-1.9.16.jar",
       "hash": "c4adfe346094cf4ce0008c98bf0d20d7c96b9291b3cd31ff2234495eaca2bb58",
       "size": 2189912,
+      "lfs": true
+    },
+    {
+      "name": "mods/FarmersDelight-1.21.1-1.3.1.jar",
+      "hash": "f02ffbf597af17d481b930daeed4b5906d6a6fddb464d392f28f42560965f4f4",
+      "size": 3124506,
       "lfs": true
     },
     {
