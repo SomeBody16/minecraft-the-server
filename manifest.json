@@ -2,7 +2,7 @@
   "name": "Minecraft THE Pokemon",
   "serverIp": "minecraft-the-server.spot.gs",
   "version": {
-    "modpack": "deb145e8a00bdca14d51c1531d96d73a117b2dadc3f17f3c3ae47bd9520ee15b",
+    "modpack": "f0366d50d4627316b6bf4e71b3485fece0bfb1f80dba75085181da509b5d3bd5",
     "minecraft": "1.21.1",
     "modloader": {
       "name": "neoforge",
@@ -12,618 +12,618 @@
   "files": [
     {
       "name": "defaultconfigs/accessories.json5",
-      "hash": "8f88bbd16f42d837582885a8822cda74cea569766c80d4e89b74028499e012b8",
-      "size": 955
+      "hash": "b9f6a56acdb02a286de9aa06578dac5485656fb476adc819fb3c63dd49ad0785",
+      "size": 915
     },
     {
       "name": "defaultconfigs/amendments-client.toml",
-      "hash": "1bddc3c41e583feb1695d769b5cd4118aa7be26e7097e311828bfb9ef1af0c88",
-      "size": 4693
+      "hash": "33a2d7f7b0ab243d73b7414320bcedb985444d82ea2d64456ef3a0133ea87209",
+      "size": 4565
     },
     {
       "name": "defaultconfigs/amendments-common.toml",
-      "hash": "06857505f098c21ccef347719231446bb84a17d97ec85e610072f5eb4ced8297",
-      "size": 5116
+      "hash": "3ba2a0243fdb5364d7604ab5c841af0a7f7fd8dd5d509667cb2a78e318e73387",
+      "size": 4972
     },
     {
       "name": "defaultconfigs/appleskin-client.toml",
-      "hash": "8d039ef2d5c95f2344060f54a041451ee6ee3988bfb4b4d4ed88ebba8fce3cc5",
-      "size": 1364
+      "hash": "f24c653544663d14a60878443ab987d7c824684c23da57ea91261220ede85362",
+      "size": 1341
     },
     {
       "name": "defaultconfigs/areas.json5",
-      "hash": "ca21eb0aef19bfba51a7c4865787f21acf461559bea37a8fbbe108085bf941cc",
-      "size": 2123
+      "hash": "55aa4e69109598219f5b0d6d88ad9edce4ffff5733f2ce243efcdcc4c26196db",
+      "size": 2078
     },
     {
       "name": "defaultconfigs/astikorcartsredux-client.toml",
-      "hash": "6795173d60827c4b0fe8e4e71b33125c01655bfa519b3ab229e2f1fd125e2069",
-      "size": 452
+      "hash": "531115a6c2b8560add64adfb1c7194d6825aebbe833ef8d91c36bfe9f2190344",
+      "size": 441
     },
     {
       "name": "defaultconfigs/astikorcartsredux-common.toml",
-      "hash": "97a40cc814cabd1172f91db27c9b8689ece37000cf5081a13ec45f4b4a88302e",
-      "size": 3995
+      "hash": "7e3a36f8a71a4fcfea11e0609880b82617b73dba30d5ed939c19da4e9e0550bf",
+      "size": 3886
     },
     {
       "name": "defaultconfigs/atmosfera.json",
-      "hash": "37d6bac4d7aaffb37c3d65f3402c21a235fe4f27635d10f7d5842e08fdadbb91",
-      "size": 3503
+      "hash": "9dcb9a591fce019307b6a4f57f968618f1be4c807d26de136bf95cb26551cd5a",
+      "size": 3423
     },
     {
       "name": "defaultconfigs/autohud.json5",
-      "hash": "d277a4cb15df9b3179d1553b62b089caf07e28eb6b7ca281e18c75d98ef597ef",
-      "size": 4448
+      "hash": "c2c8b25a379bd2e02b4cde25cf06fb70c109cd79fe43fd6abf0ac54a37bcc56d",
+      "size": 4229
     },
     {
       "name": "defaultconfigs/betteradvancements.json",
-      "hash": "90ec23cf1d730153d34167760b65051878f482d326545d223b4c5eafd9e75783",
-      "size": 639
+      "hash": "38b28a4db412f8fe26d34673a0263e97e13e534091679ace998f52a11f3743d4",
+      "size": 620
     },
     {
       "name": "defaultconfigs/betterarcheology.jsonc",
-      "hash": "e0cf67368197b1d187e87345823951be218fdd485a02b8bb41a7bdbc81a67118",
-      "size": 2588
+      "hash": "2638a4de3fd4f7c90389b0b19984577c82d5ac59eef4945efe5d55c70fb471a8",
+      "size": 2521
     },
     {
       "name": "defaultconfigs/bettercaves/neoforge-1_21_1/liquidregions.json",
-      "hash": "29e23d985f00626672b0230045453502ade1ca5eca87af28caaf0449772933cd",
-      "size": 178
+      "hash": "79ae7fac378b24ca5a1688efeee2fc4261eaf825cf5dff72636d0ce4c18f9c9f",
+      "size": 169
     },
     {
       "name": "defaultconfigs/bettercaves/neoforge-1_21_1/README.txt",
-      "hash": "62c95c0edadffca79addf23d001c37b40e9bf3ca9aac0252e0d818acb73aafc2",
-      "size": 755
+      "hash": "1dc29f3ad9f62887f2667aeaed28c3fd3a2520055382ecb3636e3cb9ea563baa",
+      "size": 743
     },
     {
       "name": "defaultconfigs/bettercaves/README.txt",
-      "hash": "f21e5c85af3ce356ee37f0d8388ffc1698386c62e355b8a803897a4420c24a1f",
-      "size": 550
+      "hash": "e6f25132180339d5b7f53c1f5473f28cdf743f76292bc8f87142e4b0300e0f2c",
+      "size": 546
     },
     {
       "name": "defaultconfigs/betterclouds-v1.json",
-      "hash": "387e3decb1231b47ee2c58b3bb67d4125ddcef5a50e0d4a0960f092093007eb4",
-      "size": 8378
+      "hash": "99a3b8f60d15b3ffd649e9e43d4b097edf25fbaeee8ef0dd06c1f89806a6cc31",
+      "size": 8074
     },
     {
       "name": "defaultconfigs/betterdeserttemples-neoforge-1_21.toml",
-      "hash": "ddcda37a2601d47310f53e4e78dfacea4627acf488ba2e22eb52a0f3abe35819",
-      "size": 558
+      "hash": "9fed1a0e91da4bac8acd97baa987e6cb584239bccf68e7a8e52771183e5e6e4d",
+      "size": 546
     },
     {
       "name": "defaultconfigs/betterdeserttemples/neoforge-1_21/armorstands.json",
-      "hash": "dcceee3c2bb1f9dafb545595d3a446411a1be6cdb5b97f310e623217e7a00b95",
-      "size": 1403
+      "hash": "920633ce070f5c1f85c2df0bc8c152bdd53795f23e3694bbbb5f8cf7d4769525",
+      "size": 1345
     },
     {
       "name": "defaultconfigs/betterdeserttemples/neoforge-1_21/itemframes.json",
-      "hash": "9f5b04d532854501f197a514930800cbdfec92f7d01c942bb4b848dea150f348",
-      "size": 856
+      "hash": "e1f1316614026870fb39e7b2187f00ab83bfc8bd503eaf2be19a5c0ff0875660",
+      "size": 825
     },
     {
       "name": "defaultconfigs/betterdeserttemples/neoforge-1_21/README.txt",
-      "hash": "5a8b0890db6b40611e79651c49a5c91c5f24c83d53d40842f698e53c7fab4d9d",
-      "size": 1713
-    },
-    {
-      "name": "defaultconfigs/betterdeserttemples/README.txt",
-      "hash": "56605f71b83020b4661411385022dfee6454328b2320419117f0e4c89e449522",
-      "size": 732
-    },
-    {
-      "name": "defaultconfigs/betterdungeons-neoforge-1_21.toml",
-      "hash": "d3bc229187e359ba28a7b0280200a356fe9239f95fe6e1b8eff6e73fab3b1fa9",
-      "size": 3375
-    },
-    {
-      "name": "defaultconfigs/betterendisland-neoforge-1_21.toml",
-      "hash": "63d001e3885170e503b2ceca8489745019ae039ecfe3b76cc3530684a3692c08",
-      "size": 925
-    },
-    {
-      "name": "defaultconfigs/betterfortresses-neoforge-1_21.toml",
-      "hash": "a79ae742d383e3037b0b383dba3a536108ae838dc064208297a8cb89dbb2beb2",
-      "size": 413
-    },
-    {
-      "name": "defaultconfigs/betterfortresses/neoforge-1_21/itemframes.json",
-      "hash": "40a5010bf8e31a1de4eebbd228e508d455bfb00b000350a57987ba460a2ace97",
-      "size": 1210
-    },
-    {
-      "name": "defaultconfigs/betterfortresses/neoforge-1_21/README.txt",
-      "hash": "050cf34b7d9f1568c55c250b23b1b233d5525a69ed6719ef6782ac64d6ee6be7",
-      "size": 1365
-    },
-    {
-      "name": "defaultconfigs/betterfortresses/README.txt",
-      "hash": "c4fb461d8edd63aee398207fe964e49ffb2dee3011fe2b8222312b32bf37894b",
-      "size": 874
-    },
-    {
-      "name": "defaultconfigs/bettergrass.json5",
-      "hash": "b070ead9a48f62ab9dded2c138dc4e4d6d135ab225beafd64894910482647031",
-      "size": 943
-    },
-    {
-      "name": "defaultconfigs/betterjungletemples-neoforge-1_21.toml",
-      "hash": "a96e98325c500163a24afd06d46dcc1ce4328a3bc136c4c08fba8691ff02db20",
-      "size": 83
-    },
-    {
-      "name": "defaultconfigs/bettermineshafts-neoforge-1_21.toml",
-      "hash": "c40e87bba61db3d78719e9cd849cf9ac2dfad8895fa375e34718649f36209c6d",
-      "size": 3927
-    },
-    {
-      "name": "defaultconfigs/betteroceanmonuments-neoforge-1_21.toml",
-      "hash": "7fb501f263ab6d843e1712814d45d8f7d64bd410440a422452474673a950ca98",
-      "size": 407
-    },
-    {
-      "name": "defaultconfigs/betterpingdisplay-client.toml",
-      "hash": "7cf52dc9a2605f2acb2aa23159e5e8c0793be9fd71017ecd45078f513f0924ef",
-      "size": 675
-    },
-    {
-      "name": "defaultconfigs/betterstrongholds-neoforge-1_21.toml",
-      "hash": "7a74efe84358a6ebc6658892822ccd7d755bd425dad4a8e5e2712aa7886e5ed5",
-      "size": 603
-    },
-    {
-      "name": "defaultconfigs/betterstrongholds/neoforge-1_21/armorstands.json",
-      "hash": "95c19936e647b2492487d283bd27611bb8f9f297d59882e172c561423d0bbb7d",
-      "size": 1452
-    },
-    {
-      "name": "defaultconfigs/betterstrongholds/neoforge-1_21/itemframes.json",
-      "hash": "dabb20191ed6413591a341ee30a449b82ab4779d586e7eb08000cf6eb757ea67",
-      "size": 955
-    },
-    {
-      "name": "defaultconfigs/betterstrongholds/neoforge-1_21/ores.json",
-      "hash": "ccffbc08679018e5f700c8aec651b8f0f344016ce501edb8bcddd2593cdadf95",
-      "size": 361
-    },
-    {
-      "name": "defaultconfigs/betterstrongholds/neoforge-1_21/rareblocks.json",
-      "hash": "2b10530265bbbf18eae48d61bd53acb9aea79a799934f24098768ff1bdfa2ee2",
-      "size": 250
-    },
-    {
-      "name": "defaultconfigs/betterstrongholds/neoforge-1_21/README.txt",
-      "hash": "8600df0b106b20965f27bb66458eaee47a8ca7b495430e335913fa0bf67d35d8",
-      "size": 2892
-    },
-    {
-      "name": "defaultconfigs/betterstrongholds/README.txt",
-      "hash": "068caa8f02b36023342e051ccfcf30d79283123f9694392ac6201293f77e452b",
-      "size": 726
-    },
-    {
-      "name": "defaultconfigs/bettervillage_1.properties",
-      "hash": "e0f0d9cb03db8f1703b7d5b3643c461a339590703b1d41bed6e18f8f3605ee1d",
-      "size": 271
-    },
-    {
-      "name": "defaultconfigs/betterwitchhuts-neoforge-1_21.toml",
-      "hash": "d51fbc7519fa486b0c468589d421f1da7939d8d688c11f4cc299477fd4007e05",
-      "size": 392
-    },
-    {
-      "name": "defaultconfigs/biolith/general.json",
-      "hash": "6b53e5b4921f29d6bbb2398696684660e39737a15079184f04f03c3ebf252b80",
-      "size": 180
-    },
-    {
-      "name": "defaultconfigs/cameraoverhaul.toml",
-      "hash": "7da36cb0cd25ea357170858d0b72e87388ea036d0cfa3fb35e3d078a22fedb8b",
-      "size": 5287
-    },
-    {
-      "name": "defaultconfigs/chalk-client.toml",
-      "hash": "f69c5ddc4036db5b1c8ae54382375599919d5f9bc20c35440a5aaefbac4980d4",
-      "size": 753
-    },
-    {
-      "name": "defaultconfigs/chalk-common.toml",
-      "hash": "4f871b565501ec9cbf9539121ad4d446a15421028fd07107045cb01a1440844c",
-      "size": 1311
-    },
-    {
-      "name": "defaultconfigs/charmofundying-server.toml",
-      "hash": "ee41c32602d73c308162a1d2165ad0031aa28ffcd7c78af026daf7407de6312b",
-      "size": 380
-    },
-    {
-      "name": "defaultconfigs/chat_heads.json5",
-      "hash": "6c33c13dd59338bed6c694acf4959315f2b67be4160e4b9c44e87c4966f77cad",
-      "size": 238
-    },
-    {
-      "name": "defaultconfigs/citadel-common.toml",
-      "hash": "37b58c818b2936a7d3b17982c2d198b55d026c33bcbbb98b17075c78202fb752",
-      "size": 656
-    },
-    {
-      "name": "defaultconfigs/clear-despawn-reworked.toml",
-      "hash": "ef99a9fb1bfe7daa8cea67428471e76bf7b8df9310c634d4b865b8a8c31b95ba",
-      "size": 206
-    },
-    {
-      "name": "defaultconfigs/cobbled_counter.json",
-      "hash": "c9efa4718d538a640e61671554824f8555c1852b0b3df3fd299995af7085aabc",
-      "size": 140
-    },
-    {
-      "name": "defaultconfigs/cobblemon/main.json",
-      "hash": "43ec51e0d5e8b9465688b8ba653ef977135c6c5d0bb153b35becc65320eb7c3f",
-      "size": 3515
-    },
-    {
-      "name": "defaultconfigs/cobblemonintegrations-common.toml",
-      "hash": "d60450672b0b7d153d1c87f1f9769b8f53272748639467907fbd975757d758fd",
-      "size": 2150
-    },
-    {
-      "name": "defaultconfigs/cobblenav/client-config.json",
-      "hash": "7f08d1b32fda5d1a6ac3e3df7b214562f2f943d7d1d26e03f019ddbefd3b4343",
-      "size": 416
-    },
-    {
-      "name": "defaultconfigs/cobblenav/server-config.json",
-      "hash": "2a728fddb55f615cc25fa2474087568eff19221973053b287a1dd1b6ececfa42",
-      "size": 1144
-    },
-    {
-      "name": "defaultconfigs/collective.json5",
-      "hash": "72ea023785e7b7368adccbae4fa6bb961f8a56825bb10a4f357abed33a0ec393",
-      "size": 1012
-    },
-    {
-      "name": "defaultconfigs/collective/area_names.json",
-      "hash": "d4e7ad5cceb9dd6dc75fb992ac861fbb7e33fabdebd815ee3d4351959d2c2f1c",
-      "size": 11489
-    },
-    {
-      "name": "defaultconfigs/connectivity.json",
-      "hash": "b40ad84f07b31d46d97af140e434fb1671feaa1c77ce81880351bfdd4300950f",
-      "size": 1804
-    },
-    {
-      "name": "defaultconfigs/continuity.json",
-      "hash": "c9fa36dd3a5bbbe1ebd140ac9ee2eb0cb7b27a954b5fb4841b1b567e32344f3a",
-      "size": 98
-    },
-    {
-      "name": "defaultconfigs/controlify.json",
-      "hash": "d518aa778f3e3e4abd8d7f39e36d71c0e8e353e3d24764bb7c544223944cde9d",
-      "size": 9957
-    },
-    {
-      "name": "defaultconfigs/coolrain.json",
-      "hash": "0050f0c2dcc2c169dce5a6fe46aa547697181711efa89d9e5bec5521a4be1df5",
-      "size": 9948
-    },
-    {
-      "name": "defaultconfigs/corpse-server.toml",
-      "hash": "0939d309e71343408c9f2153a9d75e51da168ece15135669ed18a9e0688b7257",
-      "size": 1066
-    },
-    {
-      "name": "defaultconfigs/cosmeticarmorreworked-client.toml",
-      "hash": "7379ca8f14c9e3d34995df2567838577d864048069d40343c0c2c20ed74ae166",
-      "size": 1308
-    },
-    {
-      "name": "defaultconfigs/cosmeticarmorreworked-common.toml",
-      "hash": "948d9473c4cafb1ee761f2fc136fc676dcdc9270adcce44f586a4e7b0cdf3b43",
-      "size": 373
-    },
-    {
-      "name": "defaultconfigs/cosycritters.json",
-      "hash": "70b646bb5bc4c9f9802be9223dcbf5ad6fa47e7e1bd71584b85881891dfdc6bb",
-      "size": 685
-    },
-    {
-      "name": "defaultconfigs/create_connected-common.toml",
-      "hash": "3bd164eb4a04c74da87098b224f14b1bfc08f3ddfbbc26f00582e0dda70ad6fe",
+      "hash": "80ba474fdd1912739a1dc3326de6539ccfceb9d5c97f540131b567e295a7b112",
       "size": 1683
     },
     {
-      "name": "defaultconfigs/create_connected-server.toml",
-      "hash": "006d16602a65d527dadecdcbb876fc8eb8c467b7a2b1fdfcdc2d4b470572753b",
-      "size": 1875
+      "name": "defaultconfigs/betterdeserttemples/README.txt",
+      "hash": "a8248503b691a780ba45cf033a8d74f1f878d27f119f1d8b4b80b2b8745f62db",
+      "size": 726
     },
     {
-      "name": "defaultconfigs/create_dragons_plus-client.toml",
-      "hash": "f2695bdc0128d017ee06586a04139309ec314a03b766144ea6cf1319f5a8ba45",
-      "size": 306
+      "name": "defaultconfigs/betterdungeons-neoforge-1_21.toml",
+      "hash": "9c04b060ee16f38c2d0b1e5834333e4bccf415c1197ce89ddf8d4686b568222b",
+      "size": 3308
     },
     {
-      "name": "defaultconfigs/create_dragons_plus-common.toml",
-      "hash": "602ad3a6cf9d680cbb8e4c218c36116fd88ab5699c77ade35c740ec5e5dc99e2",
-      "size": 1416
+      "name": "defaultconfigs/betterendisland-neoforge-1_21.toml",
+      "hash": "1738e5ce8d1436cd6ef862f50fd02b573266895039c8ab705cf35098ee0cf1f8",
+      "size": 906
     },
     {
-      "name": "defaultconfigs/create_dragons_plus-server.toml",
-      "hash": "0aeb2d60187d0c1a5691aebedf89b448d7a88a573ffe42138ffbd2e3d9911b55",
-      "size": 351
+      "name": "defaultconfigs/betterfortresses-neoforge-1_21.toml",
+      "hash": "46a1bc6b60a68f8022e1e94969bc28d8d97487cef2e3f413da3eadf3c43a102f",
+      "size": 405
     },
     {
-      "name": "defaultconfigs/create_encapsulated-common.toml",
-      "hash": "3a53fef331e84a25f58b13dbda92f6e8fc8d838fd75552c0e1f3fe6cfc6b4efb",
-      "size": 334
+      "name": "defaultconfigs/betterfortresses/neoforge-1_21/itemframes.json",
+      "hash": "9b5f0119809547bb579aa0b2a51780d79963cc97e813bc07e6a8e8bac1c4adf6",
+      "size": 1162
     },
     {
-      "name": "defaultconfigs/create_enchantment_industry-client.toml",
-      "hash": "f702c288fa06ab10ce405cf396bc43832f774a3ff223cd4f9cc4353b93ca5c2a",
-      "size": 157
+      "name": "defaultconfigs/betterfortresses/neoforge-1_21/README.txt",
+      "hash": "1175dbf9cd2e7c91b1c852a51e3c0203c68484917e877465b283e2370ad62864",
+      "size": 1339
     },
     {
-      "name": "defaultconfigs/create_enchantment_industry-server.toml",
-      "hash": "fd11de265aab2e0efbe6b846fdf472a988d50a9e7b0e6610bd171a9d4fb90e9b",
-      "size": 6235
+      "name": "defaultconfigs/betterfortresses/README.txt",
+      "hash": "5643f5af88b445a96f2c6ea167b97cc640059eda5c849ed3c7b8d5023ab51a86",
+      "size": 867
     },
     {
-      "name": "defaultconfigs/create_factory_logistics-server.toml",
-      "hash": "58b36c1001cfb09a4d1e28eba73718b588b580f269bbcf8e3d435f9709609ade",
-      "size": 353
+      "name": "defaultconfigs/bettergrass.json5",
+      "hash": "66dc3f3e9aceacbbad115d7d7f123cbfe0007d61305ba2b2011b48ffeac60c6d",
+      "size": 896
     },
     {
-      "name": "defaultconfigs/create_stats-common.toml",
-      "hash": "90a89aaf00f0eee7988a7c20550d15653105304483879118e5842df48cec5dd8",
-      "size": 2524
+      "name": "defaultconfigs/betterjungletemples-neoforge-1_21.toml",
+      "hash": "52763cac061fd6f110941c755aba7d5f2de0c9838d4eb5a5108ce39bc67bdf9e",
+      "size": 81
     },
     {
-      "name": "defaultconfigs/create-client.toml",
-      "hash": "c7a4a9cb89e3e283e2d8d88582d688545b57ff4b72197217f65c60e57799c724",
-      "size": 4661
+      "name": "defaultconfigs/bettermineshafts-neoforge-1_21.toml",
+      "hash": "2a88ddced4f4ea105fb6c1b54b96edc524c147ec3498ea3bc2e3418a7c7faeb4",
+      "size": 3803
     },
     {
-      "name": "defaultconfigs/create-common.toml",
-      "hash": "705b3abd888edeedc35c608f48248de29f1bc1ed0b71da16d9cee0cc8c974467",
-      "size": 154
+      "name": "defaultconfigs/betteroceanmonuments-neoforge-1_21.toml",
+      "hash": "330ce676c83edab68ef5b233aea8abeaae10e68e68d1ef7e0aa30b58c0fbebf2",
+      "size": 399
     },
     {
-      "name": "defaultconfigs/create-server.toml",
-      "hash": "a44fe8023e1a52744d02980aac83d8abdf35cdede7a9f46dbdb04ad1119c957b",
-      "size": 16239
+      "name": "defaultconfigs/betterpingdisplay-client.toml",
+      "hash": "c379673b88091ba7ce36756b050c7d0be2b8df124954fdbd6461557bca5620ff",
+      "size": 660
     },
     {
-      "name": "defaultconfigs/cubes-without-borders.json",
-      "hash": "e533d7525ccb0345466a9a6d7f9fd7fa884f044ac90529a31cff66766630ca95",
-      "size": 210
+      "name": "defaultconfigs/betterstrongholds-neoforge-1_21.toml",
+      "hash": "6a7c439960f70243f42a1ae8e7f95b34e542c3206b25db8ee701bcebf80147ca",
+      "size": 592
     },
     {
-      "name": "defaultconfigs/cupboard.json",
-      "hash": "9ca403c2fdb98337856030d7470aeaf7ddc5ac427e8f9c6c1bc1991a8ac02a47",
-      "size": 1331
+      "name": "defaultconfigs/betterstrongholds/neoforge-1_21/armorstands.json",
+      "hash": "91ea63074b5dda4abeb7461f930915b69267c47b3ef12f89c94a9a750b217559",
+      "size": 1392
     },
     {
-      "name": "defaultconfigs/curios-client.toml",
-      "hash": "a74649e2873037eee5db22ed24c2f6ffe2c62a5f1fb1d6f7d3ee9dd091e5fb20",
-      "size": 752
+      "name": "defaultconfigs/betterstrongholds/neoforge-1_21/itemframes.json",
+      "hash": "a6ed955ba3a820fdb261e2e2c67a3be03805deee409d96f0b972d450e46ab9ae",
+      "size": 921
     },
     {
-      "name": "defaultconfigs/curios-common.toml",
-      "hash": "e399abf245e8130cd3122f32e6cf0f4c6df0be199388ebe098d633672be58e9c",
-      "size": 161
+      "name": "defaultconfigs/betterstrongholds/neoforge-1_21/ores.json",
+      "hash": "5d56548734493d0b2b13c339ce8c306e92d8ea61bc88624d22c22aea316eba3f",
+      "size": 347
     },
     {
-      "name": "defaultconfigs/curios-server.toml",
-      "hash": "4f539c22bc2316f119f1753a0addf27391c262835b267692fd048e438d0e68e3",
-      "size": 482
+      "name": "defaultconfigs/betterstrongholds/neoforge-1_21/rareblocks.json",
+      "hash": "ab6f0a63ecb69a3a63ed5927b31fabab3fe5d7d791a31e34b378e189c9ebe6f7",
+      "size": 239
     },
     {
-      "name": "defaultconfigs/DistantHorizons.toml",
-      "hash": "66407fbe7b836b689a755669f0be0ba894d09ac0d3756393745afc976c2d026e",
-      "size": 29712
+      "name": "defaultconfigs/betterstrongholds/neoforge-1_21/README.txt",
+      "hash": "5aad271e60a03218eb5207dd78df8d1d36c676f212bf823701e33646010d2f19",
+      "size": 2830
     },
     {
-      "name": "defaultconfigs/dynamic_fps.json",
-      "hash": "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f",
-      "size": 4
+      "name": "defaultconfigs/betterstrongholds/README.txt",
+      "hash": "cd97289ac49b09b032d9c69a2f893b8fa9f73849b4adb9f63f8486a83bf2fd5a",
+      "size": 719
     },
     {
-      "name": "defaultconfigs/eg_particle_interactions.json",
-      "hash": "f287ca6bffa004c0239636aee006ddf8baf3e71f6671f72e68e5d38de53843e3",
+      "name": "defaultconfigs/bettervillage_1.properties",
+      "hash": "d34255919e19831d15a661d1382c2b562c176353f4a6197a6675f56d642c8153",
+      "size": 265
+    },
+    {
+      "name": "defaultconfigs/betterwitchhuts-neoforge-1_21.toml",
+      "hash": "15630ab07f6ae616402184fd4a6d8fa4440f547b3fffa5bf47bd63e395b63455",
+      "size": 384
+    },
+    {
+      "name": "defaultconfigs/biolith/general.json",
+      "hash": "7766fcc0377bab8274eada1a17f923f8914991662cff247fbf2be7bb18db4103",
       "size": 173
     },
     {
+      "name": "defaultconfigs/cameraoverhaul.toml",
+      "hash": "804c7fdcfc23fb10f6ae1154fa5ee8dc245f904b6337f42d98e3b35c1785e3a5",
+      "size": 5152
+    },
+    {
+      "name": "defaultconfigs/chalk-client.toml",
+      "hash": "6ee61d398134f1b6895a2c7693863a24ac78e282aa25a3cb15799655ede0ef38",
+      "size": 722
+    },
+    {
+      "name": "defaultconfigs/chalk-common.toml",
+      "hash": "7a7cf4d704bb6dd4f26ca36c89d381d131a301ba2e6d28557f7a240dc0c82171",
+      "size": 1276
+    },
+    {
+      "name": "defaultconfigs/charmofundying-server.toml",
+      "hash": "2d44372ca83edd86d2d4ffae215ff18d5f6110b37fb376acb3c61913b04906b0",
+      "size": 369
+    },
+    {
+      "name": "defaultconfigs/chat_heads.json5",
+      "hash": "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503",
+      "size": 229
+    },
+    {
+      "name": "defaultconfigs/citadel-common.toml",
+      "hash": "fe59c586fef0a3c94ade9e8fa95d608e70315a8b34eb010a087a87616805c078",
+      "size": 645
+    },
+    {
+      "name": "defaultconfigs/clear-despawn-reworked.toml",
+      "hash": "05452bc96b88f5da14c75271b6e222848fc2c4ddcfba2f5aa71f0132631e1191",
+      "size": 197
+    },
+    {
+      "name": "defaultconfigs/cobbled_counter.json",
+      "hash": "ecb83f60b688742812d67e76fde29126d5cb7e9273a9fba553a3f35b499ed29d",
+      "size": 133
+    },
+    {
+      "name": "defaultconfigs/cobblemon/main.json",
+      "hash": "b989aef3b2f9e7f0e71bcd1a96b33888720aee3c01403960130f50a40df1bbc0",
+      "size": 3409
+    },
+    {
+      "name": "defaultconfigs/cobblemonintegrations-common.toml",
+      "hash": "478da567cd8b0a614c0b79adab5c9b23f8fb2cb54319606bc3b4c4d146950337",
+      "size": 2116
+    },
+    {
+      "name": "defaultconfigs/cobblenav/client-config.json",
+      "hash": "860e48008f5141517bd155ff52c57e0278e8f1d48d0db845f975462bb42685cc",
+      "size": 401
+    },
+    {
+      "name": "defaultconfigs/cobblenav/server-config.json",
+      "hash": "fc4fc51ecdedacca3e47c3be0ea1a71302aec9fcc1af4fca4253e6d6c166d6a3",
+      "size": 1096
+    },
+    {
+      "name": "defaultconfigs/collective.json5",
+      "hash": "1bd89e753b05ca51f7260596b5e8e8d53b6510eb39eb05c315a2e4f0d789461b",
+      "size": 999
+    },
+    {
+      "name": "defaultconfigs/collective/area_names.json",
+      "hash": "29729fa3f13506b5be6102ed718923de3926f6d84fa127e1d5988bdd229eb273",
+      "size": 10836
+    },
+    {
+      "name": "defaultconfigs/connectivity.json",
+      "hash": "c0ce2214065a19d0d90a3fd0a79a1e3cebe93cacfa4f7342c3cfc58b34994a7d",
+      "size": 1764
+    },
+    {
+      "name": "defaultconfigs/continuity.json",
+      "hash": "2d7585fe4494406705f0d3e15f48f0a688c9faa0a876586cf3655c1cab19f384",
+      "size": 93
+    },
+    {
+      "name": "defaultconfigs/controlify.json",
+      "hash": "a870d79329d694b30a3dc0729e58379c4a10b5adeeb044da4ed44c70ae0418a7",
+      "size": 9632
+    },
+    {
+      "name": "defaultconfigs/coolrain.json",
+      "hash": "7a9b0d9d6470b6b2ae3b7e55eb2bb1d3159bc6d211fe57276a7ea62350873f40",
+      "size": 9658
+    },
+    {
+      "name": "defaultconfigs/corpse-server.toml",
+      "hash": "151b2bc2fc42f48d3817cc34c2f1434534aa18e54d66ef908ee3e2b53a5cc869",
+      "size": 1030
+    },
+    {
+      "name": "defaultconfigs/cosmeticarmorreworked-client.toml",
+      "hash": "b8495b4f55d0ee4c7ff589cd5e201b6fac511d7b83b7320603dc6661fb3bcc94",
+      "size": 1276
+    },
+    {
+      "name": "defaultconfigs/cosmeticarmorreworked-common.toml",
+      "hash": "13a525079f0bd9f5c9edaf853cf4bb6b3ac9b337c1c8f5699f71618b1c24f012",
+      "size": 365
+    },
+    {
+      "name": "defaultconfigs/cosycritters.json",
+      "hash": "5c1bcac40619b2d66dbcd7b96c5838f8adac8182b1cfd9e6d7557c796ae83735",
+      "size": 656
+    },
+    {
+      "name": "defaultconfigs/create_connected-common.toml",
+      "hash": "c3f802fb87605876336181a80a246b0416700830dae912e884f5935d703ef9d0",
+      "size": 1619
+    },
+    {
+      "name": "defaultconfigs/create_connected-server.toml",
+      "hash": "8f6fdbcddf3f021829e1eb53f2b10d67da2a6fe5ef7fd90df5888fe777aa1ba8",
+      "size": 1804
+    },
+    {
+      "name": "defaultconfigs/create_dragons_plus-client.toml",
+      "hash": "9f489bd673f80055f99355e6871e92a262ac5cdb1cde26592bf410f7bf38c69b",
+      "size": 296
+    },
+    {
+      "name": "defaultconfigs/create_dragons_plus-common.toml",
+      "hash": "313b3f3728b1eaef3508184915d84d98530d6e78a0588a3807204054e1fb800f",
+      "size": 1368
+    },
+    {
+      "name": "defaultconfigs/create_dragons_plus-server.toml",
+      "hash": "5476e4a3b8f66cc00a375c46dcea2c90933bf3be4c40c892a42746b593a4e5b5",
+      "size": 335
+    },
+    {
+      "name": "defaultconfigs/create_encapsulated-common.toml",
+      "hash": "839eb01a1d1b83a1fbb56c65027f680ca48f62b3dea551ccfe1456ff44e21ea9",
+      "size": 324
+    },
+    {
+      "name": "defaultconfigs/create_enchantment_industry-client.toml",
+      "hash": "3c73c1bc343f3ec2722dbd138ebef24ada9203fce765fb144b5cadd733fcf4f7",
+      "size": 152
+    },
+    {
+      "name": "defaultconfigs/create_enchantment_industry-server.toml",
+      "hash": "c1211101c8a234cf4597053565c199ad19b2ab63b75dfa7831466562105faf75",
+      "size": 6043
+    },
+    {
+      "name": "defaultconfigs/create_factory_logistics-server.toml",
+      "hash": "df47d3c3035eb9021abfc1e1bdedd67e7f37b65e0751a763494abfb5aacf4fad",
+      "size": 345
+    },
+    {
+      "name": "defaultconfigs/create_stats-common.toml",
+      "hash": "b68e725f8be339ea9ae4641b546f5d6f5f78e1033e0440140528491bf475591f",
+      "size": 2441
+    },
+    {
+      "name": "defaultconfigs/create-client.toml",
+      "hash": "1ec9831c6943017caccf7f3ac30fff3f9a0b2e40e33cafd3da49fe51f19fbaa6",
+      "size": 4514
+    },
+    {
+      "name": "defaultconfigs/create-common.toml",
+      "hash": "aa7a934292ea0a6688e0dc9a7e068436adeb3b1441edab96e156cc4f688129a5",
+      "size": 147
+    },
+    {
+      "name": "defaultconfigs/create-server.toml",
+      "hash": "94e4ceab640f18580eb413f02e66a101c4b89bccf670fdfd0442311ed5f4590c",
+      "size": 15636
+    },
+    {
+      "name": "defaultconfigs/cubes-without-borders.json",
+      "hash": "0bc60520fa9d35dfe8511666c3a8ed9e0f56d47002c260eb844c0fa41e536cee",
+      "size": 203
+    },
+    {
+      "name": "defaultconfigs/cupboard.json",
+      "hash": "2866f72fe4f69033e0f635b3c839805251da1b021b8c8cafac7fdc9e3aa87fd5",
+      "size": 1305
+    },
+    {
+      "name": "defaultconfigs/curios-client.toml",
+      "hash": "5076d0409b3dbcf82ff6ce8a3527a383396db2ba29c76830ab53973ce6eb5616",
+      "size": 727
+    },
+    {
+      "name": "defaultconfigs/curios-common.toml",
+      "hash": "3518def0cf0c4309aeeef5ae72c9dfc3017c8c4058e9bb7f9df316f02127b3c0",
+      "size": 157
+    },
+    {
+      "name": "defaultconfigs/curios-server.toml",
+      "hash": "1ddb648ca52230d1dc3e6d985057478d5274d039e94c8953c292fec848bddd9c",
+      "size": 466
+    },
+    {
+      "name": "defaultconfigs/DistantHorizons.toml",
+      "hash": "bce6d50304d84990673d9a75d2827acc5648722fee6064456b17df97095b3c69",
+      "size": 28885
+    },
+    {
+      "name": "defaultconfigs/dynamic_fps.json",
+      "hash": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    {
+      "name": "defaultconfigs/eg_particle_interactions.json",
+      "hash": "d66ef50d82a4ae209f69a9878b3b22c25c235149b3ec6eac521dfdb06cbafb62",
+      "size": 164
+    },
+    {
       "name": "defaultconfigs/enchdesc.json",
-      "hash": "58ac334896151321ff9410a7cc8ae2498ebcd70e3911bdb016fb60892820921d",
-      "size": 2130
+      "hash": "187b9f765180d2c51e78d25a6cfb361c9605d9c152e6993736c64096353b3680",
+      "size": 2060
     },
     {
       "name": "defaultconfigs/entity_model_features.json",
-      "hash": "1627c97a80f62e3d9d17a4c3e407a6234595fa3364b38a257df1be3791cc6d2f",
-      "size": 1179
+      "hash": "4937a649aa5e462584111ff9d309e47afa823c69833aa9e65007fe6e2d520fa3",
+      "size": 1147
     },
     {
       "name": "defaultconfigs/entity_texture_features.json",
-      "hash": "cdfd37decab26b8cdc16ba2704f363b66f9824a0e595a8e1c084efacf7dd36e3",
-      "size": 1462
+      "hash": "4ec025fffc5d022df0137d6ccd36ca31ce6aad5fce087c557e8f3229070913a2",
+      "size": 1422
     },
     {
       "name": "defaultconfigs/entityculling.json",
-      "hash": "256a53dcafb3b6ee296b339ee509b357865af86416f2836203cdd83cce4f3b8d",
-      "size": 1967
+      "hash": "547efd124a7608ae72c9bc5d82d5eca8fb3f16e81beebe6d31ca9db17053ca0c",
+      "size": 1898
     },
     {
       "name": "defaultconfigs/envelope-client.toml",
-      "hash": "d44197932b8ba9d021a181a6ee57215d214295ad88310d0955d30683e303b245",
-      "size": 252
+      "hash": "2a8eab6cba6b1bdf0851ec6a68ff63c6c03d90f58872deb8210c722f692e0a04",
+      "size": 247
     },
     {
       "name": "defaultconfigs/envelope-server.toml",
-      "hash": "ba7ea37e595222ee1f558f375e8c4df73ee7313922ccdb5ca4cc77ec686d8980",
-      "size": 4333
+      "hash": "b33deb29a6d534333473b7b02cc293ee7bba81a395ebac3bececd603cbaf4274",
+      "size": 4210
     },
     {
       "name": "defaultconfigs/etf_warnings.json",
-      "hash": "6fa1b6af4e971524f786431fe28e8d8ef71f10548002c9749e3c950eef1df0a2",
-      "size": 32
-    },
-    {
-      "name": "defaultconfigs/euphoria_patcher/data.json",
-      "hash": "fa1ca48801ad5f73d36564203c484a078abd6819162a16f13ecbf0074e95a91b",
-      "size": 170
-    },
-    {
-      "name": "defaultconfigs/euphoria_patcher/settings.toml",
-      "hash": "fb5b96538eee40c7c35a87095453554963790da073cbda865901fc5bb489cc83",
-      "size": 2607
-    },
-    {
-      "name": "defaultconfigs/exposure_polaroid-client.toml",
-      "hash": "47241420c4df4d43ea4bbecd39d3709c38f805061d8cc2bd7bf33af6adaa1440",
-      "size": 585
-    },
-    {
-      "name": "defaultconfigs/exposure_polaroid-server.toml",
-      "hash": "fe83a46bc83c4fbd6739d6b3236cc14b56c926ee57dedf1a3bfd1e059dec1918",
-      "size": 429
-    },
-    {
-      "name": "defaultconfigs/exposure-client.toml",
-      "hash": "b6323ec4ebc3339efcd0ab9dc25c9bf5f0d9a11d48e50d865910bc3594c29795",
-      "size": 7606
-    },
-    {
-      "name": "defaultconfigs/exposure-common.toml",
-      "hash": "e062bf8ab6b936b05d15940e20cb77c7cd58c940924c0e89a1fbe6d1b6dfa46f",
-      "size": 348
-    },
-    {
-      "name": "defaultconfigs/exposure-server.toml",
-      "hash": "6b4a5a7882247b595b7a7cbeadf78fd9a3f9891ab0b114f3fc1a652856033dab",
-      "size": 5319
-    },
-    {
-      "name": "defaultconfigs/fabric/indigo-renderer.properties",
-      "hash": "c06e94780ab3db12347e1b6888d540b4feead192eab138fb7b83eaae916e4f4b",
-      "size": 291
-    },
-    {
-      "name": "defaultconfigs/fastquit.toml",
-      "hash": "fbdfff0d6ff4c2ca863895c6ad091e1170f4fb841bfe72981a4d5ff223639bf2",
-      "size": 125
-    },
-    {
-      "name": "defaultconfigs/ferritecore-mixin.toml",
-      "hash": "62b09a696fbb93fb4d40d1111e692288ad8daee1e6c37d69e36428a71ace3585",
-      "size": 1615
-    },
-    {
-      "name": "defaultconfigs/ferritecore.mixin.properties",
-      "hash": "bdd54ad580fc678a117e4f559daaed5ebbe0dde176127ddb95dd2d5e5b4e4818",
-      "size": 1615
-    },
-    {
-      "name": "defaultconfigs/fightorflight_moves.json5",
-      "hash": "f4793001554524850a0d4b668dbadee853e0483599827d05cc2452ed5801f91e",
-      "size": 8569
-    },
-    {
-      "name": "defaultconfigs/fightorflight_visual_effect.json5",
-      "hash": "9d517b6ccdb67af77d8ad79b0463d27311f169e7cda7e44dee071f36d8b1e148",
-      "size": 1429
-    },
-    {
-      "name": "defaultconfigs/fightorflight.json5",
-      "hash": "a3622e3df79bbb3160f6ad393992e11f1b489ec3cdc4514c7d3a50df254319a6",
-      "size": 15380
-    },
-    {
-      "name": "defaultconfigs/figura.json",
-      "hash": "37f3fbeba2d176bf027be395bf2ff37edef13d57c272ab3e8cf19877aaf6a960",
+      "hash": "5b23561751e79a7213a25ef32e54cf34dd27f9f736f63e8fa276f26ecffc15d5",
       "size": 29
     },
     {
+      "name": "defaultconfigs/euphoria_patcher/data.json",
+      "hash": "8bf84e27238a5533b135b5c0464c19feafa2ebe7c196f6fd87543741a7fe7a88",
+      "size": 164
+    },
+    {
+      "name": "defaultconfigs/euphoria_patcher/settings.toml",
+      "hash": "46adfecf6b9a8c6a6fe1ad3240848e7f805a94e91abe4ee64e84bf9f6fc3d5b6",
+      "size": 2557
+    },
+    {
+      "name": "defaultconfigs/exposure_polaroid-client.toml",
+      "hash": "66f3a7ece55a099ed101bd9a55de18ddcb52769f9cff88e91460e1a351446b0f",
+      "size": 568
+    },
+    {
+      "name": "defaultconfigs/exposure_polaroid-server.toml",
+      "hash": "83d3b251069ad9799b47b1fa81dde874f677988b28a63f609e801e0533f3f048",
+      "size": 416
+    },
+    {
+      "name": "defaultconfigs/exposure-client.toml",
+      "hash": "ab597447f3fc634d7c6798381c24004e4449c58928e2a01670a53e8f73e7332e",
+      "size": 7457
+    },
+    {
+      "name": "defaultconfigs/exposure-common.toml",
+      "hash": "19b6fc3e70c651b83343f16474ca46fbc1322a2ba5fbce8323d0391ade223966",
+      "size": 341
+    },
+    {
+      "name": "defaultconfigs/exposure-server.toml",
+      "hash": "94a3b109132448d76e61acd113f45296acf8a8c94647a302a1f7825ecdc0f9be",
+      "size": 5198
+    },
+    {
+      "name": "defaultconfigs/fabric/indigo-renderer.properties",
+      "hash": "a3cd217f78f1dfa438fbcce801324601e621d22dfe83b9d1d534cd6c111e8562",
+      "size": 282
+    },
+    {
+      "name": "defaultconfigs/fastquit.toml",
+      "hash": "e85f39867513fe26179ba3cf7a00d343e9642ceaa96e7ea3cde6a1c3aa69dd4e",
+      "size": 120
+    },
+    {
+      "name": "defaultconfigs/ferritecore-mixin.toml",
+      "hash": "3c0184101785fb1968b872b341d2e71f619ffbe0934573d85249c9cd0c0e6f82",
+      "size": 1591
+    },
+    {
+      "name": "defaultconfigs/ferritecore.mixin.properties",
+      "hash": "fddb9f45485b7ae24191e3d94aa6e94a31016a8d4938d970d7f9877c79235732",
+      "size": 1591
+    },
+    {
+      "name": "defaultconfigs/fightorflight_moves.json5",
+      "hash": "fe35c57287a691a25fc16d5ba80b894e087edb240d1a55e6f02c8ace577bba1a",
+      "size": 8197
+    },
+    {
+      "name": "defaultconfigs/fightorflight_visual_effect.json5",
+      "hash": "1968fe408691b02837f80aedb9c1009b913d4eb482a6d8a590eeca57703a50cb",
+      "size": 1370
+    },
+    {
+      "name": "defaultconfigs/fightorflight.json5",
+      "hash": "791b7111edb04631e300b57143f22d0a84f121830fd3ed94def40ae2cbd35caa",
+      "size": 15095
+    },
+    {
+      "name": "defaultconfigs/figura.json",
+      "hash": "ea3a931ea416d92858e90755017d323264e8484e1e36ef3d8cce796b2ebbb6ab",
+      "size": 26
+    },
+    {
       "name": "defaultconfigs/flywheel-client.toml",
-      "hash": "aea80a32875f638c12ec4176f4055914fa6fbd2d9155711f181d00c079b89cd2",
-      "size": 640
+      "hash": "a800b77ff646b1cac5983619a53b03cdebc83d91b72f3b4c14e8c33a0e2d204a",
+      "size": 626
     },
     {
       "name": "defaultconfigs/fml.toml",
-      "hash": "e28fe06294baac1609a7694deeda0304edb3eb260df47d216c749826ebbbf38a",
-      "size": 1569
+      "hash": "506d2d952a7df1a311636a771385434d76972472078c641cf324a482162dab11",
+      "size": 1537
     },
     {
       "name": "defaultconfigs/footprintparticle.json",
-      "hash": "2870e412fd33c0e77259cb658c9f27f0b1f218848d827a506eaa4b10aff4b9ec",
-      "size": 2243
+      "hash": "39f3d9118280a7de5db8d1f38043554b19c75898e98146a0150f1b41e8006251",
+      "size": 2150
     },
     {
       "name": "defaultconfigs/forgeconfigapiport.toml",
-      "hash": "e142fd7748168f993ea848df16cce864920eead32cb305e76874ba1829318cd2",
-      "size": 526
+      "hash": "798e175e6e7a0649b3e849634ce8bde87f22533fc602b32cda5748e73dd6d922",
+      "size": 520
     },
     {
       "name": "defaultconfigs/fzzy_config/keybinds.toml",
-      "hash": "fe96c8122a0a05c8742d0864326797b65ade16dc30aa58b5dd5c0408118582ac",
-      "size": 6640
+      "hash": "461d8a73c3bf30a3239890c72e1523449cbfb1fa0373c3ed524d91012d8d29c1",
+      "size": 6404
     },
     {
       "name": "defaultconfigs/fzzy_config/search.toml",
-      "hash": "f2bd3529b87b31a1322f89f5e67e5b125d374f2a37b94605e8c1c7a5587e41d2",
-      "size": 519
+      "hash": "02f5de4bb4acb2ee41a991a353700f663af25cf59165bdfb2d30591e82cf2b01",
+      "size": 511
     },
     {
       "name": "defaultconfigs/holdmyitemsnf-client.toml",
-      "hash": "1de1a2cd80a3aae665b1486a0f357aded992f94bae5dae7b3cdb70ca70a65c72",
-      "size": 3218
+      "hash": "86d179a84d8c6f3b397d13a1a68f3403ac230668ab7b84869f968db2b831e1ee",
+      "size": 3100
     },
     {
       "name": "defaultconfigs/horseman-client.toml",
-      "hash": "3c72878685866fd8edcd6f725c99cb11ebbd852b3746ca1027ba5bd7ba8efba0",
-      "size": 2439
+      "hash": "b234d9dd0282fc5390846684c2436690153cb0d96722a9a59b40944936ed487f",
+      "size": 2379
     },
     {
       "name": "defaultconfigs/horseman-common.toml",
-      "hash": "6bfb05430b7cfaa211d09bf8a0caacd3544e6c1bf9de9eb27ab53a1c018eb1e9",
-      "size": 138
+      "hash": "3e90f6cfbc2bc08d605495e557b8a8c1477b3f4f3fc6ca3de4557ed477a2c147",
+      "size": 136
     },
     {
       "name": "defaultconfigs/horseman-server.toml",
-      "hash": "50d72af55c7e3daa8466e17ff50f7bfd00217a98ee357ce9f9b7caae76651b04",
-      "size": 6083
+      "hash": "07e3e9e8c67a5ff901260605e38dbb17330b45edc6b477583de0456831cfcb05",
+      "size": 5964
     },
     {
       "name": "defaultconfigs/immediatelyfast.json",
-      "hash": "f0017d7af93a75abb58d0ed77a8b1659d98b731edf164426253c4d7829c76d55",
-      "size": 1137
+      "hash": "519a9c3d2d687d4d95c44f2449e5d91acb2cf1e68ba19d07ec967d77e55150e2",
+      "size": 1115
     },
     {
       "name": "defaultconfigs/immersive_aircraft.json",
-      "hash": "563799775ef1fcc21ab3577cce7cc7256f3b31695ea59144fcf0b76d37e981aa",
-      "size": 1578
+      "hash": "ae927220d8c34c8e3ca66498d2c764b67e6a0e009fe08ec4a93c4f87b8450259",
+      "size": 1519
     },
     {
       "name": "defaultconfigs/immersive-hotbar.json5",
-      "hash": "bf577b8346424385dcdbbc2107b7a280202a8e9a2cff88c4cd75be9d1e7339ab",
-      "size": 1181
+      "hash": "720f67a5080890c5d02d4f9fcf797ab64adc544df17824c1c872b235cf32e2e1",
+      "size": 1137
     },
     {
       "name": "defaultconfigs/immersive-storms/biomes.json5",
-      "hash": "b48cbba59b0b22894a21832fcdd87240988be6a26a076db130630785255f58b9",
-      "size": 541
+      "hash": "436d47f4f696867d23d3c88d2743e25fbd5cfb74d1a9bd7aad824c885f74dd31",
+      "size": 528
     },
     {
       "name": "defaultconfigs/immersive-storms/general.json5",
-      "hash": "0944d0db0d72caa1e938dbf1be4c6bb537f44049f9da0219126c754e067a0682",
-      "size": 1041
+      "hash": "62c96a3f929cdf24208e118dfdcda24bde59452884bac3a35c4dadc8e5aa62d3",
+      "size": 1020
     },
     {
       "name": "defaultconfigs/immersive-storms/sandstorm.json5",
-      "hash": "65d91420c919d6deaf5e4094f1eef8a3ce12ba788b053a8a7286dd437492f70d",
-      "size": 438
+      "hash": "a252930d2d5599b36cd170f2b2f195b9dc48083a34dd19f77a1d0110b2e5023e",
+      "size": 430
     },
     {
       "name": "defaultconfigs/immersive-storms/schema.json5",
-      "hash": "3449f89e472cd16750ddd499e913bd319aa348ce7c01c6025a8456c156220c5b",
-      "size": 121
+      "hash": "76d264a6046f1eba0c9c94a3c7102b2a5e35aad0308e226e7d6c7ae763fd9455",
+      "size": 118
     },
     {
       "name": "defaultconfigs/immersiveui.yaml",
@@ -632,183 +632,183 @@
     },
     {
       "name": "defaultconfigs/inventory_particles.json5",
-      "hash": "978e64d1352d2d46a0f31a764668c4ac3fe454400b95642a1853ec52b1edbf8c",
-      "size": 1484
+      "hash": "0dd6a334094ed4a9d32aa50d7cb336f33325ea57b3786eaf1307015333d08451",
+      "size": 1424
     },
     {
       "name": "defaultconfigs/iris-excluded.json",
-      "hash": "1573158b841de30ec1378740df4948dacca52e9af33599e834ec59115e15abcd",
-      "size": 36
+      "hash": "32eebbe07f0d9fc96323f4f495d165cceaddb25e5b28b7c5ed011e46faebbf03",
+      "size": 35
     },
     {
       "name": "defaultconfigs/iris.properties",
-      "hash": "11ce38dedfac961c1f2a9c8695118bd18703f9e113935d2960fa000c148f04ce",
-      "size": 336
+      "hash": "bc96ae5d347d055fb5d8c65063df1875b31b7ad70718db5969d9853c91e713b1",
+      "size": 327
     },
     {
       "name": "defaultconfigs/jade/hide-blocks.json",
-      "hash": "b3397e07a4c07561e1d6971efae0c607aa5c62a5dfa0fb92ce7a5abfd74d6b23",
-      "size": 156
+      "hash": "1a4ed2ab3ab130d96066ecdb1cdd466248c6c7cd4a1701f7928f2756e897d3a1",
+      "size": 150
     },
     {
       "name": "defaultconfigs/jade/hide-entities.json",
-      "hash": "fb5bb1c2546daf3a448a474eaf0b2b4519f064065d4992c024f1ab550f9461e8",
-      "size": 254
+      "hash": "735e39df1403dc62e482fb0c95d92f6bcc38429935634578086692880c6c5c9a",
+      "size": 244
     },
     {
       "name": "defaultconfigs/jade/jade.json",
-      "hash": "dff247a4736503ce3bd48a9f970900d16539d041357621dc9788e8b4df9e2f51",
-      "size": 1137
+      "hash": "0ea4cfa7e67e7a99e8354a106c121a1f26811c27bfc0540cb4fccc40b56a8c68",
+      "size": 1090
     },
     {
       "name": "defaultconfigs/jade/plugins.json",
-      "hash": "516cdd6a8c703a4d086e778305d5e31c133cf9ec4716c96c4dbd89d7be248d21",
-      "size": 2428
+      "hash": "7e3a542a40661ad9dee02566efd3538af75b7e1c4a310e294c7781e0d234e510",
+      "size": 2335
     },
     {
       "name": "defaultconfigs/jade/sort-order.json",
-      "hash": "80080bfa850154a50ba21357ec51bb50cc11b71df49918e6a5bd152b1e923d6a",
-      "size": 2545
+      "hash": "e0f6ab70c3be1f7f755eee12a25d0eabfb9b10e71e8eb2169c23e1386e4d5fb0",
+      "size": 2471
     },
     {
       "name": "defaultconfigs/jei-server.toml",
-      "hash": "e3b34f59c3557d8cb7906308eb67e86f6a3d4e5583cd80838085617a47acbd1b",
-      "size": 321
+      "hash": "360b4eb62538c87878a9f9e8fc1ea7454d075f6b040b6ec212d48cd584ed71ac",
+      "size": 314
     },
     {
       "name": "defaultconfigs/jei/blacklist.json",
-      "hash": "02e6c3c674c46c8e698ee70aeaaf8a395736d99c9df1277c1975eff3b6864b59",
-      "size": 26
+      "hash": "4a09bd461dd3dba19ec30dd57565286c08b4ba6397e466bb5072f8d70bbe4a4d",
+      "size": 23
     },
     {
       "name": "defaultconfigs/jei/ingredient-list-mod-sort-order.ini",
-      "hash": "f914722f76b05abecb5d919d4147948c5dc477fae72c0e706d5febb6bfd04ec8",
-      "size": 610
+      "hash": "43b25940f46d0afde2cf92401c4436d1c0953f96f8e4723d10b9a2f836d7ae02",
+      "size": 574
     },
     {
       "name": "defaultconfigs/jei/ingredient-list-type-sort-order.ini",
-      "hash": "8e677bb72879f9d606ce034e97782a950e6e6faff03b8f9579c4c70a1da55157",
-      "size": 148
+      "hash": "0dc8823adf4eefda89ef61e0d41199e09c54e32769f6ade22dc5ebf6922b99e3",
+      "size": 145
     },
     {
       "name": "defaultconfigs/jei/jei-client.ini",
-      "hash": "f6841387ba118885299e6fe6574daaa62ad5adcf4e73f851ec2e9f8977ea066d",
-      "size": 10746
+      "hash": "690df55f936858abf5ed93e681daab91e02b9bea84e128bedf0723556ce19258",
+      "size": 10423
     },
     {
       "name": "defaultconfigs/jei/jei-colors.ini",
-      "hash": "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f",
-      "size": 1362
+      "hash": "e4bc0c5fce5a7536bce14c94b30e30482e65d63792b29db0ad59d4fa9eb4d1a5",
+      "size": 1353
     },
     {
       "name": "defaultconfigs/jei/jei-debug.ini",
-      "hash": "960b16c7af6d62bbe7b58fb52216a8a15771bddecbeefab49a8614b7ca86dcbd",
-      "size": 1326
+      "hash": "39b7d63de65fbf7654ee33d521d67095aa17a93226d2d9b7a6fb09305c8990d4",
+      "size": 1282
     },
     {
       "name": "defaultconfigs/jei/jei-mod-id-format.ini",
-      "hash": "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054",
-      "size": 489
+      "hash": "4eb3a3eb280558bdd2665fb4792d32551cb6dddc468776e66afc1c3ea981781e",
+      "size": 477
     },
     {
       "name": "defaultconfigs/jei/recipe-category-sort-order.ini",
-      "hash": "fb28c53eb79ffbb5704b749cb5d423dcdcc17f8237a7c2faf4b063619de39f4b",
-      "size": 1267
+      "hash": "755c973b6bd1f22389e5b3a41e821cf3079a1514cd311ad4b012eafcebe451c6",
+      "size": 1214
     },
     {
       "name": "defaultconfigs/jei/world/local/New_World/lookupHistory.json",
-      "hash": "1ffaa80cfea453dcd08142971221331cd3009d37321ddf70b711cdca917aa538",
-      "size": 146
+      "hash": "9509c3e1a6d8e4c8f7b8c157fa45f7064c0df1d1b238df584e6c677709209f71",
+      "size": 142
     },
     {
       "name": "defaultconfigs/lambdabettergrass.toml",
-      "hash": "5b4d9fd7329cb7faced7f582e3a9fc00905de4ceaedc9280d2c0c7dc0a38e095",
-      "size": 305
+      "hash": "71f8657fa67d9b11264366d2e8726098d6d86887e63f14e2cbce82532a2f84be",
+      "size": 296
     },
     {
       "name": "defaultconfigs/lambdynlights.toml",
-      "hash": "b6faadc10f278da322bcfa3d5c2301400adc32ac203eaaa7a20853491e736b2c",
-      "size": 4511
+      "hash": "7f0be671d9a26ee419efe391b5c7df854325e8c2b05614fafe94eb534788deef",
+      "size": 4311
     },
     {
       "name": "defaultconfigs/leawind_third_person.json",
-      "hash": "63e327f8979807ff33a7bd25b5936131e63820e3352bae4b7c11ef0c30f89e31",
-      "size": 2042
+      "hash": "cd6b98825708d53b3f19a04cdfc7777c36a5d77331b13d5c730018b6884d9fca",
+      "size": 1987
     },
     {
       "name": "defaultconfigs/libjf_config_core_v2.json5",
-      "hash": "31034e7bacb0a81e96fa4b7e44e9486a08a00c28bba8af0d638010a7bca9d9c1",
-      "size": 31
+      "hash": "fd865b43fb98266a3e8cb90ed6cdf2c18ed5f488e17f6844c051802cdc719e6c",
+      "size": 29
     },
     {
       "name": "defaultconfigs/libjf_translate_v1.json5",
-      "hash": "7f429692f09e7a8ded58be898fd78361a404fed62460e4e1906de3f12be0b431",
-      "size": 115
+      "hash": "ee06e87a5b40f4449f452c73c1cbe005101bd8361ef78dd0469371e7e168217f",
+      "size": 111
     },
     {
       "name": "defaultconfigs/libjf_web_v1.json5",
-      "hash": "a5abaf6a7e844714cabaaf29fca14ee45b6adb060389b232a40fa44f191c7942",
-      "size": 132
+      "hash": "a3570ac89dcdefb90e242ba728e71a90e43fa0201b1de3b81f02619ebf27eda0",
+      "size": 126
     },
     {
       "name": "defaultconfigs/libraryferret_1.properties",
-      "hash": "ce899bc676a2db8001f7d744bee71edb9906359b4f5882d4143deb4a66924857",
-      "size": 194
+      "hash": "88e96ab6bde2448b1803344a223607eaf574c0ee2ed8991bb44e3031cb3adf99",
+      "size": 191
     },
     {
       "name": "defaultconfigs/lithium.properties",
-      "hash": "79348e4677fbd9474a18f772ecd271efebccdffed3a3f0bf2cc546e93d5c205a",
-      "size": 273
+      "hash": "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be",
+      "size": 267
     },
     {
       "name": "defaultconfigs/make_bubbles_pop.json",
-      "hash": "892c1e4c38c4ce5258c4c01af2ed41d953fe66efc7452f3ac89a3ca2153e6db5",
-      "size": 397
+      "hash": "2d9b5cb3209017d188d9bfd8cb65d26dc7c5987026f63dcc735c4b74154bf4f1",
+      "size": 384
     },
     {
       "name": "defaultconfigs/mechtrowel-client.toml",
-      "hash": "ac78363003629031d4ab9e9096ded0b4f37f8d37569d077440e86ff070e2be0e",
-      "size": 71
+      "hash": "a1ee45e75b9bde838b9c575b75b49e685f5359d13b076fa308a1786ab17e76dc",
+      "size": 69
     },
     {
       "name": "defaultconfigs/mechtrowel-common.toml",
-      "hash": "d002b4c927c42185c2ba052111bb985ce155b332762649f439a14a98dfa28663",
-      "size": 1963
+      "hash": "4dd819e1dc0505191d389349f943dad2574fd5bee666038fd902d8358a7d9b56",
+      "size": 1913
     },
     {
       "name": "defaultconfigs/mega_showdown/config.json",
-      "hash": "0893a00a4186424cefcd059fc7e5e1043bb3bc71a6ea01f60acc1f1e44179819",
-      "size": 594
+      "hash": "cb5833131c8a2e3060ae2cd40ddbc76194b454a038269ced4f40dc01086f8e73",
+      "size": 570
     },
     {
       "name": "defaultconfigs/midnightlib.json",
-      "hash": "7fae4917f0ecd3cd371bf526f147850a76c524eb216a2e0b16d24afc191e17b2",
-      "size": 41
+      "hash": "aa46844d478759e8cac470cc33b818902802a14e5042456b62a6e3b3f5c83781",
+      "size": 38
     },
     {
       "name": "defaultconfigs/modernfix-common.toml",
-      "hash": "8832bf3d7c98c0468622783a2f161ec871ebf40605399d68767cea42a32358d6",
-      "size": 106
+      "hash": "eb811f8191ec315abbaa28d2f0532e83eff7e280934a7fc4b56ac42b074e36d3",
+      "size": 104
     },
     {
       "name": "defaultconfigs/modernfix-mixins.properties",
-      "hash": "469d8242523771178ca7747a8535eb99e67c1fe19d82144c24107bacb534ae40",
-      "size": 5454
+      "hash": "32bbaa6f573b612b92653fc2814365cd8aa423d39fcab4fa5dcfcb5f31121874",
+      "size": 5353
     },
     {
       "name": "defaultconfigs/modmenu.json",
-      "hash": "32395e2598dd288f8b63cd921647da4ed69e839d8db9bc85262d2091840a668d",
-      "size": 872
+      "hash": "72d9d0986e0ee20e13e9989e7f0cd8e5aae3ad37a9505de231aba31e15ac16b3",
+      "size": 841
     },
     {
       "name": "defaultconfigs/moonlight-client.toml",
-      "hash": "118089bf0f86d8a22f6839bac8ed7eddb67287e573eac357b8ed1c173c3a5b49",
-      "size": 1275
+      "hash": "71eb4766f6ca32b1e5e80ce713805a3a8b5bfe4444e6805e1d4713744be46767",
+      "size": 1258
     },
     {
       "name": "defaultconfigs/moonlight-common.toml",
-      "hash": "93f7cb4c4518984e89d5bd1e38cfcafe18d734be20cb4324c81b33108aad0e3e",
-      "size": 955
+      "hash": "70a4835455b42ed66d7922524c0f01fbc5e23df465ad389fbc923b8833ad237d",
+      "size": 944
     },
     {
       "name": "defaultconfigs/MouseTweaks.cfg",
@@ -817,58 +817,58 @@
     },
     {
       "name": "defaultconfigs/naturescompass-client.toml",
-      "hash": "7c82e4d10f087104456143829b0e82a2521d4ab0dbc3c9876afefb0a901f12a3",
-      "size": 438
+      "hash": "c4a6791b62637e621d5f1a3f71b333c6c5841a0ff58df1496ad4e963cc757af5",
+      "size": 426
     },
     {
       "name": "defaultconfigs/naturescompass-common.toml",
-      "hash": "600334e053821065dde95faacd000ebde33d90cce356f616d9c9ad8cc7b7177a",
-      "size": 2205
+      "hash": "7d1ab13796b37f875a1742410145f000fde6d1f1e6be9497a90f130d051b1d36",
+      "size": 2172
     },
     {
       "name": "defaultconfigs/neoforge-client.toml",
-      "hash": "3344caa3a5cdc2015e7b1ef025fefc4a09098fb7ce57eb369cd5c99ed5b04b4b",
-      "size": 582
+      "hash": "18227c13d0702f788de33f058f174e36a117ddd45e1ff392944abec71a8d9089",
+      "size": 574
     },
     {
       "name": "defaultconfigs/neoforge-common.toml",
-      "hash": "1030b52021d16f22e3cb4bb8d261ec9efa0d020f44682157d6e13d55181e1112",
-      "size": 777
+      "hash": "e82e089a968a942de6a682296743de4c99353fed268a35714702448cddc2560c",
+      "size": 769
     },
     {
       "name": "defaultconfigs/neoforge-server.toml",
-      "hash": "02acb61c4b55b1e66933f4643c77c9f2928af59c4c62625412b01515551b3762",
-      "size": 1182
+      "hash": "12707c3546bf9955197d76318f3a568836e8fee87b5140f838f927d5969f22bf",
+      "size": 1172
     },
     {
       "name": "defaultconfigs/particle_effects.json5",
-      "hash": "2b2dcd549f57d7abb750f9d4db0444549d654578906525dfa0a31c1ce75c412f",
-      "size": 27
+      "hash": "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21",
+      "size": 25
     },
     {
       "name": "defaultconfigs/particlerain/config.json",
-      "hash": "3c6a698d96a9debe5e8db820c374bf81a83c21bab26437cc0acb5764accf7dd2",
-      "size": 1221
+      "hash": "f5177bf62f9478f36696a0b16bc6ef56f471aa746d0f3a14fb011ea972a05bff",
+      "size": 1163
     },
     {
       "name": "defaultconfigs/particlerain/particles.json",
-      "hash": "cf4905176ee2fec9ae54da301643b50193223a97c7e68cfaaa14aaf79c7bec84",
-      "size": 249
+      "hash": "0bbdd719b4f4137a54aa0d74a89e0835c49884b62fa1bf96b75864da2f6ee209",
+      "size": 232
     },
     {
       "name": "defaultconfigs/patchouli-client.toml",
-      "hash": "ee2f712c895b68ff5c443b4c5d5a5eb379605a4ecbca38f40aec50fdf78da0a9",
-      "size": 1097
+      "hash": "ee54cfa4ce030f5d0accb142b6d4950b884d97a2fa7f512cf66e6008fff47091",
+      "size": 1082
     },
     {
       "name": "defaultconfigs/paxi-neoforge-1_21.toml",
-      "hash": "6f3aa99fa7f184e7ff53dcd65a65f348f74418ab93055554132651f125f5a234",
-      "size": 509
+      "hash": "14074c174e83cede546cfd29c523d59aa9342c119463a9345f40a14ccccf6321",
+      "size": 500
     },
     {
       "name": "defaultconfigs/paxi/datapack_load_order.json",
-      "hash": "b9e995ee9e8c482dfb80f5a1141b881596dc170b4d6417b38a6309229d0510a9",
-      "size": 25
+      "hash": "8f51bb16857a9668512f01334c8c2b95273867da229692c0daff400c95519128",
+      "size": 22
     },
     {
       "name": "defaultconfigs/paxi/datapacks/CR - Biome Expanded Spawns - 5.8.1.zip",
@@ -887,8 +887,8 @@
     },
     {
       "name": "defaultconfigs/paxi/resourcepack_load_order.json",
-      "hash": "b9e995ee9e8c482dfb80f5a1141b881596dc170b4d6417b38a6309229d0510a9",
-      "size": 25
+      "hash": "8f51bb16857a9668512f01334c8c2b95273867da229692c0daff400c95519128",
+      "size": 22
     },
     {
       "name": "defaultconfigs/paxi/resourcepacks/[1.5] Enhanced Boss Bars.zip",
@@ -952,398 +952,398 @@
     },
     {
       "name": "defaultconfigs/physicsmod/physics_animations_client_config.json",
-      "hash": "a6ecad5c69a9be43fb4a5501fa3caeec721b94c94405749ac73bb0d88d797027",
-      "size": 2823
+      "hash": "395a8a979b23962d9e56e5f60dcbb45cec0ef2a15737e929ca2b7e1ea7dcd555",
+      "size": 2705
     },
     {
       "name": "defaultconfigs/physicsmod/physics_blocks_client_config.json",
-      "hash": "01c522cbb0ae950c989fc06afbab8ddf7e205654b48cf0ab3398894539c8657e",
-      "size": 228262
+      "hash": "38b5e23823d2043943d1877105c33b236349753d96df6d3d256de6d443f8a973",
+      "size": 218930
     },
     {
       "name": "defaultconfigs/physicsmod/physics_client_config.json",
-      "hash": "f1e5ea2105bf9f176467c1033f28fd73a02e09c0612272201e6ae980124077a3",
-      "size": 4949
+      "hash": "7b717c615c2e57a2b0c03faac13c09e813b520252034821cd51323c5d1fba8ac",
+      "size": 4767
     },
     {
       "name": "defaultconfigs/physicsmod/physics_cloth_config.json",
-      "hash": "4774cddb62d91432e9bf996c97d1b1a1fbeceb70c9d169c654056ad8a4743b9c",
-      "size": 54
+      "hash": "37553e5efae2327b3c090d984231359895be290f276decd1ad24255e00fcc0fb",
+      "size": 50
     },
     {
       "name": "defaultconfigs/physicsmod/physics_mobs_client_config.json",
-      "hash": "3c0b9f1c883cb4820e5e43cf727bd27c9d599691b3a2f221185867d111e4ceb6",
-      "size": 26355
+      "hash": "403e672ff0d37f310844e82acd4d33e1cd5d9d4da4d988464532c995a00e0f76",
+      "size": 25259
     },
     {
       "name": "defaultconfigs/physicsmod/physics_server_config.json",
-      "hash": "e609699fd496258578daadc59f7271253b6f90a36c19bf06450901882523c91e",
-      "size": 105
+      "hash": "17490bd224cb6c330136f8829502cdda723f2d6183ecc0bd9d8330a1aed8fc83",
+      "size": 99
     },
     {
       "name": "defaultconfigs/physicsmod/physics_snow_client_config.json",
-      "hash": "76192286840d040b5aa7bae96e7d804dec9eae103d0644b87d56c191591c05b9",
-      "size": 202
+      "hash": "877e18e75b4a8df2417459ec765954c6a845f31ecb72aa76e052292ef4dc0009",
+      "size": 189
     },
     {
       "name": "defaultconfigs/physicsmod/physics_vines_client_config.json",
-      "hash": "895a69f23f78ec332e2445572dba142c48b9e81d094ef11c28992295d48e47bc",
-      "size": 20578
+      "hash": "2a7bc5829eca30a925a132e50bd92b9636febaf07c64daad4fd8e23d1e586938",
+      "size": 19792
     },
     {
       "name": "defaultconfigs/ponder-client.toml",
-      "hash": "f24404cdb6ab7d77121e7f90acd82f18ae86738203f855a16bb709284e36db66",
-      "size": 637
+      "hash": "908bc54d179460304e59cb350033df7793be4caa2a6f662b0833d6322ebdfef5",
+      "size": 617
     },
     {
       "name": "defaultconfigs/powergrid-client.toml",
-      "hash": "216035ebd00ba6017190262994d1574cdd8f2ce5021a99f0a856c561d5dde130",
-      "size": 1053
+      "hash": "d0629856cd5d9b44d4e0d4c365e5e9992e3874ae2c6480b3db53d93fc638369c",
+      "size": 1015
     },
     {
       "name": "defaultconfigs/powergrid-common.toml",
-      "hash": "ddf2e126029d1811f2431fce9eb8e7319e037224523e738cc3dfe6e6c90cff6f",
-      "size": 450
+      "hash": "c1c79718636b6eea9b1f4f270acc275c37de64753dfd7bb058b4287f6dcf7e10",
+      "size": 442
     },
     {
       "name": "defaultconfigs/powergrid-server.toml",
-      "hash": "a9255ece6d6caae8b0c4e8890456b406fe5992d20dee747f0618a727ccf74568",
-      "size": 14404
+      "hash": "aca32563bba8ae48b66e227f3ac7d95fb71d18fdd5bc6796113f7d233f31440e",
+      "size": 13912
     },
     {
       "name": "defaultconfigs/presencefootsteps/updater.json",
-      "hash": "18045fe3197c2545bcef41eea63659ae2a7fa7e87c950afb20eeb347f138e0d4",
-      "size": 74
+      "hash": "8ce1248d63f1205a45611024f7055c23143492963c51ed1336be0492ca5cfb14",
+      "size": 69
     },
     {
       "name": "defaultconfigs/presencefootsteps/userconfig.json",
-      "hash": "15c51b16598db103f6b0f15c8e45c3d790b8e3b063cfcd7cded0dbaaa887874b",
-      "size": 421
+      "hash": "bd75aca169deec71aa6182722c711c7de27df37fc0604a4f533359af36113293",
+      "size": 403
     },
     {
       "name": "defaultconfigs/presencefootsteps/userconfig.json5",
-      "hash": "c469b7228a9dd6f6919430d762b2cf9d0e671eee8bfc6467834a6f622e3eeb00",
-      "size": 3324
+      "hash": "b35eb7142546c1d868e9c4c49cab28740df4c0eb3693946fa575aa717d1a4c27",
+      "size": 3215
     },
     {
       "name": "defaultconfigs/protection-pixel.toml",
-      "hash": "8a7bd1ae5facd0df8604d1f94e14072a42f6bf32335256981850b0a9c35c6ab0",
-      "size": 544
+      "hash": "548c4887b8f60a633a28efa57f9018c574cd0669ecaa87494d4eab0121ab4ca7",
+      "size": 515
     },
     {
       "name": "defaultconfigs/quark-common.toml",
-      "hash": "27f27eb08ec5321452dd6a4ddb53769f4335950dd85ada4b9dce460bea1bf756",
-      "size": 78198
+      "hash": "8b3eaa29664cfaa3718f433d423d94eb9eeae2c5e92aa594e11e15074e5a2e13",
+      "size": 76079
     },
     {
       "name": "defaultconfigs/resonance/client.toml",
-      "hash": "bc04b721c041f1d86c61bdc18f0da5f3e0ba13e08b58ab571eee1be761174acd",
-      "size": 1441
+      "hash": "9c2e07d367fa2bf42db3f56711527b923559a55c97911872afeed0fb4b596122",
+      "size": 1405
     },
     {
       "name": "defaultconfigs/resourceful-config-web.json",
-      "hash": "2328a4c96b79ae9c3507a4973a97afbbd62de887c91ec8471c0449e937218a98",
-      "size": 209
+      "hash": "2f212237509b59a9965f9f3a8ee273b634acec6a17d6610984bb52e85c5e4a0c",
+      "size": 197
     },
     {
       "name": "defaultconfigs/resourcify.json",
-      "hash": "24ab9ec4284e5eb258efa72bbe5fc42efbe3879fa86f1a353a6a6ea5465fa456",
-      "size": 288
+      "hash": "5a89beab51b655e86bc17a81e131d7e8e5b8b88bbe040f570fee3fa4e6fcd46b",
+      "size": 276
     },
     {
       "name": "defaultconfigs/scholar-client.toml",
-      "hash": "720592710bdeb6b80da48b8e97c2dfb59f3f6b714d14e04e075bdd72e2e98901",
-      "size": 1066
+      "hash": "08cf0437f437043328ac2158b8d00cdcbcc1261650edcc221c88741a5f81e54a",
+      "size": 1043
     },
     {
       "name": "defaultconfigs/scholar-common.toml",
-      "hash": "8b7134d5be4440df9c114f8ece86e55423bffeab3282002e91a44ffe5776d38a",
-      "size": 846
+      "hash": "a0346d9de85bf79f0f3535a54b1d6169cc81a2f95d80cbf103d83fa8ec79eada",
+      "size": 832
     },
     {
       "name": "defaultconfigs/seamless_sleep-server.toml",
-      "hash": "62784e3a7348e320e3d463c3d7cb53bb722b18d72f6647208c2a9ed22b7ee497",
-      "size": 269
+      "hash": "a6472386a9d5e49102baa9871dff44f9726b98f3befce5fb13dfd1b4c23d2a1e",
+      "size": 260
     },
     {
       "name": "defaultconfigs/seamless_sleep.toml",
-      "hash": "17562679e47ccf19d476e9b5366acc2460d4d5c38c4b822776a566fc54aaffd9",
-      "size": 965
+      "hash": "4d2b2ab8f097a077d1a5057d4f7a8c7a4d54e06b535ff9bb51412222202333bb",
+      "size": 932
     },
     {
       "name": "defaultconfigs/sodium-extra-options.json",
-      "hash": "2ad0bd99bab0b24aec683fb0e9ee1ef082a18f4849421205b564b1bb240b0bf3",
-      "size": 6188
+      "hash": "12a369db9bfb00a759d9693ce7501d2a1ad122e08a8de6283e5756e6e231bbf1",
+      "size": 6003
     },
     {
       "name": "defaultconfigs/sodium-extra.properties",
-      "hash": "ab259e2369fc503c0cd905ec9b57b5867f4dbd249edf7a2b52193b36ffbcdeab",
-      "size": 367
+      "hash": "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70",
+      "size": 360
     },
     {
       "name": "defaultconfigs/sodium-fingerprint.json",
-      "hash": "2c692e08042d4ee5606f997338f9a1239b3245c92e75b0b805afa4dd0f807708",
-      "size": 456
+      "hash": "4dd786bb72c5f391d696c29ac1aa0db34fec443ddebb53d0982fd56b81c2da12",
+      "size": 449
     },
     {
       "name": "defaultconfigs/sodium-mixins.properties",
-      "hash": "35d3939d1bc306839c6ad538803288b3d2bc8a2dfed4948eae569d540d6b8058",
-      "size": 264
+      "hash": "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
+      "size": 258
     },
     {
       "name": "defaultconfigs/sodium-options.json",
-      "hash": "88b53fe08dcbec70287e4e09b12b28ec34af449012221f3aa0e25e61d1b9f5f1",
-      "size": 715
+      "hash": "743a2f8c257fce8e6b6fc8e47eccc834a1b4bd915aa241f4002331e28a72e981",
+      "size": 687
     },
     {
       "name": "defaultconfigs/sophisticatedbackpacks-common.toml",
-      "hash": "c2dffeda2a5b257b3eef619bbbda11744ba4233b364c7a1b26c109c737b1bdc2",
-      "size": 118
+      "hash": "a2b34ebd1981e86f62766398bcc927661970b3cfd6b69254f2760705bcf80a09",
+      "size": 114
     },
     {
       "name": "defaultconfigs/sophisticatedbackpacks-server.toml",
-      "hash": "a5e8f1f2d0ace46c617b890fccf8f202e42caa79d7e2a56f28ea4c0f65fa8745",
-      "size": 21023
+      "hash": "b6b3dea7a5a98df3ee60b9d4ab70e8a2db896df34ec8888e82d69a654b95eb94",
+      "size": 20396
     },
     {
       "name": "defaultconfigs/sophisticatedcore-client.toml",
-      "hash": "42bf929a81aebe05ebe1c0b1e6c971b8a41ff9b5cc152d97266057b9168a25b1",
-      "size": 476
+      "hash": "93fe1d8237c82b45513b63b58386cd4fa49785bb0c9e381085d75b549d54d8b0",
+      "size": 467
     },
     {
       "name": "defaultconfigs/sophisticatedcore-common.toml",
-      "hash": "abde869e19eaf61c2107cd4ad81bf2122ec5eabdf1435c015cae6d6d25054539",
-      "size": 9104
+      "hash": "75255d31abdbadfc2a1cc4a46083ea8f4c8dbf2d3d144f9c49aa35e9baf763b2",
+      "size": 8930
     },
     {
       "name": "defaultconfigs/sophisticatedstorage-client.toml",
-      "hash": "6a951d1e77ec56cf1cb9b512f7084974a17b3d5488ce22f2298344bcc71ffa0b",
-      "size": 413
+      "hash": "dfc8e3884876331f3e520180df338e29873e3ae7dc79066717de6e8a10a80a66",
+      "size": 407
     },
     {
       "name": "defaultconfigs/sophisticatedstorage-common.toml",
-      "hash": "4ae737999feca7bcd05d63cecd6c67ba66c3c8bf4521d283bfae43fcd69d3b72",
-      "size": 186
+      "hash": "28295ecfcf054fd3c61b448f2ab60adeb6bab5fd664b6369e3da7d07c0961371",
+      "size": 182
     },
     {
       "name": "defaultconfigs/sophisticatedstorage-server.toml",
-      "hash": "bcca29af47410ee6d6e70462de5fc48f3da9bf0a7f620d79aa949dd6375718bd",
-      "size": 24217
+      "hash": "35ed36a1f9412055a1a46c2dc4aed2baec08c56389dee7e8782867bd5e037c46",
+      "size": 23318
     },
     {
       "name": "defaultconfigs/sounds/chat.json",
-      "hash": "65df81f270c75413dab8c329750723bb47b87137f2cbe1a0c7f322cb6636882e",
-      "size": 689
+      "hash": "9008c85589d54906bd522e00026dcfddaf71bef3e2aa81de8dfafe260848f6dc",
+      "size": 659
     },
     {
       "name": "defaultconfigs/sounds/event.json",
-      "hash": "91503c658c74ecfd6100e71f8ea048a174257f97bcf1d54b0df9cbd14d6dd1f1",
-      "size": 878
+      "hash": "774cb6a3f0428600deb04f45532ec027eb9b454deffbdc5779bc533f8e22ed1f",
+      "size": 847
     },
     {
       "name": "defaultconfigs/sounds/mod_utils.json",
-      "hash": "063e26484656ef26e6b06a14b11b57102b67c715102004321dd3be88cb74e7df",
-      "size": 46
+      "hash": "f132dbb8dff459c8f8acbe9ca2fac912b26963ebb260d60f2b00cbfc562489ba",
+      "size": 43
     },
     {
       "name": "defaultconfigs/sounds/ui.json",
-      "hash": "07024df205f4f1b7afa85d2c38d04c519784d2df807404b516a30772ff054724",
-      "size": 2355
+      "hash": "9fcee669f878d87fb947216052789f27d652db1add8347cf48a6b56aa323a872",
+      "size": 2263
     },
     {
       "name": "defaultconfigs/sounds/world.json",
-      "hash": "906e3ebac53f552989204d060b3e7b72ef716fe807e8cbf2c3284c60add9f499",
-      "size": 1975
+      "hash": "9b33793883a4c20ea3fd1c805b759478fb7ef64b827a60fb363ed58741971cee",
+      "size": 1898
     },
     {
       "name": "defaultconfigs/spark/config.json",
-      "hash": "585a38ace2ac8af85cac7778f044bc4c23952153ddc2b3e83b5d9cd734989d55",
-      "size": 122
+      "hash": "40f003598fc382e50da55203b813a636f75abaddf8c77d72951be72bffa2d56a",
+      "size": 118
     },
     {
       "name": "defaultconfigs/spark/tmp-client/about.txt",
-      "hash": "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0",
-      "size": 585
+      "hash": "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a",
+      "size": 575
     },
     {
       "name": "defaultconfigs/spark/tmp/about.txt",
-      "hash": "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0",
-      "size": 585
+      "hash": "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a",
+      "size": 575
     },
     {
       "name": "defaultconfigs/structureessentials.json",
-      "hash": "89ffaf307813473dbc6b9fecca384902c173d57d230df7f0e92e3541e7d0b82a",
-      "size": 3853
+      "hash": "cf7da9b9d2002eb06bc1d0140c3781a7acbb76aef9ad5e49b7b19683e3e89339",
+      "size": 3788
     },
     {
       "name": "defaultconfigs/subtle_effects/blocks.toml",
-      "hash": "e7d2e46da227d36f1c00f9becb5ab855bcfbb79eb5e6215b6b9cc43e48c0a4d6",
-      "size": 4216
+      "hash": "96930125223ea4104f5aec88905f0d0ab0a5c2b21b46a78ac9675415f61ef7d1",
+      "size": 4071
     },
     {
       "name": "defaultconfigs/subtle_effects/entities.toml",
-      "hash": "9483773ee5bca36a2992660a2c65ac8d30139b68ff628b87e0fe27ce59faa727",
-      "size": 3227
+      "hash": "b9100489d604a88f09d4a6f511a471e17facefcc68071810ada15a976e09c858",
+      "size": 3101
     },
     {
       "name": "defaultconfigs/subtle_effects/environment.toml",
-      "hash": "8a75e323ca6331b83ec1f8f835cde499d08b88d32472af4775aeeae28084f7ba",
-      "size": 2560
+      "hash": "9a6211254e33348bdd66d3493d4d4b3148e7d2076f0a5563ab291ec2aed1f07b",
+      "size": 2454
     },
     {
       "name": "defaultconfigs/subtle_effects/general.toml",
-      "hash": "1d294b9c7bd869c5ee5588d9a5d2ee43ce2cb794569f5b01b33acb835bc794ae",
-      "size": 1165
+      "hash": "c90dcb19e26e1c18c0487ce8beca141ff8a800d366ac3ef68d8948558921422a",
+      "size": 1126
     },
     {
       "name": "defaultconfigs/subtle_effects/items.toml",
-      "hash": "2b29af6d8d20b9deab33d143d5c49b773c1b16efb9f1f6cc5d7263cda627fb08",
-      "size": 1095
+      "hash": "aa5b1f387f42345058bab229541686f541e69ab39b79d0d54ebcbbd687f09b3e",
+      "size": 1057
     },
     {
       "name": "defaultconfigs/supplementaries-client.toml",
-      "hash": "69b06ae6c4271e167d48e54fe5dc91e80b1247a4c166fca683498cb6bd99c06a",
-      "size": 8987
+      "hash": "b6d394245915ecfabfc4b29b4c3dd15aaa89035d45212b3c3025a71756533321",
+      "size": 8728
     },
     {
       "name": "defaultconfigs/supplementaries-common.toml",
-      "hash": "e8e46d9fd26276d2652094b02d5112aa12c4899e42bdbf16e1570f701fbf8510",
-      "size": 26686
+      "hash": "e6eda43fd88f778c210dde5db615578f1a1e335d7f611c160d34ebb1fcd83e69",
+      "size": 25893
     },
     {
       "name": "defaultconfigs/suppsquared-common.toml",
-      "hash": "cf74f4a1b1281685ce1bbf49f97f33e24f9ebb08a6a30635b94ef8156ad723ec",
-      "size": 82
+      "hash": "5e8894000d7dba3d0b4d17d7c602f8db545820fb67732ec292d875cd90bbcfea",
+      "size": 77
     },
     {
       "name": "defaultconfigs/swinginglanterns/lantern_overrides.json",
-      "hash": "39df3ea0de760729a32d57f7b0e2a013f2c5d88fc153fd282e07b8f96eab1504",
-      "size": 73
+      "hash": "74854438df5546ce61a389588d15787504059feef623aecddf6051b9cc64b49c",
+      "size": 68
     },
     {
       "name": "defaultconfigs/swinginglanterns/raycast_ignored_blocks.json",
-      "hash": "51c3e3f97c7492d3f3f05e3559c5dc071eed9382030242b56b3d67a34c273fcf",
-      "size": 582
+      "hash": "ca4fef092f5d4b0db48dcadfd958309d1fe2cff9c34c10359c345542faa5316e",
+      "size": 558
     },
     {
       "name": "defaultconfigs/swinginglanterns/README.txt",
-      "hash": "3b41cd843d70a22b5dd7993fcb794d51051c7c9649b33e54cf028499f35f152c",
-      "size": 769
+      "hash": "d5af6b2d6a384a8d7c630b61d14fc6fa546807a618c6af30f61f2c0318c96097",
+      "size": 750
     },
     {
       "name": "defaultconfigs/swinginglanterns/swinginglanterns.json",
-      "hash": "c0c10d5c6ecaf560fd4dea513cf0badf05ca2d7f2a099e35422aa48ade554d1a",
-      "size": 646
+      "hash": "1d27d09a514d3ac55b62d1ba509ce61ebe0a6069bea9029246cc14d7564fc3fb",
+      "size": 622
     },
     {
       "name": "defaultconfigs/terrablender.toml",
-      "hash": "35d0386012ad88058188331bc5e5ccb739402df24f9d401029996788adbd5104",
-      "size": 976
+      "hash": "ba6da8780ff8868f22fde2d50993a52a055c0914eff2a69c47dc2e1806af7607",
+      "size": 949
     },
     {
       "name": "defaultconfigs/tim_core.json",
-      "hash": "221acdc91c776a99326a01aec6bd5477a5a642c5095da343eb83f40ec59c63b2",
-      "size": 788
+      "hash": "b76f72e5ccf17c365d3ec426f92c3f5e697145465a7a0c7339424072af7230b5",
+      "size": 763
     },
     {
       "name": "defaultconfigs/timm/general.json",
-      "hash": "44ce13de602060fb132341ab8a8ec5f8a8835d2d6bcd743a9a518f640a4441aa",
-      "size": 235
+      "hash": "4d66b4676e11680011a98f366197ae1500737057b2b3ee0fe44fc85e5606ed1f",
+      "size": 224
     },
     {
       "name": "defaultconfigs/transition.json",
-      "hash": "38ebc31642343a66c454ed078b7cd1cc367c05711c8fe5853dc86bd9af80246d",
-      "size": 67
+      "hash": "79c96163df744d775c3508629828fcb64211d866d7e7927638c4cd38e9e695a0",
+      "size": 63
     },
     {
       "name": "defaultconfigs/trender.json",
-      "hash": "2eed89e299c4a52f674920d860a6099285eb5dea26700c80f38a8888b926a102",
-      "size": 52
+      "hash": "3540896a8097ba9cfdeee2888e13780d68c56e1e999aad4cfe7389e6d6bbb25f",
+      "size": 48
     },
     {
       "name": "defaultconfigs/vanillabackport-client.toml",
-      "hash": "a0fd403035dabc7af5726409bda5084e12d0ebc26461e2e8d320fa41a1460f61",
-      "size": 340
+      "hash": "6c19f04c6de872dd9c9b1b4ff5776fa2d2481f38f0e32f3c952850b1240881b8",
+      "size": 330
     },
     {
       "name": "defaultconfigs/vanillabackport-common.toml",
-      "hash": "fd8e644d1bf2c513695e51d105d12af37e828e83e82669a48207888420834323",
-      "size": 2242
+      "hash": "df37e620e0c9bf62b3d3622ff3a3077c489db9fbe9f1fba0a264580ae89a4888",
+      "size": 2181
     },
     {
       "name": "defaultconfigs/via_romana.json",
-      "hash": "80df159466c9bfcb7a1006fb4895b7667918ffe3fba2b0c1b4e46e5577fcda15",
-      "size": 1830
+      "hash": "9cdbea54941ce68b058ed3e438642585d7d0944b982197b643058f6fd9f35030",
+      "size": 1750
     },
     {
       "name": "defaultconfigs/vista-client.toml",
-      "hash": "950fe8a4adc8060e6bf1dd944eac6b5cef53c3121d25327fa4fc1c703e7a3d01",
-      "size": 2226
+      "hash": "d73b3c46927dc36287a721e9202f77b2ac93c98b09bd47c2241fc9cfd3ea8911",
+      "size": 2176
     },
     {
       "name": "defaultconfigs/vista-common.toml",
-      "hash": "766d1c3a4acf861824925e5f4b0489fae80bb368f5b4ef558fa85fcedb9bb974",
-      "size": 313
+      "hash": "d1e38e16b6b6f3d643181bea74ae546a37bfa63d2d0f36d4f70d7a45e0c1442c",
+      "size": 304
     },
     {
       "name": "defaultconfigs/visual_keybinder.toml",
-      "hash": "b39299efabf2fe7d7d6f097c4ee3ce30875b0b32ea702b2a849942f98fabf719",
-      "size": 885
+      "hash": "7dc80b0e58929ddf240d834a697fae4cb5764cac45a971a4e51625a15ea11201",
+      "size": 864
     },
     {
       "name": "defaultconfigs/visuality.json",
-      "hash": "7d82a6f2b3fd11fe0e195decf1f56b9a6f56148ab75a3b68249cea570a2705ac",
-      "size": 1095
+      "hash": "1ad49eaf9e672235273ab408f7d46de838fed91201c6570296bee6032022f239",
+      "size": 1054
     },
     {
       "name": "defaultconfigs/visuality/config.toml",
-      "hash": "38e41c3683cf1d99b37dff1b058d4888ab78de687ad4f75cbe002a850662a5bc",
-      "size": 273
+      "hash": "ae9c4c0f128fa9254538daf0a0b81dc3ca31579a031ab9ab0bfccee8e4e02873",
+      "size": 256
     },
     {
       "name": "defaultconfigs/visuality/particle_emitters/block_ambient.json",
-      "hash": "e9b1255cf8d1a4f76294462174f10fe9151c8ac1da1220bafab4439bda4c3381",
-      "size": 1364
+      "hash": "017ee22592574acffba27152c0bfdb4684ea9abc39387d53674d8eb884d78d5d",
+      "size": 1294
     },
     {
       "name": "defaultconfigs/visuality/particle_emitters/block_step.json",
-      "hash": "d7a399d83cda81404d7e7580f792634d64cd289356124655d4beccd2720c6d38",
-      "size": 235
+      "hash": "7472938843c4be305a68d2b018a75cfe0d7b5a1548839936c47efa7a0d7afe1a",
+      "size": 220
     },
     {
       "name": "defaultconfigs/visuality/particle_emitters/entity_armor.json",
-      "hash": "d525e9b5add10362697fd393651cbdde3f13fb0f2bfc2a326ba95814680076c7",
-      "size": 776
+      "hash": "8ed7adb0d9cc1a67c0ec181335a7d9d558931ed0163f91ff497782a751979662",
+      "size": 738
     },
     {
       "name": "defaultconfigs/visuality/particle_emitters/entity_hit.json",
-      "hash": "227d3492242e88b5c18390ad5ff6147894ffe6c773df3864879cf56ebafb484a",
-      "size": 722
+      "hash": "202b1676e04b4556e7bd113c52bc24bee90bd1f995cbc099387b7be1ade8fff5",
+      "size": 684
     },
     {
       "name": "defaultconfigs/wakes.json",
-      "hash": "cd0c72c81221cac08909848a06a66119b375f306dcd389a048182c48da998127",
-      "size": 1210
+      "hash": "a6662110d42fbe5f0e1b5a0675b67220780a181e3b8273b1cf0e7b66e81d0c59",
+      "size": 1157
     },
     {
       "name": "defaultconfigs/waterdripsound.json",
-      "hash": "d2c1b15aba368804ff1499fc783e5f42c1ffe0d096855d60e5791c74c350009c",
-      "size": 204
+      "hash": "766b87cbd6c55417f1aecdc5ae8ba60f18af06265da3a08e733aa6e890d748f7",
+      "size": 195
     },
     {
       "name": "defaultconfigs/yacl.json5",
-      "hash": "8a201ac6b572e9b56ea1de77e13a8d6c8fab64c89727649346e22e6e27413577",
-      "size": 255
+      "hash": "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e",
+      "size": 250
     },
     {
       "name": "defaultconfigs/yungscavebiomes-neoforge-1_21_1.toml",
-      "hash": "df21c0044c0338c2804951827d4ed7f1f3882f0bf8a2a8c57b5dc3564eb09f17",
-      "size": 2850
+      "hash": "891b589e98d011a9f40c67d2bd2dc08fc1db6092ee7c19dae76356939c67fc14",
+      "size": 2720
     },
     {
       "name": "defaultconfigs/zeta-common.toml",
-      "hash": "5ea285e78632baab353b158b318b3904694dd9eb7843d3b89bcb989d47fe48f2",
-      "size": 1896
+      "hash": "9cecf159702efac02eddd7bac3c31239712dca349304fa8cefca16aa7d217f31",
+      "size": 1870
     },
     {
       "name": "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
@@ -2361,8 +2361,8 @@
     },
     {
       "name": "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt",
-      "hash": "8bd3a4e8aa3ffdcc97e660226e69e7bf17c3e46effe87eb39982aab17a316946",
-      "size": 811
+      "hash": "66c3e1aad428673022081016474d41ad763c3c44e99450277a899480dadb105e",
+      "size": 776
     },
     {
       "name": "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.zip",
