@@ -24,9 +24,9 @@ export type File = {
 
 export type ManifestServer = {
   files: ServerFile[];
-}
+};
 
 export type ServerFile = {
   name: string;
   hash: string;
-}
+};

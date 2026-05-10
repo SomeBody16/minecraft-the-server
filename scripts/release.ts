@@ -1,6 +1,6 @@
-import SftpClient from 'ssh2-sftp-client';
 import * as fs from 'fs/promises';
 import * as path from 'path';
+import SftpClient from 'ssh2-sftp-client';
 
 import { ManifestServer } from '../.modpack/core/types';
 
@@ -10,7 +10,7 @@ import { ManifestServer } from '../.modpack/core/types';
 export async function synchronize(
   config: SftpClient.ConnectOptions,
   localDirPath: string,
-  remoteDirPath: string
+  remoteDirPath: string,
 ) {
   const sftp = new SftpClient();
 
@@ -88,9 +88,9 @@ export async function synchronize(
         const localFilePath = path.join(localDirPath, fileName);
 
         const mappedFileName = fileName //
-          .replace("defaultconfigs/", "config/")
+          .replace('defaultconfigs/', 'config/');
         const remoteFilePath = path.posix.join(remoteDirPath, mappedFileName);
-        
+
         // Ensure the remote directory exists before putting the file
         const remoteFileDir = path.posix.dirname(remoteFilePath);
         const dirExists = await sftp.exists(remoteFileDir);
@@ -112,7 +112,6 @@ export async function synchronize(
     } else {
       console.log('\nEverything is up to date! No synchronization needed.');
     }
-
   } catch (error) {
     console.error('An error occurred during synchronization:', error);
   } finally {
@@ -129,7 +128,7 @@ const sftpConfig: SftpClient.ConnectOptions = {
   password: process.env.SFTP_PASS!,
 };
 
-const LOCAL_DIR = path.resolve(__dirname, "..");
+const LOCAL_DIR = path.resolve(__dirname, '..');
 const REMOTE_DIR = '';
 
 console.log('Deploying to SFTP server...');
