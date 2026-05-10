@@ -1,7 +1,7 @@
-name: Generate and Commit Manifest
+name: Release
 
 on:
-  push: # Runs on all branches
+  push:
 
 jobs:
   generate-and-commit:

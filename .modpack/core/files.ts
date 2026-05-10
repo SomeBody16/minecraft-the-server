@@ -35,19 +35,12 @@ export const manifestServerFiles = (include: string[]): ServerFile[] => {
     .filter((file) => !file.includes("resourcepacks"))
     .filter((file) => !file.includes("shaderpacks"))
     .map((file) => {
-      // route defaultconfigs/* to config/*
-      if (file.startsWith("defaultconfigs/")) {
-        return file.replace("defaultconfigs/", "config/");
-      }
-      return file;
-    })
-    .map((file) => {
       const stats = getFileStatsNormalized(file);
       const { id, name } = getFileMetadata(file);
       return {
         id,
         hash: stats.hash,
-        name,
+        name: name.replace("defaultconfigs/", "config/"),
       };
     })
     .sort((a, b) => a.name.toLowerCase().localeCompare(b.name.toLowerCase()));
