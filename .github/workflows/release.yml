@@ -8,10 +8,8 @@ jobs:
   generate-and-commit:
     name: Generate manifest
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
-
     steps:
       - name: Checkout
         uses: actions/checkout@v5
@@ -35,8 +33,23 @@ jobs:
           commit_message: "chore: auto-update manifests [skip ci]"
           file_pattern: manifest.json manifest.server.json
 
+  release:
+    name: Release to Server
+    needs: generate-and-commit  # This ensures it runs second
+    if: github.ref == 'refs/heads/deploy'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          lfs: true
+
+      - name: Setup mise
+        uses: jdx/mise-action@v2
+        with:
+          install_args: node yarn
+
       - name: Release
-        if: github.ref == 'refs/heads/deploy'
         env:
           SFTP_HOST: ${{ secrets.SFTP_HOST }}
           SFTP_PORT: ${{ secrets.SFTP_PORT }}

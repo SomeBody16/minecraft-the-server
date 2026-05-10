@@ -56,9 +56,7 @@ export async function synchronize(
     // Find missing and changed files (in local, but not remote, or hash differs)
     for (const [name, hash] of localMap.entries()) {
       if (!remoteMap.has(name) || remoteMap.get(name) !== hash) {
-        const mappedName = name //
-          .replace("defaultconfigs/", "config/")
-        toUpload.push(mappedName);
+        toUpload.push(name);
       }
     }
 
@@ -88,7 +86,10 @@ export async function synchronize(
       console.log(`\nFound ${toUpload.length} files to upload...`);
       for (const fileName of toUpload) {
         const localFilePath = path.join(localDirPath, fileName);
-        const remoteFilePath = path.posix.join(remoteDirPath, fileName);
+
+        const mappedFileName = fileName //
+          .replace("defaultconfigs/", "config/")
+        const remoteFilePath = path.posix.join(remoteDirPath, mappedFileName);
         
         // Ensure the remote directory exists before putting the file
         const remoteFileDir = path.posix.dirname(remoteFilePath);
@@ -97,7 +98,7 @@ export async function synchronize(
           await sftp.mkdir(remoteFileDir, true); // true enables recursive directory creation
         }
 
-        console.log(`[UPLOAD] ${fileName}`);
+        console.log(`[UPLOAD] ${mappedFileName}`);
         await sftp.put(localFilePath, remoteFilePath);
       }
     }
