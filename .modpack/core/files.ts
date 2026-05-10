@@ -2,7 +2,7 @@ import fs from "fs";
 import { globSync } from "glob";
 import crypto from 'crypto';
 
-import { File } from "./types";
+import { File, ServerFile } from "./types";
 import path from "path";
 import AdmZip from "adm-zip";
 import * as toml from "js-toml";
@@ -22,6 +22,32 @@ export const manifestFiles = (include: string[]): File[] => {
         hash: stats.hash,
         size: stats.size,
         optional: file.includes(".client.") ? true : undefined,
+      };
+    })
+    .sort((a, b) => a.name.toLowerCase().localeCompare(b.name.toLowerCase()));
+};
+
+export const manifestServerFiles = (include: string[]): ServerFile[] => {
+  return globSync(include)
+    .filter((file) => fs.statSync(file).isFile())
+    .filter((file) => !file.endsWith(".disabled"))
+    .filter((file) => !file.includes(".client."))
+    .filter((file) => !file.includes("resourcepacks"))
+    .filter((file) => !file.includes("shaderpacks"))
+    .map((file) => {
+      // route defaultconfigs/* to config/*
+      if (file.startsWith("defaultconfigs/")) {
+        return file.replace("defaultconfigs/", "config/");
+      }
+      return file;
+    })
+    .map((file) => {
+      const stats = getFileStatsNormalized(file);
+      const { id, name } = getFileMetadata(file);
+      return {
+        id,
+        hash: stats.hash,
+        name,
       };
     })
     .sort((a, b) => a.name.toLowerCase().localeCompare(b.name.toLowerCase()));

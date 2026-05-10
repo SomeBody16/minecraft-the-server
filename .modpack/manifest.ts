@@ -2,7 +2,9 @@ import fs from "fs";
 
 import {
   Manifest,
+  ManifestServer,
   hashString,
+  manifestServerFiles,
 } from "./core";
 import config from "../config.json" with { type: "json" };
 import { manifestFiles } from "./core";
@@ -20,9 +22,9 @@ export const manifest: Manifest = {
   files,
 };
 
-// If is running as command line, write the manifest to a file
-if (process.argv.includes("--write")) {
-  fs.writeFileSync("manifest.json", JSON.stringify(manifest, null, 2) + "\n");
-} else {
-  console.log(JSON.stringify(manifest, null, 2));
+export const manifestServer: ManifestServer = {
+  files: manifestServerFiles(config.include),
 }
+
+fs.writeFileSync("manifest.json", JSON.stringify(manifest, null, 2) + "\n");
+fs.writeFileSync("manifest.server.json", JSON.stringify(manifestServer, null, 2) + "\n");
