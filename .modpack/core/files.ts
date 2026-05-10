@@ -21,7 +21,7 @@ export const manifestFiles = (include: string[]): File[] => {
         url: githubRawFileDownloadUrl({ name }),
         hash: stats.hash,
         size: stats.size,
-        optional: file.includes(".optional.") ? true : undefined,
+        optional: file.includes(".client.") ? true : undefined,
       };
     })
     .sort((a, b) => a.name.toLowerCase().localeCompare(b.name.toLowerCase()));
