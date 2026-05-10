@@ -1,4 +1,5 @@
 ServerEvents.recipes((event) => {
+  return;
   // Remove every recipe added by the Handcrafted mod.
   event.remove({ mod: "handcrafted" });
 

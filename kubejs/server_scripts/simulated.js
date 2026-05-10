@@ -1,4 +1,5 @@
 ServerEvents.recipes((event) => {
+  return;
   event.remove({ output: "simulated:physics_assembler" });
 
   // End-game: assembled on a Mechanical Crafter (Create). Uses event.custom JSON (see kubejs/AGENTS.md).

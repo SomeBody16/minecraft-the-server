@@ -1,4 +1,5 @@
 StartupEvents.registry("item", (event) => {
+  return;
   event
     .create("stone_dust")
     .displayName("Stone Dust")
