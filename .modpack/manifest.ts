@@ -1,26 +1,13 @@
 import fs from "fs";
-import {globSync} from "glob";
 
-import { Manifest, File, hashString, getFileStatsNormalized, getFileId } from "./core";
-import { config } from "./config";
-import path from "path";
+import {
+  Manifest,
+  hashString,
+} from "./core";
+import config from "../config.json" with { type: "json" };
+import { manifestFiles } from "./core";
 
-const files: File[] = globSync(config.include)
-  .filter((file) => fs.statSync(file).isFile())
-  .filter((file) => !file.endsWith(".disabled"))
-  .map((file) => {
-    const lfs = config.lfs.some((regex) => regex.test(file));
-    const stats = getFileStatsNormalized(file);
-    return {
-      id: getFileId(file),
-      name: path.normalize(file).replaceAll(path.sep, path.posix.sep),
-      hash: stats.hash,
-      size: stats.size,
-      lfs: lfs ? lfs : undefined,
-      optional: file.includes(".optional.") ? true : undefined,
-    };
-  })
-  .sort((a, b) => a.name.toLowerCase().localeCompare(b.name.toLowerCase()));
+const files = manifestFiles(config.include);
 
 export const manifest: Manifest = {
   name: config.name,

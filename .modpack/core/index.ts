@@ -1,3 +1,3 @@
 export * from './types';
 export * from './helper';
-export * from "./parseGitattributesLfs";
+export * from "./files";

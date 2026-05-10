@@ -2,7 +2,7 @@
   "name": "Minecraft THE Pokemon",
   "serverIp": "minecraft-the-server.spot.gs",
   "version": {
-    "modpack": "de6404abc3d4c4645badec907f8b58d00a1650418266be951db442b6a5226e20",
+    "modpack": "0c06a4fa8006306b889bf783e6a145cfcfc0fc906e11b965f6da6c7dbe79c02a",
     "minecraft": "1.21.1",
     "modloader": {
       "name": "neoforge",
@@ -13,2706 +13,2992 @@
     {
       "id": "datapack_load_order.json",
       "name": "config/paxi/datapack_load_order.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/config/paxi/datapack_load_order.json",
       "hash": "8f51bb16857a9668512f01334c8c2b95273867da229692c0daff400c95519128",
       "size": 22
     },
     {
       "id": "CR - Biome Expanded Spawns - 5.8.1.zip",
       "name": "config/paxi/datapacks/CR - Biome Expanded Spawns - 5.8.1.zip",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/config/paxi/datapacks/CR%20-%20Biome%20Expanded%20Spawns%20-%205.8.1.zip",
       "hash": "8e261cc1cfbbc0e2d9cb91e206b0a965d075a21df4ca64b32627901e0a5edeea",
       "size": 901067
     },
     {
       "id": "PathToLegends-1.1.1-release.zip",
       "name": "config/paxi/datapacks/PathToLegends-1.1.1-release.zip",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/config/paxi/datapacks/PathToLegends-1.1.1-release.zip",
       "hash": "156e42b8fa35bf30e21a73af1f1bbed66f5ed54085aa8beb6544190aa35e3f59",
       "size": 492682
     },
     {
       "id": "pack.mcmeta",
       "name": "config/paxi/datapacks/vanilla_only_advancements/pack.mcmeta",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/config/paxi/datapacks/vanilla_only_advancements/pack.mcmeta",
       "hash": "b6521ac327afd49859fd4ed46b38c30ff0ef1f657973d6a38e53ff0b26018a93",
       "size": 250
     },
     {
       "id": "VanillaTweaks_d185723_UNZIP_ME.zip",
       "name": "config/paxi/datapacks/VanillaTweaks_d185723_UNZIP_ME.zip",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/config/paxi/datapacks/VanillaTweaks_d185723_UNZIP_ME.zip",
       "hash": "98b1c4db350736d5e26dde0526a679935c581c9d5fe8869b8015de121a3663f9",
       "size": 297183
     },
     {
       "id": "resourcepack_load_order.json",
       "name": "config/paxi/resourcepack_load_order.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/config/paxi/resourcepack_load_order.json",
       "hash": "8f51bb16857a9668512f01334c8c2b95273867da229692c0daff400c95519128",
       "size": 22
     },
     {
       "id": "[1.5] Enhanced Boss Bars.zip",
       "name": "config/paxi/resourcepacks/[1.5] Enhanced Boss Bars.zip",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/config/paxi/resourcepacks/%5B1.5%5D%20Enhanced%20Boss%20Bars.zip",
       "hash": "dd6cc4be800ec9baa99d91ba5e30546cce9e5c00ed742c6a5b4888d90a67388f",
       "size": 203258
     },
     {
       "id": "§e[FORGE]Eating Animations More Compat.zip",
       "name": "config/paxi/resourcepacks/§e[FORGE]Eating Animations More Compat.zip",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/config/paxi/resourcepacks/%C2%A7e%5BFORGE%5DEating%20Animations%20More%20Compat.zip",
       "hash": "b8e618b9b06195a00e0e74289aa8748fa2e49fae535dcc9cbe6d0092986047a3",
       "size": 1103721
     },
     {
       "id": "§eExtended_Illumina_1.21x.zip",
       "name": "config/paxi/resourcepacks/§eExtended_Illumina_1.21x.zip",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/config/paxi/resourcepacks/%C2%A7eExtended_Illumina_1.21x.zip",
       "hash": "ff1f8382f8d000636c86efa399b470e830bd3fd24d49b0c40c903fa0712ee85b",
       "size": 5035
     },
     {
       "id": "§eTorches§8-§eReimagined§0_§8[v1.7.2]§0.zip",
       "name": "config/paxi/resourcepacks/§eTorches§8-§eReimagined§0_§8[v1.7.2]§0.zip",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/config/paxi/resourcepacks/%C2%A7eTorches%C2%A78-%C2%A7eReimagined%C2%A70_%C2%A78%5Bv1.7.2%5D%C2%A70.zip",
       "hash": "c9262d923b69a54e4c16d281fd4f039dc467560f4395289eafd240c27eb799a7",
       "size": 186249
     },
     {
       "id": "CreateSophBackpacks.zip",
       "name": "config/paxi/resourcepacks/CreateSophBackpacks.zip",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/config/paxi/resourcepacks/CreateSophBackpacks.zip",
       "hash": "cb63a5a33c142ce588f1df020c7d4615f57f0e312064e03d4e7901060803905d",
       "size": 557473
     },
     {
       "id": "CreateSophiStorage.zip",
       "name": "config/paxi/resourcepacks/CreateSophiStorage.zip",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/config/paxi/resourcepacks/CreateSophiStorage.zip",
       "hash": "cea881b7e94723237391ef5075afc68e15bad74d124bb98220804fed1d48e580",
       "size": 611818
     },
     {
       "id": "Gentler Weather Sounds 2.2.0.zip",
       "name": "config/paxi/resourcepacks/Gentler Weather Sounds 2.2.0.zip",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/config/paxi/resourcepacks/Gentler%20Weather%20Sounds%202.2.0.zip",
       "hash": "9198b0932e19def4795240cb4863b61a65f606fc66f9eb3cafeff1fbebb434cf",
       "size": 2642800
     },
     {
       "id": "Os' Colorful Grasses (Mix).zip",
       "name": "config/paxi/resourcepacks/Os' Colorful Grasses (Mix).zip",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/config/paxi/resourcepacks/Os'%20Colorful%20Grasses%20(Mix).zip",
       "hash": "13fa9c58de7beb6ce8a12e3231e9d0b3f54b7032e1b3fd4e68f0c198b8cd3b4b",
       "size": 294362
     },
     {
       "id": "rainbows-foliage-polytone-edition-v1.7.zip",
       "name": "config/paxi/resourcepacks/rainbows-foliage-polytone-edition-v1.7.zip",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/config/paxi/resourcepacks/rainbows-foliage-polytone-edition-v1.7.zip",
       "hash": "e3851c5c2c9e796ed51409b6536e6441abb74d83ae30abd1761377c6b95968ea",
       "size": 932983
     },
     {
       "id": "Soft-Weather-1.0-Universal.zip",
       "name": "config/paxi/resourcepacks/Soft-Weather-1.0-Universal.zip",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/config/paxi/resourcepacks/Soft-Weather-1.0-Universal.zip",
       "hash": "3f47ccac79c0c9ff2f723e4d8061f5881ca5323931be29f9009d42682cdcc1dd",
       "size": 6534
     },
     {
       "id": "VanillaTweaks_r298651_MC26.1.x.zip",
       "name": "config/paxi/resourcepacks/VanillaTweaks_r298651_MC26.1.x.zip",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/config/paxi/resourcepacks/VanillaTweaks_r298651_MC26.1.x.zip",
       "hash": "8b3ecdf6a879bf4d8ac6f5a9d73a49bbe4dd44e03435fabd498411db45203c1f",
       "size": 254197
     },
     {
       "id": "accessories.json5",
       "name": "defaultconfigs/accessories.json5",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/accessories.json5",
       "hash": "b9f6a56acdb02a286de9aa06578dac5485656fb476adc819fb3c63dd49ad0785",
       "size": 915
     },
     {
       "id": "amendments-client.toml",
       "name": "defaultconfigs/amendments-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/amendments-client.toml",
       "hash": "33a2d7f7b0ab243d73b7414320bcedb985444d82ea2d64456ef3a0133ea87209",
       "size": 4565
     },
     {
       "id": "amendments-common.toml",
       "name": "defaultconfigs/amendments-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/amendments-common.toml",
       "hash": "3ba2a0243fdb5364d7604ab5c841af0a7f7fd8dd5d509667cb2a78e318e73387",
       "size": 4972
     },
     {
       "id": "appleskin-client.toml",
       "name": "defaultconfigs/appleskin-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/appleskin-client.toml",
       "hash": "f24c653544663d14a60878443ab987d7c824684c23da57ea91261220ede85362",
       "size": 1341
     },
     {
       "id": "areas.json5",
       "name": "defaultconfigs/areas.json5",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/areas.json5",
       "hash": "55aa4e69109598219f5b0d6d88ad9edce4ffff5733f2ce243efcdcc4c26196db",
       "size": 2078
     },
     {
       "id": "astikorcartsredux-client.toml",
       "name": "defaultconfigs/astikorcartsredux-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/astikorcartsredux-client.toml",
       "hash": "531115a6c2b8560add64adfb1c7194d6825aebbe833ef8d91c36bfe9f2190344",
       "size": 441
     },
     {
       "id": "astikorcartsredux-common.toml",
       "name": "defaultconfigs/astikorcartsredux-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/astikorcartsredux-common.toml",
       "hash": "7e3a36f8a71a4fcfea11e0609880b82617b73dba30d5ed939c19da4e9e0550bf",
       "size": 3886
     },
     {
       "id": "atmosfera.json",
       "name": "defaultconfigs/atmosfera.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/atmosfera.json",
       "hash": "9dcb9a591fce019307b6a4f57f968618f1be4c807d26de136bf95cb26551cd5a",
       "size": 3423
     },
     {
       "id": "autohud.json5",
       "name": "defaultconfigs/autohud.json5",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/autohud.json5",
       "hash": "c2c8b25a379bd2e02b4cde25cf06fb70c109cd79fe43fd6abf0ac54a37bcc56d",
       "size": 4229
     },
     {
       "id": "betteradvancements.json",
       "name": "defaultconfigs/betteradvancements.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betteradvancements.json",
       "hash": "38b28a4db412f8fe26d34673a0263e97e13e534091679ace998f52a11f3743d4",
       "size": 620
     },
     {
       "id": "betterarcheology.jsonc",
       "name": "defaultconfigs/betterarcheology.jsonc",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterarcheology.jsonc",
       "hash": "2638a4de3fd4f7c90389b0b19984577c82d5ac59eef4945efe5d55c70fb471a8",
       "size": 2521
     },
     {
       "id": "liquidregions.json",
       "name": "defaultconfigs/bettercaves/neoforge-1_21_1/liquidregions.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/bettercaves/neoforge-1_21_1/liquidregions.json",
       "hash": "79ae7fac378b24ca5a1688efeee2fc4261eaf825cf5dff72636d0ce4c18f9c9f",
       "size": 169
     },
     {
       "id": "README.txt",
       "name": "defaultconfigs/bettercaves/neoforge-1_21_1/README.txt",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/bettercaves/neoforge-1_21_1/README.txt",
       "hash": "1dc29f3ad9f62887f2667aeaed28c3fd3a2520055382ecb3636e3cb9ea563baa",
       "size": 743
     },
     {
       "id": "README.txt",
       "name": "defaultconfigs/bettercaves/README.txt",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/bettercaves/README.txt",
       "hash": "e6f25132180339d5b7f53c1f5473f28cdf743f76292bc8f87142e4b0300e0f2c",
       "size": 546
     },
     {
       "id": "betterclouds-v1.json",
       "name": "defaultconfigs/betterclouds-v1.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterclouds-v1.json",
       "hash": "99a3b8f60d15b3ffd649e9e43d4b097edf25fbaeee8ef0dd06c1f89806a6cc31",
       "size": 8074
     },
     {
       "id": "betterdeserttemples-neoforge-1_21.toml",
       "name": "defaultconfigs/betterdeserttemples-neoforge-1_21.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterdeserttemples-neoforge-1_21.toml",
       "hash": "9fed1a0e91da4bac8acd97baa987e6cb584239bccf68e7a8e52771183e5e6e4d",
       "size": 546
     },
     {
       "id": "armorstands.json",
       "name": "defaultconfigs/betterdeserttemples/neoforge-1_21/armorstands.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterdeserttemples/neoforge-1_21/armorstands.json",
       "hash": "920633ce070f5c1f85c2df0bc8c152bdd53795f23e3694bbbb5f8cf7d4769525",
       "size": 1345
     },
     {
       "id": "itemframes.json",
       "name": "defaultconfigs/betterdeserttemples/neoforge-1_21/itemframes.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterdeserttemples/neoforge-1_21/itemframes.json",
       "hash": "e1f1316614026870fb39e7b2187f00ab83bfc8bd503eaf2be19a5c0ff0875660",
       "size": 825
     },
     {
       "id": "README.txt",
       "name": "defaultconfigs/betterdeserttemples/neoforge-1_21/README.txt",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterdeserttemples/neoforge-1_21/README.txt",
       "hash": "80ba474fdd1912739a1dc3326de6539ccfceb9d5c97f540131b567e295a7b112",
       "size": 1683
     },
     {
       "id": "README.txt",
       "name": "defaultconfigs/betterdeserttemples/README.txt",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterdeserttemples/README.txt",
       "hash": "a8248503b691a780ba45cf033a8d74f1f878d27f119f1d8b4b80b2b8745f62db",
       "size": 726
     },
     {
       "id": "betterdungeons-neoforge-1_21.toml",
       "name": "defaultconfigs/betterdungeons-neoforge-1_21.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterdungeons-neoforge-1_21.toml",
       "hash": "9c04b060ee16f38c2d0b1e5834333e4bccf415c1197ce89ddf8d4686b568222b",
       "size": 3308
     },
     {
       "id": "betterendisland-neoforge-1_21.toml",
       "name": "defaultconfigs/betterendisland-neoforge-1_21.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterendisland-neoforge-1_21.toml",
       "hash": "1738e5ce8d1436cd6ef862f50fd02b573266895039c8ab705cf35098ee0cf1f8",
       "size": 906
     },
     {
       "id": "betterfortresses-neoforge-1_21.toml",
       "name": "defaultconfigs/betterfortresses-neoforge-1_21.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterfortresses-neoforge-1_21.toml",
       "hash": "46a1bc6b60a68f8022e1e94969bc28d8d97487cef2e3f413da3eadf3c43a102f",
       "size": 405
     },
     {
       "id": "itemframes.json",
       "name": "defaultconfigs/betterfortresses/neoforge-1_21/itemframes.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterfortresses/neoforge-1_21/itemframes.json",
       "hash": "9b5f0119809547bb579aa0b2a51780d79963cc97e813bc07e6a8e8bac1c4adf6",
       "size": 1162
     },
     {
       "id": "README.txt",
       "name": "defaultconfigs/betterfortresses/neoforge-1_21/README.txt",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterfortresses/neoforge-1_21/README.txt",
       "hash": "1175dbf9cd2e7c91b1c852a51e3c0203c68484917e877465b283e2370ad62864",
       "size": 1339
     },
     {
       "id": "README.txt",
       "name": "defaultconfigs/betterfortresses/README.txt",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterfortresses/README.txt",
       "hash": "5643f5af88b445a96f2c6ea167b97cc640059eda5c849ed3c7b8d5023ab51a86",
       "size": 867
     },
     {
       "id": "bettergrass.json5",
       "name": "defaultconfigs/bettergrass.json5",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/bettergrass.json5",
       "hash": "66dc3f3e9aceacbbad115d7d7f123cbfe0007d61305ba2b2011b48ffeac60c6d",
       "size": 896
     },
     {
       "id": "betterjungletemples-neoforge-1_21.toml",
       "name": "defaultconfigs/betterjungletemples-neoforge-1_21.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterjungletemples-neoforge-1_21.toml",
       "hash": "52763cac061fd6f110941c755aba7d5f2de0c9838d4eb5a5108ce39bc67bdf9e",
       "size": 81
     },
     {
       "id": "bettermineshafts-neoforge-1_21.toml",
       "name": "defaultconfigs/bettermineshafts-neoforge-1_21.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/bettermineshafts-neoforge-1_21.toml",
       "hash": "2a88ddced4f4ea105fb6c1b54b96edc524c147ec3498ea3bc2e3418a7c7faeb4",
       "size": 3803
     },
     {
       "id": "betteroceanmonuments-neoforge-1_21.toml",
       "name": "defaultconfigs/betteroceanmonuments-neoforge-1_21.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betteroceanmonuments-neoforge-1_21.toml",
       "hash": "330ce676c83edab68ef5b233aea8abeaae10e68e68d1ef7e0aa30b58c0fbebf2",
       "size": 399
     },
     {
       "id": "betterpingdisplay-client.toml",
       "name": "defaultconfigs/betterpingdisplay-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterpingdisplay-client.toml",
       "hash": "c379673b88091ba7ce36756b050c7d0be2b8df124954fdbd6461557bca5620ff",
       "size": 660
     },
     {
       "id": "betterstrongholds-neoforge-1_21.toml",
       "name": "defaultconfigs/betterstrongholds-neoforge-1_21.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterstrongholds-neoforge-1_21.toml",
       "hash": "6a7c439960f70243f42a1ae8e7f95b34e542c3206b25db8ee701bcebf80147ca",
       "size": 592
     },
     {
       "id": "armorstands.json",
       "name": "defaultconfigs/betterstrongholds/neoforge-1_21/armorstands.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterstrongholds/neoforge-1_21/armorstands.json",
       "hash": "91ea63074b5dda4abeb7461f930915b69267c47b3ef12f89c94a9a750b217559",
       "size": 1392
     },
     {
       "id": "itemframes.json",
       "name": "defaultconfigs/betterstrongholds/neoforge-1_21/itemframes.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterstrongholds/neoforge-1_21/itemframes.json",
       "hash": "a6ed955ba3a820fdb261e2e2c67a3be03805deee409d96f0b972d450e46ab9ae",
       "size": 921
     },
     {
       "id": "ores.json",
       "name": "defaultconfigs/betterstrongholds/neoforge-1_21/ores.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterstrongholds/neoforge-1_21/ores.json",
       "hash": "5d56548734493d0b2b13c339ce8c306e92d8ea61bc88624d22c22aea316eba3f",
       "size": 347
     },
     {
       "id": "rareblocks.json",
       "name": "defaultconfigs/betterstrongholds/neoforge-1_21/rareblocks.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterstrongholds/neoforge-1_21/rareblocks.json",
       "hash": "ab6f0a63ecb69a3a63ed5927b31fabab3fe5d7d791a31e34b378e189c9ebe6f7",
       "size": 239
     },
     {
       "id": "README.txt",
       "name": "defaultconfigs/betterstrongholds/neoforge-1_21/README.txt",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterstrongholds/neoforge-1_21/README.txt",
       "hash": "5aad271e60a03218eb5207dd78df8d1d36c676f212bf823701e33646010d2f19",
       "size": 2830
     },
     {
       "id": "README.txt",
       "name": "defaultconfigs/betterstrongholds/README.txt",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterstrongholds/README.txt",
       "hash": "cd97289ac49b09b032d9c69a2f893b8fa9f73849b4adb9f63f8486a83bf2fd5a",
       "size": 719
     },
     {
       "id": "bettervillage_1.properties",
       "name": "defaultconfigs/bettervillage_1.properties",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/bettervillage_1.properties",
       "hash": "d34255919e19831d15a661d1382c2b562c176353f4a6197a6675f56d642c8153",
       "size": 265
     },
     {
       "id": "betterwitchhuts-neoforge-1_21.toml",
       "name": "defaultconfigs/betterwitchhuts-neoforge-1_21.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/betterwitchhuts-neoforge-1_21.toml",
       "hash": "15630ab07f6ae616402184fd4a6d8fa4440f547b3fffa5bf47bd63e395b63455",
       "size": 384
     },
     {
       "id": "general.json",
       "name": "defaultconfigs/biolith/general.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/biolith/general.json",
       "hash": "7766fcc0377bab8274eada1a17f923f8914991662cff247fbf2be7bb18db4103",
       "size": 173
     },
     {
       "id": "cameraoverhaul.toml",
       "name": "defaultconfigs/cameraoverhaul.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/cameraoverhaul.toml",
       "hash": "804c7fdcfc23fb10f6ae1154fa5ee8dc245f904b6337f42d98e3b35c1785e3a5",
       "size": 5152
     },
     {
       "id": "chalk-client.toml",
       "name": "defaultconfigs/chalk-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/chalk-client.toml",
       "hash": "6ee61d398134f1b6895a2c7693863a24ac78e282aa25a3cb15799655ede0ef38",
       "size": 722
     },
     {
       "id": "chalk-common.toml",
       "name": "defaultconfigs/chalk-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/chalk-common.toml",
       "hash": "7a7cf4d704bb6dd4f26ca36c89d381d131a301ba2e6d28557f7a240dc0c82171",
       "size": 1276
     },
     {
       "id": "charmofundying-server.toml",
       "name": "defaultconfigs/charmofundying-server.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/charmofundying-server.toml",
       "hash": "2d44372ca83edd86d2d4ffae215ff18d5f6110b37fb376acb3c61913b04906b0",
       "size": 369
     },
     {
       "id": "chat_heads.json5",
       "name": "defaultconfigs/chat_heads.json5",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/chat_heads.json5",
       "hash": "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503",
       "size": 229
     },
     {
       "id": "citadel-common.toml",
       "name": "defaultconfigs/citadel-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/citadel-common.toml",
       "hash": "fe59c586fef0a3c94ade9e8fa95d608e70315a8b34eb010a087a87616805c078",
       "size": 645
     },
     {
       "id": "clear-despawn-reworked.toml",
       "name": "defaultconfigs/clear-despawn-reworked.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/clear-despawn-reworked.toml",
       "hash": "05452bc96b88f5da14c75271b6e222848fc2c4ddcfba2f5aa71f0132631e1191",
       "size": 197
     },
     {
       "id": "cobbled_counter.json",
       "name": "defaultconfigs/cobbled_counter.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/cobbled_counter.json",
       "hash": "ecb83f60b688742812d67e76fde29126d5cb7e9273a9fba553a3f35b499ed29d",
       "size": 133
     },
     {
       "id": "main.json",
       "name": "defaultconfigs/cobblemon/main.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/cobblemon/main.json",
       "hash": "b989aef3b2f9e7f0e71bcd1a96b33888720aee3c01403960130f50a40df1bbc0",
       "size": 3409
     },
     {
       "id": "cobblemonintegrations-common.toml",
       "name": "defaultconfigs/cobblemonintegrations-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/cobblemonintegrations-common.toml",
       "hash": "478da567cd8b0a614c0b79adab5c9b23f8fb2cb54319606bc3b4c4d146950337",
       "size": 2116
     },
     {
       "id": "client-config.json",
       "name": "defaultconfigs/cobblenav/client-config.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/cobblenav/client-config.json",
       "hash": "860e48008f5141517bd155ff52c57e0278e8f1d48d0db845f975462bb42685cc",
       "size": 401
     },
     {
       "id": "server-config.json",
       "name": "defaultconfigs/cobblenav/server-config.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/cobblenav/server-config.json",
       "hash": "fc4fc51ecdedacca3e47c3be0ea1a71302aec9fcc1af4fca4253e6d6c166d6a3",
       "size": 1096
     },
     {
       "id": "collective.json5",
       "name": "defaultconfigs/collective.json5",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/collective.json5",
       "hash": "1bd89e753b05ca51f7260596b5e8e8d53b6510eb39eb05c315a2e4f0d789461b",
       "size": 999
     },
     {
       "id": "area_names.json",
       "name": "defaultconfigs/collective/area_names.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/collective/area_names.json",
       "hash": "29729fa3f13506b5be6102ed718923de3926f6d84fa127e1d5988bdd229eb273",
       "size": 10836
     },
     {
       "id": "connectivity.json",
       "name": "defaultconfigs/connectivity.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/connectivity.json",
       "hash": "c0ce2214065a19d0d90a3fd0a79a1e3cebe93cacfa4f7342c3cfc58b34994a7d",
       "size": 1764
     },
     {
       "id": "continuity.json",
       "name": "defaultconfigs/continuity.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/continuity.json",
       "hash": "2d7585fe4494406705f0d3e15f48f0a688c9faa0a876586cf3655c1cab19f384",
       "size": 93
     },
     {
       "id": "controlify.json",
       "name": "defaultconfigs/controlify.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/controlify.json",
       "hash": "a870d79329d694b30a3dc0729e58379c4a10b5adeeb044da4ed44c70ae0418a7",
       "size": 9632
     },
     {
       "id": "coolrain.json",
       "name": "defaultconfigs/coolrain.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/coolrain.json",
       "hash": "7a9b0d9d6470b6b2ae3b7e55eb2bb1d3159bc6d211fe57276a7ea62350873f40",
       "size": 9658
     },
     {
       "id": "corpse-server.toml",
       "name": "defaultconfigs/corpse-server.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/corpse-server.toml",
       "hash": "151b2bc2fc42f48d3817cc34c2f1434534aa18e54d66ef908ee3e2b53a5cc869",
       "size": 1030
     },
     {
       "id": "cosmeticarmorreworked-client.toml",
       "name": "defaultconfigs/cosmeticarmorreworked-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/cosmeticarmorreworked-client.toml",
       "hash": "b8495b4f55d0ee4c7ff589cd5e201b6fac511d7b83b7320603dc6661fb3bcc94",
       "size": 1276
     },
     {
       "id": "cosmeticarmorreworked-common.toml",
       "name": "defaultconfigs/cosmeticarmorreworked-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/cosmeticarmorreworked-common.toml",
       "hash": "13a525079f0bd9f5c9edaf853cf4bb6b3ac9b337c1c8f5699f71618b1c24f012",
       "size": 365
     },
     {
       "id": "cosycritters.json",
       "name": "defaultconfigs/cosycritters.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/cosycritters.json",
       "hash": "5c1bcac40619b2d66dbcd7b96c5838f8adac8182b1cfd9e6d7557c796ae83735",
       "size": 656
     },
     {
       "id": "create_connected-common.toml",
       "name": "defaultconfigs/create_connected-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/create_connected-common.toml",
       "hash": "c3f802fb87605876336181a80a246b0416700830dae912e884f5935d703ef9d0",
       "size": 1619
     },
     {
       "id": "create_connected-server.toml",
       "name": "defaultconfigs/create_connected-server.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/create_connected-server.toml",
       "hash": "8f6fdbcddf3f021829e1eb53f2b10d67da2a6fe5ef7fd90df5888fe777aa1ba8",
       "size": 1804
     },
     {
       "id": "create_dragons_plus-client.toml",
       "name": "defaultconfigs/create_dragons_plus-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/create_dragons_plus-client.toml",
       "hash": "9f489bd673f80055f99355e6871e92a262ac5cdb1cde26592bf410f7bf38c69b",
       "size": 296
     },
     {
       "id": "create_dragons_plus-common.toml",
       "name": "defaultconfigs/create_dragons_plus-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/create_dragons_plus-common.toml",
       "hash": "313b3f3728b1eaef3508184915d84d98530d6e78a0588a3807204054e1fb800f",
       "size": 1368
     },
     {
       "id": "create_dragons_plus-server.toml",
       "name": "defaultconfigs/create_dragons_plus-server.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/create_dragons_plus-server.toml",
       "hash": "5476e4a3b8f66cc00a375c46dcea2c90933bf3be4c40c892a42746b593a4e5b5",
       "size": 335
     },
     {
       "id": "create_encapsulated-common.toml",
       "name": "defaultconfigs/create_encapsulated-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/create_encapsulated-common.toml",
       "hash": "839eb01a1d1b83a1fbb56c65027f680ca48f62b3dea551ccfe1456ff44e21ea9",
       "size": 324
     },
     {
       "id": "create_enchantment_industry-client.toml",
       "name": "defaultconfigs/create_enchantment_industry-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/create_enchantment_industry-client.toml",
       "hash": "3c73c1bc343f3ec2722dbd138ebef24ada9203fce765fb144b5cadd733fcf4f7",
       "size": 152
     },
     {
       "id": "create_enchantment_industry-server.toml",
       "name": "defaultconfigs/create_enchantment_industry-server.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/create_enchantment_industry-server.toml",
       "hash": "c1211101c8a234cf4597053565c199ad19b2ab63b75dfa7831466562105faf75",
       "size": 6043
     },
     {
       "id": "create_factory_logistics-server.toml",
       "name": "defaultconfigs/create_factory_logistics-server.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/create_factory_logistics-server.toml",
       "hash": "df47d3c3035eb9021abfc1e1bdedd67e7f37b65e0751a763494abfb5aacf4fad",
       "size": 345
     },
     {
       "id": "create_stats-common.toml",
       "name": "defaultconfigs/create_stats-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/create_stats-common.toml",
       "hash": "b68e725f8be339ea9ae4641b546f5d6f5f78e1033e0440140528491bf475591f",
       "size": 2441
     },
     {
       "id": "create-client.toml",
       "name": "defaultconfigs/create-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/create-client.toml",
       "hash": "1ec9831c6943017caccf7f3ac30fff3f9a0b2e40e33cafd3da49fe51f19fbaa6",
       "size": 4514
     },
     {
       "id": "create-common.toml",
       "name": "defaultconfigs/create-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/create-common.toml",
       "hash": "aa7a934292ea0a6688e0dc9a7e068436adeb3b1441edab96e156cc4f688129a5",
       "size": 147
     },
     {
       "id": "create-server.toml",
       "name": "defaultconfigs/create-server.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/create-server.toml",
       "hash": "94e4ceab640f18580eb413f02e66a101c4b89bccf670fdfd0442311ed5f4590c",
       "size": 15636
     },
     {
       "id": "cubes-without-borders.json",
       "name": "defaultconfigs/cubes-without-borders.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/cubes-without-borders.json",
       "hash": "0bc60520fa9d35dfe8511666c3a8ed9e0f56d47002c260eb844c0fa41e536cee",
       "size": 203
     },
     {
       "id": "cupboard.json",
       "name": "defaultconfigs/cupboard.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/cupboard.json",
       "hash": "2866f72fe4f69033e0f635b3c839805251da1b021b8c8cafac7fdc9e3aa87fd5",
       "size": 1305
     },
     {
       "id": "curios-client.toml",
       "name": "defaultconfigs/curios-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/curios-client.toml",
       "hash": "5076d0409b3dbcf82ff6ce8a3527a383396db2ba29c76830ab53973ce6eb5616",
       "size": 727
     },
     {
       "id": "curios-common.toml",
       "name": "defaultconfigs/curios-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/curios-common.toml",
       "hash": "3518def0cf0c4309aeeef5ae72c9dfc3017c8c4058e9bb7f9df316f02127b3c0",
       "size": 157
     },
     {
       "id": "curios-server.toml",
       "name": "defaultconfigs/curios-server.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/curios-server.toml",
       "hash": "1ddb648ca52230d1dc3e6d985057478d5274d039e94c8953c292fec848bddd9c",
       "size": 466
     },
     {
       "id": "DistantHorizons.toml",
       "name": "defaultconfigs/DistantHorizons.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/DistantHorizons.toml",
       "hash": "bce6d50304d84990673d9a75d2827acc5648722fee6064456b17df97095b3c69",
       "size": 28885
     },
     {
       "id": "dynamic_fps.json",
       "name": "defaultconfigs/dynamic_fps.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/dynamic_fps.json",
       "hash": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
       "size": 3
     },
     {
       "id": "eg_particle_interactions.json",
       "name": "defaultconfigs/eg_particle_interactions.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/eg_particle_interactions.json",
       "hash": "d66ef50d82a4ae209f69a9878b3b22c25c235149b3ec6eac521dfdb06cbafb62",
       "size": 164
     },
     {
       "id": "enchdesc.json",
       "name": "defaultconfigs/enchdesc.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/enchdesc.json",
       "hash": "187b9f765180d2c51e78d25a6cfb361c9605d9c152e6993736c64096353b3680",
       "size": 2060
     },
     {
       "id": "entity_model_features.json",
       "name": "defaultconfigs/entity_model_features.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/entity_model_features.json",
       "hash": "4937a649aa5e462584111ff9d309e47afa823c69833aa9e65007fe6e2d520fa3",
       "size": 1147
     },
     {
       "id": "entity_texture_features.json",
       "name": "defaultconfigs/entity_texture_features.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/entity_texture_features.json",
       "hash": "4ec025fffc5d022df0137d6ccd36ca31ce6aad5fce087c557e8f3229070913a2",
       "size": 1422
     },
     {
       "id": "entityculling.json",
       "name": "defaultconfigs/entityculling.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/entityculling.json",
       "hash": "547efd124a7608ae72c9bc5d82d5eca8fb3f16e81beebe6d31ca9db17053ca0c",
       "size": 1898
     },
     {
       "id": "envelope-client.toml",
       "name": "defaultconfigs/envelope-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/envelope-client.toml",
       "hash": "2a8eab6cba6b1bdf0851ec6a68ff63c6c03d90f58872deb8210c722f692e0a04",
       "size": 247
     },
     {
       "id": "envelope-server.toml",
       "name": "defaultconfigs/envelope-server.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/envelope-server.toml",
       "hash": "b33deb29a6d534333473b7b02cc293ee7bba81a395ebac3bececd603cbaf4274",
       "size": 4210
     },
     {
       "id": "etf_warnings.json",
       "name": "defaultconfigs/etf_warnings.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/etf_warnings.json",
       "hash": "5b23561751e79a7213a25ef32e54cf34dd27f9f736f63e8fa276f26ecffc15d5",
       "size": 29
     },
     {
       "id": "data.json",
       "name": "defaultconfigs/euphoria_patcher/data.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/euphoria_patcher/data.json",
       "hash": "8bf84e27238a5533b135b5c0464c19feafa2ebe7c196f6fd87543741a7fe7a88",
       "size": 164
     },
     {
       "id": "settings.toml",
       "name": "defaultconfigs/euphoria_patcher/settings.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/euphoria_patcher/settings.toml",
       "hash": "46adfecf6b9a8c6a6fe1ad3240848e7f805a94e91abe4ee64e84bf9f6fc3d5b6",
       "size": 2557
     },
     {
       "id": "exposure_polaroid-client.toml",
       "name": "defaultconfigs/exposure_polaroid-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/exposure_polaroid-client.toml",
       "hash": "66f3a7ece55a099ed101bd9a55de18ddcb52769f9cff88e91460e1a351446b0f",
       "size": 568
     },
     {
       "id": "exposure_polaroid-server.toml",
       "name": "defaultconfigs/exposure_polaroid-server.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/exposure_polaroid-server.toml",
       "hash": "83d3b251069ad9799b47b1fa81dde874f677988b28a63f609e801e0533f3f048",
       "size": 416
     },
     {
       "id": "exposure-client.toml",
       "name": "defaultconfigs/exposure-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/exposure-client.toml",
       "hash": "ab597447f3fc634d7c6798381c24004e4449c58928e2a01670a53e8f73e7332e",
       "size": 7457
     },
     {
       "id": "exposure-common.toml",
       "name": "defaultconfigs/exposure-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/exposure-common.toml",
       "hash": "19b6fc3e70c651b83343f16474ca46fbc1322a2ba5fbce8323d0391ade223966",
       "size": 341
     },
     {
       "id": "exposure-server.toml",
       "name": "defaultconfigs/exposure-server.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/exposure-server.toml",
       "hash": "94a3b109132448d76e61acd113f45296acf8a8c94647a302a1f7825ecdc0f9be",
       "size": 5198
     },
     {
       "id": "indigo-renderer.properties",
       "name": "defaultconfigs/fabric/indigo-renderer.properties",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/fabric/indigo-renderer.properties",
       "hash": "a3cd217f78f1dfa438fbcce801324601e621d22dfe83b9d1d534cd6c111e8562",
       "size": 282
     },
     {
       "id": "fastquit.toml",
       "name": "defaultconfigs/fastquit.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/fastquit.toml",
       "hash": "e85f39867513fe26179ba3cf7a00d343e9642ceaa96e7ea3cde6a1c3aa69dd4e",
       "size": 120
     },
     {
       "id": "ferritecore-mixin.toml",
       "name": "defaultconfigs/ferritecore-mixin.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/ferritecore-mixin.toml",
       "hash": "3c0184101785fb1968b872b341d2e71f619ffbe0934573d85249c9cd0c0e6f82",
       "size": 1591
     },
     {
       "id": "ferritecore.mixin.properties",
       "name": "defaultconfigs/ferritecore.mixin.properties",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/ferritecore.mixin.properties",
       "hash": "fddb9f45485b7ae24191e3d94aa6e94a31016a8d4938d970d7f9877c79235732",
       "size": 1591
     },
     {
       "id": "fightorflight_moves.json5",
       "name": "defaultconfigs/fightorflight_moves.json5",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/fightorflight_moves.json5",
       "hash": "fe35c57287a691a25fc16d5ba80b894e087edb240d1a55e6f02c8ace577bba1a",
       "size": 8197
     },
     {
       "id": "fightorflight_visual_effect.json5",
       "name": "defaultconfigs/fightorflight_visual_effect.json5",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/fightorflight_visual_effect.json5",
       "hash": "1968fe408691b02837f80aedb9c1009b913d4eb482a6d8a590eeca57703a50cb",
       "size": 1370
     },
     {
       "id": "fightorflight.json5",
       "name": "defaultconfigs/fightorflight.json5",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/fightorflight.json5",
       "hash": "791b7111edb04631e300b57143f22d0a84f121830fd3ed94def40ae2cbd35caa",
       "size": 15095
     },
     {
       "id": "figura.json",
       "name": "defaultconfigs/figura.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/figura.json",
       "hash": "ea3a931ea416d92858e90755017d323264e8484e1e36ef3d8cce796b2ebbb6ab",
       "size": 26
     },
     {
       "id": "flywheel-client.toml",
       "name": "defaultconfigs/flywheel-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/flywheel-client.toml",
       "hash": "a800b77ff646b1cac5983619a53b03cdebc83d91b72f3b4c14e8c33a0e2d204a",
       "size": 626
     },
     {
       "id": "fml.toml",
       "name": "defaultconfigs/fml.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/fml.toml",
       "hash": "506d2d952a7df1a311636a771385434d76972472078c641cf324a482162dab11",
       "size": 1537
     },
     {
       "id": "footprintparticle.json",
       "name": "defaultconfigs/footprintparticle.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/footprintparticle.json",
       "hash": "39f3d9118280a7de5db8d1f38043554b19c75898e98146a0150f1b41e8006251",
       "size": 2150
     },
     {
       "id": "forgeconfigapiport.toml",
       "name": "defaultconfigs/forgeconfigapiport.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/forgeconfigapiport.toml",
       "hash": "798e175e6e7a0649b3e849634ce8bde87f22533fc602b32cda5748e73dd6d922",
       "size": 520
     },
     {
       "id": "keybinds.toml",
       "name": "defaultconfigs/fzzy_config/keybinds.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/fzzy_config/keybinds.toml",
       "hash": "461d8a73c3bf30a3239890c72e1523449cbfb1fa0373c3ed524d91012d8d29c1",
       "size": 6404
     },
     {
       "id": "search.toml",
       "name": "defaultconfigs/fzzy_config/search.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/fzzy_config/search.toml",
       "hash": "02f5de4bb4acb2ee41a991a353700f663af25cf59165bdfb2d30591e82cf2b01",
       "size": 511
     },
     {
       "id": "holdmyitemsnf-client.toml",
       "name": "defaultconfigs/holdmyitemsnf-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/holdmyitemsnf-client.toml",
       "hash": "86d179a84d8c6f3b397d13a1a68f3403ac230668ab7b84869f968db2b831e1ee",
       "size": 3100
     },
     {
       "id": "horseman-client.toml",
       "name": "defaultconfigs/horseman-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/horseman-client.toml",
       "hash": "b234d9dd0282fc5390846684c2436690153cb0d96722a9a59b40944936ed487f",
       "size": 2379
     },
     {
       "id": "horseman-common.toml",
       "name": "defaultconfigs/horseman-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/horseman-common.toml",
       "hash": "3e90f6cfbc2bc08d605495e557b8a8c1477b3f4f3fc6ca3de4557ed477a2c147",
       "size": 136
     },
     {
       "id": "horseman-server.toml",
       "name": "defaultconfigs/horseman-server.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/horseman-server.toml",
       "hash": "07e3e9e8c67a5ff901260605e38dbb17330b45edc6b477583de0456831cfcb05",
       "size": 5964
     },
     {
       "id": "immediatelyfast.json",
       "name": "defaultconfigs/immediatelyfast.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/immediatelyfast.json",
       "hash": "519a9c3d2d687d4d95c44f2449e5d91acb2cf1e68ba19d07ec967d77e55150e2",
       "size": 1115
     },
     {
       "id": "immersive_aircraft.json",
       "name": "defaultconfigs/immersive_aircraft.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/immersive_aircraft.json",
       "hash": "ae927220d8c34c8e3ca66498d2c764b67e6a0e009fe08ec4a93c4f87b8450259",
       "size": 1519
     },
     {
       "id": "immersive-hotbar.json5",
       "name": "defaultconfigs/immersive-hotbar.json5",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/immersive-hotbar.json5",
       "hash": "720f67a5080890c5d02d4f9fcf797ab64adc544df17824c1c872b235cf32e2e1",
       "size": 1137
     },
     {
       "id": "biomes.json5",
       "name": "defaultconfigs/immersive-storms/biomes.json5",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/immersive-storms/biomes.json5",
       "hash": "436d47f4f696867d23d3c88d2743e25fbd5cfb74d1a9bd7aad824c885f74dd31",
       "size": 528
     },
     {
       "id": "general.json5",
       "name": "defaultconfigs/immersive-storms/general.json5",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/immersive-storms/general.json5",
       "hash": "62c96a3f929cdf24208e118dfdcda24bde59452884bac3a35c4dadc8e5aa62d3",
       "size": 1020
     },
     {
       "id": "sandstorm.json5",
       "name": "defaultconfigs/immersive-storms/sandstorm.json5",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/immersive-storms/sandstorm.json5",
       "hash": "a252930d2d5599b36cd170f2b2f195b9dc48083a34dd19f77a1d0110b2e5023e",
       "size": 430
     },
     {
       "id": "schema.json5",
       "name": "defaultconfigs/immersive-storms/schema.json5",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/immersive-storms/schema.json5",
       "hash": "76d264a6046f1eba0c9c94a3c7102b2a5e35aad0308e226e7d6c7ae763fd9455",
       "size": 118
     },
     {
       "id": "immersiveui.yaml",
       "name": "defaultconfigs/immersiveui.yaml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/immersiveui.yaml",
       "hash": "2abb8702e36e2745284cb4337508d9e2305ff7bf1d6eebe23bf05de75b3acff6",
       "size": 1451
     },
     {
       "id": "inventory_particles.json5",
       "name": "defaultconfigs/inventory_particles.json5",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/inventory_particles.json5",
       "hash": "0dd6a334094ed4a9d32aa50d7cb336f33325ea57b3786eaf1307015333d08451",
       "size": 1424
     },
     {
       "id": "iris-excluded.json",
       "name": "defaultconfigs/iris-excluded.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/iris-excluded.json",
       "hash": "32eebbe07f0d9fc96323f4f495d165cceaddb25e5b28b7c5ed011e46faebbf03",
       "size": 35
     },
     {
       "id": "iris.properties",
       "name": "defaultconfigs/iris.properties",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/iris.properties",
       "hash": "bc96ae5d347d055fb5d8c65063df1875b31b7ad70718db5969d9853c91e713b1",
       "size": 327
     },
     {
       "id": "hide-blocks.json",
       "name": "defaultconfigs/jade/hide-blocks.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/jade/hide-blocks.json",
       "hash": "1a4ed2ab3ab130d96066ecdb1cdd466248c6c7cd4a1701f7928f2756e897d3a1",
       "size": 150
     },
     {
       "id": "hide-entities.json",
       "name": "defaultconfigs/jade/hide-entities.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/jade/hide-entities.json",
       "hash": "735e39df1403dc62e482fb0c95d92f6bcc38429935634578086692880c6c5c9a",
       "size": 244
     },
     {
       "id": "jade.json",
       "name": "defaultconfigs/jade/jade.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/jade/jade.json",
       "hash": "0ea4cfa7e67e7a99e8354a106c121a1f26811c27bfc0540cb4fccc40b56a8c68",
       "size": 1090
     },
     {
       "id": "plugins.json",
       "name": "defaultconfigs/jade/plugins.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/jade/plugins.json",
       "hash": "7e3a542a40661ad9dee02566efd3538af75b7e1c4a310e294c7781e0d234e510",
       "size": 2335
     },
     {
       "id": "sort-order.json",
       "name": "defaultconfigs/jade/sort-order.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/jade/sort-order.json",
       "hash": "e0f6ab70c3be1f7f755eee12a25d0eabfb9b10e71e8eb2169c23e1386e4d5fb0",
       "size": 2471
     },
     {
       "id": "jei-server.toml",
       "name": "defaultconfigs/jei-server.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/jei-server.toml",
       "hash": "360b4eb62538c87878a9f9e8fc1ea7454d075f6b040b6ec212d48cd584ed71ac",
       "size": 314
     },
     {
       "id": "blacklist.json",
       "name": "defaultconfigs/jei/blacklist.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/jei/blacklist.json",
       "hash": "4a09bd461dd3dba19ec30dd57565286c08b4ba6397e466bb5072f8d70bbe4a4d",
       "size": 23
     },
     {
       "id": "ingredient-list-mod-sort-order.ini",
       "name": "defaultconfigs/jei/ingredient-list-mod-sort-order.ini",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/jei/ingredient-list-mod-sort-order.ini",
       "hash": "43b25940f46d0afde2cf92401c4436d1c0953f96f8e4723d10b9a2f836d7ae02",
       "size": 574
     },
     {
       "id": "ingredient-list-type-sort-order.ini",
       "name": "defaultconfigs/jei/ingredient-list-type-sort-order.ini",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/jei/ingredient-list-type-sort-order.ini",
       "hash": "0dc8823adf4eefda89ef61e0d41199e09c54e32769f6ade22dc5ebf6922b99e3",
       "size": 145
     },
     {
       "id": "jei-client.ini",
       "name": "defaultconfigs/jei/jei-client.ini",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/jei/jei-client.ini",
       "hash": "690df55f936858abf5ed93e681daab91e02b9bea84e128bedf0723556ce19258",
       "size": 10423
     },
     {
       "id": "jei-colors.ini",
       "name": "defaultconfigs/jei/jei-colors.ini",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/jei/jei-colors.ini",
       "hash": "e4bc0c5fce5a7536bce14c94b30e30482e65d63792b29db0ad59d4fa9eb4d1a5",
       "size": 1353
     },
     {
       "id": "jei-debug.ini",
       "name": "defaultconfigs/jei/jei-debug.ini",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/jei/jei-debug.ini",
       "hash": "39b7d63de65fbf7654ee33d521d67095aa17a93226d2d9b7a6fb09305c8990d4",
       "size": 1282
     },
     {
       "id": "jei-mod-id-format.ini",
       "name": "defaultconfigs/jei/jei-mod-id-format.ini",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/jei/jei-mod-id-format.ini",
       "hash": "4eb3a3eb280558bdd2665fb4792d32551cb6dddc468776e66afc1c3ea981781e",
       "size": 477
     },
     {
       "id": "recipe-category-sort-order.ini",
       "name": "defaultconfigs/jei/recipe-category-sort-order.ini",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/jei/recipe-category-sort-order.ini",
       "hash": "755c973b6bd1f22389e5b3a41e821cf3079a1514cd311ad4b012eafcebe451c6",
       "size": 1214
     },
     {
       "id": "lookupHistory.json",
       "name": "defaultconfigs/jei/world/local/New_World/lookupHistory.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/jei/world/local/New_World/lookupHistory.json",
       "hash": "9509c3e1a6d8e4c8f7b8c157fa45f7064c0df1d1b238df584e6c677709209f71",
       "size": 142
     },
     {
       "id": "lambdabettergrass.toml",
       "name": "defaultconfigs/lambdabettergrass.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/lambdabettergrass.toml",
       "hash": "71f8657fa67d9b11264366d2e8726098d6d86887e63f14e2cbce82532a2f84be",
       "size": 296
     },
     {
       "id": "lambdynlights.toml",
       "name": "defaultconfigs/lambdynlights.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/lambdynlights.toml",
       "hash": "7f0be671d9a26ee419efe391b5c7df854325e8c2b05614fafe94eb534788deef",
       "size": 4311
     },
     {
       "id": "leawind_third_person.json",
       "name": "defaultconfigs/leawind_third_person.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/leawind_third_person.json",
       "hash": "cd6b98825708d53b3f19a04cdfc7777c36a5d77331b13d5c730018b6884d9fca",
       "size": 1987
     },
     {
       "id": "libjf_config_core_v2.json5",
       "name": "defaultconfigs/libjf_config_core_v2.json5",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/libjf_config_core_v2.json5",
       "hash": "fd865b43fb98266a3e8cb90ed6cdf2c18ed5f488e17f6844c051802cdc719e6c",
       "size": 29
     },
     {
       "id": "libjf_translate_v1.json5",
       "name": "defaultconfigs/libjf_translate_v1.json5",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/libjf_translate_v1.json5",
       "hash": "ee06e87a5b40f4449f452c73c1cbe005101bd8361ef78dd0469371e7e168217f",
       "size": 111
     },
     {
       "id": "libjf_web_v1.json5",
       "name": "defaultconfigs/libjf_web_v1.json5",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/libjf_web_v1.json5",
       "hash": "a3570ac89dcdefb90e242ba728e71a90e43fa0201b1de3b81f02619ebf27eda0",
       "size": 126
     },
     {
       "id": "libraryferret_1.properties",
       "name": "defaultconfigs/libraryferret_1.properties",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/libraryferret_1.properties",
       "hash": "88e96ab6bde2448b1803344a223607eaf574c0ee2ed8991bb44e3031cb3adf99",
       "size": 191
     },
     {
       "id": "lithium.properties",
       "name": "defaultconfigs/lithium.properties",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/lithium.properties",
       "hash": "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be",
       "size": 267
     },
     {
       "id": "make_bubbles_pop.json",
       "name": "defaultconfigs/make_bubbles_pop.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/make_bubbles_pop.json",
       "hash": "2d9b5cb3209017d188d9bfd8cb65d26dc7c5987026f63dcc735c4b74154bf4f1",
       "size": 384
     },
     {
       "id": "mechtrowel-client.toml",
       "name": "defaultconfigs/mechtrowel-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/mechtrowel-client.toml",
       "hash": "a1ee45e75b9bde838b9c575b75b49e685f5359d13b076fa308a1786ab17e76dc",
       "size": 69
     },
     {
       "id": "mechtrowel-common.toml",
       "name": "defaultconfigs/mechtrowel-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/mechtrowel-common.toml",
       "hash": "4dd819e1dc0505191d389349f943dad2574fd5bee666038fd902d8358a7d9b56",
       "size": 1913
     },
     {
       "id": "config.json",
       "name": "defaultconfigs/mega_showdown/config.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/mega_showdown/config.json",
       "hash": "cb5833131c8a2e3060ae2cd40ddbc76194b454a038269ced4f40dc01086f8e73",
       "size": 570
     },
     {
       "id": "midnightlib.json",
       "name": "defaultconfigs/midnightlib.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/midnightlib.json",
       "hash": "aa46844d478759e8cac470cc33b818902802a14e5042456b62a6e3b3f5c83781",
       "size": 38
     },
     {
       "id": "modernfix-common.toml",
       "name": "defaultconfigs/modernfix-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/modernfix-common.toml",
       "hash": "eb811f8191ec315abbaa28d2f0532e83eff7e280934a7fc4b56ac42b074e36d3",
       "size": 104
     },
     {
       "id": "modernfix-mixins.properties",
       "name": "defaultconfigs/modernfix-mixins.properties",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/modernfix-mixins.properties",
       "hash": "32bbaa6f573b612b92653fc2814365cd8aa423d39fcab4fa5dcfcb5f31121874",
       "size": 5353
     },
     {
       "id": "modmenu.json",
       "name": "defaultconfigs/modmenu.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/modmenu.json",
       "hash": "72d9d0986e0ee20e13e9989e7f0cd8e5aae3ad37a9505de231aba31e15ac16b3",
       "size": 841
     },
     {
       "id": "moonlight-client.toml",
       "name": "defaultconfigs/moonlight-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/moonlight-client.toml",
       "hash": "71eb4766f6ca32b1e5e80ce713805a3a8b5bfe4444e6805e1d4713744be46767",
       "size": 1258
     },
     {
       "id": "moonlight-common.toml",
       "name": "defaultconfigs/moonlight-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/moonlight-common.toml",
       "hash": "70a4835455b42ed66d7922524c0f01fbc5e23df465ad389fbc923b8833ad237d",
       "size": 944
     },
     {
       "id": "MouseTweaks.cfg",
       "name": "defaultconfigs/MouseTweaks.cfg",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/MouseTweaks.cfg",
       "hash": "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8",
       "size": 143
     },
     {
       "id": "naturescompass-client.toml",
       "name": "defaultconfigs/naturescompass-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/naturescompass-client.toml",
       "hash": "c4a6791b62637e621d5f1a3f71b333c6c5841a0ff58df1496ad4e963cc757af5",
       "size": 426
     },
     {
       "id": "naturescompass-common.toml",
       "name": "defaultconfigs/naturescompass-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/naturescompass-common.toml",
       "hash": "7d1ab13796b37f875a1742410145f000fde6d1f1e6be9497a90f130d051b1d36",
       "size": 2172
     },
     {
       "id": "neoforge-client.toml",
       "name": "defaultconfigs/neoforge-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/neoforge-client.toml",
       "hash": "18227c13d0702f788de33f058f174e36a117ddd45e1ff392944abec71a8d9089",
       "size": 574
     },
     {
       "id": "neoforge-common.toml",
       "name": "defaultconfigs/neoforge-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/neoforge-common.toml",
       "hash": "e82e089a968a942de6a682296743de4c99353fed268a35714702448cddc2560c",
       "size": 769
     },
     {
       "id": "neoforge-server.toml",
       "name": "defaultconfigs/neoforge-server.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/neoforge-server.toml",
       "hash": "12707c3546bf9955197d76318f3a568836e8fee87b5140f838f927d5969f22bf",
       "size": 1172
     },
     {
       "id": "particle_effects.json5",
       "name": "defaultconfigs/particle_effects.json5",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/particle_effects.json5",
       "hash": "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21",
       "size": 25
     },
     {
       "id": "config.json",
       "name": "defaultconfigs/particlerain/config.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/particlerain/config.json",
       "hash": "f5177bf62f9478f36696a0b16bc6ef56f471aa746d0f3a14fb011ea972a05bff",
       "size": 1163
     },
     {
       "id": "particles.json",
       "name": "defaultconfigs/particlerain/particles.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/particlerain/particles.json",
       "hash": "0bbdd719b4f4137a54aa0d74a89e0835c49884b62fa1bf96b75864da2f6ee209",
       "size": 232
     },
     {
       "id": "patchouli-client.toml",
       "name": "defaultconfigs/patchouli-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/patchouli-client.toml",
       "hash": "ee54cfa4ce030f5d0accb142b6d4950b884d97a2fa7f512cf66e6008fff47091",
       "size": 1082
     },
     {
       "id": "paxi-neoforge-1_21.toml",
       "name": "defaultconfigs/paxi-neoforge-1_21.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/paxi-neoforge-1_21.toml",
       "hash": "14074c174e83cede546cfd29c523d59aa9342c119463a9345f40a14ccccf6321",
       "size": 500
     },
     {
       "id": "perception.yaml",
       "name": "defaultconfigs/perception.yaml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/perception.yaml",
       "hash": "8e5d06199182ff3cbc4eeeded1cad6000db7477b0efb08b995e78585b7080cdf",
       "size": 773
     },
     {
       "id": "physics_animations_client_config.json",
       "name": "defaultconfigs/physicsmod/physics_animations_client_config.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/physicsmod/physics_animations_client_config.json",
       "hash": "395a8a979b23962d9e56e5f60dcbb45cec0ef2a15737e929ca2b7e1ea7dcd555",
       "size": 2705
     },
     {
       "id": "physics_blocks_client_config.json",
       "name": "defaultconfigs/physicsmod/physics_blocks_client_config.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/physicsmod/physics_blocks_client_config.json",
       "hash": "38b5e23823d2043943d1877105c33b236349753d96df6d3d256de6d443f8a973",
       "size": 218930
     },
     {
       "id": "physics_client_config.json",
       "name": "defaultconfigs/physicsmod/physics_client_config.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/physicsmod/physics_client_config.json",
       "hash": "7b717c615c2e57a2b0c03faac13c09e813b520252034821cd51323c5d1fba8ac",
       "size": 4767
     },
     {
       "id": "physics_cloth_config.json",
       "name": "defaultconfigs/physicsmod/physics_cloth_config.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/physicsmod/physics_cloth_config.json",
       "hash": "37553e5efae2327b3c090d984231359895be290f276decd1ad24255e00fcc0fb",
       "size": 50
     },
     {
       "id": "physics_mobs_client_config.json",
       "name": "defaultconfigs/physicsmod/physics_mobs_client_config.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/physicsmod/physics_mobs_client_config.json",
       "hash": "403e672ff0d37f310844e82acd4d33e1cd5d9d4da4d988464532c995a00e0f76",
       "size": 25259
     },
     {
       "id": "physics_server_config.json",
       "name": "defaultconfigs/physicsmod/physics_server_config.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/physicsmod/physics_server_config.json",
       "hash": "17490bd224cb6c330136f8829502cdda723f2d6183ecc0bd9d8330a1aed8fc83",
       "size": 99
     },
     {
       "id": "physics_snow_client_config.json",
       "name": "defaultconfigs/physicsmod/physics_snow_client_config.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/physicsmod/physics_snow_client_config.json",
       "hash": "877e18e75b4a8df2417459ec765954c6a845f31ecb72aa76e052292ef4dc0009",
       "size": 189
     },
     {
       "id": "physics_vines_client_config.json",
       "name": "defaultconfigs/physicsmod/physics_vines_client_config.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/physicsmod/physics_vines_client_config.json",
       "hash": "2a7bc5829eca30a925a132e50bd92b9636febaf07c64daad4fd8e23d1e586938",
       "size": 19792
     },
     {
       "id": "ponder-client.toml",
       "name": "defaultconfigs/ponder-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/ponder-client.toml",
       "hash": "908bc54d179460304e59cb350033df7793be4caa2a6f662b0833d6322ebdfef5",
       "size": 617
     },
     {
       "id": "powergrid-client.toml",
       "name": "defaultconfigs/powergrid-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/powergrid-client.toml",
       "hash": "d0629856cd5d9b44d4e0d4c365e5e9992e3874ae2c6480b3db53d93fc638369c",
       "size": 1015
     },
     {
       "id": "powergrid-common.toml",
       "name": "defaultconfigs/powergrid-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/powergrid-common.toml",
       "hash": "c1c79718636b6eea9b1f4f270acc275c37de64753dfd7bb058b4287f6dcf7e10",
       "size": 442
     },
     {
       "id": "powergrid-server.toml",
       "name": "defaultconfigs/powergrid-server.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/powergrid-server.toml",
       "hash": "aca32563bba8ae48b66e227f3ac7d95fb71d18fdd5bc6796113f7d233f31440e",
       "size": 13912
     },
     {
       "id": "updater.json",
       "name": "defaultconfigs/presencefootsteps/updater.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/presencefootsteps/updater.json",
       "hash": "8ce1248d63f1205a45611024f7055c23143492963c51ed1336be0492ca5cfb14",
       "size": 69
     },
     {
       "id": "userconfig.json",
       "name": "defaultconfigs/presencefootsteps/userconfig.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/presencefootsteps/userconfig.json",
       "hash": "bd75aca169deec71aa6182722c711c7de27df37fc0604a4f533359af36113293",
       "size": 403
     },
     {
       "id": "userconfig.json5",
       "name": "defaultconfigs/presencefootsteps/userconfig.json5",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/presencefootsteps/userconfig.json5",
       "hash": "b35eb7142546c1d868e9c4c49cab28740df4c0eb3693946fa575aa717d1a4c27",
       "size": 3215
     },
     {
       "id": "protection-pixel.toml",
       "name": "defaultconfigs/protection-pixel.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/protection-pixel.toml",
       "hash": "548c4887b8f60a633a28efa57f9018c574cd0669ecaa87494d4eab0121ab4ca7",
       "size": 515
     },
     {
       "id": "quark-common.toml",
       "name": "defaultconfigs/quark-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/quark-common.toml",
       "hash": "8b3eaa29664cfaa3718f433d423d94eb9eeae2c5e92aa594e11e15074e5a2e13",
       "size": 76079
     },
     {
       "id": "client.toml",
       "name": "defaultconfigs/resonance/client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/resonance/client.toml",
       "hash": "9c2e07d367fa2bf42db3f56711527b923559a55c97911872afeed0fb4b596122",
       "size": 1405
     },
     {
       "id": "resourceful-config-web.json",
       "name": "defaultconfigs/resourceful-config-web.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/resourceful-config-web.json",
       "hash": "2f212237509b59a9965f9f3a8ee273b634acec6a17d6610984bb52e85c5e4a0c",
       "size": 197
     },
     {
       "id": "resourcify.json",
       "name": "defaultconfigs/resourcify.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/resourcify.json",
       "hash": "5a89beab51b655e86bc17a81e131d7e8e5b8b88bbe040f570fee3fa4e6fcd46b",
       "size": 276
     },
     {
       "id": "scholar-client.toml",
       "name": "defaultconfigs/scholar-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/scholar-client.toml",
       "hash": "08cf0437f437043328ac2158b8d00cdcbcc1261650edcc221c88741a5f81e54a",
       "size": 1043
     },
     {
       "id": "scholar-common.toml",
       "name": "defaultconfigs/scholar-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/scholar-common.toml",
       "hash": "a0346d9de85bf79f0f3535a54b1d6169cc81a2f95d80cbf103d83fa8ec79eada",
       "size": 832
     },
     {
       "id": "seamless_sleep-server.toml",
       "name": "defaultconfigs/seamless_sleep-server.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/seamless_sleep-server.toml",
       "hash": "a6472386a9d5e49102baa9871dff44f9726b98f3befce5fb13dfd1b4c23d2a1e",
       "size": 260
     },
     {
       "id": "seamless_sleep.toml",
       "name": "defaultconfigs/seamless_sleep.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/seamless_sleep.toml",
       "hash": "4d2b2ab8f097a077d1a5057d4f7a8c7a4d54e06b535ff9bb51412222202333bb",
       "size": 932
     },
     {
       "id": "sodium-extra-options.json",
       "name": "defaultconfigs/sodium-extra-options.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/sodium-extra-options.json",
       "hash": "12a369db9bfb00a759d9693ce7501d2a1ad122e08a8de6283e5756e6e231bbf1",
       "size": 6003
     },
     {
       "id": "sodium-extra.properties",
       "name": "defaultconfigs/sodium-extra.properties",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/sodium-extra.properties",
       "hash": "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70",
       "size": 360
     },
     {
       "id": "sodium-fingerprint.json",
       "name": "defaultconfigs/sodium-fingerprint.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/sodium-fingerprint.json",
       "hash": "4dd786bb72c5f391d696c29ac1aa0db34fec443ddebb53d0982fd56b81c2da12",
       "size": 449
     },
     {
       "id": "sodium-mixins.properties",
       "name": "defaultconfigs/sodium-mixins.properties",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/sodium-mixins.properties",
       "hash": "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
       "size": 258
     },
     {
       "id": "sodium-options.json",
       "name": "defaultconfigs/sodium-options.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/sodium-options.json",
       "hash": "743a2f8c257fce8e6b6fc8e47eccc834a1b4bd915aa241f4002331e28a72e981",
       "size": 687
     },
     {
       "id": "sophisticatedbackpacks-common.toml",
       "name": "defaultconfigs/sophisticatedbackpacks-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/sophisticatedbackpacks-common.toml",
       "hash": "a2b34ebd1981e86f62766398bcc927661970b3cfd6b69254f2760705bcf80a09",
       "size": 114
     },
     {
       "id": "sophisticatedbackpacks-server.toml",
       "name": "defaultconfigs/sophisticatedbackpacks-server.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/sophisticatedbackpacks-server.toml",
       "hash": "b6b3dea7a5a98df3ee60b9d4ab70e8a2db896df34ec8888e82d69a654b95eb94",
       "size": 20396
     },
     {
       "id": "sophisticatedcore-client.toml",
       "name": "defaultconfigs/sophisticatedcore-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/sophisticatedcore-client.toml",
       "hash": "93fe1d8237c82b45513b63b58386cd4fa49785bb0c9e381085d75b549d54d8b0",
       "size": 467
     },
     {
       "id": "sophisticatedcore-common.toml",
       "name": "defaultconfigs/sophisticatedcore-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/sophisticatedcore-common.toml",
       "hash": "75255d31abdbadfc2a1cc4a46083ea8f4c8dbf2d3d144f9c49aa35e9baf763b2",
       "size": 8930
     },
     {
       "id": "sophisticatedstorage-client.toml",
       "name": "defaultconfigs/sophisticatedstorage-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/sophisticatedstorage-client.toml",
       "hash": "dfc8e3884876331f3e520180df338e29873e3ae7dc79066717de6e8a10a80a66",
       "size": 407
     },
     {
       "id": "sophisticatedstorage-common.toml",
       "name": "defaultconfigs/sophisticatedstorage-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/sophisticatedstorage-common.toml",
       "hash": "28295ecfcf054fd3c61b448f2ab60adeb6bab5fd664b6369e3da7d07c0961371",
       "size": 182
     },
     {
       "id": "sophisticatedstorage-server.toml",
       "name": "defaultconfigs/sophisticatedstorage-server.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/sophisticatedstorage-server.toml",
       "hash": "35ed36a1f9412055a1a46c2dc4aed2baec08c56389dee7e8782867bd5e037c46",
       "size": 23318
     },
     {
       "id": "chat.json",
       "name": "defaultconfigs/sounds/chat.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/sounds/chat.json",
       "hash": "9008c85589d54906bd522e00026dcfddaf71bef3e2aa81de8dfafe260848f6dc",
       "size": 659
     },
     {
       "id": "event.json",
       "name": "defaultconfigs/sounds/event.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/sounds/event.json",
       "hash": "774cb6a3f0428600deb04f45532ec027eb9b454deffbdc5779bc533f8e22ed1f",
       "size": 847
     },
     {
       "id": "mod_utils.json",
       "name": "defaultconfigs/sounds/mod_utils.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/sounds/mod_utils.json",
       "hash": "f132dbb8dff459c8f8acbe9ca2fac912b26963ebb260d60f2b00cbfc562489ba",
       "size": 43
     },
     {
       "id": "ui.json",
       "name": "defaultconfigs/sounds/ui.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/sounds/ui.json",
       "hash": "9fcee669f878d87fb947216052789f27d652db1add8347cf48a6b56aa323a872",
       "size": 2263
     },
     {
       "id": "world.json",
       "name": "defaultconfigs/sounds/world.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/sounds/world.json",
       "hash": "9b33793883a4c20ea3fd1c805b759478fb7ef64b827a60fb363ed58741971cee",
       "size": 1898
     },
     {
       "id": "config.json",
       "name": "defaultconfigs/spark/config.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/spark/config.json",
       "hash": "40f003598fc382e50da55203b813a636f75abaddf8c77d72951be72bffa2d56a",
       "size": 118
     },
     {
       "id": "about.txt",
       "name": "defaultconfigs/spark/tmp-client/about.txt",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/spark/tmp-client/about.txt",
       "hash": "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a",
       "size": 575
     },
     {
       "id": "about.txt",
       "name": "defaultconfigs/spark/tmp/about.txt",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/spark/tmp/about.txt",
       "hash": "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a",
       "size": 575
     },
     {
       "id": "structureessentials.json",
       "name": "defaultconfigs/structureessentials.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/structureessentials.json",
       "hash": "cf7da9b9d2002eb06bc1d0140c3781a7acbb76aef9ad5e49b7b19683e3e89339",
       "size": 3788
     },
     {
       "id": "blocks.toml",
       "name": "defaultconfigs/subtle_effects/blocks.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/subtle_effects/blocks.toml",
       "hash": "96930125223ea4104f5aec88905f0d0ab0a5c2b21b46a78ac9675415f61ef7d1",
       "size": 4071
     },
     {
       "id": "entities.toml",
       "name": "defaultconfigs/subtle_effects/entities.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/subtle_effects/entities.toml",
       "hash": "b9100489d604a88f09d4a6f511a471e17facefcc68071810ada15a976e09c858",
       "size": 3101
     },
     {
       "id": "environment.toml",
       "name": "defaultconfigs/subtle_effects/environment.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/subtle_effects/environment.toml",
       "hash": "9a6211254e33348bdd66d3493d4d4b3148e7d2076f0a5563ab291ec2aed1f07b",
       "size": 2454
     },
     {
       "id": "general.toml",
       "name": "defaultconfigs/subtle_effects/general.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/subtle_effects/general.toml",
       "hash": "c90dcb19e26e1c18c0487ce8beca141ff8a800d366ac3ef68d8948558921422a",
       "size": 1126
     },
     {
       "id": "items.toml",
       "name": "defaultconfigs/subtle_effects/items.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/subtle_effects/items.toml",
       "hash": "aa5b1f387f42345058bab229541686f541e69ab39b79d0d54ebcbbd687f09b3e",
       "size": 1057
     },
     {
       "id": "supplementaries-client.toml",
       "name": "defaultconfigs/supplementaries-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/supplementaries-client.toml",
       "hash": "b6d394245915ecfabfc4b29b4c3dd15aaa89035d45212b3c3025a71756533321",
       "size": 8728
     },
     {
       "id": "supplementaries-common.toml",
       "name": "defaultconfigs/supplementaries-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/supplementaries-common.toml",
       "hash": "e6eda43fd88f778c210dde5db615578f1a1e335d7f611c160d34ebb1fcd83e69",
       "size": 25893
     },
     {
       "id": "suppsquared-common.toml",
       "name": "defaultconfigs/suppsquared-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/suppsquared-common.toml",
       "hash": "5e8894000d7dba3d0b4d17d7c602f8db545820fb67732ec292d875cd90bbcfea",
       "size": 77
     },
     {
       "id": "lantern_overrides.json",
       "name": "defaultconfigs/swinginglanterns/lantern_overrides.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/swinginglanterns/lantern_overrides.json",
       "hash": "74854438df5546ce61a389588d15787504059feef623aecddf6051b9cc64b49c",
       "size": 68
     },
     {
       "id": "raycast_ignored_blocks.json",
       "name": "defaultconfigs/swinginglanterns/raycast_ignored_blocks.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/swinginglanterns/raycast_ignored_blocks.json",
       "hash": "ca4fef092f5d4b0db48dcadfd958309d1fe2cff9c34c10359c345542faa5316e",
       "size": 558
     },
     {
       "id": "README.txt",
       "name": "defaultconfigs/swinginglanterns/README.txt",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/swinginglanterns/README.txt",
       "hash": "d5af6b2d6a384a8d7c630b61d14fc6fa546807a618c6af30f61f2c0318c96097",
       "size": 750
     },
     {
       "id": "swinginglanterns.json",
       "name": "defaultconfigs/swinginglanterns/swinginglanterns.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/swinginglanterns/swinginglanterns.json",
       "hash": "1d27d09a514d3ac55b62d1ba509ce61ebe0a6069bea9029246cc14d7564fc3fb",
       "size": 622
     },
     {
       "id": "terrablender.toml",
       "name": "defaultconfigs/terrablender.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/terrablender.toml",
       "hash": "ba6da8780ff8868f22fde2d50993a52a055c0914eff2a69c47dc2e1806af7607",
       "size": 949
     },
     {
       "id": "tim_core.json",
       "name": "defaultconfigs/tim_core.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/tim_core.json",
       "hash": "b76f72e5ccf17c365d3ec426f92c3f5e697145465a7a0c7339424072af7230b5",
       "size": 763
     },
     {
       "id": "general.json",
       "name": "defaultconfigs/timm/general.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/timm/general.json",
       "hash": "4d66b4676e11680011a98f366197ae1500737057b2b3ee0fe44fc85e5606ed1f",
       "size": 224
     },
     {
       "id": "transition.json",
       "name": "defaultconfigs/transition.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/transition.json",
       "hash": "79c96163df744d775c3508629828fcb64211d866d7e7927638c4cd38e9e695a0",
       "size": 63
     },
     {
       "id": "trender.json",
       "name": "defaultconfigs/trender.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/trender.json",
       "hash": "3540896a8097ba9cfdeee2888e13780d68c56e1e999aad4cfe7389e6d6bbb25f",
       "size": 48
     },
     {
       "id": "vanillabackport-client.toml",
       "name": "defaultconfigs/vanillabackport-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/vanillabackport-client.toml",
       "hash": "6c19f04c6de872dd9c9b1b4ff5776fa2d2481f38f0e32f3c952850b1240881b8",
       "size": 330
     },
     {
       "id": "vanillabackport-common.toml",
       "name": "defaultconfigs/vanillabackport-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/vanillabackport-common.toml",
       "hash": "df37e620e0c9bf62b3d3622ff3a3077c489db9fbe9f1fba0a264580ae89a4888",
       "size": 2181
     },
     {
       "id": "via_romana.json",
       "name": "defaultconfigs/via_romana.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/via_romana.json",
       "hash": "9cdbea54941ce68b058ed3e438642585d7d0944b982197b643058f6fd9f35030",
       "size": 1750
     },
     {
       "id": "vista-client.toml",
       "name": "defaultconfigs/vista-client.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/vista-client.toml",
       "hash": "d73b3c46927dc36287a721e9202f77b2ac93c98b09bd47c2241fc9cfd3ea8911",
       "size": 2176
     },
     {
       "id": "vista-common.toml",
       "name": "defaultconfigs/vista-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/vista-common.toml",
       "hash": "d1e38e16b6b6f3d643181bea74ae546a37bfa63d2d0f36d4f70d7a45e0c1442c",
       "size": 304
     },
     {
       "id": "visual_keybinder.toml",
       "name": "defaultconfigs/visual_keybinder.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/visual_keybinder.toml",
       "hash": "7dc80b0e58929ddf240d834a697fae4cb5764cac45a971a4e51625a15ea11201",
       "size": 864
     },
     {
       "id": "visuality.json",
       "name": "defaultconfigs/visuality.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/visuality.json",
       "hash": "1ad49eaf9e672235273ab408f7d46de838fed91201c6570296bee6032022f239",
       "size": 1054
     },
     {
       "id": "config.toml",
       "name": "defaultconfigs/visuality/config.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/visuality/config.toml",
       "hash": "ae9c4c0f128fa9254538daf0a0b81dc3ca31579a031ab9ab0bfccee8e4e02873",
       "size": 256
     },
     {
       "id": "block_ambient.json",
       "name": "defaultconfigs/visuality/particle_emitters/block_ambient.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/visuality/particle_emitters/block_ambient.json",
       "hash": "017ee22592574acffba27152c0bfdb4684ea9abc39387d53674d8eb884d78d5d",
       "size": 1294
     },
     {
       "id": "block_step.json",
       "name": "defaultconfigs/visuality/particle_emitters/block_step.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/visuality/particle_emitters/block_step.json",
       "hash": "7472938843c4be305a68d2b018a75cfe0d7b5a1548839936c47efa7a0d7afe1a",
       "size": 220
     },
     {
       "id": "entity_armor.json",
       "name": "defaultconfigs/visuality/particle_emitters/entity_armor.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/visuality/particle_emitters/entity_armor.json",
       "hash": "8ed7adb0d9cc1a67c0ec181335a7d9d558931ed0163f91ff497782a751979662",
       "size": 738
     },
     {
       "id": "entity_hit.json",
       "name": "defaultconfigs/visuality/particle_emitters/entity_hit.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/visuality/particle_emitters/entity_hit.json",
       "hash": "202b1676e04b4556e7bd113c52bc24bee90bd1f995cbc099387b7be1ade8fff5",
       "size": 684
     },
     {
       "id": "wakes.json",
       "name": "defaultconfigs/wakes.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/wakes.json",
       "hash": "a6662110d42fbe5f0e1b5a0675b67220780a181e3b8273b1cf0e7b66e81d0c59",
       "size": 1157
     },
     {
       "id": "waterdripsound.json",
       "name": "defaultconfigs/waterdripsound.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/waterdripsound.json",
       "hash": "766b87cbd6c55417f1aecdc5ae8ba60f18af06265da3a08e733aa6e890d748f7",
       "size": 195
     },
     {
       "id": "yacl.json5",
       "name": "defaultconfigs/yacl.json5",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/yacl.json5",
       "hash": "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e",
       "size": 250
     },
     {
       "id": "yungscavebiomes-neoforge-1_21_1.toml",
       "name": "defaultconfigs/yungscavebiomes-neoforge-1_21_1.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/yungscavebiomes-neoforge-1_21_1.toml",
       "hash": "891b589e98d011a9f40c67d2bd2dc08fc1db6092ee7c19dae76356939c67fc14",
       "size": 2720
     },
     {
       "id": "zeta-common.toml",
       "name": "defaultconfigs/zeta-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/zeta-common.toml",
       "hash": "9cecf159702efac02eddd7bac3c31239712dca349304fa8cefca16aa7d217f31",
       "size": 1870
     },
     {
       "id": "AGENTS.md",
       "name": "kubejs/AGENTS.md",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/kubejs/AGENTS.md",
       "hash": "e0d767407471c1dad7cf84fe8a94fb6d3d295214c2ff007628d4eebe0b4a9738",
       "size": 2109
     },
     {
       "id": "dense_hammer_ingot.png",
       "name": "kubejs/assets/kubes/textures/item/dense_hammer_ingot.png",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/kubejs/assets/kubes/textures/item/dense_hammer_ingot.png",
       "hash": "78d38f6766a8524ab268fe0a4b17a99600c7853a7dd2cc88f44ba08538361edd",
       "size": 300402
     },
     {
       "id": "hammer_alloy_blend.png",
       "name": "kubejs/assets/kubes/textures/item/hammer_alloy_blend.png",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/kubejs/assets/kubes/textures/item/hammer_alloy_blend.png",
       "hash": "b70f834a494bba337b7c8fff4700ffd1bace43e10fef2fd74c749f177627b316",
       "size": 339722
     },
     {
       "id": "hammer_head_blank.png",
       "name": "kubejs/assets/kubes/textures/item/hammer_head_blank.png",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/kubejs/assets/kubes/textures/item/hammer_head_blank.png",
       "hash": "ea650c3e2fde155f6ba42a7d3c32a3e92086fefaa78ba211f4e25209de141861",
       "size": 300547
     },
     {
       "id": "reinforced_hammer_head.png",
       "name": "kubejs/assets/kubes/textures/item/reinforced_hammer_head.png",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/kubejs/assets/kubes/textures/item/reinforced_hammer_head.png",
       "hash": "639ce435e89ee5f0f25fb7b4434af702c8afe5612595c4189eec3e9ee628ace2",
       "size": 271400
     },
     {
       "id": "stone_dust.png",
       "name": "kubejs/assets/kubes/textures/item/stone_dust.png",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/kubejs/assets/kubes/textures/item/stone_dust.png",
       "hash": "b04833a09bb52f7d9a6bcd322eae3e85386765548220e6ed083cc812cbd8a6f6",
       "size": 178362
     },
     {
       "id": "treated_handle.png",
       "name": "kubejs/assets/kubes/textures/item/treated_handle.png",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/kubejs/assets/kubes/textures/item/treated_handle.png",
       "hash": "835c244a95ecb7fbff3c88c414f8945a44263187e9dafb73a8caa1f352440567",
       "size": 169589
     },
     {
       "id": "unfinished_hammer.png",
       "name": "kubejs/assets/kubes/textures/item/unfinished_hammer.png",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/kubejs/assets/kubes/textures/item/unfinished_hammer.png",
       "hash": "12c2cd62e66b47b6967628f4b8b801a9d0ddd5271d5b37afe96ee9929b94d481",
       "size": 247939
     },
     {
       "id": "wood_handle_blank.png",
       "name": "kubejs/assets/kubes/textures/item/wood_handle_blank.png",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/kubejs/assets/kubes/textures/item/wood_handle_blank.png",
       "hash": "0cc6b24a33bc74e09dd9b77f5020817e0fc1a05e77810303d0ce1b9bd54aaf12",
       "size": 183636
     },
     {
       "id": "client.json",
       "name": "kubejs/config/client.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/kubejs/config/client.json",
       "hash": "7accf3064ebee20f5850a5bb35684e3a6a10d9ab4bfe5debb5d9ba4a2a7b85ac",
       "size": 364
     },
     {
       "id": "common.json",
       "name": "kubejs/config/common.json",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/kubejs/config/common.json",
       "hash": "5f4ef4b40fac39bff32439961ae66a3018e45dc56715d3eb6012d12f8132310d",
       "size": 447
     },
     {
       "id": "README.txt",
       "name": "kubejs/README.txt",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/kubejs/README.txt",
       "hash": "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af",
       "size": 1203
     },
     {
       "id": "handcrafted.js",
       "name": "kubejs/server_scripts/handcrafted.js",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/kubejs/server_scripts/handcrafted.js",
       "hash": "e44bbe118057230ffe70a3c947a6c791342bb84676900c59717325646f2bd721",
       "size": 5249
     },
     {
       "id": "simulated.js",
       "name": "kubejs/server_scripts/simulated.js",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/kubejs/server_scripts/simulated.js",
       "hash": "de110415c64c5518925589cda0caee97141d781f3355435ac79c485dfaa945a0",
       "size": 882
     },
     {
       "id": "handcrafted_factory_items.js",
       "name": "kubejs/startup_scripts/handcrafted_factory_items.js",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/kubejs/startup_scripts/handcrafted_factory_items.js",
       "hash": "bdd5d6960ef7ba26699c04d7320d42627a2358dc0a43bfb6f218c10eef670ac1",
       "size": 1272
     },
     {
       "id": "accessories",
       "name": "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/accessories-neoforge-1.1.0-beta.53%2B1.21.1.jar",
       "hash": "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0",
-      "size": 1078697,
-      "lfs": true
+      "size": 1078697
     },
     {
       "id": "amendments",
       "name": "mods/amendments-1.21-2.0.15-neoforge.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/amendments-1.21-2.0.15-neoforge.jar",
       "hash": "e44e67d5c2eb5a73ee8ca3d1e9099ed20ccbf8167022bc407df8434b1bf362b5",
-      "size": 1143659,
-      "lfs": true
+      "size": 1143659
     },
     {
       "id": "appleskin",
       "name": "mods/appleskin-neoforge-mc1.21-3.0.9.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/appleskin-neoforge-mc1.21-3.0.9.client.jar",
       "hash": "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df",
-      "size": 75804,
-      "lfs": true
+      "size": 75804
     },
     {
       "id": "architectury",
       "name": "mods/architectury-13.0.8-neoforge.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/architectury-13.0.8-neoforge.jar",
       "hash": "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee",
-      "size": 584004,
-      "lfs": true
+      "size": 584004
     },
     {
       "id": "areas",
       "name": "mods/areas-1.21.1-6.1.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/areas-1.21.1-6.1.jar",
       "hash": "b2811412171a7f0686fcf262916e5294bebc60a4781f63eca4b3619dd1ddf136",
-      "size": 106034,
-      "lfs": true
+      "size": 106034
     },
     {
       "id": "astikorcartsredux",
       "name": "mods/astikorcartsredux-1.2.2.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/astikorcartsredux-1.2.2.jar",
       "hash": "44b2db02a6699481d212f0fa0a766b52776650396fa67951a428ad32b2d7dc24",
-      "size": 531765,
-      "lfs": true
+      "size": 531765
     },
     {
       "id": "betterclouds",
       "name": "mods/better-clouds-1.7.20-alpha+1.21.1-neoforge.rev.4c611d9.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/better-clouds-1.7.20-alpha%2B1.21.1-neoforge.rev.4c611d9.client.jar",
       "hash": "d80ea189bb859ce12dd702803c35512a39c707ca7211a84abba3341362e77534",
-      "size": 790657,
-      "lfs": true
+      "size": 790657
     },
     {
       "id": "betterf3",
       "name": "mods/BetterF3-11.0.3-NeoForge-1.21.1.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/BetterF3-11.0.3-NeoForge-1.21.1.client.jar",
       "hash": "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26",
-      "size": 481646,
-      "lfs": true
+      "size": 481646
     },
     {
       "id": "bettergrass",
       "name": "mods/BetterGrassify-1.7.0+neoforge.1.21.1.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/BetterGrassify-1.7.0%2Bneoforge.1.21.1.client.jar",
       "hash": "2424e74f09e01fdca1d0eb8b5933bc55c8ee4d769b8afd2fca900a0b33ec8f7d",
-      "size": 155305,
-      "lfs": true
+      "size": 155305
     },
     {
       "id": "betterpingdisplay",
       "name": "mods/BetterPingDisplay-1.21.1-1.1.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/BetterPingDisplay-1.21.1-1.1.client.jar",
       "hash": "f8388de4831ca70f3e94d98d4655278b514f8589234fa92df0d6b2ff1dff321b",
-      "size": 13871,
-      "lfs": true
+      "size": 13871
     },
     {
       "id": "bettervillage",
       "name": "mods/bettervillage-neoforge-1.21.1-3.3.1.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/bettervillage-neoforge-1.21.1-3.3.1.jar",
       "hash": "d2b5cbad0070c977f5b5be973219481e9d0f56224eedca9c874be7c655890a3b",
-      "size": 2429558,
-      "lfs": true
+      "size": 2429558
     },
     {
       "id": "bookshelf",
       "name": "mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
       "hash": "19e88d40da2b6a114c2b808f7fb469d96e66a5379df0a8a43fcb7834498b3e76",
-      "size": 328813,
-      "lfs": true
+      "size": 328813
     },
     {
       "id": "chalk",
       "name": "mods/chalk-1.6.11.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/chalk-1.6.11.jar",
       "hash": "1dcf17baa4b14bd189b045500bd3f41714089b0b36e20326298072e15ae4b1ab",
-      "size": 336981,
-      "lfs": true
+      "size": 336981
     },
     {
       "id": "charmofundying",
       "name": "mods/charmofundying-neoforge-9.1.0+1.21.1.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/charmofundying-neoforge-9.1.0%2B1.21.1.jar",
       "hash": "361bb87bb0cd0881ab5d1f469595c26c49992d4ed965f2631015135d61f515d1",
-      "size": 178369,
-      "lfs": true
+      "size": 178369
     },
     {
       "id": "chat_heads",
       "name": "mods/chat_heads-0.15.1-neoforge-1.21.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/chat_heads-0.15.1-neoforge-1.21.client.jar",
       "hash": "b1ed6a52efa3cb43e4c37e3982bc7b08116302511b8f675346f6aea6d3524e41",
-      "size": 89272,
-      "lfs": true
+      "size": 89272
     },
     {
       "id": "citadel",
       "name": "mods/citadel-1.21.1-2.7.5.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/citadel-1.21.1-2.7.5.jar",
       "hash": "6abf9492db59c0dc1f38e884710f2352bf55e1cb2ceb919c62aac4fabb1de6b8",
-      "size": 3029054,
-      "lfs": true
+      "size": 3029054
     },
     {
       "id": "cleanswing",
       "name": "mods/cleanswing-1.9.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/cleanswing-1.9.client.jar",
       "hash": "b86e69372a3451a09c1b5d09d69f2e20485c6d2aa62fa8a538ef77509a5f5595",
-      "size": 8449,
-      "lfs": true
+      "size": 8449
     },
     {
       "id": "cloth_config",
       "name": "mods/cloth-config-15.0.140-neoforge.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/cloth-config-15.0.140-neoforge.jar",
       "hash": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
-      "size": 1163890,
-      "lfs": true
+      "size": 1163890
     },
     {
       "id": "clumps",
       "name": "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
       "hash": "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e",
-      "size": 18382,
-      "lfs": true
+      "size": 18382
     },
     {
       "id": "cobblemon",
       "name": "mods/Cobblemon-neoforge-1.7.3+1.21.1.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Cobblemon-neoforge-1.7.3%2B1.21.1.jar",
       "hash": "962d75df4fb649d94863a7a7d130d4d2b3de4da9b3cae4c44b1ce90f37ec0ed5",
-      "size": 128748941,
-      "lfs": true
+      "size": 128748941
     },
     {
       "id": "cobblemonintegrations",
       "name": "mods/cobblemonintegrations-neoforge-1.21.1-1.1.6.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/cobblemonintegrations-neoforge-1.21.1-1.1.6.jar",
       "hash": "d331a93ac3a53f43c4881516db24bff3756beb38c8b8da6d24957ed65a4d645a",
-      "size": 366734,
-      "lfs": true
+      "size": 366734
     },
     {
       "id": "cobblemon_move_inspector",
       "name": "mods/CobblemonMoveInspector-neoforge-1.3.0.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/CobblemonMoveInspector-neoforge-1.3.0.client.jar",
       "hash": "9e688281967bdb371a9769d522bb92157f3ebd9b29d6dbd60e5825cec23435be",
-      "size": 26970,
-      "lfs": true
+      "size": 26970
     },
     {
       "id": "cobblenav",
       "name": "mods/cobblenav-neoforge-2.3.3.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/cobblenav-neoforge-2.3.3.jar",
       "hash": "d186ffa602aa7ee0f36eb73d34eb6801ab5095ec037de506a9af2d7172b08571",
-      "size": 1098652,
-      "lfs": true
+      "size": 1098652
     },
     {
       "id": "cobblepedia",
       "name": "mods/Cobblepedia-NeoForge-0.7.1.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Cobblepedia-NeoForge-0.7.1.jar",
       "hash": "d978d6223e46c23e2d812235b89d2bf8c297b8155c13640a1de7a503484c996e",
-      "size": 8276599,
-      "lfs": true
+      "size": 8276599
     },
     {
       "id": "collective",
       "name": "mods/collective-1.21.1-8.20.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/collective-1.21.1-8.20.jar",
       "hash": "cf192da39ba0d02a151a324b22c073a194dc177c789ec287a357152b7eedce9e",
-      "size": 942780,
-      "lfs": true
+      "size": 942780
     },
     {
       "id": "connectivity",
       "name": "mods/connectivity-1.21.1-7.6.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/connectivity-1.21.1-7.6.jar",
       "hash": "2366973ddae5ba00b9ba15a26e5b610a6648038b9f2549bf81b9ae61342b281a",
-      "size": 114165,
-      "lfs": true
+      "size": 114165
     },
     {
       "id": "controlling",
       "name": "mods/Controlling-neoforge-1.21.1-19.0.5.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Controlling-neoforge-1.21.1-19.0.5.client.jar",
       "hash": "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0",
-      "size": 77555,
-      "lfs": true
+      "size": 77555
     },
     {
       "id": "coolrain",
       "name": "mods/coolrain-1.1.0-1.21.1-neoforge.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/coolrain-1.1.0-1.21.1-neoforge.client.jar",
       "hash": "b2b522c98e24630c069602d8650c1eb74a78c043da5ffa77b46594b208d64799",
-      "size": 3127528,
-      "lfs": true
+      "size": 3127528
     },
     {
       "id": "corpse",
       "name": "mods/corpse-neoforge-1.21.1-1.1.13.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/corpse-neoforge-1.21.1-1.1.13.jar",
       "hash": "f61e750eb2cb49867483d34d6630e02597a52e41680fc38d1c65ece4ef36fd2b",
-      "size": 253695,
-      "lfs": true
+      "size": 253695
     },
     {
       "id": "cosmeticarmorreworked",
       "name": "mods/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
       "hash": "6328049755735159c55f5918ac301cff53a8d8790c3fe63e32e7d8a0e37f123f",
-      "size": 92722,
-      "lfs": true
+      "size": 92722
     },
     {
       "id": "cosycritters",
       "name": "mods/cosycritters-0.3.2+1.21.1-neoforge.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/cosycritters-0.3.2%2B1.21.1-neoforge.client.jar",
       "hash": "141ea3f204c8a8c4a0a4542df0cac4a1ad88cc57ffa50eb207225a3eefd07d6d",
-      "size": 98864,
-      "lfs": true
+      "size": 98864
     },
     {
       "id": "cobbled_counter",
       "name": "mods/counter-neoforge-1.7.3-1.9.0.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/counter-neoforge-1.7.3-1.9.0.jar",
       "hash": "a8def8af633cb2540e64fe0b86628473a55929cae39f5af9a13fa2da1f375d38",
-      "size": 165401,
-      "lfs": true
+      "size": 165401
     },
     {
       "id": "cupboard",
       "name": "mods/cupboard-1.21-3.5.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/cupboard-1.21-3.5.jar",
       "hash": "d27298b67d74d6c95bdf1869bd60f49cfb93f33e6f14a0393be144584649c7db",
-      "size": 26659,
-      "lfs": true
+      "size": 26659
     },
     {
       "id": "curios",
       "name": "mods/curios-neoforge-9.5.1+1.21.1.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/curios-neoforge-9.5.1%2B1.21.1.jar",
       "hash": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
-      "size": 410690,
-      "lfs": true
+      "size": 410690
     },
     {
       "id": "dataanchor",
       "name": "mods/Data_Anchor-neoforge-1.21.1-2.0.0.13.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Data_Anchor-neoforge-1.21.1-2.0.0.13.jar",
       "hash": "84d0fea1e051913a6cd9656fb63692313f1748d06221e453911ec1a22940262e",
-      "size": 111722,
-      "lfs": true
+      "size": 111722
     },
     {
       "id": "distanthorizons",
       "name": "mods/DistantHorizons-3.0.2-b-1.21.1-fabric-neoforge.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/DistantHorizons-3.0.2-b-1.21.1-fabric-neoforge.jar",
       "hash": "ffe8da15ac4deedcf1eb306b0a49d6f5ba1a8385d0119bf1475e5c358f16f855",
-      "size": 30019727,
-      "lfs": true
+      "size": 30019727
     },
     {
       "id": "waterdripsound",
       "name": "mods/Drip Sounds-0.5.2+1.21.8-NeoForge.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Drip%20Sounds-0.5.2%2B1.21.8-NeoForge.client.jar",
       "hash": "9849e10aa123e7e4f2b53627dedf4d1699837a84045a03396da46a60945c6c2f",
-      "size": 58459,
-      "lfs": true
+      "size": 58459
     },
     {
       "id": "dynamic_fps",
       "name": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.client.jar",
       "hash": "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e",
-      "size": 220193,
-      "lfs": true
+      "size": 220193
     },
     {
       "id": "eatinganimation",
       "name": "mods/eatinganimation-1.21.0-6.0.1.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/eatinganimation-1.21.0-6.0.1.client.jar",
       "hash": "3b222ada8de0cd982b755019cb9ada012d0f8a440fb67f2bdc634c241b7481cb",
-      "size": 289863,
-      "lfs": true
+      "size": 289863
     },
     {
       "id": "enchdesc",
       "name": "mods/enchdesc-neoforge-1.21.1-21.1.9.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/enchdesc-neoforge-1.21.1-21.1.9.client.jar",
       "hash": "74d546ecb147da7e2cb53fe3115f6e062094329dcf15639b3da694cc00d3f843",
-      "size": 81847,
-      "lfs": true
+      "size": 81847
     },
     {
       "id": "entityculling",
       "name": "mods/entityculling-neoforge-1.10.1-mc1.21.1.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/entityculling-neoforge-1.10.1-mc1.21.1.client.jar",
       "hash": "da2f7c43329b20d9627a6590f8048233c349d5efe78defe57b05eff120ded691",
-      "size": 1578350,
-      "lfs": true
+      "size": 1578350
     },
     {
       "id": "envelope",
       "name": "mods/envelope-neoforge-1.21.1-0.6.0.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/envelope-neoforge-1.21.1-0.6.0.jar",
       "hash": "ac639a3591f95d3bdd41e38dadc95a41ac7dac7045991abc8a38771e4132d529",
-      "size": 1580646,
-      "lfs": true
+      "size": 1580646
     },
     {
       "id": "euphoria_patcher",
       "name": "mods/EuphoriaPatcher-1.8.6-r5.7.1-neoforge.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/EuphoriaPatcher-1.8.6-r5.7.1-neoforge.client.jar",
       "hash": "ed61db7ab3c5d43a404cbe09663d0ce59d7cf9e3a3dd3d0d224afea4b5213efa",
-      "size": 2773488,
-      "lfs": true
+      "size": 2773488
     },
     {
       "id": "explorerscompass",
       "name": "mods/ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
       "hash": "71e7b47bd88c9c210d7c06fe5276736fc2e225e869778216537d584e6d1faf24",
-      "size": 174668,
-      "lfs": true
+      "size": 174668
     },
     {
       "id": "exposure_polaroid",
       "name": "mods/exposure_polaroid-neoforge-1.21.1-1.1.3.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/exposure_polaroid-neoforge-1.21.1-1.1.3.jar",
       "hash": "87d75cae0f258454c9f74e2e99e937853c617a98e42b2342bcf725c38a06e2c6",
-      "size": 359578,
-      "lfs": true
+      "size": 359578
     },
     {
       "id": "exposure",
       "name": "mods/exposure-neoforge-1.21.1-1.9.16.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/exposure-neoforge-1.21.1-1.9.16.jar",
       "hash": "c4adfe346094cf4ce0008c98bf0d20d7c96b9291b3cd31ff2234495eaca2bb58",
-      "size": 2189912,
-      "lfs": true
+      "size": 2189912
     },
     {
       "id": "farmersdelight",
       "name": "mods/FarmersDelight-1.21.1-1.3.1.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/FarmersDelight-1.21.1-1.3.1.jar",
       "hash": "f02ffbf597af17d481b930daeed4b5906d6a6fddb464d392f28f42560965f4f4",
-      "size": 3124506,
-      "lfs": true
+      "size": 3124506
     },
     {
       "id": "fastipping",
       "name": "mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.client.jar",
       "hash": "c93500aa25eaa7bc473e753b8abf4234e7c46713d50bb82b30383ee47e646f5a",
-      "size": 10413,
-      "lfs": true
+      "size": 10413
     },
     {
       "id": "ferritecore",
       "name": "mods/ferritecore-7.0.3-neoforge.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/ferritecore-7.0.3-neoforge.jar",
       "hash": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8",
-      "size": 121559,
-      "lfs": true
+      "size": 121559
     },
     {
       "id": "fightorflight",
       "name": "mods/fightorflight-neoforge-0.10.7.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/fightorflight-neoforge-0.10.7.jar",
       "hash": "f1b3e1fba0e5a801d582a919de8af225a0ae3a657516da26ac40d0baca0bd489",
-      "size": 1418105,
-      "lfs": true
+      "size": 1418105
     },
     {
       "id": "figura",
       "name": "mods/figura-0.1.5+1.21.1-neoforge-patched.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/figura-0.1.5%2B1.21.1-neoforge-patched.client.jar",
       "hash": "a2e4e58d2aabc5a3352ef605155f92eb7d617419e24d651806d748f4b5cde3bc",
-      "size": 2189644,
-      "lfs": true
+      "size": 2189644
     },
     {
       "id": "fabric_api",
       "name": "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/forgified-fabric-api-0.116.7%2B2.2.4%2B1.21.1.jar",
       "hash": "19867adeb1b5c0e79510b7fd2d6213a59949c9277b96a1c76a04a22211ad6d15",
-      "size": 5569717,
-      "lfs": true
+      "size": 5569717
     },
     {
       "id": "fzzy_config",
       "name": "mods/fzzy_config-0.7.6+1.21+neoforge.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar",
       "hash": "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050",
-      "size": 2369895,
-      "lfs": true
+      "size": 2369895
     },
     {
       "id": "geckolib",
       "name": "mods/geckolib-neoforge-1.21.1-4.8.4.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/geckolib-neoforge-1.21.1-4.8.4.jar",
       "hash": "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9",
-      "size": 622582,
-      "lfs": true
+      "size": 622582
     },
     {
       "id": "geophilic",
       "name": "mods/Geophilic v3.4.6.mod.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Geophilic%20v3.4.6.mod.jar",
       "hash": "6da4e3e8691d2a950685601af3a24269137496a5aa37ce423d070aa5f69f0da6",
-      "size": 751598,
-      "lfs": true
+      "size": 751598
     },
     {
       "id": "geophilic_backport",
       "name": "mods/GeophilicBackported-v1.3.2 1.21.1.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/GeophilicBackported-v1.3.2%201.21.1.jar",
       "hash": "9a19917119cfb3501aa49ddfb9319b0e625cdaad1c8fc471f5ce7b43802015d8",
-      "size": 87564,
-      "lfs": true
+      "size": 87564
     },
     {
       "id": "gml",
       "name": "mods/gml-6.0.2.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/gml-6.0.2.jar",
       "hash": "c508464433fc7739c1aa6a7208c5dbf2c02038fe9813f98187b3fb10e457d2bd",
-      "size": 10981280,
-      "lfs": true
+      "size": 10981280
     },
     {
       "id": "gpumemleakfix",
       "name": "mods/gpumemleakfix-1.21-1.8.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/gpumemleakfix-1.21-1.8.client.jar",
       "hash": "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931",
-      "size": 6574,
-      "lfs": true
+      "size": 6574
     },
     {
       "id": "highlight",
       "name": "mods/highlight-neoforge-1.21.9-3.9.0.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/highlight-neoforge-1.21.9-3.9.0.client.jar",
       "hash": "473169d0c6c83f893d8f2252f6e9612d44455e412e28c7b7bc7d2d750c1d0ec5",
-      "size": 471520,
-      "lfs": true
+      "size": 471520
     },
     {
       "id": "holdmyitemsnf",
       "name": "mods/holdmyitemsnf-1.21.1v2.1.optional.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/holdmyitemsnf-1.21.1v2.1.optional.jar",
       "hash": "ba638b37b49ff4efbc4eed9408b53abd16c2f2ce6825feea6c24f486c729a2e1",
       "size": 107291,
-      "lfs": true,
       "optional": true
     },
     {
       "id": "horseman",
       "name": "mods/horseman-neoforge-1.21.1-1.5.9.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/horseman-neoforge-1.21.1-1.5.9.jar",
       "hash": "6ead0d129ee4a40acec31d569572ec18db3f08a15ce73df66ce7694e2b251266",
-      "size": 445058,
-      "lfs": true
+      "size": 445058
     },
     {
       "id": "immediatelyfast",
       "name": "mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/ImmediatelyFast-NeoForge-1.6.10%2B1.21.1.client.jar",
       "hash": "9fbb8dce1bb72feacdc3b75c6fcbf689865ad3793a19649443d76be20993ddd0",
-      "size": 368598,
-      "lfs": true
+      "size": 368598
     },
     {
       "id": "immersivehotbar",
       "name": "mods/immersivehotbar-1.1.1-neoforge-1.21-1.21.1.client.optional.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/immersivehotbar-1.1.1-neoforge-1.21-1.21.1.client.optional.jar",
       "hash": "78abac794ef5ffec568d7b97e76d3e581b087dc52369fbedbb859d587c225e01",
       "size": 220747,
-      "lfs": true,
       "optional": true
     },
     {
       "id": "immersiveui",
       "name": "mods/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.client.optional.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/ImmersiveUI-NEOFORGE-0.3.3%2B1.21.1.client.optional.jar",
       "hash": "6b914e305f27962a91d49a659b77eb65f47acee9d79930801b4fc1d3e474c8a4",
       "size": 217081,
-      "lfs": true,
       "optional": true
     },
     {
       "id": "inventory_particles",
       "name": "mods/InventoryParticles-1.5.0+1.21.1+neoforge.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/InventoryParticles-1.5.0%2B1.21.1%2Bneoforge.client.jar",
       "hash": "86c5675fb522119e26d48dde4a2ed06a58b7f6fa9ad18f71d1a231eebecd0014",
-      "size": 1489097,
-      "lfs": true
+      "size": 1489097
     },
     {
       "id": "iris",
       "name": "mods/iris-neoforge-1.8.12+mc1.21.1.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/iris-neoforge-1.8.12%2Bmc1.21.1.client.jar",
       "hash": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
-      "size": 2438548,
-      "lfs": true
+      "size": 2438548
     },
     {
       "id": "jade",
       "name": "mods/Jade-1.21.1-NeoForge-15.10.5.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Jade-1.21.1-NeoForge-15.10.5.client.jar",
       "hash": "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d",
-      "size": 725742,
-      "lfs": true
+      "size": 725742
     },
     {
       "id": "jei",
       "name": "mods/jei-1.21.1-neoforge-19.27.0.336.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/jei-1.21.1-neoforge-19.27.0.336.jar",
       "hash": "2b6d84df11ab2bb94a75be8bac6790bfbb2c0112a1622cd5f5f234468a196721",
-      "size": 1529192,
-      "lfs": true
+      "size": 1529192
     },
     {
       "id": "kotlinforforge-5.11.0-all.jar",
       "name": "mods/kotlinforforge-5.11.0-all.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/kotlinforforge-5.11.0-all.jar",
       "hash": "89d2ccd9d2ca2996ca3ee57b27165893f4bc4b8431be89461f8b2f8fe6162ac1",
-      "size": 6869790,
-      "lfs": true
+      "size": 6869790
     },
     {
       "id": "kubejs",
       "name": "mods/kubejs-neoforge-2101.7.2-build.361.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/kubejs-neoforge-2101.7.2-build.361.jar",
       "hash": "73509a9668bf2e5dfd24b21b95e2ae0d8c4bd3c051444e8f453c1c3a1ccabd42",
-      "size": 2270421,
-      "lfs": true
+      "size": 2270421
     },
     {
       "id": "libjf",
       "name": "mods/libjf-3.17.4+forge.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/libjf-3.17.4%2Bforge.jar",
       "hash": "6c77dab50125f819fe5d4107fa481cf6074c8d935aa608fc7f7e7f67e103a6cc",
-      "size": 730989,
-      "lfs": true
+      "size": 730989
     },
     {
       "id": "libraryferret",
       "name": "mods/libraryferret-neoforge-1.21.1-4.0.0.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/libraryferret-neoforge-1.21.1-4.0.0.jar",
       "hash": "b0e9aed25266ad91e66bda1067c0d5cd531c0853af2ade17d70f972751e74f63",
-      "size": 139416,
-      "lfs": true
+      "size": 139416
     },
     {
       "id": "lithium",
       "name": "mods/lithium-neoforge-0.15.3+mc1.21.1.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/lithium-neoforge-0.15.3%2Bmc1.21.1.jar",
       "hash": "a6548862bd13ff8eea6747cf61df50c8374a16a22d067614e414ed600eee6d83",
-      "size": 774148,
-      "lfs": true
+      "size": 774148
     },
     {
       "id": "mechtrowel",
       "name": "mods/mechtrowel-1.3.1.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/mechtrowel-1.3.1.jar",
       "hash": "29f5b561373f3123ee7f548c3811ad71e1d7e55de4d8977a1f049700c480f7e7",
-      "size": 497230,
-      "lfs": true
+      "size": 497230
     },
     {
       "id": "mega_showdown",
       "name": "mods/mega_showdown-neoforge-1.8.2+1.7.3+1.21.1-hotfix.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/mega_showdown-neoforge-1.8.2%2B1.7.3%2B1.21.1-hotfix.jar",
       "hash": "9b7c5a47abc28521737a4773d5b42d6d710c1898740b9cb4708c870aaf9e9366",
-      "size": 17146214,
-      "lfs": true
+      "size": 17146214
     },
     {
       "id": "midnightlib",
       "name": "mods/midnightlib-neoforge-1.9.2+1.21.1.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/midnightlib-neoforge-1.9.2%2B1.21.1.jar",
       "hash": "adb29c10b3bdc2fd1a1cb8f4cbeb0280f7d15af1a76ee3074d2db1eec7fe28e7",
-      "size": 60347,
-      "lfs": true
+      "size": 60347
     },
     {
       "id": "moonlight",
       "name": "mods/moonlight-1.21-2.29.33-neoforge.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/moonlight-1.21-2.29.33-neoforge.jar",
       "hash": "47759081ab26271fed829f17abe1a8aa8ac1a17a111acb3b9255749e35e00f7a",
-      "size": 1596760,
-      "lfs": true
+      "size": 1596760
     },
     {
       "id": "mossylib",
       "name": "mods/MossyLib-1.1.0+1.21.1+neoforge.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/MossyLib-1.1.0%2B1.21.1%2Bneoforge.jar",
       "hash": "11c31dd3cfa404f2209106ca90960a1f1e6d4cbca91c5f38631b53c85f7c37db",
-      "size": 178015,
-      "lfs": true
+      "size": 178015
     },
     {
       "id": "mousetweaks",
       "name": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/MouseTweaks-neoforge-mc1.21-2.26.1.client.jar",
       "hash": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b",
-      "size": 73938,
-      "lfs": true
+      "size": 73938
     },
     {
       "id": "mru",
       "name": "mods/mru-1.0.19+LTS+1.21.1+neoforge.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/mru-1.0.19%2BLTS%2B1.21.1%2Bneoforge.jar",
       "hash": "ed025100de31f5635d48a5a0cc4bc9c701d885bf3777e0c2ad8af5f2cad4601a",
-      "size": 243953,
-      "lfs": true
+      "size": 243953
     },
     {
       "id": "naturescompass",
       "name": "mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
       "hash": "0e249ac11b2f916c5570d9679e188da652fa5664ba9cdb7be5dc9ff69497539c",
-      "size": 224657,
-      "lfs": true
+      "size": 224657
     },
     {
       "id": "notenoughtrials",
       "name": "mods/NotEnoughTrials-1.21-v5.0.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/NotEnoughTrials-1.21-v5.0.jar",
       "hash": "7034734a694254025bab6e55b46cb4e1f679debddb8c0ecd7e5e7627be4318fd",
-      "size": 4812498,
-      "lfs": true
+      "size": 4812498
     },
     {
       "id": "octolib",
       "name": "mods/OctoLib-NEOFORGE-0.6.1+1.21.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/OctoLib-NEOFORGE-0.6.1%2B1.21.jar",
       "hash": "77e0a87cf7ab158ce7cbd69dc0fa1e0bf871841d8ddc078b4fbcfecd570d7581",
-      "size": 540285,
-      "lfs": true
+      "size": 540285
     },
     {
       "id": "owo",
       "name": "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar",
       "hash": "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d",
-      "size": 1221583,
-      "lfs": true
+      "size": 1221583
     },
     {
       "id": "particle_effects",
       "name": "mods/ParticleEffects-1.3.0+1.21.1+neoforge.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/ParticleEffects-1.3.0%2B1.21.1%2Bneoforge.client.jar",
       "hash": "6c3d0a292a4bf1a636e7d819d54f66f05fc786f97f6b7f8a91801ded7fc0cabc",
-      "size": 309063,
-      "lfs": true
+      "size": 309063
     },
     {
       "id": "particlerain",
       "name": "mods/particlerain-4.0.0-beta.9+1.21.1-neoforge.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/particlerain-4.0.0-beta.9%2B1.21.1-neoforge.client.jar",
       "hash": "dd886cfd14c6cf1d23aec5d40871fd4b8794e65bc4153a74619e418a1b3165ba",
-      "size": 602187,
-      "lfs": true
+      "size": 602187
     },
     {
       "id": "patchouli",
       "name": "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Patchouli-1.21.1-93-NEOFORGE.jar",
       "hash": "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993",
-      "size": 646777,
-      "lfs": true
+      "size": 646777
     },
     {
       "id": "paxi",
       "name": "mods/Paxi-1.21.1-NeoForge-5.1.3.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Paxi-1.21.1-NeoForge-5.1.3.jar",
       "hash": "4b60f8eb3b8b8880eff7c3ac825cde84394848eac3915ed61ade607cdd331ce7",
-      "size": 102980,
-      "lfs": true
+      "size": 102980
     },
     {
       "id": "perception",
       "name": "mods/Perception-NEOFORGE-0.2.1+1.21.1.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Perception-NEOFORGE-0.2.1%2B1.21.1.jar",
       "hash": "e9e6b126fdc2cab3deda2f15ebd20c7492aa620ebfd1f5af9095db4e63277df5",
-      "size": 78664,
-      "lfs": true
+      "size": 78664
     },
     {
       "id": "plasmovoice",
       "name": "mods/plasmovoice-neoforge-1.21.1-2.1.9.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/plasmovoice-neoforge-1.21.1-2.1.9.jar",
       "hash": "6210d2521b57de6da40ba2a1a7914f192fe3d1585d8f303b521652c76622bde6",
-      "size": 12239419,
-      "lfs": true
+      "size": 12239419
     },
     {
       "id": "platform",
       "name": "mods/Platform-neoforge-1.21.1-1.3.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Platform-neoforge-1.21.1-1.3.jar",
       "hash": "0abcc2edd20d2263d30a50a72d58a15e0c792e9817e812f1a1a7b867bee0664d",
-      "size": 473152,
-      "lfs": true
+      "size": 473152
     },
     {
       "id": "polymorph",
       "name": "mods/polymorph-neoforge-1.1.0+1.21.1.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/polymorph-neoforge-1.1.0%2B1.21.1.jar",
       "hash": "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b",
-      "size": 174972,
-      "lfs": true
+      "size": 174972
     },
     {
       "id": "polytone",
       "name": "mods/polytone-1.21-3.6.6-neoforge.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/polytone-1.21-3.6.6-neoforge.client.jar",
       "hash": "1ead64bea6f61632180ccdd594bf4d9853f5d02ecbc860865d47be1bb1711e0d",
-      "size": 861174,
-      "lfs": true
+      "size": 861174
     },
     {
       "id": "presencefootsteps",
       "name": "mods/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.client.jar",
       "hash": "ded9ea8677f407cbf280b0ee33866ae70859a7c476ef0f60fd35a9be2ee9b91a",
-      "size": 7096988,
-      "lfs": true
+      "size": 7096988
     },
     {
       "id": "prickle",
       "name": "mods/prickle-neoforge-1.21.1-21.1.11.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/prickle-neoforge-1.21.1-21.1.11.jar",
       "hash": "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167",
-      "size": 84812,
-      "lfs": true
+      "size": 84812
     },
     {
       "id": "pv_addon_sculk",
       "name": "mods/pv-addon-sculk-1.1.0.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/pv-addon-sculk-1.1.0.jar",
       "hash": "6e3c195c976be29d20e37ea3e8dcb489342c813e84e9c3561b39cfe0a543228f",
-      "size": 14035,
-      "lfs": true
+      "size": 14035
     },
     {
       "id": "pv_addon_soundphysics",
       "name": "mods/pv-addon-soundphysics-1.1.2.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/pv-addon-soundphysics-1.1.2.client.jar",
       "hash": "cd7af450fbc5612674149476b8142392a8040f3961c222c653ecfd6f13f81615",
-      "size": 16176,
-      "lfs": true
+      "size": 16176
     },
     {
       "id": "quark",
       "name": "mods/Quark-4.1-476.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Quark-4.1-476.jar",
       "hash": "ce4b200f7eff30ffad9a6fdfbc4e61f57264dbbfd6180f18c2a37230150c41d7",
-      "size": 15578260,
-      "lfs": true
+      "size": 15578260
     },
     {
       "id": "resourcefulconfig",
       "name": "mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
       "hash": "25b4f3502d25c535004acd4a9420272fff01d2f1e2df352239fec93fdab005d4",
-      "size": 341009,
-      "lfs": true
+      "size": 341009
     },
     {
       "id": "resourcefullib",
       "name": "mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/resourcefullib-neoforge-1.21-3.0.12.jar",
       "hash": "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261",
-      "size": 484332,
-      "lfs": true
+      "size": 484332
     },
     {
       "id": "resourcify",
       "name": "mods/Resourcify (1.21.1-neoforge)-1.8.1.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Resourcify%20(1.21.1-neoforge)-1.8.1.client.jar",
       "hash": "b159a2ac63a369eeace652ff305391ed6d4c14fc51e13bcc6b8a7dc2ae8691b6",
-      "size": 2586268,
-      "lfs": true
+      "size": 2586268
     },
     {
       "id": "rhino",
       "name": "mods/rhino-2101.2.7-build.81.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/rhino-2101.2.7-build.81.jar",
       "hash": "fcc3f8de61771596f1b120f734819cb97f5935a5d42c76f4057a0be06a3609db",
-      "size": 882032,
-      "lfs": true
+      "size": 882032
     },
     {
       "id": "sable",
       "name": "mods/sable-neoforge-1.21.1-1.2.2.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/sable-neoforge-1.21.1-1.2.2.jar",
       "hash": "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8",
-      "size": 12719293,
-      "lfs": true
+      "size": 12719293
     },
     {
       "id": "scholar",
       "name": "mods/scholar-neoforge-1.21.1-1.1.13.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/scholar-neoforge-1.21.1-1.1.13.jar",
       "hash": "36dde43bb49748af0ef26ee590e40e4cfdd4b316bb557f1b55775f8a20001af8",
-      "size": 721844,
-      "lfs": true
+      "size": 721844
     },
     {
       "id": "seamlesssleep",
       "name": "mods/seamlesssleep-neoforge-1.21-2.5.3.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/seamlesssleep-neoforge-1.21-2.5.3.jar",
       "hash": "01e92fdc4a3a72bcfd5432ccbdec2c14c6e2b7eb14b38f0db9b0251f3b4ea313",
-      "size": 148048,
-      "lfs": true
+      "size": 148048
     },
     {
       "id": "searchables",
       "name": "mods/Searchables-neoforge-1.21.1-1.0.2.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Searchables-neoforge-1.21.1-1.0.2.client.jar",
       "hash": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68",
-      "size": 77326,
-      "lfs": true
+      "size": 77326
     },
     {
       "id": "sodium_extra",
       "name": "mods/sodium-extra-neoforge-0.6.0+mc1.21.1.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/sodium-extra-neoforge-0.6.0%2Bmc1.21.1.client.jar",
       "hash": "c20fe1a554916cde5dd0ac72ba2b82ed04263026d4394ac51be6f7a300902443",
-      "size": 367047,
-      "lfs": true
+      "size": 367047
     },
     {
       "id": "sodium",
       "name": "mods/sodium-neoforge-0.6.13+mc1.21.1.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/sodium-neoforge-0.6.13%2Bmc1.21.1.client.jar",
       "hash": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
-      "size": 1162994,
-      "lfs": true
+      "size": 1162994
     },
     {
       "id": "sophisticatedbackpacks",
       "name": "mods/sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
       "hash": "8817a7ce02fdddc8bbe4ca5be5bb63678efa22770c81d19984a1e4f3d1d48950",
-      "size": 1023170,
-      "lfs": true
+      "size": 1023170
     },
     {
       "id": "sophisticatedcore",
       "name": "mods/sophisticatedcore-1.21.1-1.4.35.1823.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/sophisticatedcore-1.21.1-1.4.35.1823.jar",
       "hash": "0fbd34a14e3ac918e4926ddb4135208fb780ec1a4da6908a70231d4443cb7904",
-      "size": 1517676,
-      "lfs": true
+      "size": 1517676
     },
     {
       "id": "sophisticatedstorage",
       "name": "mods/sophisticatedstorage-1.21.1-1.5.45.1697.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/sophisticatedstorage-1.21.1-1.5.45.1697.jar",
       "hash": "b2f2f320700046b5d074836551bd8c4d049a18ab2dba6866d81d76cf0f5065f3",
-      "size": 1666661,
-      "lfs": true
+      "size": 1666661
     },
     {
       "id": "sound_physics_remastered",
       "name": "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.client.jar",
       "hash": "65372ad64422a20f03ad6e39aabaa827c191abbe9be5c35631acc3a8105fe177",
-      "size": 202454,
-      "lfs": true
+      "size": 202454
     },
     {
       "id": "sounds",
       "name": "mods/sounds-2.4.22+lts+1.21.1-neoforge.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/sounds-2.4.22%2Blts%2B1.21.1-neoforge.client.jar",
       "hash": "d3bda0a7a5b1f267747da182e788139da380f625eaf96a5c2a8fa5bcb8d908b7",
-      "size": 8732437,
-      "lfs": true
+      "size": 8732437
     },
     {
       "id": "spark",
       "name": "mods/spark-1.10.124-neoforge.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/spark-1.10.124-neoforge.jar",
       "hash": "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db",
-      "size": 3642581,
-      "lfs": true
+      "size": 3642581
     },
     {
       "id": "structureessentials",
       "name": "mods/structureessentials-1.21.1-5.0.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/structureessentials-1.21.1-5.0.jar",
       "hash": "7ecb6c9d04e20a6803ba6e51dd226eaa289ba2c2c095248f3645222a8bfc1c8d",
-      "size": 60833,
-      "lfs": true
+      "size": 60833
     },
     {
       "id": "subtle_effects",
       "name": "mods/SubtleEffects-neoforge-1.21.1-1.14.3.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/SubtleEffects-neoforge-1.21.1-1.14.3.client.jar",
       "hash": "78fd24ecaadee01746ecc4cf598284923e762e25964311e86a67aa30cd3c2b67",
-      "size": 3306773,
-      "lfs": true
+      "size": 3306773
     },
     {
       "id": "supplementaries",
       "name": "mods/supplementaries-1.21-3.5.34-neoforge.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/supplementaries-1.21-3.5.34-neoforge.jar",
       "hash": "3e82252fcd89b090786e1640f8cf8fac76e3e35f30465849944e7b89ca2f433b",
-      "size": 13366044,
-      "lfs": true
+      "size": 13366044
     },
     {
       "id": "suppsquared",
       "name": "mods/suppsquared-1.21-1.2.17-neoforge.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/suppsquared-1.21-1.2.17-neoforge.jar",
       "hash": "49120a2cedff5a51b9257ee44c72a9d38058ea13fe98d3fcb9ead2c2edf5dd49",
-      "size": 774220,
-      "lfs": true
+      "size": 774220
     },
     {
       "id": "terrablender",
       "name": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
       "hash": "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8",
-      "size": 120364,
-      "lfs": true
+      "size": 120364
     },
     {
       "id": "tim_core",
       "name": "mods/timcore-neoforge-1.7.3-1.32.0.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/timcore-neoforge-1.7.3-1.32.0.jar",
       "hash": "9c1440f95bac8ce1f0cd0a75d593e167d36fb190b00015ae0200f28bab5bedf8",
-      "size": 306328,
-      "lfs": true
+      "size": 306328
     },
     {
       "id": "vanillabackport",
       "name": "mods/VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
       "hash": "d25f39ec0ca11505aec9eb511f56b1bc2562932190c7e02f2f47983d3dd763d6",
-      "size": 27456653,
-      "lfs": true
+      "size": 27456653
     },
     {
       "id": "via_romana",
       "name": "mods/via_romana-2.2.2+1.21.1-neoforge.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/via_romana-2.2.2%2B1.21.1-neoforge.jar",
       "hash": "7c93686dd28d17369235154c0c7deadea75357bd158114d2e6ec557824340cbc",
-      "size": 1241040,
-      "lfs": true
+      "size": 1241040
     },
     {
       "id": "visual_keybinder",
       "name": "mods/visual_keybinder-1.21.1-0.1.12-neoforge.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/visual_keybinder-1.21.1-0.1.12-neoforge.client.jar",
       "hash": "031e1df515952a1ffe6eb4c165faf469f22518bf80d505ddbb64703ae4a93986",
-      "size": 347038,
-      "lfs": true
+      "size": 347038
     },
     {
       "id": "visuality",
       "name": "mods/visuality-forge-2.1.0.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/visuality-forge-2.1.0.client.jar",
       "hash": "f4c134d3041e9e6626276a26d2864f3aed177c08c8a109cd3788c5470c28d02e",
-      "size": 115765,
-      "lfs": true
+      "size": 115765
     },
     {
       "id": "yeetusexperimentus",
       "name": "mods/yeetusexperimentus-neoforge-87.0.0.client.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/yeetusexperimentus-neoforge-87.0.0.client.jar",
       "hash": "9117db8b5905abf18f64fdf8f8d8ca5a91c23abd0a7fa2c9986c21aa17d74e75",
-      "size": 570057,
-      "lfs": true
+      "size": 570057
     },
     {
       "id": "yet_another_config_lib_v3",
       "name": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
       "hash": "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f",
-      "size": 1118651,
-      "lfs": true
+      "size": 1118651
     },
     {
       "id": "yungsapi",
       "name": "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
       "hash": "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca",
-      "size": 388678,
-      "lfs": true
+      "size": 388678
     },
     {
       "id": "bettercaves",
       "name": "mods/YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar",
       "hash": "aa94ae3e7fdacb469459bf45be60c35bebfebe0488a79e31c7686d746939701d",
-      "size": 392794,
-      "lfs": true
+      "size": 392794
     },
     {
       "id": "betterdeserttemples",
       "name": "mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
       "hash": "2c3191ad447092cc7873a06e92f16bd3e2ff9dc31e93268b8893d06dd89e1fd6",
-      "size": 905839,
-      "lfs": true
+      "size": 905839
     },
     {
       "id": "betterdungeons",
       "name": "mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
       "hash": "61816c3b7c9d92c6b44f93dce87ceb0a22827f20285d5d9c4d10d519d734de04",
-      "size": 782160,
-      "lfs": true
+      "size": 782160
     },
     {
       "id": "betterendisland",
       "name": "mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
       "hash": "8005f1ea798d09fc05dad07a21ed1f393a523a718197cdbd37b1ce6d9a17e4a4",
-      "size": 398130,
-      "lfs": true
+      "size": 398130
     },
     {
       "id": "betterjungletemples",
       "name": "mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
       "hash": "a0d57b78c7a1891796f342b1f09c214bc27bedf0a3a894f029dfdb2db9f813d0",
-      "size": 795839,
-      "lfs": true
+      "size": 795839
     },
     {
       "id": "bettermineshafts",
       "name": "mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
       "hash": "5625930dfb3240820d6e4ecf55fff0c39f70ce782fad117a4d418251184c7be0",
-      "size": 493967,
-      "lfs": true
+      "size": 493967
     },
     {
       "id": "betterfortresses",
       "name": "mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
       "hash": "5450a64a7036237f449496837e08f3e5b3aa1d7974a10df43944172def75d8ff",
-      "size": 609639,
-      "lfs": true
+      "size": 609639
     },
     {
       "id": "betteroceanmonuments",
       "name": "mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
       "hash": "cdcf8fe0e08c75261048d43c6ed4898972d23e096dd04a2524c136f06416ab02",
-      "size": 1025571,
-      "lfs": true
+      "size": 1025571
     },
     {
       "id": "betterstrongholds",
       "name": "mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
       "hash": "a9cab2fc01538368862365691f7d215309801aed0b390351681b6b60a1db7b58",
-      "size": 461244,
-      "lfs": true
+      "size": 461244
     },
     {
       "id": "betterwitchhuts",
       "name": "mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
       "hash": "888b1e6d1ada21982a75abfb4afb040c9bc2cc68777ec5fcd1199b978e3d4f8d",
-      "size": 174789,
-      "lfs": true
+      "size": 174789
     },
     {
       "id": "yungsbridges",
       "name": "mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
       "hash": "bf93a85422a6b457358c3b56352641a97ec09cc37dec18b2cedcac2bd1ff9bec",
-      "size": 136820,
-      "lfs": true
+      "size": 136820
     },
     {
       "id": "yungscavebiomes",
       "name": "mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
       "hash": "7585587e5cb7859e26189c6ec0a5b829c5c228f095e4e843fa3add61f817dd20",
-      "size": 13006621,
-      "lfs": true
+      "size": 13006621
     },
     {
       "id": "yungsextras",
       "name": "mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
       "hash": "0cd26474e514f5dc3114aaf5ec7e049bcd285f0c5db191bb45223193f35df70d",
-      "size": 198183,
-      "lfs": true
+      "size": 198183
     },
     {
       "id": "zeta",
       "name": "mods/Zeta-1.1-39.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Zeta-1.1-39.jar",
       "hash": "b4fc724a436ee63d7ab9af0cced89b54e7ea5887054164eff1c1aae6d4cfa531",
-      "size": 765399,
-      "lfs": true
+      "size": 765399
     },
     {
       "id": "ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt",
       "name": "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/shaderpacks/ComplementaryReimagined_r5.7.1%20%2B%20EuphoriaPatches_1.8.6.txt",
       "hash": "66c3e1aad428673022081016474d41ad763c3c44e99450277a899480dadb105e",
       "size": 776
     },
     {
       "id": "ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.zip",
       "name": "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.zip",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/shaderpacks/ComplementaryReimagined_r5.7.1%20%2B%20EuphoriaPatches_1.8.6.zip",
       "hash": "2d2608bf8159ce61f335b9315b94d84e980b27f4e7606f127c085016300d597d",
       "size": 1948971
     },
     {
       "id": "ComplementaryReimagined_r5.7.1.zip",
       "name": "shaderpacks/ComplementaryReimagined_r5.7.1.zip",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/shaderpacks/ComplementaryReimagined_r5.7.1.zip",
       "hash": "24a20634a7832d422d3cd5023be16829f26840e25c69404dd418306ea79f63f0",
       "size": 522970
     }
