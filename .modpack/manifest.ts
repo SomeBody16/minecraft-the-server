@@ -23,7 +23,7 @@ export const manifest: Manifest = {
 };
 
 export const manifestServer: ManifestServer = {
-  files: manifestServerFiles(config.include),
+  files: manifestServerFiles([...config.include, "server.properties"]),
 }
 
 fs.writeFileSync("manifest.json", JSON.stringify(manifest, null, 2) + "\n");
