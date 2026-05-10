@@ -7,11 +7,26 @@ import * as toml from 'js-toml';
 import path from 'path';
 import { File, ServerFile } from './types';
 
+const manifestFilesFilter = (options: {
+  client?: boolean;
+  server?: boolean;
+}) => {
+  return (file: string): boolean => {
+    const normalized = path.normalize(file).replaceAll(path.sep, path.posix.sep)
+    if (normalized.endsWith('.disabled')) return false;
+    if (normalized.includes('kubejs/config/common.json')) return false;
+    if (options.client && normalized.includes('.server.')) return false;
+    if (options.server && normalized.includes('.client.')) return false;
+    if (options.server && normalized.includes('resourcepacks')) return false;
+    if (options.server && normalized.includes('shaderpacks')) return false;
+    return true;
+  }
+}
+
 export const manifestFiles = (include: string[]): File[] => {
   return globSync(include)
     .filter((file) => fs.statSync(file).isFile())
-    .filter((file) => !file.endsWith('.disabled'))
-    .filter((file) => !file.includes('.server.'))
+    .filter(manifestFilesFilter({ client: true }))
     .map((file) => {
       const stats = getFileStatsNormalized(file);
       const { id, name, displayName } = getFileMetadata(file);
@@ -31,10 +46,7 @@ export const manifestFiles = (include: string[]): File[] => {
 export const manifestServerFiles = (include: string[]): ServerFile[] => {
   return globSync(include)
     .filter((file) => fs.statSync(file).isFile())
-    .filter((file) => !file.endsWith('.disabled'))
-    .filter((file) => !file.includes('.client.'))
-    .filter((file) => !file.includes('resourcepacks'))
-    .filter((file) => !file.includes('shaderpacks'))
+    .filter(manifestFilesFilter({ server: true }))
     .map((file) => {
       const stats = getFileStatsNormalized(file);
       const { id, name } = getFileMetadata(file);
