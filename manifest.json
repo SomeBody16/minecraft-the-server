@@ -2,7 +2,7 @@
   "name": "Minecraft THE Pokemon",
   "serverIp": "minecraft-the-server.spot.gs",
   "version": {
-    "modpack": "0c06a4fa8006306b889bf783e6a145cfcfc0fc906e11b965f6da6c7dbe79c02a",
+    "modpack": "7de5db7b41bbac65fac7d02c5f7abbb7401b10185c565202bf8019234c198f7f",
     "minecraft": "1.21.1",
     "modloader": {
       "name": "neoforge",
@@ -1253,8 +1253,8 @@
       "id": "MouseTweaks.cfg",
       "name": "defaultconfigs/MouseTweaks.cfg",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/defaultconfigs/MouseTweaks.cfg",
-      "hash": "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8",
-      "size": 143
+      "hash": "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4",
+      "size": 135
     },
     {
       "id": "naturescompass-client.toml",
