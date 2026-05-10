@@ -996,6 +996,11 @@
       "name": "defaultconfigs/resourcify.json"
     },
     {
+      "id": "sable-common.toml",
+      "hash": "6d533ca99e196b28d478138601325f67bc66882e47a27d82bb1a22ff8ccfe470",
+      "name": "defaultconfigs/sable-common.toml"
+    },
+    {
       "id": "scholar-client.toml",
       "hash": "08cf0437f437043328ac2158b8d00cdcbcc1261650edcc221c88741a5f81e54a",
       "name": "defaultconfigs/scholar-client.toml"
@@ -1707,7 +1712,7 @@
     },
     {
       "id": "sable",
-      "hash": "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8",
+      "hash": "6cb8e8d54fd8bbbb155a47e04a7f033d77fee53deab294c30ba15ddadc43233a",
       "name": "mods/sable-neoforge-1.21.1-1.2.2.jar"
     },
     {
