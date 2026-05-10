@@ -35,8 +35,8 @@ jobs:
 
   release:
     name: Release to Server
-    needs: generate-and-commit  # This ensures it runs second
-    if: github.ref == 'refs/heads/deploy'
+    needs: generate-and-commit
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
