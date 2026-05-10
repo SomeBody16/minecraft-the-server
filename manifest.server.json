@@ -1844,6 +1844,11 @@
       "id": "zeta",
       "hash": "b4fc724a436ee63d7ab9af0cced89b54e7ea5887054164eff1c1aae6d4cfa531",
       "name": "mods/Zeta-1.1-39.jar"
+    },
+    {
+      "id": "server.properties",
+      "hash": "174f3cebe59b767d43da725dc65e82384ff9f095fb91c8b2aa1733ba8b32b15e",
+      "name": "server.properties"
     }
   ]
 }
