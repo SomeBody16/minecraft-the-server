@@ -931,6 +931,11 @@
       "name": "defaultconfigs/physicsmod/physics_vines_client_config.json"
     },
     {
+      "id": "config.toml",
+      "hash": "abb023f83980842296fea0c7ad0cf1ad6e9c3a574bf073d37467abaae011631e",
+      "name": "defaultconfigs/plasmovoice/server/config.toml"
+    },
+    {
       "id": "ponder-client.toml",
       "hash": "908bc54d179460304e59cb350033df7793be4caa2a6f662b0833d6322ebdfef5",
       "name": "defaultconfigs/ponder-client.toml"
@@ -1481,6 +1486,11 @@
       "name": "mods/Data_Anchor-neoforge-1.21.1-2.0.0.13.jar"
     },
     {
+      "id": "discord_chat_mod",
+      "hash": "bcd94cd7090043bc365ccc8282775e9a3376658bc3fb5f4cbf7e75982d3cf224",
+      "name": "mods/discord_chat_mod-neoforge-1.21.1-2.6.2.server.jar"
+    },
+    {
       "id": "distanthorizons",
       "hash": "ffe8da15ac4deedcf1eb306b0a49d6f5ba1a8385d0119bf1475e5c358f16f855",
       "name": "mods/DistantHorizons-3.0.2-b-1.21.1-fabric-neoforge.jar"
@@ -1729,6 +1739,11 @@
       "id": "spark",
       "hash": "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db",
       "name": "mods/spark-1.10.124-neoforge.jar"
+    },
+    {
+      "id": "spyglass_improvements",
+      "hash": "2f078a00115c23d22c791b526ca939c5b57cc022eebb0371d91b0bb12ee9dd5c",
+      "name": "mods/spyglass_improvements-1.5.7+mc1.21+neoforge.jar"
     },
     {
       "id": "structureessentials",
