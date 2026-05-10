@@ -13,10 +13,11 @@ export const manifestFiles = (include: string[]): File[] => {
     .filter((file) => !file.endsWith(".disabled"))
     .map((file) => {
       const stats = getFileStatsNormalized(file);
-      const name = path.normalize(file).replaceAll(path.sep, path.posix.sep);
+      const { id, name, displayName } = getFileMetadata(file);
       return {
-        id: getFileId(file),
+        id,
         name,
+        displayName,
         url: githubRawFileDownloadUrl({ name }),
         hash: stats.hash,
         size: stats.size,
@@ -26,20 +27,28 @@ export const manifestFiles = (include: string[]): File[] => {
     .sort((a, b) => a.name.toLowerCase().localeCompare(b.name.toLowerCase()));
 };
 
-
-function getFileId(filePath: string) {
-  const defaultId = path.basename(filePath);
-  if (!filePath.endsWith(".jar")) {
-    return defaultId;
+function getFileMetadata(filePath: string): { id: string; name: string; displayName: string } {
+  const defaultData = {
+    id: path.basename(filePath),
+    name: path.normalize(filePath).replaceAll(path.sep, path.posix.sep),
+    displayName: path.basename(filePath),
   }
 
+  if (!filePath.endsWith(".jar")) {
+    return defaultData;
+  }
+  
   try {
     const jar = new AdmZip(filePath);
     const metadata: any = toml.load(jar.readAsText("META-INF/neoforge.mods.toml"));
-    return metadata.mods[0].modId || defaultId;
+    return {
+      id: metadata?.mods?.[0]?.modId || defaultData.id,
+      name: defaultData.name,
+      displayName: metadata?.mods?.[0]?.displayName || defaultData.displayName,
+    };
   } catch (error) {
     console.log(`Error getting file id for ${filePath}`);
-    return defaultId;
+    return defaultData;
   }
 }
 

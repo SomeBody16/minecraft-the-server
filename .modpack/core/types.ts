@@ -15,6 +15,7 @@ export type Manifest = {
 export type File = {
   id: string;
   name: string;
+  displayName: string;
   url: string;
   hash: string;
   size: number;
