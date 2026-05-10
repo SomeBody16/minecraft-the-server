@@ -1,0 +1,32 @@
+name: Generate and Commit JSON
+
+on:
+  push: # Runs on all branches
+
+jobs:
+  generate-and-commit:
+    name: Generate manifest and metadata
+    runs-on: ubuntu-latest
+
+    # Required to allow the workflow to push commits back to the branch
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup mise
+        uses: jdx/mise-action@v2
+
+      - name: Install dependencies
+        run: yarn install --immutable
+
+      - name: Regenerate JSON files
+        run: yarn manifest
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-update manifest and metadata [skip ci]"
+          file_pattern: manifest.json metadata.json
