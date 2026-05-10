@@ -2,7 +2,7 @@
   "name": "Minecraft THE Pokemon",
   "serverIp": "minecraft-the-server.spot.gs",
   "version": {
-    "modpack": "14bf37c2fc4763e69c115252f8aded0bf9a5ccf26d2118f77231ab4267a819cb",
+    "modpack": "d4b8f2910380b838f014731b40b51094eccc42d7904fc6b18433184f4a218974",
     "minecraft": "1.21.1",
     "modloader": {
       "name": "neoforge",
@@ -2296,7 +2296,8 @@
       "displayName": "AppleSkin",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/appleskin-neoforge-mc1.21-3.0.9.client.jar",
       "hash": "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df",
-      "size": 75804
+      "size": 75804,
+      "optional": true
     },
     {
       "id": "architectury",
@@ -2328,7 +2329,8 @@
       "displayName": "Better Clouds",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/better-clouds-1.7.20-alpha%2B1.21.1-neoforge.rev.4c611d9.client.jar",
       "hash": "d80ea189bb859ce12dd702803c35512a39c707ca7211a84abba3341362e77534",
-      "size": 790657
+      "size": 790657,
+      "optional": true
     },
     {
       "id": "betterf3",
@@ -2336,7 +2338,8 @@
       "displayName": "BetterF3",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/BetterF3-11.0.3-NeoForge-1.21.1.client.jar",
       "hash": "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26",
-      "size": 481646
+      "size": 481646,
+      "optional": true
     },
     {
       "id": "bettergrass",
@@ -2344,7 +2347,8 @@
       "displayName": "BetterGrassify",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/BetterGrassify-1.7.0%2Bneoforge.1.21.1.client.jar",
       "hash": "2424e74f09e01fdca1d0eb8b5933bc55c8ee4d769b8afd2fca900a0b33ec8f7d",
-      "size": 155305
+      "size": 155305,
+      "optional": true
     },
     {
       "id": "betterpingdisplay",
@@ -2352,7 +2356,8 @@
       "displayName": "Better Ping Display",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/BetterPingDisplay-1.21.1-1.1.client.jar",
       "hash": "f8388de4831ca70f3e94d98d4655278b514f8589234fa92df0d6b2ff1dff321b",
-      "size": 13871
+      "size": 13871,
+      "optional": true
     },
     {
       "id": "bettervillage",
@@ -2392,7 +2397,8 @@
       "displayName": "Chat Heads",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/chat_heads-0.15.1-neoforge-1.21.client.jar",
       "hash": "b1ed6a52efa3cb43e4c37e3982bc7b08116302511b8f675346f6aea6d3524e41",
-      "size": 89272
+      "size": 89272,
+      "optional": true
     },
     {
       "id": "citadel",
@@ -2408,7 +2414,8 @@
       "displayName": "Clean Swing",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/cleanswing-1.9.client.jar",
       "hash": "b86e69372a3451a09c1b5d09d69f2e20485c6d2aa62fa8a538ef77509a5f5595",
-      "size": 8449
+      "size": 8449,
+      "optional": true
     },
     {
       "id": "cloth_config",
@@ -2448,7 +2455,8 @@
       "displayName": "Cobblemon Move Inspector",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/CobblemonMoveInspector-neoforge-1.3.0.client.jar",
       "hash": "9e688281967bdb371a9769d522bb92157f3ebd9b29d6dbd60e5825cec23435be",
-      "size": 26970
+      "size": 26970,
+      "optional": true
     },
     {
       "id": "cobblenav",
@@ -2488,7 +2496,8 @@
       "displayName": "Controlling",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Controlling-neoforge-1.21.1-19.0.5.client.jar",
       "hash": "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0",
-      "size": 77555
+      "size": 77555,
+      "optional": true
     },
     {
       "id": "coolrain",
@@ -2496,7 +2505,8 @@
       "displayName": "Cool Rain",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/coolrain-1.1.0-1.21.1-neoforge.client.jar",
       "hash": "b2b522c98e24630c069602d8650c1eb74a78c043da5ffa77b46594b208d64799",
-      "size": 3127528
+      "size": 3127528,
+      "optional": true
     },
     {
       "id": "corpse",
@@ -2520,7 +2530,8 @@
       "displayName": "Cosy Critters & Creepy Crawlies",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/cosycritters-0.3.2%2B1.21.1-neoforge.client.jar",
       "hash": "141ea3f204c8a8c4a0a4542df0cac4a1ad88cc57ffa50eb207225a3eefd07d6d",
-      "size": 98864
+      "size": 98864,
+      "optional": true
     },
     {
       "id": "cobbled_counter",
@@ -2568,7 +2579,8 @@
       "displayName": "Drip Sounds",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Drip%20Sounds-0.5.2%2B1.21.8-NeoForge.client.jar",
       "hash": "9849e10aa123e7e4f2b53627dedf4d1699837a84045a03396da46a60945c6c2f",
-      "size": 58459
+      "size": 58459,
+      "optional": true
     },
     {
       "id": "dynamic_fps",
@@ -2576,7 +2588,8 @@
       "displayName": "Dynamic FPS",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.client.jar",
       "hash": "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e",
-      "size": 220193
+      "size": 220193,
+      "optional": true
     },
     {
       "id": "eatinganimation",
@@ -2584,7 +2597,8 @@
       "displayName": "Eating Animation",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/eatinganimation-1.21.0-6.0.1.client.jar",
       "hash": "3b222ada8de0cd982b755019cb9ada012d0f8a440fb67f2bdc634c241b7481cb",
-      "size": 289863
+      "size": 289863,
+      "optional": true
     },
     {
       "id": "enchdesc",
@@ -2592,7 +2606,8 @@
       "displayName": "EnchantmentDescriptions",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/enchdesc-neoforge-1.21.1-21.1.9.client.jar",
       "hash": "74d546ecb147da7e2cb53fe3115f6e062094329dcf15639b3da694cc00d3f843",
-      "size": 81847
+      "size": 81847,
+      "optional": true
     },
     {
       "id": "entityculling",
@@ -2600,7 +2615,8 @@
       "displayName": "EntityCulling",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/entityculling-neoforge-1.10.1-mc1.21.1.client.jar",
       "hash": "da2f7c43329b20d9627a6590f8048233c349d5efe78defe57b05eff120ded691",
-      "size": 1578350
+      "size": 1578350,
+      "optional": true
     },
     {
       "id": "envelope",
@@ -2616,7 +2632,8 @@
       "displayName": "Euphoria Patcher",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/EuphoriaPatcher-1.8.6-r5.7.1-neoforge.client.jar",
       "hash": "ed61db7ab3c5d43a404cbe09663d0ce59d7cf9e3a3dd3d0d224afea4b5213efa",
-      "size": 2773488
+      "size": 2773488,
+      "optional": true
     },
     {
       "id": "explorerscompass",
@@ -2656,7 +2673,8 @@
       "displayName": "Fast IP Ping",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.client.jar",
       "hash": "c93500aa25eaa7bc473e753b8abf4234e7c46713d50bb82b30383ee47e646f5a",
-      "size": 10413
+      "size": 10413,
+      "optional": true
     },
     {
       "id": "ferritecore",
@@ -2680,7 +2698,8 @@
       "displayName": "Figura",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/figura-0.1.5%2B1.21.1-neoforge-patched.client.jar",
       "hash": "a2e4e58d2aabc5a3352ef605155f92eb7d617419e24d651806d748f4b5cde3bc",
-      "size": 2189644
+      "size": 2189644,
+      "optional": true
     },
     {
       "id": "fabric_api",
@@ -2736,7 +2755,8 @@
       "displayName": "Gpu memory leak fix",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/gpumemleakfix-1.21-1.8.client.jar",
       "hash": "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931",
-      "size": 6574
+      "size": 6574,
+      "optional": true
     },
     {
       "id": "highlight",
@@ -2744,13 +2764,14 @@
       "displayName": "Highlight",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/highlight-neoforge-1.21.9-3.9.0.client.jar",
       "hash": "473169d0c6c83f893d8f2252f6e9612d44455e412e28c7b7bc7d2d750c1d0ec5",
-      "size": 471520
+      "size": 471520,
+      "optional": true
     },
     {
       "id": "holdmyitemsnf",
-      "name": "mods/holdmyitemsnf-1.21.1v2.1.optional.jar",
+      "name": "mods/holdmyitemsnf-1.21.1v2.1.client.jar",
       "displayName": "HoldMyItems",
-      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/holdmyitemsnf-1.21.1v2.1.optional.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/holdmyitemsnf-1.21.1v2.1.client.jar",
       "hash": "ba638b37b49ff4efbc4eed9408b53abd16c2f2ce6825feea6c24f486c729a2e1",
       "size": 107291,
       "optional": true
@@ -2769,22 +2790,23 @@
       "displayName": "ImmediatelyFast",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/ImmediatelyFast-NeoForge-1.6.10%2B1.21.1.client.jar",
       "hash": "9fbb8dce1bb72feacdc3b75c6fcbf689865ad3793a19649443d76be20993ddd0",
-      "size": 368598
+      "size": 368598,
+      "optional": true
     },
     {
       "id": "immersivehotbar",
-      "name": "mods/immersivehotbar-1.1.1-neoforge-1.21-1.21.1.client.optional.jar",
+      "name": "mods/immersivehotbar-1.1.1-neoforge-1.21-1.21.1.client.jar",
       "displayName": "Immersive Hotbar",
-      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/immersivehotbar-1.1.1-neoforge-1.21-1.21.1.client.optional.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/immersivehotbar-1.1.1-neoforge-1.21-1.21.1.client.jar",
       "hash": "78abac794ef5ffec568d7b97e76d3e581b087dc52369fbedbb859d587c225e01",
       "size": 220747,
       "optional": true
     },
     {
       "id": "immersiveui",
-      "name": "mods/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.client.optional.jar",
+      "name": "mods/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.client.jar",
       "displayName": "ImmersiveUI",
-      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/ImmersiveUI-NEOFORGE-0.3.3%2B1.21.1.client.optional.jar",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/ImmersiveUI-NEOFORGE-0.3.3%2B1.21.1.client.jar",
       "hash": "6b914e305f27962a91d49a659b77eb65f47acee9d79930801b4fc1d3e474c8a4",
       "size": 217081,
       "optional": true
@@ -2795,7 +2817,8 @@
       "displayName": "Inventory Particles",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/InventoryParticles-1.5.0%2B1.21.1%2Bneoforge.client.jar",
       "hash": "86c5675fb522119e26d48dde4a2ed06a58b7f6fa9ad18f71d1a231eebecd0014",
-      "size": 1489097
+      "size": 1489097,
+      "optional": true
     },
     {
       "id": "iris",
@@ -2803,7 +2826,8 @@
       "displayName": "Iris",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/iris-neoforge-1.8.12%2Bmc1.21.1.client.jar",
       "hash": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
-      "size": 2438548
+      "size": 2438548,
+      "optional": true
     },
     {
       "id": "jade",
@@ -2811,7 +2835,8 @@
       "displayName": "Jade",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Jade-1.21.1-NeoForge-15.10.5.client.jar",
       "hash": "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d",
-      "size": 725742
+      "size": 725742,
+      "optional": true
     },
     {
       "id": "jei",
@@ -2907,7 +2932,8 @@
       "displayName": "Mouse Tweaks",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/MouseTweaks-neoforge-mc1.21-2.26.1.client.jar",
       "hash": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b",
-      "size": 73938
+      "size": 73938,
+      "optional": true
     },
     {
       "id": "mru",
@@ -2955,7 +2981,8 @@
       "displayName": "Particle Effects",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/ParticleEffects-1.3.0%2B1.21.1%2Bneoforge.client.jar",
       "hash": "6c3d0a292a4bf1a636e7d819d54f66f05fc786f97f6b7f8a91801ded7fc0cabc",
-      "size": 309063
+      "size": 309063,
+      "optional": true
     },
     {
       "id": "particlerain",
@@ -2963,7 +2990,8 @@
       "displayName": "Particle Rain",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/particlerain-4.0.0-beta.9%2B1.21.1-neoforge.client.jar",
       "hash": "dd886cfd14c6cf1d23aec5d40871fd4b8794e65bc4153a74619e418a1b3165ba",
-      "size": 602187
+      "size": 602187,
+      "optional": true
     },
     {
       "id": "patchouli",
@@ -3019,7 +3047,8 @@
       "displayName": "Polytone",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/polytone-1.21-3.6.6-neoforge.client.jar",
       "hash": "1ead64bea6f61632180ccdd594bf4d9853f5d02ecbc860865d47be1bb1711e0d",
-      "size": 861174
+      "size": 861174,
+      "optional": true
     },
     {
       "id": "presencefootsteps",
@@ -3027,7 +3056,8 @@
       "displayName": "Presence Footsteps (NeoForge)",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.client.jar",
       "hash": "ded9ea8677f407cbf280b0ee33866ae70859a7c476ef0f60fd35a9be2ee9b91a",
-      "size": 7096988
+      "size": 7096988,
+      "optional": true
     },
     {
       "id": "prickle",
@@ -3051,7 +3081,8 @@
       "displayName": "pv-addon-soundphysics",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/pv-addon-soundphysics-1.1.2.client.jar",
       "hash": "cd7af450fbc5612674149476b8142392a8040f3961c222c653ecfd6f13f81615",
-      "size": 16176
+      "size": 16176,
+      "optional": true
     },
     {
       "id": "quark",
@@ -3083,7 +3114,8 @@
       "displayName": "Resourcify",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Resourcify%20(1.21.1-neoforge)-1.8.1.client.jar",
       "hash": "b159a2ac63a369eeace652ff305391ed6d4c14fc51e13bcc6b8a7dc2ae8691b6",
-      "size": 2586268
+      "size": 2586268,
+      "optional": true
     },
     {
       "id": "rhino",
@@ -3123,7 +3155,8 @@
       "displayName": "Searchables",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Searchables-neoforge-1.21.1-1.0.2.client.jar",
       "hash": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68",
-      "size": 77326
+      "size": 77326,
+      "optional": true
     },
     {
       "id": "sodium_extra",
@@ -3131,7 +3164,8 @@
       "displayName": "Sodium Extra",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/sodium-extra-neoforge-0.6.0%2Bmc1.21.1.client.jar",
       "hash": "c20fe1a554916cde5dd0ac72ba2b82ed04263026d4394ac51be6f7a300902443",
-      "size": 367047
+      "size": 367047,
+      "optional": true
     },
     {
       "id": "sodium",
@@ -3139,7 +3173,8 @@
       "displayName": "Sodium",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/sodium-neoforge-0.6.13%2Bmc1.21.1.client.jar",
       "hash": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
-      "size": 1162994
+      "size": 1162994,
+      "optional": true
     },
     {
       "id": "sophisticatedbackpacks",
@@ -3171,7 +3206,8 @@
       "displayName": "Sound Physics Remastered",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.client.jar",
       "hash": "65372ad64422a20f03ad6e39aabaa827c191abbe9be5c35631acc3a8105fe177",
-      "size": 202454
+      "size": 202454,
+      "optional": true
     },
     {
       "id": "sounds",
@@ -3179,7 +3215,8 @@
       "displayName": "Sounds",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/sounds-2.4.22%2Blts%2B1.21.1-neoforge.client.jar",
       "hash": "d3bda0a7a5b1f267747da182e788139da380f625eaf96a5c2a8fa5bcb8d908b7",
-      "size": 8732437
+      "size": 8732437,
+      "optional": true
     },
     {
       "id": "spark",
@@ -3203,7 +3240,8 @@
       "displayName": "Subtle Effects",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/SubtleEffects-neoforge-1.21.1-1.14.3.client.jar",
       "hash": "78fd24ecaadee01746ecc4cf598284923e762e25964311e86a67aa30cd3c2b67",
-      "size": 3306773
+      "size": 3306773,
+      "optional": true
     },
     {
       "id": "supplementaries",
@@ -3259,7 +3297,8 @@
       "displayName": "Raw's Visual Keybinder",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/visual_keybinder-1.21.1-0.1.12-neoforge.client.jar",
       "hash": "031e1df515952a1ffe6eb4c165faf469f22518bf80d505ddbb64703ae4a93986",
-      "size": 347038
+      "size": 347038,
+      "optional": true
     },
     {
       "id": "visuality",
@@ -3267,7 +3306,8 @@
       "displayName": "Visuality: Reforged",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/visuality-forge-2.1.0.client.jar",
       "hash": "f4c134d3041e9e6626276a26d2864f3aed177c08c8a109cd3788c5470c28d02e",
-      "size": 115765
+      "size": 115765,
+      "optional": true
     },
     {
       "id": "yeetusexperimentus",
@@ -3275,7 +3315,8 @@
       "displayName": "Yeetus Experimentus",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/yeetusexperimentus-neoforge-87.0.0.client.jar",
       "hash": "9117db8b5905abf18f64fdf8f8d8ca5a91c23abd0a7fa2c9986c21aa17d74e75",
-      "size": 570057
+      "size": 570057,
+      "optional": true
     },
     {
       "id": "yet_another_config_lib_v3",
