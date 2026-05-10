@@ -56,7 +56,9 @@ export async function synchronize(
     // Find missing and changed files (in local, but not remote, or hash differs)
     for (const [name, hash] of localMap.entries()) {
       if (!remoteMap.has(name) || remoteMap.get(name) !== hash) {
-        toUpload.push(name);
+        const mappedName = name //
+          .replace("defaultconfigs/", "config/")
+        toUpload.push(mappedName);
       }
     }
 

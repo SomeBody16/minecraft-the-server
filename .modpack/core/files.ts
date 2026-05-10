@@ -40,7 +40,7 @@ export const manifestServerFiles = (include: string[]): ServerFile[] => {
       return {
         id,
         hash: stats.hash,
-        name: name.replace("defaultconfigs/", "config/"),
+        name,
       };
     })
     .sort((a, b) => a.name.toLowerCase().localeCompare(b.name.toLowerCase()));
