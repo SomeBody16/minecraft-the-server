@@ -2,7 +2,7 @@
   "name": "Minecraft THE Pokemon",
   "serverIp": "minecraft-the-server.spot.gs",
   "version": {
-    "modpack": "be9b708f8bc739a0a701d80207d24e702073da54bbf74039ab6788a052699957",
+    "modpack": "632eff3b866c860e7fd2e0002d45c5d6fda352fb3b9eff59c9423d4c5933c4ae",
     "minecraft": "1.21.1",
     "modloader": {
       "name": "neoforge",
@@ -1691,6 +1691,14 @@
       "size": 276
     },
     {
+      "id": "sable-common.toml",
+      "name": "defaultconfigs/sable-common.toml",
+      "displayName": "sable-common.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/main/defaultconfigs/sable-common.toml",
+      "hash": "6d533ca99e196b28d478138601325f67bc66882e47a27d82bb1a22ff8ccfe470",
+      "size": 1840
+    },
+    {
       "id": "scholar-client.toml",
       "name": "defaultconfigs/scholar-client.toml",
       "displayName": "scholar-client.toml",
@@ -3138,8 +3146,8 @@
       "name": "mods/sable-neoforge-1.21.1-1.2.2.jar",
       "displayName": "Sable",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/main/mods/sable-neoforge-1.21.1-1.2.2.jar",
-      "hash": "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8",
-      "size": 12719293
+      "hash": "6cb8e8d54fd8bbbb155a47e04a7f033d77fee53deab294c30ba15ddadc43233a",
+      "size": 12721302
     },
     {
       "id": "scholar",
