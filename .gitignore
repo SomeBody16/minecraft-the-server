@@ -25,3 +25,5 @@
 # Node / Yarn
 .yarn/
 node_modules/
+.env
+.env*

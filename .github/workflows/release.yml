@@ -1,0 +1,61 @@
+name: Release
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  generate-and-commit:
+    name: Generate manifest
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          lfs: true
+
+      - name: Setup mise
+        uses: jdx/mise-action@v2
+        with:
+          install_args: node yarn
+
+      - name: Install dependencies
+        run: yarn install --immutable
+
+      - name: Regenerate Manifest
+        run: yarn manifest
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-update manifests [skip ci]"
+          file_pattern: manifest.json manifest.server.json
+
+  release:
+    name: Release to Server
+    needs: generate-and-commit
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          lfs: true
+
+      - name: Setup mise
+        uses: jdx/mise-action@v2
+        with:
+          install_args: node yarn
+
+      - name: Install dependencies
+        run: yarn install --immutable
+
+      - name: Release
+        env:
+          SFTP_HOST: ${{ secrets.SFTP_HOST }}
+          SFTP_PORT: ${{ secrets.SFTP_PORT }}
+          SFTP_USER: ${{ secrets.SFTP_USER }}
+          SFTP_PASS: ${{ secrets.SFTP_PASS }}
+        run: mise release

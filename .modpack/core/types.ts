@@ -21,3 +21,12 @@ export type File = {
   size: number;
   optional: boolean | undefined;
 };
+
+export type ManifestServer = {
+  files: ServerFile[];
+};
+
+export type ServerFile = {
+  name: string;
+  hash: string;
+};

@@ -1,16 +1,16 @@
-import fs from "fs";
-import { globSync } from "glob";
 import crypto from 'crypto';
+import fs from 'fs';
+import { globSync } from 'glob';
 
-import { File } from "./types";
-import path from "path";
-import AdmZip from "adm-zip";
-import * as toml from "js-toml";
+import AdmZip from 'adm-zip';
+import * as toml from 'js-toml';
+import path from 'path';
+import { File, ServerFile } from './types';
 
 export const manifestFiles = (include: string[]): File[] => {
   return globSync(include)
     .filter((file) => fs.statSync(file).isFile())
-    .filter((file) => !file.endsWith(".disabled"))
+    .filter((file) => !file.endsWith('.disabled'))
     .map((file) => {
       const stats = getFileStatsNormalized(file);
       const { id, name, displayName } = getFileMetadata(file);
@@ -21,7 +21,26 @@ export const manifestFiles = (include: string[]): File[] => {
         url: githubRawFileDownloadUrl({ name }),
         hash: stats.hash,
         size: stats.size,
-        optional: file.includes(".client.") ? true : undefined,
+        optional: file.includes('.client.') ? true : undefined,
+      };
+    })
+    .sort((a, b) => a.name.toLowerCase().localeCompare(b.name.toLowerCase()));
+};
+
+export const manifestServerFiles = (include: string[]): ServerFile[] => {
+  return globSync(include)
+    .filter((file) => fs.statSync(file).isFile())
+    .filter((file) => !file.endsWith('.disabled'))
+    .filter((file) => !file.includes('.client.'))
+    .filter((file) => !file.includes('resourcepacks'))
+    .filter((file) => !file.includes('shaderpacks'))
+    .map((file) => {
+      const stats = getFileStatsNormalized(file);
+      const { id, name } = getFileMetadata(file);
+      return {
+        id,
+        hash: stats.hash,
+        name,
       };
     })
     .sort((a, b) => a.name.toLowerCase().localeCompare(b.name.toLowerCase()));
@@ -32,15 +51,15 @@ function getFileMetadata(filePath: string): { id: string; name: string; displayN
     id: path.basename(filePath),
     name: path.normalize(filePath).replaceAll(path.sep, path.posix.sep),
     displayName: path.basename(filePath),
-  }
+  };
 
-  if (!filePath.endsWith(".jar")) {
+  if (!filePath.endsWith('.jar')) {
     return defaultData;
   }
-  
+
   try {
     const jar = new AdmZip(filePath);
-    const metadata: any = toml.load(jar.readAsText("META-INF/neoforge.mods.toml"));
+    const metadata: any = toml.load(jar.readAsText('META-INF/neoforge.mods.toml'));
     return {
       id: metadata?.mods?.[0]?.modId || defaultData.id,
       name: defaultData.name,
@@ -71,9 +90,9 @@ function githubRawFileDownloadUrl(options: {
  */
 function encodeGithubPathSegments(relPath: string): string {
   return relPath
-    .split("/")
+    .split('/')
     .map((segment) => encodeURIComponent(segment))
-    .join("/");
+    .join('/');
 }
 
 function getFileStatsNormalized(filePath: string) {
@@ -84,12 +103,12 @@ function getFileStatsNormalized(filePath: string) {
 
   if (isTextFile) {
     // Convert buffer to string, remove all Windows \r characters, convert back to buffer
-    const normalizedContent = fileBuffer.toString("utf8").replace(/\r\n/g, "\n");
-    fileBuffer = Buffer.from(normalizedContent, "utf8");
+    const normalizedContent = fileBuffer.toString('utf8').replace(/\r\n/g, '\n');
+    fileBuffer = Buffer.from(normalizedContent, 'utf8');
   }
 
   return {
-    hash: crypto.createHash("sha256").update(fileBuffer).digest("hex"),
+    hash: crypto.createHash('sha256').update(fileBuffer).digest('hex'),
     size: fileBuffer.length,
   };
 }

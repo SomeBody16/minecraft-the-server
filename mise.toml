@@ -3,8 +3,14 @@ dprint = "latest"
 node = "lts"
 yarn = "latest"
 
+[env]
+_.file = ".env"
+
 [tasks.format]
 run = "dprint fmt"
 
 [tasks.check]
 run = "dprint check"
+
+[tasks.release]
+run = "npx tsx scripts/release.ts"
