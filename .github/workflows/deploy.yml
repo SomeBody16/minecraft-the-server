@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+      - deploy
+  workflow_dispatch:
 
 jobs:
   web-deploy:
@@ -14,9 +16,10 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          lfs: true
 
       - name: 📂 Sync `defaultconfigs`
-        uses: milanmk/actions-file-deployer@1.18
+        uses: milanmk/actions-file-deployer@master
         with:
           remote-protocol: sftp
           remote-host: ${{ secrets.SFTP_IP }}
@@ -27,7 +30,7 @@ jobs:
           remote-path: ./config
 
       - name: 📂 Sync `config`
-        uses: milanmk/actions-file-deployer@1.18
+        uses: milanmk/actions-file-deployer@master
         with:
           remote-protocol: sftp
           remote-host: ${{ secrets.SFTP_IP }}
@@ -40,7 +43,7 @@ jobs:
             paxi/resourcepacks/**
 
       - name: 📂 Sync `kubejs`
-        uses: milanmk/actions-file-deployer@1.18
+        uses: milanmk/actions-file-deployer@master
         with:
           remote-protocol: sftp
           remote-host: ${{ secrets.SFTP_IP }}
@@ -51,7 +54,7 @@ jobs:
           remote-path: ./kubejs
 
       - name: 📂 Sync `mods`
-        uses: milanmk/actions-file-deployer@1.18
+        uses: milanmk/actions-file-deployer@master
         with:
           remote-protocol: sftp
           remote-host: ${{ secrets.SFTP_IP }}
