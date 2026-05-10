@@ -13,6 +13,7 @@ export type Manifest = {
 };
 
 export type File = {
+  id: string;
   name: string;
   hash: string;
   size: number;

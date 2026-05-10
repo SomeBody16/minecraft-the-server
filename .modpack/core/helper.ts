@@ -1,5 +1,8 @@
 import crypto from 'crypto';
 import fs from 'fs';
+import path from 'path';
+import AdmZip from 'adm-zip';
+import * as toml from "js-toml";
 
 export function hashString(data: string) {
   return crypto.createHash('sha256').update(data).digest('hex');
@@ -31,4 +34,20 @@ export function getFileStatsNormalized(filePath: string) {
     hash: crypto.createHash("sha256").update(fileBuffer).digest("hex"),
     size: fileBuffer.length,
   };
+}
+
+export function getFileId(filePath: string) {
+  const defaultId = path.basename(filePath);
+  if (!filePath.endsWith(".jar")) {
+    return defaultId;
+  }
+
+  try {
+    const jar = new AdmZip(filePath);
+    const metadata: any = toml.load(jar.readAsText("META-INF/neoforge.mods.toml"));
+    return metadata.mods[0].modId || defaultId;
+  } catch (error) {
+    console.log(`Error getting file id for ${filePath}`);
+    return defaultId;
+  }
 }

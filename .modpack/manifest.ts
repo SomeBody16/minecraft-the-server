@@ -1,7 +1,7 @@
 import fs from "fs";
 import {globSync} from "glob";
 
-import { Manifest, File, hashFile, hashString, getFileStatsNormalized } from "./core";
+import { Manifest, File, hashString, getFileStatsNormalized, getFileId } from "./core";
 import { config } from "./config";
 import path from "path";
 
@@ -11,6 +11,7 @@ const files: File[] = globSync(config.include)
     const lfs = config.lfs.some((regex) => regex.test(file));
     const stats = getFileStatsNormalized(file);
     return {
+      id: getFileId(file),
       name: path.normalize(file).replaceAll(path.sep, path.posix.sep),
       hash: stats.hash,
       size: stats.size,

@@ -5,6 +5,55 @@ __metadata:
   version: 9
   cacheKey: 10c0
 
+"@babel/runtime-corejs3@npm:^7.26.9":
+  version: 7.29.2
+  resolution: "@babel/runtime-corejs3@npm:7.29.2"
+  dependencies:
+    core-js-pure: "npm:^3.48.0"
+  checksum: 10c0/24a9de8b592cf67fbe62c36c002a0da8c0456079a0543646a40e2b1b0838e7712f5ff49e9551624395ccd67a409c63e7c638b23e3bebbfdf54e373b1c707ebff
+  languageName: node
+  linkType: hard
+
+"@chevrotain/cst-dts-gen@npm:12.0.0":
+  version: 12.0.0
+  resolution: "@chevrotain/cst-dts-gen@npm:12.0.0"
+  dependencies:
+    "@chevrotain/gast": "npm:12.0.0"
+    "@chevrotain/types": "npm:12.0.0"
+  checksum: 10c0/bc79319baafbbf77b5d58539d1456e57ede160266a47d4a7bb75716d288dfef7fe2646224f4e2fb296afc0ca1cd57d28e469f82738e9f08e022c292aff2047db
+  languageName: node
+  linkType: hard
+
+"@chevrotain/gast@npm:12.0.0":
+  version: 12.0.0
+  resolution: "@chevrotain/gast@npm:12.0.0"
+  dependencies:
+    "@chevrotain/types": "npm:12.0.0"
+  checksum: 10c0/699f8757b910ee577b9cd955f2bde794ffae1c1faad57ac8040a06c5d1c42b56109f43d32f0b69eb1b56b9c189a32fa3b2b1da5d86ed4fa7c76dc9717a7f3a6b
+  languageName: node
+  linkType: hard
+
+"@chevrotain/regexp-to-ast@npm:12.0.0":
+  version: 12.0.0
+  resolution: "@chevrotain/regexp-to-ast@npm:12.0.0"
+  checksum: 10c0/5cfc68b0cb63cb88281b40660f618555d70feb52b61af1e492862468fa1a0e80c61e84e3ba459431126c889e53f99a8aba4044297e7490a579a67bbe66d5d45e
+  languageName: node
+  linkType: hard
+
+"@chevrotain/types@npm:12.0.0":
+  version: 12.0.0
+  resolution: "@chevrotain/types@npm:12.0.0"
+  checksum: 10c0/8f62dbc49117f6347f35f6fb5dcd5a94ce974b3c8503d4e90c1af7b24523992da1e82afb3a4ab0f450b22adfebbd39c7621c26a3734a639daaf15f0e661f43dc
+  languageName: node
+  linkType: hard
+
+"@chevrotain/utils@npm:12.0.0":
+  version: 12.0.0
+  resolution: "@chevrotain/utils@npm:12.0.0"
+  checksum: 10c0/7bbbbe5256411bbea374a9b2aabe4fb1a69303bcdcfa613aba205d309c24967eb1f567a41a7a6a772ea23e9f1f10dbb533aad6de6218b7f7c14d8395a8ec1473
+  languageName: node
+  linkType: hard
+
 "@esbuild/aix-ppc64@npm:0.27.7":
   version: 0.27.7
   resolution: "@esbuild/aix-ppc64@npm:0.27.7"
@@ -196,6 +245,24 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/adm-zip@npm:^0.5.8":
+  version: 0.5.8
+  resolution: "@types/adm-zip@npm:0.5.8"
+  dependencies:
+    "@types/node": "npm:*"
+  checksum: 10c0/64d0f3a3e8c1546a7a6685726b3342100a4329e530e643b06107919668688b21db717aa35bf0df11454dce6f63968b6f412482de8a4dd2466664b19289f660f7
+  languageName: node
+  linkType: hard
+
+"@types/node@npm:*":
+  version: 25.6.2
+  resolution: "@types/node@npm:25.6.2"
+  dependencies:
+    undici-types: "npm:~7.19.0"
+  checksum: 10c0/7f540331aa3ab88c285aeaf2eb43e3992f54f0cdb7f3593d156af67b199d4eaf56590fa1c310a00aa58ff69dba668cb3915a157fe83cd6b40a73bb338a12f09a
+  languageName: node
+  linkType: hard
+
 "@types/node@npm:^25.6.0":
   version: 25.6.0
   resolution: "@types/node@npm:25.6.0"
@@ -209,6 +276,13 @@ __metadata:
   version: 4.0.0
   resolution: "abbrev@npm:4.0.0"
   checksum: 10c0/b4cc16935235e80702fc90192e349e32f8ef0ed151ef506aa78c81a7c455ec18375c4125414b99f84b2e055199d66383e787675f0bcd87da7a4dbd59f9eac1d5
+  languageName: node
+  linkType: hard
+
+"adm-zip@npm:^0.5.17":
+  version: 0.5.17
+  resolution: "adm-zip@npm:0.5.17"
+  checksum: 10c0/29b8f2a1070fc540ad9a45b13d0ceffd141d78e5a4501f102e978f0256f8290326009ccd3411213e90f3a810c830b39453548638879b3295ddc3814c20a8307b
   languageName: node
   linkType: hard
 
@@ -228,10 +302,30 @@ __metadata:
   languageName: node
   linkType: hard
 
+"chevrotain@npm:^12.0.0":
+  version: 12.0.0
+  resolution: "chevrotain@npm:12.0.0"
+  dependencies:
+    "@chevrotain/cst-dts-gen": "npm:12.0.0"
+    "@chevrotain/gast": "npm:12.0.0"
+    "@chevrotain/regexp-to-ast": "npm:12.0.0"
+    "@chevrotain/types": "npm:12.0.0"
+    "@chevrotain/utils": "npm:12.0.0"
+  checksum: 10c0/c7bf530f59baae21cc7535406addfbb9ea373d89bb4ea1b874d89e7debd232c9bdf60aa5af236fcc0e12a68ea8f88a6638ffbccaadb829a7b300f98d1429c38d
+  languageName: node
+  linkType: hard
+
 "chownr@npm:^3.0.0":
   version: 3.0.0
   resolution: "chownr@npm:3.0.0"
   checksum: 10c0/43925b87700f7e3893296c8e9c56cc58f926411cce3a6e5898136daaf08f08b9a8eb76d37d3267e707d0dcc17aed2e2ebdf5848c0c3ce95cf910a919935c1b10
+  languageName: node
+  linkType: hard
+
+"core-js-pure@npm:^3.48.0":
+  version: 3.49.0
+  resolution: "core-js-pure@npm:3.49.0"
+  checksum: 10c0/b4580a57b917d0bf1029356b1a60abf0f9b99562b67bf39c01485d58891f23603459ed71bde1d7f75c0a9a346829d8c281b255c525fb119726341364c513e82e
   languageName: node
   linkType: hard
 
@@ -403,6 +497,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"js-toml@npm:^1.1.0":
+  version: 1.1.0
+  resolution: "js-toml@npm:1.1.0"
+  dependencies:
+    chevrotain: "npm:^12.0.0"
+    xregexp: "npm:^5.1.2"
+  checksum: 10c0/2b811a7dbbf3a5c836e166c4820b2376a6c4368a727a03324ec7688717fdd5f6f69fc166ed7b2c4f34c19e683a3a4a2e3dfaf1436d4f55e9fe6da4c0dfa29384
+  languageName: node
+  linkType: hard
+
 "lru-cache@npm:^11.0.0":
   version: 11.3.5
   resolution: "lru-cache@npm:11.3.5"
@@ -414,8 +518,11 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "minecraft-the-server@workspace:."
   dependencies:
+    "@types/adm-zip": "npm:^0.5.8"
     "@types/node": "npm:^25.6.0"
+    adm-zip: "npm:^0.5.17"
     glob: "npm:^13.0.6"
+    js-toml: "npm:^1.1.0"
     tsx: "npm:^4.21.0"
   languageName: unknown
   linkType: soft
@@ -577,6 +684,15 @@ __metadata:
   bin:
     node-which: bin/which.js
   checksum: 10c0/7e710e54ea36d2d6183bee2f9caa27a3b47b9baf8dee55a199b736fcf85eab3b9df7556fca3d02b50af7f3dfba5ea3a45644189836df06267df457e354da66d5
+  languageName: node
+  linkType: hard
+
+"xregexp@npm:^5.1.2":
+  version: 5.1.2
+  resolution: "xregexp@npm:5.1.2"
+  dependencies:
+    "@babel/runtime-corejs3": "npm:^7.26.9"
+  checksum: 10c0/0b1d4fd6d3811066adf07f9ad27d9cf3f21c1542e8c4142355e67fdc2ba52ce23a6752020430ea24299007582b968cacc674be3bb76a937f0ef28ba9f7b41377
   languageName: node
   linkType: hard
 
