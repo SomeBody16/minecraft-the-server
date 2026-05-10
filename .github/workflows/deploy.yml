@@ -1,0 +1,64 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  web-deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🚚 Get latest code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 📂 Sync `defaultconfigs`
+        uses: milanmk/actions-file-deployer@1.18
+        with:
+          remote-protocol: sftp
+          remote-host: ${{ secrets.SFTP_IP }}
+          remote-port: ${{ secrets.SFTP_PORT }}
+          remote-user: ${{ secrets.SFTP_LOGIN }}
+          remote-password: ${{ secrets.SFTP_PASSWORD }}
+          local-path: ./defaultconfigs
+          remote-path: ./config
+
+      - name: 📂 Sync `config`
+        uses: milanmk/actions-file-deployer@1.18
+        with:
+          remote-protocol: sftp
+          remote-host: ${{ secrets.SFTP_IP }}
+          remote-port: ${{ secrets.SFTP_PORT }}
+          remote-user: ${{ secrets.SFTP_LOGIN }}
+          remote-password: ${{ secrets.SFTP_PASSWORD }}
+          local-path: ./config
+          remote-path: ./config
+          sync-delta-excludes: |
+            paxi/resourcepacks/**
+
+      - name: 📂 Sync `kubejs`
+        uses: milanmk/actions-file-deployer@1.18
+        with:
+          remote-protocol: sftp
+          remote-host: ${{ secrets.SFTP_IP }}
+          remote-port: ${{ secrets.SFTP_PORT }}
+          remote-user: ${{ secrets.SFTP_LOGIN }}
+          remote-password: ${{ secrets.SFTP_PASSWORD }}
+          local-path: ./kubejs
+          remote-path: ./kubejs
+
+      - name: 📂 Sync `mods`
+        uses: milanmk/actions-file-deployer@1.18
+        with:
+          remote-protocol: sftp
+          remote-host: ${{ secrets.SFTP_IP }}
+          remote-port: ${{ secrets.SFTP_PORT }}
+          remote-user: ${{ secrets.SFTP_LOGIN }}
+          remote-password: ${{ secrets.SFTP_PASSWORD }}
+          local-path: ./mods
+          remote-path: ./mods
+          sync-delta-excludes: |
+            *.client.jar

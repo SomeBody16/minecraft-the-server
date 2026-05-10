@@ -1,0 +1,27 @@
+# Minecraft
+/.mixin.out/
+/.neoforge/
+/.pg-native/
+/assets/
+/crash-reports/
+/data/
+/downloads/
+/dynamic-resource-pack-cache/
+/figura/
+/game/
+/libraries/
+/local/
+/logs/
+/natives/
+/runtime/
+/runtimes/
+/tools/
+/showdown/
+/versions/
+
+/options.txt
+/patchouli_data.json
+
+# Node / Yarn
+.yarn/
+node_modules/

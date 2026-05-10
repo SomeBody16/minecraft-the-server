@@ -1,0 +1,9 @@
+modEnabled = true
+flashingEnabled = true
+despawnAge = 6000
+urgentFlashing = true
+flashStartTime = 15
+flashSpeed = 75
+disappearTime = 40
+defaultItemShadowOpacity = 75
+disappearItemShadowOpacity = 0
