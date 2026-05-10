@@ -2,7 +2,7 @@
   "name": "Minecraft THE Pokemon",
   "serverIp": "minecraft-the-server.spot.gs",
   "version": {
-    "modpack": "5d78bf677f222693060d146afd1895ced90bfcc4fa541600b1419b109a43ceb2",
+    "modpack": "5f59d7252fc4d4b5999bb08274e5062695f4877f9e2b52f01115653cddaba85d",
     "minecraft": "1.21.1",
     "modloader": {
       "name": "neoforge",
@@ -39,8 +39,8 @@
       "name": "config/paxi/datapacks/vanilla_only_advancements/pack.mcmeta",
       "displayName": "pack.mcmeta",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/deploy/config/paxi/datapacks/vanilla_only_advancements/pack.mcmeta",
-      "hash": "b6521ac327afd49859fd4ed46b38c30ff0ef1f657973d6a38e53ff0b26018a93",
-      "size": 250
+      "hash": "b7fa43c51c18ead7c1202153b7abb709605fec6146b534bdb0eb9509b0835260",
+      "size": 236
     },
     {
       "id": "VanillaTweaks_d185723_UNZIP_ME.zip",
