@@ -2,7 +2,7 @@
   "name": "Minecraft THE Pokemon",
   "serverIp": "minecraft-the-server.spot.gs",
   "version": {
-    "modpack": "b175cc9576f4dc8f84d1f017b7813d8a7080adad0e5f8a4ec05fc29668dd24d2",
+    "modpack": "ffc3cc7052ad7fadbc4121a292a38c7aba66ad39291a23b80179bf2437c17673",
     "minecraft": "1.21.1",
     "modloader": {
       "name": "neoforge",
@@ -1992,994 +1992,994 @@
       "size": 1272
     },
     {
-      "id": "accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
+      "id": "accessories",
       "name": "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/accessories-neoforge-1.1.0-beta.53%2B1.21.1.jar",
-      "hash": "5a4a530ca21c24c832238d1bc25529456b5bfd62381395d0053f0e47a4f71723",
-      "size": 132
+      "hash": "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0",
+      "size": 1078697
     },
     {
-      "id": "amendments-1.21-2.0.15-neoforge.jar",
+      "id": "amendments",
       "name": "mods/amendments-1.21-2.0.15-neoforge.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/amendments-1.21-2.0.15-neoforge.jar",
-      "hash": "1eac21c3c835e6c49c9d4ac2622ea0116d36d52c290b58c10426ea704021ef44",
-      "size": 132
+      "hash": "e44e67d5c2eb5a73ee8ca3d1e9099ed20ccbf8167022bc407df8434b1bf362b5",
+      "size": 1143659
     },
     {
-      "id": "appleskin-neoforge-mc1.21-3.0.9.client.jar",
+      "id": "appleskin",
       "name": "mods/appleskin-neoforge-mc1.21-3.0.9.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/appleskin-neoforge-mc1.21-3.0.9.client.jar",
-      "hash": "6d743f2bf9f1972fc34cb53eacd9e44c589c22aa0fc9e58d08fe4756c4734d48",
-      "size": 130
+      "hash": "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df",
+      "size": 75804
     },
     {
-      "id": "architectury-13.0.8-neoforge.jar",
+      "id": "architectury",
       "name": "mods/architectury-13.0.8-neoforge.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/architectury-13.0.8-neoforge.jar",
-      "hash": "0345ac3cee0f75e474b7afdd80e1bbb923b3d43413f664d8c901b6c92b95c982",
-      "size": 131
+      "hash": "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee",
+      "size": 584004
     },
     {
-      "id": "areas-1.21.1-6.1.jar",
+      "id": "areas",
       "name": "mods/areas-1.21.1-6.1.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/areas-1.21.1-6.1.jar",
-      "hash": "45629cfc679fb1ef811db2517d9bb28fb31478d1b056eb83adeae6433139e1e2",
-      "size": 131
+      "hash": "b2811412171a7f0686fcf262916e5294bebc60a4781f63eca4b3619dd1ddf136",
+      "size": 106034
     },
     {
-      "id": "astikorcartsredux-1.2.2.jar",
+      "id": "astikorcartsredux",
       "name": "mods/astikorcartsredux-1.2.2.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/astikorcartsredux-1.2.2.jar",
-      "hash": "2c71186f35dbace624b2a98d4c51beeb138291f41ff05a7120c3347be1bfd60a",
-      "size": 131
+      "hash": "44b2db02a6699481d212f0fa0a766b52776650396fa67951a428ad32b2d7dc24",
+      "size": 531765
     },
     {
-      "id": "better-clouds-1.7.20-alpha+1.21.1-neoforge.rev.4c611d9.client.jar",
+      "id": "betterclouds",
       "name": "mods/better-clouds-1.7.20-alpha+1.21.1-neoforge.rev.4c611d9.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/better-clouds-1.7.20-alpha%2B1.21.1-neoforge.rev.4c611d9.client.jar",
-      "hash": "c67b4a06a15ba5ee595e75bce76e7d66ac9fa5ec5f2fd9cee84657649daabc0e",
-      "size": 131
+      "hash": "d80ea189bb859ce12dd702803c35512a39c707ca7211a84abba3341362e77534",
+      "size": 790657
     },
     {
-      "id": "BetterF3-11.0.3-NeoForge-1.21.1.client.jar",
+      "id": "betterf3",
       "name": "mods/BetterF3-11.0.3-NeoForge-1.21.1.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/BetterF3-11.0.3-NeoForge-1.21.1.client.jar",
-      "hash": "2c7a482d4c41e587de115e11ed4f9f33d1fd6e246bd0f9ac9db64883e9f9cef4",
-      "size": 131
+      "hash": "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26",
+      "size": 481646
     },
     {
-      "id": "BetterGrassify-1.7.0+neoforge.1.21.1.client.jar",
+      "id": "bettergrass",
       "name": "mods/BetterGrassify-1.7.0+neoforge.1.21.1.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/BetterGrassify-1.7.0%2Bneoforge.1.21.1.client.jar",
-      "hash": "91b2bdb16868b1d55015db01125738533838c47529935ddc3b5064c6bdf6cfd6",
-      "size": 131
+      "hash": "2424e74f09e01fdca1d0eb8b5933bc55c8ee4d769b8afd2fca900a0b33ec8f7d",
+      "size": 155305
     },
     {
-      "id": "BetterPingDisplay-1.21.1-1.1.client.jar",
+      "id": "betterpingdisplay",
       "name": "mods/BetterPingDisplay-1.21.1-1.1.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/BetterPingDisplay-1.21.1-1.1.client.jar",
-      "hash": "e02008124cb6af36d920d22df0f7d432cca32d0da43170e0d82a7fd5a9afc7c9",
-      "size": 130
+      "hash": "f8388de4831ca70f3e94d98d4655278b514f8589234fa92df0d6b2ff1dff321b",
+      "size": 13871
     },
     {
-      "id": "bettervillage-neoforge-1.21.1-3.3.1.jar",
+      "id": "bettervillage",
       "name": "mods/bettervillage-neoforge-1.21.1-3.3.1.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/bettervillage-neoforge-1.21.1-3.3.1.jar",
-      "hash": "be63ceb3e15f677cbe7ac86e5a3e60abd60fa1d852dc86a7cc6817d2bc78d9cb",
-      "size": 132
+      "hash": "d2b5cbad0070c977f5b5be973219481e9d0f56224eedca9c874be7c655890a3b",
+      "size": 2429558
     },
     {
-      "id": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "id": "bookshelf",
       "name": "mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
-      "hash": "4fcb55de9a14e76c324109840860b641700ab20ec015765366495bf11472a2d6",
-      "size": 131
+      "hash": "19e88d40da2b6a114c2b808f7fb469d96e66a5379df0a8a43fcb7834498b3e76",
+      "size": 328813
     },
     {
-      "id": "chalk-1.6.11.jar",
+      "id": "chalk",
       "name": "mods/chalk-1.6.11.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/chalk-1.6.11.jar",
-      "hash": "da2060b87784825605788b5e9485dd78d3ce664260deaedf3228ca64dcd5bf52",
-      "size": 131
+      "hash": "1dcf17baa4b14bd189b045500bd3f41714089b0b36e20326298072e15ae4b1ab",
+      "size": 336981
     },
     {
-      "id": "charmofundying-neoforge-9.1.0+1.21.1.jar",
+      "id": "charmofundying",
       "name": "mods/charmofundying-neoforge-9.1.0+1.21.1.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/charmofundying-neoforge-9.1.0%2B1.21.1.jar",
-      "hash": "9c9f63a885cd29b73d3bdda44a61e1db9a3dafee71771d8a1ee86d4550e3f390",
-      "size": 131
+      "hash": "361bb87bb0cd0881ab5d1f469595c26c49992d4ed965f2631015135d61f515d1",
+      "size": 178369
     },
     {
-      "id": "chat_heads-0.15.1-neoforge-1.21.client.jar",
+      "id": "chat_heads",
       "name": "mods/chat_heads-0.15.1-neoforge-1.21.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/chat_heads-0.15.1-neoforge-1.21.client.jar",
-      "hash": "4ad4f1f3c4973a825106825b3994051783c22300b0d6c2be900564d74e3d0874",
-      "size": 130
+      "hash": "b1ed6a52efa3cb43e4c37e3982bc7b08116302511b8f675346f6aea6d3524e41",
+      "size": 89272
     },
     {
-      "id": "citadel-1.21.1-2.7.5.jar",
+      "id": "citadel",
       "name": "mods/citadel-1.21.1-2.7.5.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/citadel-1.21.1-2.7.5.jar",
-      "hash": "71b2f738ad49a15e7e9115a0f11a0723cc72d6af5818b8afb0f9909df32bee93",
-      "size": 132
+      "hash": "6abf9492db59c0dc1f38e884710f2352bf55e1cb2ceb919c62aac4fabb1de6b8",
+      "size": 3029054
     },
     {
-      "id": "cleanswing-1.9.client.jar",
+      "id": "cleanswing",
       "name": "mods/cleanswing-1.9.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/cleanswing-1.9.client.jar",
-      "hash": "4c37f334d37cf3a76dc57d861692ecc1c0114ff52b16a729a67192e88206f5c2",
-      "size": 129
+      "hash": "b86e69372a3451a09c1b5d09d69f2e20485c6d2aa62fa8a538ef77509a5f5595",
+      "size": 8449
     },
     {
-      "id": "cloth-config-15.0.140-neoforge.jar",
+      "id": "cloth_config",
       "name": "mods/cloth-config-15.0.140-neoforge.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/cloth-config-15.0.140-neoforge.jar",
-      "hash": "347ad080c17a606e19d3727fd1739becfa1e5d07686935fb05bda2d79cc4c1ec",
-      "size": 132
+      "hash": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
+      "size": 1163890
     },
     {
-      "id": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "id": "clumps",
       "name": "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
-      "hash": "bf7c1be21adbec89a842c62f4aacb4f29d062de60523777aa8df69a64fc26f0f",
-      "size": 130
+      "hash": "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e",
+      "size": 18382
     },
     {
-      "id": "Cobblemon-neoforge-1.7.3+1.21.1.jar",
+      "id": "cobblemon",
       "name": "mods/Cobblemon-neoforge-1.7.3+1.21.1.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Cobblemon-neoforge-1.7.3%2B1.21.1.jar",
-      "hash": "5546f651207929bbd9f7d0d1958eb7e9db664f58f65fa0305d16e64512caeb0c",
-      "size": 134
+      "hash": "962d75df4fb649d94863a7a7d130d4d2b3de4da9b3cae4c44b1ce90f37ec0ed5",
+      "size": 128748941
     },
     {
-      "id": "cobblemonintegrations-neoforge-1.21.1-1.1.6.jar",
+      "id": "cobblemonintegrations",
       "name": "mods/cobblemonintegrations-neoforge-1.21.1-1.1.6.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/cobblemonintegrations-neoforge-1.21.1-1.1.6.jar",
-      "hash": "6d63ff0653562252b164ad0c235a6a71e0b1693f1aa84720b7bb8fd7b032a1a8",
-      "size": 131
+      "hash": "d331a93ac3a53f43c4881516db24bff3756beb38c8b8da6d24957ed65a4d645a",
+      "size": 366734
     },
     {
-      "id": "CobblemonMoveInspector-neoforge-1.3.0.client.jar",
+      "id": "cobblemon_move_inspector",
       "name": "mods/CobblemonMoveInspector-neoforge-1.3.0.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/CobblemonMoveInspector-neoforge-1.3.0.client.jar",
-      "hash": "a443013e0b17e1346e9a409dc2e34e674c06b4960ea531222c5685b2af562c0d",
-      "size": 130
+      "hash": "9e688281967bdb371a9769d522bb92157f3ebd9b29d6dbd60e5825cec23435be",
+      "size": 26970
     },
     {
-      "id": "cobblenav-neoforge-2.3.3.jar",
+      "id": "cobblenav",
       "name": "mods/cobblenav-neoforge-2.3.3.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/cobblenav-neoforge-2.3.3.jar",
-      "hash": "1c356a3c9b676119a7165f08ef707fbcb335fbdc4c076a6c998c6f653cfc90a8",
-      "size": 132
+      "hash": "d186ffa602aa7ee0f36eb73d34eb6801ab5095ec037de506a9af2d7172b08571",
+      "size": 1098652
     },
     {
-      "id": "Cobblepedia-NeoForge-0.7.1.jar",
+      "id": "cobblepedia",
       "name": "mods/Cobblepedia-NeoForge-0.7.1.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Cobblepedia-NeoForge-0.7.1.jar",
-      "hash": "373d3ba61fb4fc74205fa3fc2377768f62684dc4016f189cf1c1d2905135e957",
-      "size": 132
+      "hash": "d978d6223e46c23e2d812235b89d2bf8c297b8155c13640a1de7a503484c996e",
+      "size": 8276599
     },
     {
-      "id": "collective-1.21.1-8.20.jar",
+      "id": "collective",
       "name": "mods/collective-1.21.1-8.20.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/collective-1.21.1-8.20.jar",
-      "hash": "39a31237176f30ded805938b07b86c3abb16f56e7334b52661cc1182a32fab62",
-      "size": 131
+      "hash": "cf192da39ba0d02a151a324b22c073a194dc177c789ec287a357152b7eedce9e",
+      "size": 942780
     },
     {
-      "id": "connectivity-1.21.1-7.6.jar",
+      "id": "connectivity",
       "name": "mods/connectivity-1.21.1-7.6.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/connectivity-1.21.1-7.6.jar",
-      "hash": "f3a3237e26a9d21b6beef612d26b4261a653a564828d5be975eb53961b9a35a0",
-      "size": 131
+      "hash": "2366973ddae5ba00b9ba15a26e5b610a6648038b9f2549bf81b9ae61342b281a",
+      "size": 114165
     },
     {
-      "id": "Controlling-neoforge-1.21.1-19.0.5.client.jar",
+      "id": "controlling",
       "name": "mods/Controlling-neoforge-1.21.1-19.0.5.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Controlling-neoforge-1.21.1-19.0.5.client.jar",
-      "hash": "20581a9d46ebc8febdebd992cc0628948e75e3b0c916744a9291de111c4dc1eb",
-      "size": 130
+      "hash": "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0",
+      "size": 77555
     },
     {
-      "id": "coolrain-1.1.0-1.21.1-neoforge.client.jar",
+      "id": "coolrain",
       "name": "mods/coolrain-1.1.0-1.21.1-neoforge.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/coolrain-1.1.0-1.21.1-neoforge.client.jar",
-      "hash": "3d7216456bcb617d30d06a65ea625fa2bd282997f0fdfff08225ebe72803de84",
-      "size": 132
+      "hash": "b2b522c98e24630c069602d8650c1eb74a78c043da5ffa77b46594b208d64799",
+      "size": 3127528
     },
     {
-      "id": "corpse-neoforge-1.21.1-1.1.13.jar",
+      "id": "corpse",
       "name": "mods/corpse-neoforge-1.21.1-1.1.13.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/corpse-neoforge-1.21.1-1.1.13.jar",
-      "hash": "ebabb929388190843a4856bfc1091561f62dc86b05e9eddaaf830539b68ad813",
-      "size": 131
+      "hash": "f61e750eb2cb49867483d34d6630e02597a52e41680fc38d1c65ece4ef36fd2b",
+      "size": 253695
     },
     {
-      "id": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "id": "cosmeticarmorreworked",
       "name": "mods/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
-      "hash": "a6f4e0135688f370bed7ae206f2cdc26ea338a1414fd91c36a65e223d991c1c3",
-      "size": 130
+      "hash": "6328049755735159c55f5918ac301cff53a8d8790c3fe63e32e7d8a0e37f123f",
+      "size": 92722
     },
     {
-      "id": "cosycritters-0.3.2+1.21.1-neoforge.client.jar",
+      "id": "cosycritters",
       "name": "mods/cosycritters-0.3.2+1.21.1-neoforge.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/cosycritters-0.3.2%2B1.21.1-neoforge.client.jar",
-      "hash": "ec1dba5789026b5abc2b19eb33850e14f4bcee490dd657d25e5199ff9293d933",
-      "size": 130
+      "hash": "141ea3f204c8a8c4a0a4542df0cac4a1ad88cc57ffa50eb207225a3eefd07d6d",
+      "size": 98864
     },
     {
-      "id": "counter-neoforge-1.7.3-1.9.0.jar",
+      "id": "cobbled_counter",
       "name": "mods/counter-neoforge-1.7.3-1.9.0.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/counter-neoforge-1.7.3-1.9.0.jar",
-      "hash": "826b5a1e764aced12cb11c030056c43d0b9ceb2fe6541bc57ef4cde56e8661fb",
-      "size": 131
+      "hash": "a8def8af633cb2540e64fe0b86628473a55929cae39f5af9a13fa2da1f375d38",
+      "size": 165401
     },
     {
-      "id": "cupboard-1.21-3.5.jar",
+      "id": "cupboard",
       "name": "mods/cupboard-1.21-3.5.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/cupboard-1.21-3.5.jar",
-      "hash": "8a07316f079e4ec7e5256f3ba4ea6720144b68da7e50cced81824a0eb6154cbe",
-      "size": 130
+      "hash": "d27298b67d74d6c95bdf1869bd60f49cfb93f33e6f14a0393be144584649c7db",
+      "size": 26659
     },
     {
-      "id": "curios-neoforge-9.5.1+1.21.1.jar",
+      "id": "curios",
       "name": "mods/curios-neoforge-9.5.1+1.21.1.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/curios-neoforge-9.5.1%2B1.21.1.jar",
-      "hash": "6a1d93a1f63181bdcb5b3df8ff68a1bfedef032de0c3b406eacc20916d7cb4dd",
-      "size": 131
+      "hash": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
+      "size": 410690
     },
     {
-      "id": "Data_Anchor-neoforge-1.21.1-2.0.0.13.jar",
+      "id": "dataanchor",
       "name": "mods/Data_Anchor-neoforge-1.21.1-2.0.0.13.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Data_Anchor-neoforge-1.21.1-2.0.0.13.jar",
-      "hash": "d155a0fca91a02148bf1f6ef8a14e3be7ac144d939ed7b7b21b564bbc57e7b06",
-      "size": 131
+      "hash": "84d0fea1e051913a6cd9656fb63692313f1748d06221e453911ec1a22940262e",
+      "size": 111722
     },
     {
-      "id": "DistantHorizons-3.0.2-b-1.21.1-fabric-neoforge.jar",
+      "id": "distanthorizons",
       "name": "mods/DistantHorizons-3.0.2-b-1.21.1-fabric-neoforge.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/DistantHorizons-3.0.2-b-1.21.1-fabric-neoforge.jar",
-      "hash": "1494155d6a1b1cc71703e2dcf538115ac2e3064d80ba71e6bab1df2bac6ce91a",
-      "size": 133
+      "hash": "ffe8da15ac4deedcf1eb306b0a49d6f5ba1a8385d0119bf1475e5c358f16f855",
+      "size": 30019727
     },
     {
-      "id": "Drip Sounds-0.5.2+1.21.8-NeoForge.client.jar",
+      "id": "waterdripsound",
       "name": "mods/Drip Sounds-0.5.2+1.21.8-NeoForge.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Drip%20Sounds-0.5.2%2B1.21.8-NeoForge.client.jar",
-      "hash": "acc7342e6d1b65ec0f1ddd0f7044cc676a2fd471eb117ad71bf3592e973e4659",
-      "size": 130
+      "hash": "9849e10aa123e7e4f2b53627dedf4d1699837a84045a03396da46a60945c6c2f",
+      "size": 58459
     },
     {
-      "id": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.client.jar",
+      "id": "dynamic_fps",
       "name": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.client.jar",
-      "hash": "46e991549b13a81d60d29760dd62b9af070b54b806305ab144b6daefc42cef02",
-      "size": 131
+      "hash": "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e",
+      "size": 220193
     },
     {
-      "id": "eatinganimation-1.21.0-6.0.1.client.jar",
+      "id": "eatinganimation",
       "name": "mods/eatinganimation-1.21.0-6.0.1.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/eatinganimation-1.21.0-6.0.1.client.jar",
-      "hash": "12ef134540fc5dc9e50507bbdd710eb2157da5ebe22c849231b833fbd5def9a2",
-      "size": 131
+      "hash": "3b222ada8de0cd982b755019cb9ada012d0f8a440fb67f2bdc634c241b7481cb",
+      "size": 289863
     },
     {
-      "id": "enchdesc-neoforge-1.21.1-21.1.9.client.jar",
+      "id": "enchdesc",
       "name": "mods/enchdesc-neoforge-1.21.1-21.1.9.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/enchdesc-neoforge-1.21.1-21.1.9.client.jar",
-      "hash": "70fff04767df0ce1796a804acc17c2d3e912bcaf462506986b0b7c6891bf7dc5",
-      "size": 130
+      "hash": "74d546ecb147da7e2cb53fe3115f6e062094329dcf15639b3da694cc00d3f843",
+      "size": 81847
     },
     {
-      "id": "entityculling-neoforge-1.10.1-mc1.21.1.client.jar",
+      "id": "entityculling",
       "name": "mods/entityculling-neoforge-1.10.1-mc1.21.1.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/entityculling-neoforge-1.10.1-mc1.21.1.client.jar",
-      "hash": "65cfc642b15103d2cb6c701f440f503c59162fcac0325fcb641b18c6e2eed369",
-      "size": 132
+      "hash": "da2f7c43329b20d9627a6590f8048233c349d5efe78defe57b05eff120ded691",
+      "size": 1578350
     },
     {
-      "id": "envelope-neoforge-1.21.1-0.6.0.jar",
+      "id": "envelope",
       "name": "mods/envelope-neoforge-1.21.1-0.6.0.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/envelope-neoforge-1.21.1-0.6.0.jar",
-      "hash": "47fbd9925efc843d9bb2a7511b0956118678d08fecd8e831db18314bd4025b71",
-      "size": 132
+      "hash": "ac639a3591f95d3bdd41e38dadc95a41ac7dac7045991abc8a38771e4132d529",
+      "size": 1580646
     },
     {
-      "id": "EuphoriaPatcher-1.8.6-r5.7.1-neoforge.client.jar",
+      "id": "euphoria_patcher",
       "name": "mods/EuphoriaPatcher-1.8.6-r5.7.1-neoforge.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/EuphoriaPatcher-1.8.6-r5.7.1-neoforge.client.jar",
-      "hash": "e4757de0bd52bc233cb1c73f276e59809dc084f997fb0d755189f7cbf3a46fd6",
-      "size": 132
+      "hash": "ed61db7ab3c5d43a404cbe09663d0ce59d7cf9e3a3dd3d0d224afea4b5213efa",
+      "size": 2773488
     },
     {
-      "id": "ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+      "id": "explorerscompass",
       "name": "mods/ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
-      "hash": "7506c64d6d61f8cf8028f85f4bade3fa08f27b6382daf91d875e9e00e1cf079f",
-      "size": 131
+      "hash": "71e7b47bd88c9c210d7c06fe5276736fc2e225e869778216537d584e6d1faf24",
+      "size": 174668
     },
     {
-      "id": "exposure_polaroid-neoforge-1.21.1-1.1.3.jar",
+      "id": "exposure_polaroid",
       "name": "mods/exposure_polaroid-neoforge-1.21.1-1.1.3.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/exposure_polaroid-neoforge-1.21.1-1.1.3.jar",
-      "hash": "64d8dc5121179c1f8fe3f434b3c3c1c4e8289c67ee95018040bc16101d8e0b27",
-      "size": 131
+      "hash": "87d75cae0f258454c9f74e2e99e937853c617a98e42b2342bcf725c38a06e2c6",
+      "size": 359578
     },
     {
-      "id": "exposure-neoforge-1.21.1-1.9.16.jar",
+      "id": "exposure",
       "name": "mods/exposure-neoforge-1.21.1-1.9.16.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/exposure-neoforge-1.21.1-1.9.16.jar",
-      "hash": "b84933b8681dd006099d7e4a870ed0fb661ddf827f7cf2e52a04d380964cf626",
-      "size": 132
+      "hash": "c4adfe346094cf4ce0008c98bf0d20d7c96b9291b3cd31ff2234495eaca2bb58",
+      "size": 2189912
     },
     {
-      "id": "FarmersDelight-1.21.1-1.3.1.jar",
+      "id": "farmersdelight",
       "name": "mods/FarmersDelight-1.21.1-1.3.1.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/FarmersDelight-1.21.1-1.3.1.jar",
-      "hash": "b74f46120c665f68b834fde2bf1978202c81134fa8fe5698e0550ecc10eefb6e",
-      "size": 132
+      "hash": "f02ffbf597af17d481b930daeed4b5906d6a6fddb464d392f28f42560965f4f4",
+      "size": 3124506
     },
     {
-      "id": "fast-ip-ping-v1.0.11-mc1.21.1-neoforge.client.jar",
+      "id": "fastipping",
       "name": "mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.client.jar",
-      "hash": "0ed1c836a108404e193b59f87f76c70c1c597c882537d2a42834bd9c07093d74",
-      "size": 130
+      "hash": "c93500aa25eaa7bc473e753b8abf4234e7c46713d50bb82b30383ee47e646f5a",
+      "size": 10413
     },
     {
-      "id": "ferritecore-7.0.3-neoforge.jar",
+      "id": "ferritecore",
       "name": "mods/ferritecore-7.0.3-neoforge.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/ferritecore-7.0.3-neoforge.jar",
-      "hash": "088265381b3b20dc2bac1583feb9fcc3907bc7272dbcfdeba448fe8d2897b3f0",
-      "size": 131
+      "hash": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8",
+      "size": 121559
     },
     {
-      "id": "fightorflight-neoforge-0.10.7.jar",
+      "id": "fightorflight",
       "name": "mods/fightorflight-neoforge-0.10.7.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/fightorflight-neoforge-0.10.7.jar",
-      "hash": "0466f7e481b9d566fac9f554839d7aedce22135de6e8f5a487ee2f6cfbfab491",
-      "size": 132
+      "hash": "f1b3e1fba0e5a801d582a919de8af225a0ae3a657516da26ac40d0baca0bd489",
+      "size": 1418105
     },
     {
-      "id": "figura-0.1.5+1.21.1-neoforge-patched.client.jar",
+      "id": "figura",
       "name": "mods/figura-0.1.5+1.21.1-neoforge-patched.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/figura-0.1.5%2B1.21.1-neoforge-patched.client.jar",
-      "hash": "efab135745e98927cdca90f04d15ffa71d4ae2f9915329d9df6fe6995f2b7d97",
-      "size": 132
+      "hash": "a2e4e58d2aabc5a3352ef605155f92eb7d617419e24d651806d748f4b5cde3bc",
+      "size": 2189644
     },
     {
-      "id": "forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
+      "id": "fabric_api",
       "name": "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/forgified-fabric-api-0.116.7%2B2.2.4%2B1.21.1.jar",
-      "hash": "64d3adb42d10c866974ef76fe92f10e40728e0b49444a28be38d9d6e834dca71",
-      "size": 132
+      "hash": "19867adeb1b5c0e79510b7fd2d6213a59949c9277b96a1c76a04a22211ad6d15",
+      "size": 5569717
     },
     {
-      "id": "fzzy_config-0.7.6+1.21+neoforge.jar",
+      "id": "fzzy_config",
       "name": "mods/fzzy_config-0.7.6+1.21+neoforge.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar",
-      "hash": "30b992825fc32ca81fde46cd631b7355357b5007edbcbc0a0fdffe024b62e24a",
-      "size": 132
+      "hash": "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050",
+      "size": 2369895
     },
     {
-      "id": "geckolib-neoforge-1.21.1-4.8.4.jar",
+      "id": "geckolib",
       "name": "mods/geckolib-neoforge-1.21.1-4.8.4.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/geckolib-neoforge-1.21.1-4.8.4.jar",
-      "hash": "57898a02f00f9e339e7040c4062fb5621e89c84e6cde33e78baf2134249b6dff",
-      "size": 131
+      "hash": "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9",
+      "size": 622582
     },
     {
-      "id": "Geophilic v3.4.6.mod.jar",
+      "id": "geophilic",
       "name": "mods/Geophilic v3.4.6.mod.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Geophilic%20v3.4.6.mod.jar",
-      "hash": "d2ee5416f64ab1b4447c5b03cb37428a57d7dd69322aa1c5c4884169fcf45a99",
-      "size": 131
+      "hash": "6da4e3e8691d2a950685601af3a24269137496a5aa37ce423d070aa5f69f0da6",
+      "size": 751598
     },
     {
-      "id": "GeophilicBackported-v1.3.2 1.21.1.jar",
+      "id": "geophilic_backport",
       "name": "mods/GeophilicBackported-v1.3.2 1.21.1.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/GeophilicBackported-v1.3.2%201.21.1.jar",
-      "hash": "17aee7e02db5bfbe87cb516b6121d40725d0f59e04a5b75aebba4372f9fbf6b2",
-      "size": 130
+      "hash": "9a19917119cfb3501aa49ddfb9319b0e625cdaad1c8fc471f5ce7b43802015d8",
+      "size": 87564
     },
     {
-      "id": "gml-6.0.2.jar",
+      "id": "gml",
       "name": "mods/gml-6.0.2.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/gml-6.0.2.jar",
-      "hash": "92bb36022912168b2ae9156841acfc2b904366f2ff166b4840c30d8dfe43a5eb",
-      "size": 133
+      "hash": "c508464433fc7739c1aa6a7208c5dbf2c02038fe9813f98187b3fb10e457d2bd",
+      "size": 10981280
     },
     {
-      "id": "gpumemleakfix-1.21-1.8.client.jar",
+      "id": "gpumemleakfix",
       "name": "mods/gpumemleakfix-1.21-1.8.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/gpumemleakfix-1.21-1.8.client.jar",
-      "hash": "f5a96777399664fa819ffe16d27ee1660d193e57e142e9cc7431eddc9e6897ff",
-      "size": 129
+      "hash": "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931",
+      "size": 6574
     },
     {
-      "id": "highlight-neoforge-1.21.9-3.9.0.client.jar",
+      "id": "highlight",
       "name": "mods/highlight-neoforge-1.21.9-3.9.0.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/highlight-neoforge-1.21.9-3.9.0.client.jar",
-      "hash": "c72d653e73ca5b599b6fd420803f4571f75ada70ac5703aedf47fb0b7a111c22",
-      "size": 131
+      "hash": "473169d0c6c83f893d8f2252f6e9612d44455e412e28c7b7bc7d2d750c1d0ec5",
+      "size": 471520
     },
     {
-      "id": "holdmyitemsnf-1.21.1v2.1.optional.jar",
+      "id": "holdmyitemsnf",
       "name": "mods/holdmyitemsnf-1.21.1v2.1.optional.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/holdmyitemsnf-1.21.1v2.1.optional.jar",
-      "hash": "5aa90d9d7e18143ad934bd1340cbbc5194ad7f5f10a9cb84a964c60aa83b2707",
-      "size": 131,
+      "hash": "ba638b37b49ff4efbc4eed9408b53abd16c2f2ce6825feea6c24f486c729a2e1",
+      "size": 107291,
       "optional": true
     },
     {
-      "id": "horseman-neoforge-1.21.1-1.5.9.jar",
+      "id": "horseman",
       "name": "mods/horseman-neoforge-1.21.1-1.5.9.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/horseman-neoforge-1.21.1-1.5.9.jar",
-      "hash": "aaac759dfbe7c725a72f212f4a6db5da96095a54ae5f2373e800dbab59043865",
-      "size": 131
+      "hash": "6ead0d129ee4a40acec31d569572ec18db3f08a15ce73df66ce7694e2b251266",
+      "size": 445058
     },
     {
-      "id": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.client.jar",
+      "id": "immediatelyfast",
       "name": "mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/ImmediatelyFast-NeoForge-1.6.10%2B1.21.1.client.jar",
-      "hash": "ce99f0c665422bd1c51e900804790f24ec46e5c8c61f2da428e887faa3f84c75",
-      "size": 131
+      "hash": "9fbb8dce1bb72feacdc3b75c6fcbf689865ad3793a19649443d76be20993ddd0",
+      "size": 368598
     },
     {
-      "id": "immersivehotbar-1.1.1-neoforge-1.21-1.21.1.client.optional.jar",
+      "id": "immersivehotbar",
       "name": "mods/immersivehotbar-1.1.1-neoforge-1.21-1.21.1.client.optional.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/immersivehotbar-1.1.1-neoforge-1.21-1.21.1.client.optional.jar",
-      "hash": "085dff8b9f360649fbf538ba2d323c38eb466d453fb98924f863c82a81d6256a",
-      "size": 131,
+      "hash": "78abac794ef5ffec568d7b97e76d3e581b087dc52369fbedbb859d587c225e01",
+      "size": 220747,
       "optional": true
     },
     {
-      "id": "ImmersiveUI-NEOFORGE-0.3.3+1.21.1.client.optional.jar",
+      "id": "immersiveui",
       "name": "mods/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.client.optional.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/ImmersiveUI-NEOFORGE-0.3.3%2B1.21.1.client.optional.jar",
-      "hash": "342d6f23cd0f5c43c3f91e34b6e87be6c6f3bd6edc5249557cc7f81c9a375abb",
-      "size": 131,
+      "hash": "6b914e305f27962a91d49a659b77eb65f47acee9d79930801b4fc1d3e474c8a4",
+      "size": 217081,
       "optional": true
     },
     {
-      "id": "InventoryParticles-1.5.0+1.21.1+neoforge.client.jar",
+      "id": "inventory_particles",
       "name": "mods/InventoryParticles-1.5.0+1.21.1+neoforge.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/InventoryParticles-1.5.0%2B1.21.1%2Bneoforge.client.jar",
-      "hash": "006810469a2331b259853acc03331c59b4365ab425f0607de1f597fc3bdb2d18",
-      "size": 132
+      "hash": "86c5675fb522119e26d48dde4a2ed06a58b7f6fa9ad18f71d1a231eebecd0014",
+      "size": 1489097
     },
     {
-      "id": "iris-neoforge-1.8.12+mc1.21.1.client.jar",
+      "id": "iris",
       "name": "mods/iris-neoforge-1.8.12+mc1.21.1.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/iris-neoforge-1.8.12%2Bmc1.21.1.client.jar",
-      "hash": "8c5be3407ffe72967c126df25290e162c190bff0a824f4fac9efcce4aef23956",
-      "size": 132
+      "hash": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
+      "size": 2438548
     },
     {
-      "id": "Jade-1.21.1-NeoForge-15.10.5.client.jar",
+      "id": "jade",
       "name": "mods/Jade-1.21.1-NeoForge-15.10.5.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Jade-1.21.1-NeoForge-15.10.5.client.jar",
-      "hash": "2a56fbbada51a9492218516b6b0c024ea363ab60e1a3739fdc2d5c1b28f8903d",
-      "size": 131
+      "hash": "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d",
+      "size": 725742
     },
     {
-      "id": "jei-1.21.1-neoforge-19.27.0.336.jar",
+      "id": "jei",
       "name": "mods/jei-1.21.1-neoforge-19.27.0.336.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/jei-1.21.1-neoforge-19.27.0.336.jar",
-      "hash": "998def2f7354108277c666ebfae7003444387d711f6059d25cb334e74bb59f57",
-      "size": 132
+      "hash": "2b6d84df11ab2bb94a75be8bac6790bfbb2c0112a1622cd5f5f234468a196721",
+      "size": 1529192
     },
     {
       "id": "kotlinforforge-5.11.0-all.jar",
       "name": "mods/kotlinforforge-5.11.0-all.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/kotlinforforge-5.11.0-all.jar",
-      "hash": "a68290cd186603bfb251220a1040c6b753b06fe5d072a6d87689e6ad058c1fd2",
-      "size": 132
+      "hash": "89d2ccd9d2ca2996ca3ee57b27165893f4bc4b8431be89461f8b2f8fe6162ac1",
+      "size": 6869790
     },
     {
-      "id": "kubejs-neoforge-2101.7.2-build.361.jar",
+      "id": "kubejs",
       "name": "mods/kubejs-neoforge-2101.7.2-build.361.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/kubejs-neoforge-2101.7.2-build.361.jar",
-      "hash": "e54e11b04dff3c15bb860df8f8d243504340e5b7946577580e19993019f7202d",
-      "size": 132
+      "hash": "73509a9668bf2e5dfd24b21b95e2ae0d8c4bd3c051444e8f453c1c3a1ccabd42",
+      "size": 2270421
     },
     {
-      "id": "libjf-3.17.4+forge.jar",
+      "id": "libjf",
       "name": "mods/libjf-3.17.4+forge.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/libjf-3.17.4%2Bforge.jar",
-      "hash": "4fd4484ce0c1b923afb070850f4cb7b5e33b09521e39365d6cb81847e6192a82",
-      "size": 131
+      "hash": "6c77dab50125f819fe5d4107fa481cf6074c8d935aa608fc7f7e7f67e103a6cc",
+      "size": 730989
     },
     {
-      "id": "libraryferret-neoforge-1.21.1-4.0.0.jar",
+      "id": "libraryferret",
       "name": "mods/libraryferret-neoforge-1.21.1-4.0.0.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/libraryferret-neoforge-1.21.1-4.0.0.jar",
-      "hash": "9b5be8a15c6fa1def6fdc9f2299da09c2202c0d83a4c5fc0ed4aa0af261dabfe",
-      "size": 131
+      "hash": "b0e9aed25266ad91e66bda1067c0d5cd531c0853af2ade17d70f972751e74f63",
+      "size": 139416
     },
     {
-      "id": "lithium-neoforge-0.15.3+mc1.21.1.jar",
+      "id": "lithium",
       "name": "mods/lithium-neoforge-0.15.3+mc1.21.1.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/lithium-neoforge-0.15.3%2Bmc1.21.1.jar",
-      "hash": "6dc2e4529a98825f798137d6aab088ce58039bb2b036595b400bd963cb62e953",
-      "size": 131
+      "hash": "a6548862bd13ff8eea6747cf61df50c8374a16a22d067614e414ed600eee6d83",
+      "size": 774148
     },
     {
-      "id": "mechtrowel-1.3.1.jar",
+      "id": "mechtrowel",
       "name": "mods/mechtrowel-1.3.1.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/mechtrowel-1.3.1.jar",
-      "hash": "4c7912fe4948b658f84cb4e03d5aa3ec385acbbd52a816a494a091e782426489",
-      "size": 131
+      "hash": "29f5b561373f3123ee7f548c3811ad71e1d7e55de4d8977a1f049700c480f7e7",
+      "size": 497230
     },
     {
-      "id": "mega_showdown-neoforge-1.8.2+1.7.3+1.21.1-hotfix.jar",
+      "id": "mega_showdown",
       "name": "mods/mega_showdown-neoforge-1.8.2+1.7.3+1.21.1-hotfix.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/mega_showdown-neoforge-1.8.2%2B1.7.3%2B1.21.1-hotfix.jar",
-      "hash": "9d72c6f08a32673105a6cd0f02dd97f608de856ecf7108c6bcbd25e2cc7bafbb",
-      "size": 133
+      "hash": "9b7c5a47abc28521737a4773d5b42d6d710c1898740b9cb4708c870aaf9e9366",
+      "size": 17146214
     },
     {
-      "id": "midnightlib-neoforge-1.9.2+1.21.1.jar",
+      "id": "midnightlib",
       "name": "mods/midnightlib-neoforge-1.9.2+1.21.1.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/midnightlib-neoforge-1.9.2%2B1.21.1.jar",
-      "hash": "c9dd4ece1741978cd2a1fc1ec8e7d45230cf5b6108f4381b030ba4d0f1d15729",
-      "size": 130
+      "hash": "adb29c10b3bdc2fd1a1cb8f4cbeb0280f7d15af1a76ee3074d2db1eec7fe28e7",
+      "size": 60347
     },
     {
-      "id": "moonlight-1.21-2.29.33-neoforge.jar",
+      "id": "moonlight",
       "name": "mods/moonlight-1.21-2.29.33-neoforge.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/moonlight-1.21-2.29.33-neoforge.jar",
-      "hash": "041e9481ebf0b284cb59cc37d94e9a20a0d66ab2441f60127589c128d3100f92",
-      "size": 132
+      "hash": "47759081ab26271fed829f17abe1a8aa8ac1a17a111acb3b9255749e35e00f7a",
+      "size": 1596760
     },
     {
-      "id": "MossyLib-1.1.0+1.21.1+neoforge.jar",
+      "id": "mossylib",
       "name": "mods/MossyLib-1.1.0+1.21.1+neoforge.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/MossyLib-1.1.0%2B1.21.1%2Bneoforge.jar",
-      "hash": "abdacfb6343f9b31beac9fb7160e04357283a34385eb80dadf7eba99a5493294",
-      "size": 131
+      "hash": "11c31dd3cfa404f2209106ca90960a1f1e6d4cbca91c5f38631b53c85f7c37db",
+      "size": 178015
     },
     {
-      "id": "MouseTweaks-neoforge-mc1.21-2.26.1.client.jar",
+      "id": "mousetweaks",
       "name": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/MouseTweaks-neoforge-mc1.21-2.26.1.client.jar",
-      "hash": "bd7cb0010de4a168c87b068e70cbcf87abc55524902e5edff35e18bd59fe5f95",
-      "size": 130
+      "hash": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b",
+      "size": 73938
     },
     {
-      "id": "mru-1.0.19+LTS+1.21.1+neoforge.jar",
+      "id": "mru",
       "name": "mods/mru-1.0.19+LTS+1.21.1+neoforge.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/mru-1.0.19%2BLTS%2B1.21.1%2Bneoforge.jar",
-      "hash": "34b82e6da78f986f4c6dc0566c84206dc89d3a4107ec81f185d6737e25c3e54f",
-      "size": 131
+      "hash": "ed025100de31f5635d48a5a0cc4bc9c701d885bf3777e0c2ad8af5f2cad4601a",
+      "size": 243953
     },
     {
-      "id": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "id": "naturescompass",
       "name": "mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
-      "hash": "885b25e6a8febb58ddcf9d570dab63eaabff75cc09c261d319d8cdac553162fa",
-      "size": 131
+      "hash": "0e249ac11b2f916c5570d9679e188da652fa5664ba9cdb7be5dc9ff69497539c",
+      "size": 224657
     },
     {
-      "id": "NotEnoughTrials-1.21-v5.0.jar",
+      "id": "notenoughtrials",
       "name": "mods/NotEnoughTrials-1.21-v5.0.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/NotEnoughTrials-1.21-v5.0.jar",
-      "hash": "a6b29f1275ec8d4f61ba086f4027c4f9e15fe614c5d107c1692f41546f3bfb8f",
-      "size": 132
+      "hash": "7034734a694254025bab6e55b46cb4e1f679debddb8c0ecd7e5e7627be4318fd",
+      "size": 4812498
     },
     {
-      "id": "OctoLib-NEOFORGE-0.6.1+1.21.jar",
+      "id": "octolib",
       "name": "mods/OctoLib-NEOFORGE-0.6.1+1.21.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/OctoLib-NEOFORGE-0.6.1%2B1.21.jar",
-      "hash": "12e4385de9616dedc442f4e8b744012ac26052b3e5469fba5742e4fccba79b52",
-      "size": 131
+      "hash": "77e0a87cf7ab158ce7cbd69dc0fa1e0bf871841d8ddc078b4fbcfecd570d7581",
+      "size": 540285
     },
     {
-      "id": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "id": "owo",
       "name": "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar",
-      "hash": "94dc93032b4649eeae19925b04c95dca372d38697f3c1f0d03e2700093bd21d0",
-      "size": 132
+      "hash": "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d",
+      "size": 1221583
     },
     {
-      "id": "ParticleEffects-1.3.0+1.21.1+neoforge.client.jar",
+      "id": "particle_effects",
       "name": "mods/ParticleEffects-1.3.0+1.21.1+neoforge.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/ParticleEffects-1.3.0%2B1.21.1%2Bneoforge.client.jar",
-      "hash": "9dc820989b4b24c7d810728ee0fd1cd3133782ee80df9c80b7a15e842cabbe54",
-      "size": 131
+      "hash": "6c3d0a292a4bf1a636e7d819d54f66f05fc786f97f6b7f8a91801ded7fc0cabc",
+      "size": 309063
     },
     {
-      "id": "particlerain-4.0.0-beta.9+1.21.1-neoforge.client.jar",
+      "id": "particlerain",
       "name": "mods/particlerain-4.0.0-beta.9+1.21.1-neoforge.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/particlerain-4.0.0-beta.9%2B1.21.1-neoforge.client.jar",
-      "hash": "a5ac08ddb16e056bdfe40b14fabae05972afee56e95a4d17389d1be7681ba21d",
-      "size": 131
+      "hash": "dd886cfd14c6cf1d23aec5d40871fd4b8794e65bc4153a74619e418a1b3165ba",
+      "size": 602187
     },
     {
-      "id": "Patchouli-1.21.1-93-NEOFORGE.jar",
+      "id": "patchouli",
       "name": "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Patchouli-1.21.1-93-NEOFORGE.jar",
-      "hash": "9874dfa8e172d5be1bce94e635547e4089b18ded749309498718da1a003174bf",
-      "size": 131
+      "hash": "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993",
+      "size": 646777
     },
     {
-      "id": "Paxi-1.21.1-NeoForge-5.1.3.jar",
+      "id": "paxi",
       "name": "mods/Paxi-1.21.1-NeoForge-5.1.3.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Paxi-1.21.1-NeoForge-5.1.3.jar",
-      "hash": "5bf97dffa3c7f3308dbdde220d76a72d461e5ccbee7b15613a2496e7622cb7cd",
-      "size": 131
+      "hash": "4b60f8eb3b8b8880eff7c3ac825cde84394848eac3915ed61ade607cdd331ce7",
+      "size": 102980
     },
     {
-      "id": "Perception-NEOFORGE-0.2.1+1.21.1.jar",
+      "id": "perception",
       "name": "mods/Perception-NEOFORGE-0.2.1+1.21.1.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Perception-NEOFORGE-0.2.1%2B1.21.1.jar",
-      "hash": "aa0bc603cdba50617049e919fb2bd66d4f1294d32f1c6f1c3951f7a53961f217",
-      "size": 130
+      "hash": "e9e6b126fdc2cab3deda2f15ebd20c7492aa620ebfd1f5af9095db4e63277df5",
+      "size": 78664
     },
     {
-      "id": "plasmovoice-neoforge-1.21.1-2.1.9.jar",
+      "id": "plasmovoice",
       "name": "mods/plasmovoice-neoforge-1.21.1-2.1.9.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/plasmovoice-neoforge-1.21.1-2.1.9.jar",
-      "hash": "a31de0003b14455ada6258f36e2704055e66235e0739a011a6e698b26c6bd853",
-      "size": 133
+      "hash": "6210d2521b57de6da40ba2a1a7914f192fe3d1585d8f303b521652c76622bde6",
+      "size": 12239419
     },
     {
-      "id": "Platform-neoforge-1.21.1-1.3.jar",
+      "id": "platform",
       "name": "mods/Platform-neoforge-1.21.1-1.3.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Platform-neoforge-1.21.1-1.3.jar",
-      "hash": "c5415f3d0c196abf9446c9cfdc1cbda40dfbcc494e0522d1d4a5da1f31c2aba9",
-      "size": 131
+      "hash": "0abcc2edd20d2263d30a50a72d58a15e0c792e9817e812f1a1a7b867bee0664d",
+      "size": 473152
     },
     {
-      "id": "polymorph-neoforge-1.1.0+1.21.1.jar",
+      "id": "polymorph",
       "name": "mods/polymorph-neoforge-1.1.0+1.21.1.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/polymorph-neoforge-1.1.0%2B1.21.1.jar",
-      "hash": "0832bba97aecb69fa8720a558950ebb4d48ba56927a71fe058d0738d93c0f3dd",
-      "size": 131
+      "hash": "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b",
+      "size": 174972
     },
     {
-      "id": "polytone-1.21-3.6.6-neoforge.client.jar",
+      "id": "polytone",
       "name": "mods/polytone-1.21-3.6.6-neoforge.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/polytone-1.21-3.6.6-neoforge.client.jar",
-      "hash": "ebcd77ee54471150558d9ce07a9e8b2d91304a87d1dbdaa4f28e312a6f1e9643",
-      "size": 131
+      "hash": "1ead64bea6f61632180ccdd594bf4d9853f5d02ecbc860865d47be1bb1711e0d",
+      "size": 861174
     },
     {
-      "id": "PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.client.jar",
+      "id": "presencefootsteps",
       "name": "mods/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.client.jar",
-      "hash": "f98a654316a735a86e5bfe8c08b6315b3905db859bf230d292bd3a7f531d0a82",
-      "size": 132
+      "hash": "ded9ea8677f407cbf280b0ee33866ae70859a7c476ef0f60fd35a9be2ee9b91a",
+      "size": 7096988
     },
     {
-      "id": "prickle-neoforge-1.21.1-21.1.11.jar",
+      "id": "prickle",
       "name": "mods/prickle-neoforge-1.21.1-21.1.11.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/prickle-neoforge-1.21.1-21.1.11.jar",
-      "hash": "4af1813b4a00e5c53f2df8ac7bade3db776e9259528ef67865b46e7cba7ed8da",
-      "size": 130
+      "hash": "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167",
+      "size": 84812
     },
     {
-      "id": "pv-addon-sculk-1.1.0.jar",
+      "id": "pv_addon_sculk",
       "name": "mods/pv-addon-sculk-1.1.0.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/pv-addon-sculk-1.1.0.jar",
-      "hash": "d355717b286757da52b3579ece49d24019ca24e82aa9a78f5b173a5c6be2c464",
-      "size": 130
+      "hash": "6e3c195c976be29d20e37ea3e8dcb489342c813e84e9c3561b39cfe0a543228f",
+      "size": 14035
     },
     {
-      "id": "pv-addon-soundphysics-1.1.2.client.jar",
+      "id": "pv_addon_soundphysics",
       "name": "mods/pv-addon-soundphysics-1.1.2.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/pv-addon-soundphysics-1.1.2.client.jar",
-      "hash": "bb39a55591f4691b4b7cadf7ba30af3a05afbfea5d6a1d79b225b5e511b40b8d",
-      "size": 130
+      "hash": "cd7af450fbc5612674149476b8142392a8040f3961c222c653ecfd6f13f81615",
+      "size": 16176
     },
     {
-      "id": "Quark-4.1-476.jar",
+      "id": "quark",
       "name": "mods/Quark-4.1-476.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Quark-4.1-476.jar",
-      "hash": "0b3b8a74d31fefa106b83a9ddd573c38a1b93cd6c40003dddc1c18c0951100be",
-      "size": 133
+      "hash": "ce4b200f7eff30ffad9a6fdfbc4e61f57264dbbfd6180f18c2a37230150c41d7",
+      "size": 15578260
     },
     {
-      "id": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "id": "resourcefulconfig",
       "name": "mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
-      "hash": "3f6c5b437f50c60a0cfdb4dcbf3a0032d9a63d69d73ff4d69344bb996ea2b134",
-      "size": 131
+      "hash": "25b4f3502d25c535004acd4a9420272fff01d2f1e2df352239fec93fdab005d4",
+      "size": 341009
     },
     {
-      "id": "resourcefullib-neoforge-1.21-3.0.12.jar",
+      "id": "resourcefullib",
       "name": "mods/resourcefullib-neoforge-1.21-3.0.12.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/resourcefullib-neoforge-1.21-3.0.12.jar",
-      "hash": "e460db075ad9802c1d26743e5c6a2e57139ed49ce1ed2d9e96aef9ee8068da05",
-      "size": 131
+      "hash": "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261",
+      "size": 484332
     },
     {
-      "id": "Resourcify (1.21.1-neoforge)-1.8.1.client.jar",
+      "id": "resourcify",
       "name": "mods/Resourcify (1.21.1-neoforge)-1.8.1.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Resourcify%20(1.21.1-neoforge)-1.8.1.client.jar",
-      "hash": "26fc4aa5cefbd63a779edd6b7fd8456d994c2170d98d57eb80bd1a2e7a36b036",
-      "size": 132
+      "hash": "b159a2ac63a369eeace652ff305391ed6d4c14fc51e13bcc6b8a7dc2ae8691b6",
+      "size": 2586268
     },
     {
-      "id": "rhino-2101.2.7-build.81.jar",
+      "id": "rhino",
       "name": "mods/rhino-2101.2.7-build.81.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/rhino-2101.2.7-build.81.jar",
-      "hash": "6a538e6c4e684cfebf4b1e4a37f021e15875fa01eebc143d1cac0115c944793b",
-      "size": 131
+      "hash": "fcc3f8de61771596f1b120f734819cb97f5935a5d42c76f4057a0be06a3609db",
+      "size": 882032
     },
     {
-      "id": "sable-neoforge-1.21.1-1.2.2.jar",
+      "id": "sable",
       "name": "mods/sable-neoforge-1.21.1-1.2.2.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/sable-neoforge-1.21.1-1.2.2.jar",
-      "hash": "c5fa609e70c832594ed44bc7f28625a1f5dd0b600d85f1efc7d13996bbe9e9b2",
-      "size": 133
+      "hash": "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8",
+      "size": 12719293
     },
     {
-      "id": "scholar-neoforge-1.21.1-1.1.13.jar",
+      "id": "scholar",
       "name": "mods/scholar-neoforge-1.21.1-1.1.13.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/scholar-neoforge-1.21.1-1.1.13.jar",
-      "hash": "31cc6c3ae873c0acac15be0e103ad06cd12834df138b6744b8756363663019ef",
-      "size": 131
+      "hash": "36dde43bb49748af0ef26ee590e40e4cfdd4b316bb557f1b55775f8a20001af8",
+      "size": 721844
     },
     {
-      "id": "seamlesssleep-neoforge-1.21-2.5.3.jar",
+      "id": "seamlesssleep",
       "name": "mods/seamlesssleep-neoforge-1.21-2.5.3.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/seamlesssleep-neoforge-1.21-2.5.3.jar",
-      "hash": "bd449f0599029af539c0c2959d7796bccb2ab3709421ef78a44996167ab8e9da",
-      "size": 131
+      "hash": "01e92fdc4a3a72bcfd5432ccbdec2c14c6e2b7eb14b38f0db9b0251f3b4ea313",
+      "size": 148048
     },
     {
-      "id": "Searchables-neoforge-1.21.1-1.0.2.client.jar",
+      "id": "searchables",
       "name": "mods/Searchables-neoforge-1.21.1-1.0.2.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Searchables-neoforge-1.21.1-1.0.2.client.jar",
-      "hash": "81975b82fbce33338a1adfc7fcbc733ac18c5cad0901e5baaf57a8b94bc5406c",
-      "size": 130
+      "hash": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68",
+      "size": 77326
     },
     {
-      "id": "sodium-extra-neoforge-0.6.0+mc1.21.1.client.jar",
+      "id": "sodium_extra",
       "name": "mods/sodium-extra-neoforge-0.6.0+mc1.21.1.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/sodium-extra-neoforge-0.6.0%2Bmc1.21.1.client.jar",
-      "hash": "32cc484a472ffb6b5344d2c2d6249e19e1270ec2807d9277bbc100e93d2970c4",
-      "size": 131
+      "hash": "c20fe1a554916cde5dd0ac72ba2b82ed04263026d4394ac51be6f7a300902443",
+      "size": 367047
     },
     {
-      "id": "sodium-neoforge-0.6.13+mc1.21.1.client.jar",
+      "id": "sodium",
       "name": "mods/sodium-neoforge-0.6.13+mc1.21.1.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/sodium-neoforge-0.6.13%2Bmc1.21.1.client.jar",
-      "hash": "070e755c7c876f39011aeee7e3df9b463035fd0d5479362d49bdc08f4597c61f",
-      "size": 132
+      "hash": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
+      "size": 1162994
     },
     {
-      "id": "sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
+      "id": "sophisticatedbackpacks",
       "name": "mods/sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
-      "hash": "3cb0b9e312f6d152af89e63f0ad787cea29f8d1708573fbac03431fe1c989821",
-      "size": 132
+      "hash": "8817a7ce02fdddc8bbe4ca5be5bb63678efa22770c81d19984a1e4f3d1d48950",
+      "size": 1023170
     },
     {
-      "id": "sophisticatedcore-1.21.1-1.4.35.1823.jar",
+      "id": "sophisticatedcore",
       "name": "mods/sophisticatedcore-1.21.1-1.4.35.1823.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/sophisticatedcore-1.21.1-1.4.35.1823.jar",
-      "hash": "b07d1976e319187766e9acd49075d9553508dc40a0d17e3e6e8cdd04b69e6fbd",
-      "size": 132
+      "hash": "0fbd34a14e3ac918e4926ddb4135208fb780ec1a4da6908a70231d4443cb7904",
+      "size": 1517676
     },
     {
-      "id": "sophisticatedstorage-1.21.1-1.5.45.1697.jar",
+      "id": "sophisticatedstorage",
       "name": "mods/sophisticatedstorage-1.21.1-1.5.45.1697.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/sophisticatedstorage-1.21.1-1.5.45.1697.jar",
-      "hash": "0d806fdabd4756d17db345cd3073687cc1ffc73964ede8fd2ee76c595fb7d63e",
-      "size": 132
+      "hash": "b2f2f320700046b5d074836551bd8c4d049a18ab2dba6866d81d76cf0f5065f3",
+      "size": 1666661
     },
     {
-      "id": "sound-physics-remastered-neoforge-1.21.1-1.5.1.client.jar",
+      "id": "sound_physics_remastered",
       "name": "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.client.jar",
-      "hash": "8251fc803657d85774b5c3014654f4910cb73a89c74824d6746265181f2d057f",
-      "size": 131
+      "hash": "65372ad64422a20f03ad6e39aabaa827c191abbe9be5c35631acc3a8105fe177",
+      "size": 202454
     },
     {
-      "id": "sounds-2.4.22+lts+1.21.1-neoforge.client.jar",
+      "id": "sounds",
       "name": "mods/sounds-2.4.22+lts+1.21.1-neoforge.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/sounds-2.4.22%2Blts%2B1.21.1-neoforge.client.jar",
-      "hash": "b29002e74d8ad4a0703c1086f3705a5943d159147a1506b41aec4aa1f4a9b135",
-      "size": 132
+      "hash": "d3bda0a7a5b1f267747da182e788139da380f625eaf96a5c2a8fa5bcb8d908b7",
+      "size": 8732437
     },
     {
-      "id": "spark-1.10.124-neoforge.jar",
+      "id": "spark",
       "name": "mods/spark-1.10.124-neoforge.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/spark-1.10.124-neoforge.jar",
-      "hash": "5da72d3f65f0a4d7d62749c6bf1ee764d3b29cc041212cb3a10be3a5f82c81d0",
-      "size": 132
+      "hash": "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db",
+      "size": 3642581
     },
     {
-      "id": "structureessentials-1.21.1-5.0.jar",
+      "id": "structureessentials",
       "name": "mods/structureessentials-1.21.1-5.0.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/structureessentials-1.21.1-5.0.jar",
-      "hash": "e971cc69bf424fa4e79ddb6bd68d84aa9ca7cebc2c598d161060798084a86fd3",
-      "size": 130
+      "hash": "7ecb6c9d04e20a6803ba6e51dd226eaa289ba2c2c095248f3645222a8bfc1c8d",
+      "size": 60833
     },
     {
-      "id": "SubtleEffects-neoforge-1.21.1-1.14.3.client.jar",
+      "id": "subtle_effects",
       "name": "mods/SubtleEffects-neoforge-1.21.1-1.14.3.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/SubtleEffects-neoforge-1.21.1-1.14.3.client.jar",
-      "hash": "a1c0f1ba5a1b332e404f5f94335142c9f19a0af1d5d48072ea50929595e3ead4",
-      "size": 132
+      "hash": "78fd24ecaadee01746ecc4cf598284923e762e25964311e86a67aa30cd3c2b67",
+      "size": 3306773
     },
     {
-      "id": "supplementaries-1.21-3.5.34-neoforge.jar",
+      "id": "supplementaries",
       "name": "mods/supplementaries-1.21-3.5.34-neoforge.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/supplementaries-1.21-3.5.34-neoforge.jar",
-      "hash": "51bf0414c66d1e48bc0496fc039a621d71ee94b74923da5f991dfa84dda15b68",
-      "size": 133
+      "hash": "3e82252fcd89b090786e1640f8cf8fac76e3e35f30465849944e7b89ca2f433b",
+      "size": 13366044
     },
     {
-      "id": "suppsquared-1.21-1.2.17-neoforge.jar",
+      "id": "suppsquared",
       "name": "mods/suppsquared-1.21-1.2.17-neoforge.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/suppsquared-1.21-1.2.17-neoforge.jar",
-      "hash": "693ea69943d0995c7ba46625636d9990553344e2c0b7c5219218635b2eb00be7",
-      "size": 131
+      "hash": "49120a2cedff5a51b9257ee44c72a9d38058ea13fe98d3fcb9ead2c2edf5dd49",
+      "size": 774220
     },
     {
-      "id": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "id": "terrablender",
       "name": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
-      "hash": "98ea0279858d035473621b830520519a3ff23147ec966643d38f154ad9cde94d",
-      "size": 131
+      "hash": "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8",
+      "size": 120364
     },
     {
-      "id": "timcore-neoforge-1.7.3-1.32.0.jar",
+      "id": "tim_core",
       "name": "mods/timcore-neoforge-1.7.3-1.32.0.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/timcore-neoforge-1.7.3-1.32.0.jar",
-      "hash": "93c86365829a57b6875e141c11bba1770b65be31779b9f178e3e6ac3687124aa",
-      "size": 131
+      "hash": "9c1440f95bac8ce1f0cd0a75d593e167d36fb190b00015ae0200f28bab5bedf8",
+      "size": 306328
     },
     {
-      "id": "VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
+      "id": "vanillabackport",
       "name": "mods/VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
-      "hash": "5a77452c56ed54784601b04687b60379b2dd38a2db26ce7a03459481ec2992bd",
-      "size": 133
+      "hash": "d25f39ec0ca11505aec9eb511f56b1bc2562932190c7e02f2f47983d3dd763d6",
+      "size": 27456653
     },
     {
-      "id": "via_romana-2.2.2+1.21.1-neoforge.jar",
+      "id": "via_romana",
       "name": "mods/via_romana-2.2.2+1.21.1-neoforge.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/via_romana-2.2.2%2B1.21.1-neoforge.jar",
-      "hash": "5d16b4e945347b926108660d4d2d0ae59fa883d2a7830b514583ec82a66348e1",
-      "size": 132
+      "hash": "7c93686dd28d17369235154c0c7deadea75357bd158114d2e6ec557824340cbc",
+      "size": 1241040
     },
     {
-      "id": "visual_keybinder-1.21.1-0.1.12-neoforge.client.jar",
+      "id": "visual_keybinder",
       "name": "mods/visual_keybinder-1.21.1-0.1.12-neoforge.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/visual_keybinder-1.21.1-0.1.12-neoforge.client.jar",
-      "hash": "a904b23f1f2c69f037b685c6334f8ad157d26d42999fec5f5648230f80290a61",
-      "size": 131
+      "hash": "031e1df515952a1ffe6eb4c165faf469f22518bf80d505ddbb64703ae4a93986",
+      "size": 347038
     },
     {
-      "id": "visuality-forge-2.1.0.client.jar",
+      "id": "visuality",
       "name": "mods/visuality-forge-2.1.0.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/visuality-forge-2.1.0.client.jar",
-      "hash": "b8aa1f919bc17d19733d22f38e21bb3c11acedfefaf7c4d31f0ab9113609887a",
-      "size": 131
+      "hash": "f4c134d3041e9e6626276a26d2864f3aed177c08c8a109cd3788c5470c28d02e",
+      "size": 115765
     },
     {
-      "id": "yeetusexperimentus-neoforge-87.0.0.client.jar",
+      "id": "yeetusexperimentus",
       "name": "mods/yeetusexperimentus-neoforge-87.0.0.client.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/yeetusexperimentus-neoforge-87.0.0.client.jar",
-      "hash": "340aef7af53c023d671092c8cebd50d4665a0164170774bf9ec16752a38dd798",
-      "size": 131
+      "hash": "9117db8b5905abf18f64fdf8f8d8ca5a91c23abd0a7fa2c9986c21aa17d74e75",
+      "size": 570057
     },
     {
-      "id": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "id": "yet_another_config_lib_v3",
       "name": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
-      "hash": "ec39f7b3c53d47b9d79854666a77b2b06b671f611cca235a25d1893c57540bf8",
-      "size": 132
+      "hash": "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f",
+      "size": 1118651
     },
     {
-      "id": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "id": "yungsapi",
       "name": "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
-      "hash": "de556f940b95cfaa25adea4a54b63e07f91a9ea208d788cf8ca1ba7b21680bde",
-      "size": 131
+      "hash": "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca",
+      "size": 388678
     },
     {
-      "id": "YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar",
+      "id": "bettercaves",
       "name": "mods/YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar",
-      "hash": "da43b3107e79485dcd0ce5b1aee7e57f31f3f6ea2d95fbf7af7e894d2e3f9647",
-      "size": 131
+      "hash": "aa94ae3e7fdacb469459bf45be60c35bebfebe0488a79e31c7686d746939701d",
+      "size": 392794
     },
     {
-      "id": "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "id": "betterdeserttemples",
       "name": "mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
-      "hash": "d39d8a09c64d52406ea6b92d98405a802e85704ac9b85119893e4b69f4c6f101",
-      "size": 131
+      "hash": "2c3191ad447092cc7873a06e92f16bd3e2ff9dc31e93268b8893d06dd89e1fd6",
+      "size": 905839
     },
     {
-      "id": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "id": "betterdungeons",
       "name": "mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
-      "hash": "d26601f0253f506aecf7cfa9511a5dcb2b512f9fa45b90682d6834685449f427",
-      "size": 131
+      "hash": "61816c3b7c9d92c6b44f93dce87ceb0a22827f20285d5d9c4d10d519d734de04",
+      "size": 782160
     },
     {
-      "id": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "id": "betterendisland",
       "name": "mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
-      "hash": "f263313915fafe091acde9632c48d9025cd149beae51c43748a8eb3a976715b2",
-      "size": 131
+      "hash": "8005f1ea798d09fc05dad07a21ed1f393a523a718197cdbd37b1ce6d9a17e4a4",
+      "size": 398130
     },
     {
-      "id": "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "id": "betterjungletemples",
       "name": "mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
-      "hash": "02eb1f6daa5edc3478aa2345528bdba0ebaf332dddc53830f0dbcb1a2fc122e0",
-      "size": 131
+      "hash": "a0d57b78c7a1891796f342b1f09c214bc27bedf0a3a894f029dfdb2db9f813d0",
+      "size": 795839
     },
     {
-      "id": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "id": "bettermineshafts",
       "name": "mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
-      "hash": "c114cc0fd537282338a86ccaff5688c91fffc5bb7b25fe5dd8130e3a88d1ec26",
-      "size": 131
+      "hash": "5625930dfb3240820d6e4ecf55fff0c39f70ce782fad117a4d418251184c7be0",
+      "size": 493967
     },
     {
-      "id": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "id": "betterfortresses",
       "name": "mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
-      "hash": "1d92cf08f71941c994584a177047fb863f0ab73d817e1b7801a1e4c29c77b2ed",
-      "size": 131
+      "hash": "5450a64a7036237f449496837e08f3e5b3aa1d7974a10df43944172def75d8ff",
+      "size": 609639
     },
     {
-      "id": "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "id": "betteroceanmonuments",
       "name": "mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
-      "hash": "86e140c3b8c16da35e71ec6a448466fe9ff739cab69235c69a1123a18e31b94c",
-      "size": 132
+      "hash": "cdcf8fe0e08c75261048d43c6ed4898972d23e096dd04a2524c136f06416ab02",
+      "size": 1025571
     },
     {
-      "id": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "id": "betterstrongholds",
       "name": "mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
-      "hash": "0e9cc40b43417d9a5ed3950c81557528ab2edfeb169858db4ca596c0a62e9e72",
-      "size": 131
+      "hash": "a9cab2fc01538368862365691f7d215309801aed0b390351681b6b60a1db7b58",
+      "size": 461244
     },
     {
-      "id": "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+      "id": "betterwitchhuts",
       "name": "mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
-      "hash": "d5ec3a89321750dde15634de17a1edfc25827ab8bba1b5a1bb6afd99070f6abf",
-      "size": 131
+      "hash": "888b1e6d1ada21982a75abfb4afb040c9bc2cc68777ec5fcd1199b978e3d4f8d",
+      "size": 174789
     },
     {
-      "id": "YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "id": "yungsbridges",
       "name": "mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
-      "hash": "15eec6f02baf999c5d3f8fda2f50cb23ae1b1b93b921845293460e5aaa135994",
-      "size": 131
+      "hash": "bf93a85422a6b457358c3b56352641a97ec09cc37dec18b2cedcac2bd1ff9bec",
+      "size": 136820
     },
     {
-      "id": "YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+      "id": "yungscavebiomes",
       "name": "mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
-      "hash": "bd16d6485a49ec0e04481735c0aadfded553641ae051521acd0755af8c377348",
-      "size": 133
+      "hash": "7585587e5cb7859e26189c6ec0a5b829c5c228f095e4e843fa3add61f817dd20",
+      "size": 13006621
     },
     {
-      "id": "YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "id": "yungsextras",
       "name": "mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
-      "hash": "b3ad420bf64c3fbdbfa5293b301957b6cba388d28a863482f472681d8e96a081",
-      "size": 131
+      "hash": "0cd26474e514f5dc3114aaf5ec7e049bcd285f0c5db191bb45223193f35df70d",
+      "size": 198183
     },
     {
-      "id": "Zeta-1.1-39.jar",
+      "id": "zeta",
       "name": "mods/Zeta-1.1-39.jar",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/minecraft-the-pokemon--1/mods/Zeta-1.1-39.jar",
-      "hash": "4394fd0365cf5b168c5713201b3d2fdc10bca7e3d5ea52b7516061f3beb131a7",
-      "size": 131
+      "hash": "b4fc724a436ee63d7ab9af0cced89b54e7ea5887054164eff1c1aae6d4cfa531",
+      "size": 765399
     },
     {
       "id": "ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt",
