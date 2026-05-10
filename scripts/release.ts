@@ -88,7 +88,8 @@ export async function synchronize(
         const localFilePath = path.join(localDirPath, fileName);
 
         const mappedFileName = fileName //
-          .replace('defaultconfigs/', 'config/');
+          .replace('defaultconfigs/', 'config/')
+          .replace('serverconfigs/', 'config/')
         const remoteFilePath = path.posix.join(remoteDirPath, mappedFileName);
 
         // Ensure the remote directory exists before putting the file

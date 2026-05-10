@@ -11,6 +11,7 @@ export const manifestFiles = (include: string[]): File[] => {
   return globSync(include)
     .filter((file) => fs.statSync(file).isFile())
     .filter((file) => !file.endsWith('.disabled'))
+    .filter((file) => !file.includes('.server.'))
     .map((file) => {
       const stats = getFileStatsNormalized(file);
       const { id, name, displayName } = getFileMetadata(file);
