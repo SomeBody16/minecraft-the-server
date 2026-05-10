@@ -49,6 +49,9 @@ jobs:
         with:
           install_args: node yarn
 
+      - name: Install dependencies
+        run: yarn install --immutable
+
       - name: Release
         env:
           SFTP_HOST: ${{ secrets.SFTP_HOST }}
