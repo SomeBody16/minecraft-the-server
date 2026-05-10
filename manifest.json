@@ -2,7 +2,7 @@
   "name": "Minecraft THE Pokemon",
   "serverIp": "minecraft-the-server.spot.gs",
   "version": {
-    "modpack": "908ea7d8272199cd0f01b2b56df9937aa1f8851f6b868e4d6e929f81236e1be6",
+    "modpack": "be9b708f8bc739a0a701d80207d24e702073da54bbf74039ab6788a052699957",
     "minecraft": "1.21.1",
     "modloader": {
       "name": "neoforge",
@@ -1585,6 +1585,14 @@
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/main/defaultconfigs/physicsmod/physics_vines_client_config.json",
       "hash": "2a7bc5829eca30a925a132e50bd92b9636febaf07c64daad4fd8e23d1e586938",
       "size": 19792
+    },
+    {
+      "id": "config.toml",
+      "name": "defaultconfigs/plasmovoice/server/config.toml",
+      "displayName": "config.toml",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/main/defaultconfigs/plasmovoice/server/config.toml",
+      "hash": "abb023f83980842296fea0c7ad0cf1ad6e9c3a574bf073d37467abaae011631e",
+      "size": 3604
     },
     {
       "id": "ponder-client.toml",
@@ -3225,6 +3233,14 @@
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/main/mods/spark-1.10.124-neoforge.jar",
       "hash": "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db",
       "size": 3642581
+    },
+    {
+      "id": "spyglass_improvements",
+      "name": "mods/spyglass_improvements-1.5.7+mc1.21+neoforge.jar",
+      "displayName": "Spyglass Improvements",
+      "url": "https://github.com/SomeBody16/minecraft-the-server/raw/main/mods/spyglass_improvements-1.5.7%2Bmc1.21%2Bneoforge.jar",
+      "hash": "2f078a00115c23d22c791b526ca939c5b57cc022eebb0371d91b0bb12ee9dd5c",
+      "size": 62864
     },
     {
       "id": "structureessentials",
