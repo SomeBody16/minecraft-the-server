@@ -2,7 +2,7 @@
   "name": "Minecraft THE Pokemon",
   "serverIp": "minecraft-the-server.spot.gs",
   "version": {
-    "modpack": "5f59d7252fc4d4b5999bb08274e5062695f4877f9e2b52f01115653cddaba85d",
+    "modpack": "95e5f36e8eb8ecd34bb75ac5dadca49e9502bf9e005821c264c53df1918e05c9",
     "minecraft": "1.21.1",
     "modloader": {
       "name": "neoforge",
@@ -2255,15 +2255,15 @@
       "name": "kubejs/server_scripts/handcrafted.js",
       "displayName": "handcrafted.js",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/deploy/kubejs/server_scripts/handcrafted.js",
-      "hash": "4512a3d6d808249f4ec475829caa8e03b0e2a885c9abbb0869c9b2da72c70a24",
-      "size": 5259
+      "hash": "572d171c757d1b690655bfb907ed04aa0a44afe08cc7e3bac07d6b8fd916e5a4",
+      "size": 5263
     },
     {
       "id": "simulated.js",
       "name": "kubejs/server_scripts/simulated.js",
       "displayName": "simulated.js",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/deploy/kubejs/server_scripts/simulated.js",
-      "hash": "2e9accaa9c0f4fdeb9982572e625b0d4b985041889d44c99872b89619edc1fe0",
+      "hash": "6b82e98c895790dcc7149bd1aa3f055f50189dd94d8a6b2eacd889328921cfa1",
       "size": 892
     },
     {
@@ -2271,7 +2271,7 @@
       "name": "kubejs/startup_scripts/handcrafted_factory_items.js",
       "displayName": "handcrafted_factory_items.js",
       "url": "https://github.com/SomeBody16/minecraft-the-server/raw/deploy/kubejs/startup_scripts/handcrafted_factory_items.js",
-      "hash": "821fb319df731dd3a4886f87c3fd4a32ecdd05d5910c95cda1f6ccad35797910",
+      "hash": "df0403a7fb21bf39b7f2e27a45a17dcb30153a13e58b9594052f72dd37d5a318",
       "size": 1282
     },
     {

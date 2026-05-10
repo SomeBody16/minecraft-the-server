@@ -1347,17 +1347,17 @@
     },
     {
       "id": "handcrafted.js",
-      "hash": "4512a3d6d808249f4ec475829caa8e03b0e2a885c9abbb0869c9b2da72c70a24",
+      "hash": "572d171c757d1b690655bfb907ed04aa0a44afe08cc7e3bac07d6b8fd916e5a4",
       "name": "kubejs/server_scripts/handcrafted.js"
     },
     {
       "id": "simulated.js",
-      "hash": "2e9accaa9c0f4fdeb9982572e625b0d4b985041889d44c99872b89619edc1fe0",
+      "hash": "6b82e98c895790dcc7149bd1aa3f055f50189dd94d8a6b2eacd889328921cfa1",
       "name": "kubejs/server_scripts/simulated.js"
     },
     {
       "id": "handcrafted_factory_items.js",
-      "hash": "821fb319df731dd3a4886f87c3fd4a32ecdd05d5910c95cda1f6ccad35797910",
+      "hash": "df0403a7fb21bf39b7f2e27a45a17dcb30153a13e58b9594052f72dd37d5a318",
       "name": "kubejs/startup_scripts/handcrafted_factory_items.js"
     },
     {
