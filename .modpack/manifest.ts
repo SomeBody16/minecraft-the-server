@@ -7,6 +7,7 @@ import path from "path";
 
 const files: File[] = globSync(config.include)
   .filter((file) => fs.statSync(file).isFile())
+  .filter((file) => !file.endsWith(".disabled"))
   .map((file) => {
     const lfs = config.lfs.some((regex) => regex.test(file));
     const stats = getFileStatsNormalized(file);
